@@ -1,42 +1,42 @@
 {
-  "generated_at": "2025-08-31T09:27:42.050359+00:00",
+  "generated_at": "2025-08-31T09:42:17.864817+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 765,
-    "neutral": 294,
-    "negative": 775
+    "positive": 761,
+    "neutral": 292,
+    "negative": 774
   },
   "by_publication": [
     {
       "source": "The Hindu",
       "positive": 90,
-      "neutral": 81,
-      "negative": 89,
-      "count": 260,
-      "region": "Asia-Pacific"
+      "neutral": 80,
+      "negative": 88,
+      "count": 258,
+      "region": "North America"
     },
     {
       "source": "Independent",
-      "positive": 101,
+      "positive": 97,
       "neutral": 33,
-      "negative": 97,
-      "count": 231,
+      "negative": 98,
+      "count": 228,
       "region": "Europe"
     },
     {
       "source": "Times of India",
       "positive": 62,
-      "neutral": 8,
-      "negative": 71,
-      "count": 141,
+      "neutral": 7,
+      "negative": 70,
+      "count": 139,
       "region": "Asia-Pacific"
     },
     {
       "source": "BBC Sport",
-      "positive": 69,
+      "positive": 68,
       "neutral": 9,
       "negative": 28,
-      "count": 106,
+      "count": 105,
       "region": "Europe"
     },
     {
@@ -75,9 +75,17 @@
       "source": "BBC News",
       "positive": 23,
       "neutral": 5,
-      "negative": 35,
-      "count": 63,
+      "negative": 36,
+      "count": 64,
       "region": "Europe"
+    },
+    {
+      "source": "South China Morning Post",
+      "positive": 30,
+      "neutral": 1,
+      "negative": 33,
+      "count": 64,
+      "region": "Middle East"
     },
     {
       "source": "CBS News",
@@ -86,14 +94,6 @@
       "negative": 33,
       "count": 63,
       "region": "North America"
-    },
-    {
-      "source": "South China Morning Post",
-      "positive": 29,
-      "neutral": 1,
-      "negative": 32,
-      "count": 62,
-      "region": "Middle East"
     },
     {
       "source": "The Guardian",
@@ -105,18 +105,18 @@
     },
     {
       "source": "ESPN",
-      "positive": 26,
+      "positive": 25,
       "neutral": 10,
       "negative": 13,
-      "count": 49,
+      "count": 48,
       "region": "Global"
     },
     {
       "source": "Al Jazeera English",
       "positive": 11,
       "neutral": 5,
-      "negative": 20,
-      "count": 36,
+      "negative": 21,
+      "count": 37,
       "region": "Middle East"
     },
     {
@@ -129,19 +129,19 @@
     },
     {
       "source": "Times of Israel",
-      "positive": 3,
+      "positive": 4,
       "neutral": 2,
-      "negative": 25,
+      "negative": 24,
       "count": 30,
-      "region": "Europe"
+      "region": "Middle East"
     },
     {
       "source": "France 24",
       "positive": 10,
       "neutral": 2,
-      "negative": 17,
-      "count": 29,
-      "region": "Europe"
+      "negative": 16,
+      "count": 28,
+      "region": "North America"
     },
     {
       "source": "Middle East Eye",
@@ -152,20 +152,20 @@
       "region": "Middle East"
     },
     {
-      "source": "Mashable",
-      "positive": 13,
-      "neutral": 4,
-      "negative": 3,
-      "count": 20,
-      "region": "North America"
-    },
-    {
       "source": "Euronews",
-      "positive": 12,
+      "positive": 13,
       "neutral": 1,
       "negative": 6,
-      "count": 19,
+      "count": 20,
       "region": "Europe"
+    },
+    {
+      "source": "Mashable",
+      "positive": 12,
+      "neutral": 4,
+      "negative": 3,
+      "count": 19,
+      "region": "North America"
     },
     {
       "source": "Bloomberg",
@@ -248,28 +248,20 @@
       "region": "North America"
     },
     {
-      "source": "Irish Times",
-      "positive": 3,
-      "neutral": 2,
-      "negative": 6,
-      "count": 11,
-      "region": "Global"
-    },
-    {
-      "source": "Wired",
-      "positive": 7,
-      "neutral": 1,
-      "negative": 3,
-      "count": 11,
-      "region": "North America"
-    },
-    {
       "source": "NPR",
       "positive": 6,
       "neutral": 0,
       "negative": 5,
       "count": 11,
       "region": "North America"
+    },
+    {
+      "source": "Sky News",
+      "positive": 6,
+      "neutral": 0,
+      "negative": 5,
+      "count": 11,
+      "region": "Europe"
     },
     {
       "source": "ABC News",
@@ -280,12 +272,20 @@
       "region": "Europe"
     },
     {
-      "source": "Sky News",
-      "positive": 5,
-      "neutral": 0,
+      "source": "Wired",
+      "positive": 6,
+      "neutral": 1,
+      "negative": 3,
+      "count": 10,
+      "region": "North America"
+    },
+    {
+      "source": "Irish Times",
+      "positive": 3,
+      "neutral": 2,
       "negative": 5,
       "count": 10,
-      "region": "Europe"
+      "region": "Global"
     },
     {
       "source": "MarketWatch",
@@ -339,38 +339,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 270,
+      "positive": 266,
       "neutral": 93,
       "negative": 273,
-      "count": 636
-    },
-    {
-      "region": "Europe",
-      "positive": 219,
-      "neutral": 73,
-      "negative": 170,
-      "count": 462
+      "count": 632
     },
     {
       "region": "Asia-Pacific",
-      "positive": 183,
-      "neutral": 93,
-      "negative": 182,
+      "positive": 186,
+      "neutral": 91,
+      "negative": 183,
+      "count": 460
+    },
+    {
+      "region": "Europe",
+      "positive": 216,
+      "neutral": 73,
+      "negative": 169,
       "count": 458
     },
     {
       "region": "Middle East",
-      "positive": 30,
+      "positive": 31,
       "neutral": 11,
       "negative": 114,
-      "count": 155
+      "count": 156
     },
     {
       "region": "Global",
-      "positive": 51,
+      "positive": 50,
       "neutral": 23,
-      "negative": 29,
-      "count": 103
+      "negative": 28,
+      "count": 101
     },
     {
       "region": "South America",
@@ -390,30 +390,30 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 197,
+      "positive": 193,
       "neutral": 49,
-      "negative": 139,
-      "count": 385
+      "negative": 140,
+      "count": 382
     },
     {
       "topic": "Politics",
-      "positive": 120,
+      "positive": 121,
       "neutral": 46,
-      "negative": 193,
+      "negative": 192,
       "count": 359
     },
     {
       "topic": "Other",
-      "positive": 114,
-      "neutral": 99,
-      "negative": 120,
-      "count": 333
+      "positive": 111,
+      "neutral": 97,
+      "negative": 121,
+      "count": 329
     },
     {
       "topic": "World",
-      "positive": 79,
+      "positive": 81,
       "neutral": 25,
-      "negative": 145,
+      "negative": 143,
       "count": 249
     },
     {
@@ -1036,6 +1036,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "China\u2019s Xi and India\u2019s Modi vow stronger ties in landmark meeting ahead regional summit",
+      "url": "https://www.euronews.com/2025/08/31/chinas-xi-and-indias-modi-vow-stronger-ties-in-landmark-meeting-ahead-regional-summit",
+      "source": "Euronews",
+      "region": "Asia-Pacific",
+      "published": "2025-08-31T10:55:00+02:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "\u2018If someone pokes me, I won\u2019t sit quietly\u2019: Nitish Rana hits back at Digvesh Rathi",
       "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dpl-nitish-rana-hits-back-at-digvesh-rathi-if-someone-pokes-me-i-wont-sit-quietly/articleshow/123611446.cms",
       "source": "Times of India",
@@ -1089,6 +1097,14 @@
       "source": "The Hindu",
       "region": "North America",
       "published": "2025-08-31T10:36:57+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "In pictures: Global Sumud Flotilla prepares to set sail to Gaza",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pictures-global-sumud-flotilla-prepares-set-sail-gaza",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "published": "2025-08-31T10:36:11+01:00",
       "sentiment": "negative"
     },
     {
@@ -1196,6 +1212,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "Reform and Farage are making anger over migrant crisis worse, minister says",
+      "url": "https://www.independent.co.uk/bulletin/news/migrant-crisis-asylum-hotels-nigel-farage-reform-b2817259.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-08-31T09:39:10+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "How to prove Israel is not a settler colony even as it pursues 'Greater Israel'",
       "url": "https://www.middleeasteye.net/opinion/how-prove-israel-isnt-settler-colony-even-it-pursues-greater-israel",
       "source": "Middle East Eye",
@@ -1212,6 +1236,22 @@
       "sentiment": "negative"
     },
     {
+      "title": "Greta Thunberg rejects anti-semitism accusations",
+      "url": "https://www.independent.co.uk/tv/news/greta-thunberg-rejects-antisemitism-accusations-b2817256.html",
+      "source": "Independent",
+      "region": "Middle East",
+      "published": "2025-08-31T09:29:54+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Yoane Wissa urges Brentford to \u2018keep their word\u2019 in bombshell transfer statement",
+      "url": "https://www.independent.co.uk/sport/football/yoane-wissa-newcastle-brentford-transfer-news-b2817253.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-08-31T09:29:36+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Punjab floods: Congress\u2019s Warring alleges mismanagement of dams",
       "url": "https://www.thehindu.com/news/national/punjab/punjab-floods-congresss-warring-alleges-mismanagement-of-dams/article69995625.ece",
       "source": "The Hindu",
@@ -1220,51 +1260,11 @@
       "sentiment": "negative"
     },
     {
-      "title": "The simple foods which could drastically cut your risk of dying early",
-      "url": "https://www.independent.co.uk/news/health/heart-disease-diet-salt-potassium-risk-b2817255.html",
+      "title": "Two months after its war with Israel, Iran braces for another showdown",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-jcpoa-snapback-mechanism-sanctions-israel-b2815294.html",
       "source": "Independent",
       "region": "Europe",
-      "published": "2025-08-31T09:22:18+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Voices: I\u2019m a secondary school teacher: SEND provision changes lives (and there\u2019s nowhere near enough of it)",
-      "url": "https://www.independent.co.uk/voices/send-schools-jeremy-hunt-secondary-school-teacher-b2815670.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-08-31T09:21:56+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Badenoch in pledge to \u2018get all our oil and gas out of the North Sea\u2019",
-      "url": "https://www.independent.co.uk/news/business/north-sea-government-aberdeen-ukraine-norway-b2817254.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-08-31T09:19:35+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Yoane Wissa urges Brentford to \u2018keep their word\u2019 and allow transfer move before deadline",
-      "url": "https://www.independent.co.uk/sport/football/yoane-wissa-newcastle-brentford-transfer-news-b2817253.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-08-31T09:19:12+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Tel Aviv\u2019s pilot ban on smartphones in high schools meets opposition from students",
-      "url": "https://www.timesofisrael.com/tel-avivs-pilot-ban-on-smartphones-in-high-schools-meets-opposition-from-students/",
-      "source": "Times of Israel",
-      "region": "Middle East",
-      "published": "2025-08-31T09:18:17+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Thousands sign petition to stop loan of Bayeux Tapestry to London",
-      "url": "https://www.independent.co.uk/bulletin/culture/bayeux-tapestry-macron-france-loan-b2817250.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-08-31T09:18:06+00:00",
+      "published": "2025-08-31T09:29:21+00:00",
       "sentiment": "negative"
     }
   ]
