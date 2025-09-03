@@ -1,66 +1,74 @@
 {
-  "generated_at": "2025-09-03T21:28:52.865483+00:00",
+  "generated_at": "2025-09-03T21:41:56.548575+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 1463,
-    "neutral": 489,
-    "negative": 1505
+    "positive": 1459,
+    "neutral": 487,
+    "negative": 1510
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 227,
-      "neutral": 127,
-      "negative": 259,
-      "count": 613,
+      "positive": 226,
+      "neutral": 124,
+      "negative": 258,
+      "count": 608,
       "region": "North America"
     },
     {
       "source": "The Hindu",
-      "positive": 109,
-      "neutral": 66,
+      "positive": 108,
+      "neutral": 67,
       "negative": 91,
       "count": 266,
       "region": "Asia-Pacific"
     },
     {
       "source": "Bloomberg",
-      "positive": 140,
-      "neutral": 30,
+      "positive": 139,
+      "neutral": 31,
       "negative": 86,
       "count": 256,
       "region": "North America"
     },
     {
       "source": "Times of India",
-      "positive": 76,
+      "positive": 75,
       "neutral": 9,
       "negative": 78,
-      "count": 163,
-      "region": "Asia-Pacific"
+      "count": 162,
+      "region": "North America"
     },
     {
       "source": "The Guardian",
       "positive": 62,
       "neutral": 4,
-      "negative": 93,
-      "count": 159,
-      "region": "Europe"
+      "negative": 92,
+      "count": 158,
+      "region": "North America"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 44,
-      "neutral": 17,
+      "positive": 46,
+      "neutral": 16,
       "negative": 85,
-      "count": 146,
+      "count": 147,
       "region": "Asia-Pacific"
     },
     {
       "source": "Channel News Asia",
-      "positive": 61,
-      "neutral": 36,
+      "positive": 60,
+      "neutral": 35,
       "negative": 47,
-      "count": 144,
+      "count": 142,
+      "region": "Global"
+    },
+    {
+      "source": "Fox News",
+      "positive": 57,
+      "neutral": 5,
+      "negative": 79,
+      "count": 141,
       "region": "North America"
     },
     {
@@ -72,84 +80,68 @@
       "region": "North America"
     },
     {
-      "source": "Fox News",
-      "positive": 56,
-      "neutral": 5,
-      "negative": 75,
-      "count": 136,
-      "region": "North America"
-    },
-    {
       "source": "BBC News",
-      "positive": 42,
+      "positive": 40,
       "neutral": 16,
       "negative": 56,
-      "count": 114,
+      "count": 112,
       "region": "Europe"
     },
     {
       "source": "South China Morning Post",
       "positive": 45,
       "neutral": 2,
-      "negative": 42,
-      "count": 89,
+      "negative": 45,
+      "count": 92,
       "region": "Asia-Pacific"
-    },
-    {
-      "source": "Al Jazeera English",
-      "positive": 15,
-      "neutral": 16,
-      "negative": 46,
-      "count": 77,
-      "region": "Middle East"
     },
     {
       "source": "NBC News",
       "positive": 29,
       "neutral": 16,
-      "negative": 32,
-      "count": 77,
+      "negative": 33,
+      "count": 78,
       "region": "North America"
     },
     {
+      "source": "Al Jazeera English",
+      "positive": 14,
+      "neutral": 16,
+      "negative": 46,
+      "count": 76,
+      "region": "Middle East"
+    },
+    {
       "source": "CNBC",
-      "positive": 37,
+      "positive": 36,
       "neutral": 13,
       "negative": 20,
-      "count": 70,
+      "count": 69,
       "region": "North America"
     },
     {
       "source": "BBC Sport",
-      "positive": 43,
+      "positive": 44,
       "neutral": 8,
-      "negative": 17,
+      "negative": 16,
       "count": 68,
+      "region": "Europe"
+    },
+    {
+      "source": "Euronews",
+      "positive": 30,
+      "neutral": 7,
+      "negative": 29,
+      "count": 66,
       "region": "North America"
     },
     {
       "source": "Mashable",
       "positive": 44,
       "neutral": 10,
-      "negative": 12,
-      "count": 66,
-      "region": "Global"
-    },
-    {
-      "source": "Euronews",
-      "positive": 30,
-      "neutral": 7,
-      "negative": 28,
+      "negative": 11,
       "count": 65,
-      "region": "North America"
-    },
-    {
-      "source": "Sky Sports",
-      "positive": 32,
-      "neutral": 15,
-      "negative": 15,
-      "count": 62,
-      "region": "North America"
+      "region": "Global"
     },
     {
       "source": "France 24",
@@ -160,11 +152,19 @@
       "region": "Europe"
     },
     {
+      "source": "Sky Sports",
+      "positive": 31,
+      "neutral": 15,
+      "negative": 14,
+      "count": 60,
+      "region": "Europe"
+    },
+    {
       "source": "ESPN",
-      "positive": 30,
+      "positive": 31,
       "neutral": 9,
-      "negative": 17,
-      "count": 56,
+      "negative": 18,
+      "count": 58,
       "region": "Global"
     },
     {
@@ -200,20 +200,20 @@
       "region": "Middle East"
     },
     {
+      "source": "Middle East Eye",
+      "positive": 11,
+      "neutral": 0,
+      "negative": 29,
+      "count": 40,
+      "region": "Middle East"
+    },
+    {
       "source": "The Verge",
       "positive": 34,
       "neutral": 1,
       "negative": 5,
       "count": 40,
       "region": "North America"
-    },
-    {
-      "source": "Middle East Eye",
-      "positive": 11,
-      "neutral": 0,
-      "negative": 28,
-      "count": 39,
-      "region": "Middle East"
     },
     {
       "source": "New York Times",
@@ -241,9 +241,9 @@
     },
     {
       "source": "Engadget",
-      "positive": 27,
+      "positive": 28,
       "neutral": 0,
-      "negative": 2,
+      "negative": 1,
       "count": 29,
       "region": "North America"
     },
@@ -282,9 +282,9 @@
     {
       "source": "ABC News",
       "positive": 6,
-      "neutral": 6,
+      "neutral": 7,
       "negative": 10,
-      "count": 22,
+      "count": 23,
       "region": "North America"
     },
     {
@@ -320,20 +320,20 @@
       "region": "Asia-Pacific"
     },
     {
-      "source": "Buenos Aires Herald",
-      "positive": 7,
-      "neutral": 0,
-      "negative": 3,
-      "count": 10,
-      "region": "South America"
-    },
-    {
       "source": "Washington Post",
       "positive": 3,
       "neutral": 1,
-      "negative": 6,
-      "count": 10,
+      "negative": 7,
+      "count": 11,
       "region": "North America"
+    },
+    {
+      "source": "Buenos Aires Herald",
+      "positive": 7,
+      "neutral": 0,
+      "negative": 2,
+      "count": 9,
+      "region": "South America"
     },
     {
       "source": "Daily News Egypt",
@@ -347,24 +347,24 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 612,
-      "neutral": 167,
-      "negative": 599,
-      "count": 1378
+      "positive": 613,
+      "neutral": 166,
+      "negative": 602,
+      "count": 1381
     },
     {
       "region": "Asia-Pacific",
-      "positive": 324,
+      "positive": 323,
       "neutral": 125,
-      "negative": 340,
-      "count": 789
+      "negative": 342,
+      "count": 790
     },
     {
       "region": "Europe",
-      "positive": 302,
-      "neutral": 132,
+      "positive": 300,
+      "neutral": 131,
       "negative": 289,
-      "count": 723
+      "count": 720
     },
     {
       "region": "Global",
@@ -375,17 +375,17 @@
     },
     {
       "region": "Middle East",
-      "positive": 46,
+      "positive": 45,
       "neutral": 11,
-      "negative": 131,
+      "negative": 132,
       "count": 188
     },
     {
       "region": "South America",
-      "positive": 17,
+      "positive": 16,
       "neutral": 2,
-      "negative": 28,
-      "count": 47
+      "negative": 27,
+      "count": 45
     },
     {
       "region": "Africa",
@@ -398,59 +398,59 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 328,
-      "neutral": 90,
-      "negative": 328,
-      "count": 746
+      "positive": 327,
+      "neutral": 89,
+      "negative": 329,
+      "count": 745
     },
     {
       "topic": "Politics",
-      "positive": 256,
-      "neutral": 84,
-      "negative": 379,
+      "positive": 254,
+      "neutral": 83,
+      "negative": 382,
       "count": 719
     },
     {
       "topic": "World",
-      "positive": 207,
-      "neutral": 58,
+      "positive": 206,
+      "neutral": 57,
       "negative": 262,
-      "count": 527
+      "count": 525
     },
     {
       "topic": "Other",
-      "positive": 185,
+      "positive": 184,
       "neutral": 122,
-      "negative": 180,
-      "count": 487
+      "negative": 182,
+      "count": 488
     },
     {
       "topic": "Business",
-      "positive": 150,
-      "neutral": 40,
+      "positive": 149,
+      "neutral": 39,
       "negative": 89,
-      "count": 279
+      "count": 277
     },
     {
       "topic": "Sports",
-      "positive": 152,
-      "neutral": 40,
-      "negative": 69,
-      "count": 261
+      "positive": 153,
+      "neutral": 41,
+      "negative": 68,
+      "count": 262
     },
     {
       "topic": "Entertainment",
-      "positive": 80,
+      "positive": 81,
       "neutral": 16,
       "negative": 61,
-      "count": 157
+      "count": 158
     },
     {
       "topic": "Health",
-      "positive": 34,
-      "neutral": 14,
+      "positive": 35,
+      "neutral": 15,
       "negative": 52,
-      "count": 100
+      "count": 102
     },
     {
       "topic": "Local",
@@ -461,10 +461,10 @@
     },
     {
       "topic": "Science",
-      "positive": 23,
+      "positive": 22,
       "neutral": 11,
       "negative": 23,
-      "count": 57
+      "count": 56
     },
     {
       "topic": "Regional",
@@ -506,6 +506,14 @@
       "region": "Europe",
       "published": "2025-09-04T04:34:20+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "France hits Google with $381 million fine for consumer protection failures",
+      "url": "https://www.channelnewsasia.com/business/france-hits-google-381-million-fine-consumer-protection-failures-5331541",
+      "source": "Channel News Asia",
+      "region": "Europe",
+      "published": "2025-09-04T04:34:20+08:00",
+      "sentiment": "negative"
     },
     {
       "title": "Combining talent and research: How S\u2019pore lab advances discovery and approval of rare blood disorder therapy",
@@ -586,6 +594,22 @@
       "region": "North America",
       "published": "2025-09-04T03:10:41+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "'Illegal retaliation': Judge blocks Trump administration\u2019s Harvard grant cuts",
+      "url": "https://timesofindia.indiatimes.com/world/us/illegal-retaliation-judge-blocks-trump-administrations-harvard-grant-cuts-restores-2-billion-in-research-funding/articleshow/123685099.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-09-04T03:05:27+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Consumer Commission orders private hospital to compensate woman for post C-section complications",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/consumer-commission-orders-private-hospital-to-compensate-woman-for-post-c-section-complications/article70008251.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-04T02:57:37+05:30",
+      "sentiment": "neutral"
     },
     {
       "title": "Focus on cleanliness, safety and noise curbs at Ganesh immersion coordination meet",
@@ -1092,6 +1116,14 @@
       "sentiment": "neutral"
     },
     {
+      "title": "At least 15 people killed after Lisbon\u2019s funicular railway derails",
+      "url": "https://www.euronews.com/video/2025/09/03/at-least-15-people-killed-after-lisbons-funicular-railway-derails",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-09-03T23:29:28+02:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Indonesia fires police officer over ride-hailing driver's death that sparked protests",
       "url": "https://www.channelnewsasia.com/asia/indonesia-protests-fires-police-officer-ride-hailing-driver-affan-death-5331111",
       "source": "Channel News Asia",
@@ -1241,38 +1273,6 @@
       "source": "Times of India",
       "region": "Asia-Pacific",
       "published": "2025-09-03T22:42:55+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Hockey Asia Cup: India settle for 2-2 draw against South Korea in Super 4s match in Rajgir",
-      "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-asia-cup-india-settle-for-2-2-draw-against-south-korea-in-super-4s-match/articleshow/123682186.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-09-03T22:42:35+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Bank employee arrested in Hyderabad for role in \u2018digital arrest\u2019 fraud",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/bank-employee-arrested-in-hyderabad-for-role-in-digital-arrest-fraud/article70008552.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-09-03T22:41:28+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Internal reservation: Nomadic castes to continue indefinite stir",
-      "url": "https://www.thehindu.com/news/national/karnataka/internal-reservation-nomadic-castes-to-continue-indefinite-stir/article70008938.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-09-03T22:40:30+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Reservation roster faces criticism for \u2018favouring general category\u2019",
-      "url": "https://www.thehindu.com/news/national/karnataka/reservation-roster-faces-criticism-for-favouring-general-category/article70009104.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-09-03T22:39:15+05:30",
       "sentiment": "negative"
     }
   ]
