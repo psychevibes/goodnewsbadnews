@@ -1,27 +1,27 @@
 {
-  "generated_at": "2025-09-07T10:25:23.656063+00:00",
+  "generated_at": "2025-09-07T10:44:56.552378+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 715,
+    "positive": 712,
     "neutral": 244,
-    "negative": 823
+    "negative": 815
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 104,
+      "positive": 105,
       "neutral": 48,
-      "negative": 104,
-      "count": 256,
+      "negative": 105,
+      "count": 258,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 63,
+      "positive": 62,
       "neutral": 54,
-      "negative": 90,
-      "count": 207,
-      "region": "North America"
+      "negative": 89,
+      "count": 205,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
@@ -51,24 +51,24 @@
       "source": "BBC Sport",
       "positive": 39,
       "neutral": 15,
-      "negative": 30,
-      "count": 84,
-      "region": "North America"
+      "negative": 28,
+      "count": 82,
+      "region": "Europe"
     },
     {
       "source": "Sky Sports",
-      "positive": 40,
+      "positive": 41,
       "neutral": 14,
       "negative": 18,
-      "count": 72,
+      "count": 73,
       "region": "Europe"
     },
     {
       "source": "BBC News",
       "positive": 24,
       "neutral": 11,
-      "negative": 34,
-      "count": 69,
+      "negative": 33,
+      "count": 68,
       "region": "Europe"
     },
     {
@@ -81,11 +81,11 @@
     },
     {
       "source": "The Guardian",
-      "positive": 20,
+      "positive": 21,
       "neutral": 0,
       "negative": 38,
-      "count": 58,
-      "region": "Europe"
+      "count": 59,
+      "region": "South America"
     },
     {
       "source": "CBS News",
@@ -105,17 +105,9 @@
     },
     {
       "source": "Al Jazeera English",
-      "positive": 20,
+      "positive": 19,
       "neutral": 5,
       "negative": 21,
-      "count": 46,
-      "region": "Middle East"
-    },
-    {
-      "source": "France 24",
-      "positive": 13,
-      "neutral": 4,
-      "negative": 28,
       "count": 45,
       "region": "North America"
     },
@@ -128,6 +120,14 @@
       "region": "Global"
     },
     {
+      "source": "France 24",
+      "positive": 10,
+      "neutral": 2,
+      "negative": 27,
+      "count": 39,
+      "region": "North America"
+    },
+    {
       "source": "Mashable",
       "positive": 28,
       "neutral": 4,
@@ -137,18 +137,18 @@
     },
     {
       "source": "Middle East Eye",
-      "positive": 2,
+      "positive": 1,
       "neutral": 0,
-      "negative": 32,
-      "count": 34,
+      "negative": 30,
+      "count": 31,
       "region": "Middle East"
     },
     {
       "source": "Times of Israel",
       "positive": 7,
       "neutral": 2,
-      "negative": 23,
-      "count": 32,
+      "negative": 22,
+      "count": 31,
       "region": "Middle East"
     },
     {
@@ -224,6 +224,14 @@
       "region": "North America"
     },
     {
+      "source": "NPR",
+      "positive": 6,
+      "neutral": 2,
+      "negative": 6,
+      "count": 14,
+      "region": "North America"
+    },
+    {
       "source": "Irish Times",
       "positive": 4,
       "neutral": 3,
@@ -248,35 +256,19 @@
       "region": "Middle East"
     },
     {
-      "source": "NPR",
-      "positive": 5,
-      "neutral": 1,
-      "negative": 6,
-      "count": 12,
-      "region": "North America"
-    },
-    {
-      "source": "Telegraph",
-      "positive": 0,
-      "neutral": 6,
-      "negative": 5,
-      "count": 11,
-      "region": "Europe"
-    },
-    {
-      "source": "Wired",
-      "positive": 7,
-      "neutral": 1,
-      "negative": 3,
-      "count": 11,
-      "region": "North America"
-    },
-    {
       "source": "CNBC",
       "positive": 5,
       "neutral": 2,
       "negative": 4,
       "count": 11,
+      "region": "North America"
+    },
+    {
+      "source": "Wired",
+      "positive": 6,
+      "neutral": 1,
+      "negative": 3,
+      "count": 10,
       "region": "North America"
     },
     {
@@ -288,20 +280,28 @@
       "region": "North America"
     },
     {
-      "source": "MarketWatch",
-      "positive": 5,
-      "neutral": 1,
-      "negative": 2,
-      "count": 8,
-      "region": "North America"
+      "source": "Telegraph",
+      "positive": 0,
+      "neutral": 6,
+      "negative": 4,
+      "count": 10,
+      "region": "Europe"
     },
     {
       "source": "Washington Post",
       "positive": 2,
       "neutral": 0,
-      "negative": 6,
-      "count": 8,
+      "negative": 7,
+      "count": 9,
       "region": "Asia-Pacific"
+    },
+    {
+      "source": "MarketWatch",
+      "positive": 5,
+      "neutral": 2,
+      "negative": 1,
+      "count": 8,
+      "region": "North America"
     },
     {
       "source": "The Verge",
@@ -339,38 +339,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 299,
-      "neutral": 65,
-      "negative": 317,
-      "count": 681
+      "positive": 296,
+      "neutral": 66,
+      "negative": 310,
+      "count": 672
     },
     {
       "region": "Europe",
-      "positive": 173,
-      "neutral": 81,
+      "positive": 174,
+      "neutral": 80,
       "negative": 183,
       "count": 437
     },
     {
       "region": "Asia-Pacific",
-      "positive": 139,
+      "positive": 140,
       "neutral": 70,
-      "negative": 182,
-      "count": 391
+      "negative": 183,
+      "count": 393
     },
     {
       "region": "Middle East",
-      "positive": 31,
-      "neutral": 9,
-      "negative": 103,
-      "count": 143
+      "positive": 29,
+      "neutral": 8,
+      "negative": 101,
+      "count": 138
     },
     {
       "region": "Global",
       "positive": 57,
-      "neutral": 16,
+      "neutral": 17,
       "negative": 22,
-      "count": 95
+      "count": 96
     },
     {
       "region": "South America",
@@ -391,58 +391,58 @@
     {
       "topic": "Tech",
       "positive": 178,
-      "neutral": 66,
-      "negative": 192,
+      "neutral": 69,
+      "negative": 189,
       "count": 436
     },
     {
       "topic": "Politics",
-      "positive": 112,
-      "neutral": 31,
-      "negative": 189,
-      "count": 332
+      "positive": 110,
+      "neutral": 29,
+      "negative": 188,
+      "count": 327
     },
     {
       "topic": "Other",
-      "positive": 115,
+      "positive": 116,
       "neutral": 59,
-      "negative": 116,
-      "count": 290
+      "negative": 112,
+      "count": 287
     },
     {
       "topic": "Sports",
       "positive": 136,
       "neutral": 40,
-      "negative": 56,
-      "count": 232
+      "negative": 57,
+      "count": 233
     },
     {
       "topic": "World",
-      "positive": 45,
+      "positive": 46,
       "neutral": 13,
       "negative": 158,
-      "count": 216
+      "count": 217
     },
     {
       "topic": "Entertainment",
-      "positive": 43,
-      "neutral": 14,
+      "positive": 42,
+      "neutral": 13,
       "negative": 16,
-      "count": 73
+      "count": 71
     },
     {
       "topic": "Health",
-      "positive": 19,
+      "positive": 18,
       "neutral": 3,
-      "negative": 38,
-      "count": 60
+      "negative": 37,
+      "count": 58
     },
     {
       "topic": "Business",
-      "positive": 31,
+      "positive": 30,
       "neutral": 5,
       "negative": 12,
-      "count": 48
+      "count": 47
     },
     {
       "topic": "Regional",
@@ -453,17 +453,17 @@
     },
     {
       "topic": "Local",
-      "positive": 10,
+      "positive": 11,
       "neutral": 2,
       "negative": 14,
-      "count": 26
+      "count": 27
     },
     {
       "topic": "Science",
-      "positive": 11,
+      "positive": 10,
       "neutral": 5,
       "negative": 9,
-      "count": 25
+      "count": 24
     }
   ],
   "sample_headlines": [
@@ -497,6 +497,14 @@
       "source": "Channel News Asia",
       "region": "Asia-Pacific",
       "published": "2025-09-07T16:48:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Bridge collapses in Iraq: 2 dead, several injured; rescue ops stretch overnight",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/under-construction-bridge-collapses-in-iraq-2-dead-several-injured-rescue-efforts-stretch-overnight/articleshow/123745245.cms",
+      "source": "Times of India",
+      "region": "Middle East",
+      "published": "2025-09-07T15:57:07+05:30",
       "sentiment": "negative"
     },
     {
@@ -578,6 +586,14 @@
       "region": "North America",
       "published": "2025-09-07T15:22:17+05:30",
       "sentiment": "neutral"
+    },
+    {
+      "title": "Watch: Star Australian batter turns bowler, grabs hat-trick to win T20 final",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-star-australian-batter-turns-bowler-grabs-hat-trick-to-win-t20-final/articleshow/123745546.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-09-07T15:14:50+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "Russia's largest air attack on Ukraine sets fire to main government building",
@@ -1148,6 +1164,78 @@
       "sentiment": "negative"
     },
     {
+      "title": "\u2018I am my mother\u2019s caregiver\u2019: My mom, 93, added my name to her bank and retirement accounts. Will she qualify for Medicaid?",
+      "url": "https://www.marketwatch.com/story/i-am-my-mothers-caregiver-my-mom-93-added-my-name-to-her-bank-and-retirement-accounts-will-she-qualify-for-medicaid-28957867?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "region": "Global",
+      "published": "2025-09-07T10:36:00+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Experts explain whether you should \u2018accept\u2019 or \u2018reject\u2019 all cookies",
+      "url": "https://www.independent.co.uk/tech/accept-or-reject-all-cookies-clear-b2821757.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-09-07T10:35:37+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "This is what happened after New Zealand banned phones in schools",
+      "url": "https://www.independent.co.uk/news/world/australasia/new-zealand-mobile-phone-ban-b2821753.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-09-07T10:32:12+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Putin strikes kills child and hits Kyiv government building in massive drone attack",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-trump-putin-kyiv-attack-cabinet-latest-news-b2821675.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-09-07T10:30:30+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "England make case for the defence after Australia win \u2014 but key decision looms for Scotland quarter-final",
+      "url": "https://www.independent.co.uk/sport/rugby/rugby-union/england-australia-womens-world-cup-red-roses-defence-b2821717.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-09-07T10:30:19+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Russia\u2019s largest ever drone attack on Ukraine burns Kyiv government building",
+      "url": "https://www.washingtonpost.com/world/2025/09/07/ukraine-russia-attacks-missile-kyiv/",
+      "source": "Washington Post",
+      "region": "Europe",
+      "published": "2025-09-07T10:30:16+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "See Nepal's living goddess leave her palace to bless throngs of worshipers",
+      "url": "https://www.independent.co.uk/news/nepal-kathmandu-hindus-b2821755.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-09-07T10:28:50+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "I\u2019m autistic and non-speaking. Here\u2019s what I want you to know",
+      "url": "https://www.independent.co.uk/life-style/health-and-families/autism-non-speaking-advice-signs-b2821751.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-09-07T10:28:25+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "South Korea says it has reached a deal with the US on the release of South Korean workers",
+      "url": "https://www.independent.co.uk/news/world/americas/south-korea-seoul-hyundai-georgia-b2821754.html",
+      "source": "Independent",
+      "region": "Asia-Pacific",
+      "published": "2025-09-07T10:27:11+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Comedian Bill Maher labels RFK Jr \u2018nutty\u2019 over CDC dismissals",
       "url": "https://www.independent.co.uk/bulletin/culture/bill-maher-rfk-jr-nutty-video-b2821747.html",
       "source": "Independent",
@@ -1172,100 +1260,12 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Are heat pumps worth it? The Independent\u2019s guide",
-      "url": "https://www.independent.co.uk/home-improvement/are-heat-pumps-worth-it-b2821007.html",
-      "source": "Independent",
+      "title": "England start brightly after being put in to bat by South Africa LIVE!",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13425607/england-vs-south-africa-third-odi-live-score-updates-video-highlights-and-expert-analysis-from-southampton",
+      "source": "Sky Sports",
       "region": "Europe",
-      "published": "2025-09-07T10:19:54+00:00",
+      "published": "2025-09-07T10:20:00+00:00",
       "sentiment": "positive"
-    },
-    {
-      "title": "She escaped Russia-Ukraine war, only to be killed in US: Woman stabbed by ex-con",
-      "url": "https://timesofindia.indiatimes.com/world/us/she-escaped-russia-ukraine-war-only-to-be-killed-in-us-ukrainian-woman-stabbed-by-ex-con-chilling-footage-emerges/articleshow/123742486.cms",
-      "source": "Times of India",
-      "region": "Europe",
-      "published": "2025-09-07T10:19:07+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Slow Horses author compares \u2018bogeyman\u2019 character Peter Judd to Boris Johnson",
-      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/slow-horses-boris-johnson-peter-judd-series-five-b2821744.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-09-07T10:17:28+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Russia strikes Ukraine\u2019s main government building for first time",
-      "url": "https://www.independent.co.uk/bulletin/news/kyiv-strike-government-building-russia-video-b2821746.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-09-07T10:16:36+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Starlink India push: Musk\u2019s firm in talks with data centres, telcos; groundwork begins",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/starlink-india-push-elon-musks-firm-in-talks-with-data-centres-telcos-groundwork-begins-for-broadband-rollout/articleshow/123742863.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-09-07T10:16:20+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Five more Palestinians die of starvation",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/five-more-palestinians-die-starvation",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "published": "2025-09-07T10:15:50+01:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Brian Cox slams \u2018bully\u2019 Nigel Farage in scathing rant on \u2018misinformed\u2019 Reform UK leader",
-      "url": "https://www.independent.co.uk/tv/news/brian-cox-nigel-farage-reform-uk-video-laura-kuenssberg-b2821737.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-09-07T10:15:07+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Great North Run 2025 results, schedule, times and how to watch half marathon on TV",
-      "url": "https://www.independent.co.uk/sport/general/athletics/great-north-run-schedule-times-watch-tv-channel-b2821748.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-09-07T10:14:24+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "A.P. Minister Srinivas explores global partnerships at SME Summit in Davos",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-minister-srinivas-explores-global-partnerships-at-sme-summit-in-davos/article70019659.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-07T10:11:24+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Target set to provide 50,000 jobs overseas in next five years: Lokesh",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/target-set-to-provide-50000-jobs-overseas-in-next-five-years-lokesh/article70020289.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-09-07T10:09:52+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "China\u2019s Xin Zhilei creates history with Venice Film Festival best actress gong",
-      "url": "https://www.scmp.com/news/china/article/3324656/chinas-xin-zhilei-creates-history-best-actress-award-venice-film-festival?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-09-07T10:08:53+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Russia hits Kyiv with drones and missiles: Smoke rises from Ukraine cabinet of ministers building; 2 dead",
-      "url": "https://timesofindia.indiatimes.com/world/europe/russia-hits-kyiv-with-drones-and-missiles-smoke-rises-from-ukraine-cabinet-of-ministers-building-2-dead/articleshow/123742919.cms",
-      "source": "Times of India",
-      "region": "Europe",
-      "published": "2025-09-07T10:08:49+05:30",
-      "sentiment": "negative"
     }
   ]
 }
