@@ -1,43 +1,51 @@
 {
-  "generated_at": "2025-09-08T08:33:02.541115+00:00",
+  "generated_at": "2025-09-08T08:54:45.068704+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 1007,
-    "neutral": 303,
-    "negative": 942
+    "positive": 1015,
+    "neutral": 304,
+    "negative": 959
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 144,
-      "neutral": 53,
-      "negative": 132,
-      "count": 329,
+      "positive": 147,
+      "neutral": 54,
+      "negative": 136,
+      "count": 337,
       "region": "North America"
     },
     {
       "source": "The Hindu",
-      "positive": 85,
+      "positive": 83,
       "neutral": 66,
       "negative": 84,
-      "count": 235,
+      "count": 233,
       "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
-      "positive": 70,
-      "neutral": 12,
-      "negative": 71,
-      "count": 153,
+      "positive": 71,
+      "neutral": 13,
+      "negative": 74,
+      "count": 158,
       "region": "Asia-Pacific"
     },
     {
       "source": "Australian Broadcasting Corporation",
       "positive": 46,
       "neutral": 1,
-      "negative": 68,
-      "count": 115,
+      "negative": 70,
+      "count": 117,
       "region": "Asia-Pacific"
+    },
+    {
+      "source": "Bloomberg",
+      "positive": 52,
+      "neutral": 12,
+      "negative": 38,
+      "count": 102,
+      "region": "North America"
     },
     {
       "source": "Sky Sports",
@@ -48,19 +56,11 @@
       "region": "Europe"
     },
     {
-      "source": "Bloomberg",
-      "positive": 50,
-      "neutral": 12,
-      "negative": 37,
-      "count": 99,
-      "region": "North America"
-    },
-    {
       "source": "The Guardian",
-      "positive": 48,
+      "positive": 49,
       "neutral": 1,
-      "negative": 48,
-      "count": 97,
+      "negative": 49,
+      "count": 99,
       "region": "Europe"
     },
     {
@@ -77,47 +77,47 @@
       "neutral": 23,
       "negative": 25,
       "count": 89,
-      "region": "Asia-Pacific"
+      "region": "Global"
     },
     {
       "source": "South China Morning Post",
-      "positive": 53,
+      "positive": 49,
       "neutral": 3,
       "negative": 29,
-      "count": 85,
+      "count": 81,
       "region": "North America"
     },
     {
       "source": "BBC Sport",
-      "positive": 53,
+      "positive": 55,
       "neutral": 7,
       "negative": 16,
-      "count": 76,
+      "count": 78,
       "region": "Asia-Pacific"
-    },
-    {
-      "source": "ESPN",
-      "positive": 43,
-      "neutral": 9,
-      "negative": 22,
-      "count": 74,
-      "region": "Global"
     },
     {
       "source": "BBC News",
       "positive": 30,
       "neutral": 10,
-      "negative": 32,
-      "count": 72,
-      "region": "Europe"
+      "negative": 34,
+      "count": 74,
+      "region": "North America"
+    },
+    {
+      "source": "ESPN",
+      "positive": 43,
+      "neutral": 9,
+      "negative": 21,
+      "count": 73,
+      "region": "Global"
     },
     {
       "source": "Al Jazeera English",
-      "positive": 10,
+      "positive": 11,
       "neutral": 7,
       "negative": 42,
-      "count": 59,
-      "region": "Middle East"
+      "count": 60,
+      "region": "Europe"
     },
     {
       "source": "CBS News",
@@ -126,6 +126,14 @@
       "negative": 21,
       "count": 57,
       "region": "North America"
+    },
+    {
+      "source": "Middle East Eye",
+      "positive": 5,
+      "neutral": 0,
+      "negative": 39,
+      "count": 44,
+      "region": "Middle East"
     },
     {
       "source": "AllAfrica",
@@ -139,24 +147,16 @@
       "source": "Times of Israel",
       "positive": 14,
       "neutral": 4,
-      "negative": 24,
-      "count": 42,
-      "region": "Middle East"
-    },
-    {
-      "source": "Middle East Eye",
-      "positive": 4,
-      "neutral": 0,
-      "negative": 35,
-      "count": 39,
+      "negative": 25,
+      "count": 43,
       "region": "Middle East"
     },
     {
       "source": "NBC News",
       "positive": 18,
       "neutral": 7,
-      "negative": 13,
-      "count": 38,
+      "negative": 14,
+      "count": 39,
       "region": "Europe"
     },
     {
@@ -169,10 +169,10 @@
     },
     {
       "source": "Straits Times",
-      "positive": 5,
+      "positive": 6,
       "neutral": 7,
-      "negative": 12,
-      "count": 24,
+      "negative": 13,
+      "count": 26,
       "region": "Asia-Pacific"
     },
     {
@@ -190,14 +190,6 @@
       "negative": 4,
       "count": 24,
       "region": "Global"
-    },
-    {
-      "source": "Financial Times",
-      "positive": 9,
-      "neutral": 5,
-      "negative": 8,
-      "count": 22,
-      "region": "North America"
     },
     {
       "source": "New York Times",
@@ -232,6 +224,14 @@
       "region": "North America"
     },
     {
+      "source": "Financial Times",
+      "positive": 9,
+      "neutral": 5,
+      "negative": 7,
+      "count": 21,
+      "region": "North America"
+    },
+    {
       "source": "Daily News Egypt",
       "positive": 17,
       "neutral": 2,
@@ -241,27 +241,19 @@
     },
     {
       "source": "Sky News",
-      "positive": 5,
+      "positive": 6,
       "neutral": 0,
       "negative": 13,
-      "count": 18,
+      "count": 19,
       "region": "Asia-Pacific"
     },
     {
       "source": "Deutsche Welle",
-      "positive": 7,
+      "positive": 8,
       "neutral": 1,
-      "negative": 7,
+      "negative": 6,
       "count": 15,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "RT News",
-      "positive": 2,
-      "neutral": 3,
-      "negative": 8,
-      "count": 13,
-      "region": "Asia-Pacific"
+      "region": "Europe"
     },
     {
       "source": "Washington Post",
@@ -272,12 +264,12 @@
       "region": "Asia-Pacific"
     },
     {
-      "source": "ABC News",
+      "source": "RT News",
       "positive": 2,
-      "neutral": 4,
-      "negative": 5,
-      "count": 11,
-      "region": "Europe"
+      "neutral": 2,
+      "negative": 8,
+      "count": 12,
+      "region": "North America"
     },
     {
       "source": "NPR",
@@ -286,6 +278,14 @@
       "negative": 5,
       "count": 11,
       "region": "North America"
+    },
+    {
+      "source": "ABC News",
+      "positive": 2,
+      "neutral": 4,
+      "negative": 5,
+      "count": 11,
+      "region": "Asia-Pacific"
     },
     {
       "source": "MarketWatch",
@@ -347,38 +347,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 381,
-      "neutral": 95,
-      "negative": 321,
-      "count": 797
+      "positive": 382,
+      "neutral": 96,
+      "negative": 322,
+      "count": 800
     },
     {
       "region": "Asia-Pacific",
-      "positive": 205,
+      "positive": 206,
       "neutral": 81,
-      "negative": 248,
-      "count": 534
+      "negative": 252,
+      "count": 539
     },
     {
       "region": "Europe",
-      "positive": 259,
+      "positive": 261,
       "neutral": 85,
-      "negative": 185,
-      "count": 529
+      "negative": 188,
+      "count": 534
     },
     {
       "region": "Middle East",
-      "positive": 51,
+      "positive": 53,
       "neutral": 11,
-      "negative": 117,
-      "count": 179
+      "negative": 127,
+      "count": 191
     },
     {
       "region": "Global",
-      "positive": 85,
+      "positive": 87,
       "neutral": 27,
-      "negative": 44,
-      "count": 156
+      "negative": 43,
+      "count": 157
     },
     {
       "region": "Africa",
@@ -398,52 +398,52 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 231,
-      "neutral": 65,
-      "negative": 217,
-      "count": 513
+      "positive": 234,
+      "neutral": 64,
+      "negative": 224,
+      "count": 522
     },
     {
       "topic": "Politics",
-      "positive": 172,
-      "neutral": 50,
-      "negative": 209,
-      "count": 431
+      "positive": 168,
+      "neutral": 49,
+      "negative": 213,
+      "count": 430
     },
     {
       "topic": "Other",
-      "positive": 134,
-      "neutral": 77,
-      "negative": 134,
-      "count": 345
+      "positive": 139,
+      "neutral": 78,
+      "negative": 135,
+      "count": 352
     },
     {
       "topic": "World",
       "positive": 98,
-      "neutral": 30,
-      "negative": 192,
-      "count": 320
+      "neutral": 31,
+      "negative": 196,
+      "count": 325
     },
     {
       "topic": "Sports",
-      "positive": 173,
+      "positive": 176,
       "neutral": 38,
       "negative": 48,
-      "count": 259
+      "count": 262
     },
     {
       "topic": "Business",
-      "positive": 69,
+      "positive": 70,
       "neutral": 13,
       "negative": 32,
-      "count": 114
+      "count": 115
     },
     {
       "topic": "Entertainment",
       "positive": 59,
-      "neutral": 15,
+      "neutral": 16,
       "negative": 25,
-      "count": 99
+      "count": 100
     },
     {
       "topic": "Health",
@@ -456,8 +456,8 @@
       "topic": "Local",
       "positive": 17,
       "neutral": 3,
-      "negative": 21,
-      "count": 41
+      "negative": 22,
+      "count": 42
     },
     {
       "topic": "Regional",
@@ -475,6 +475,22 @@
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Some Singapore clinics see spike in flu cases amid weather changes, weak precautionary practices",
+      "url": "https://www.channelnewsasia.com/singapore/flu-cases-influenza-clinics-spike-weather-precautions-mask-vaccination-5337591",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-09-08T16:45:37+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Prosecutors must be versatile to tackle challenges from AI-enabled crimes: Edwin Tong",
+      "url": "https://www.straitstimes.com/singapore/courts-crime/prosecutors-must-be-versatile-to-tackle-challenges-from-ai-enabled-crimes-edwin-tong",
+      "source": "Straits Times",
+      "region": "Asia-Pacific",
+      "published": "2025-09-08T16:37:00+08:00",
+      "sentiment": "negative"
+    },
     {
       "title": "Ariana Grande and Lady Gaga shine at the MTV VMAs with wins and performances",
       "url": "https://www.channelnewsasia.com/entertainment/mtv-vmas-2025-5337786",
@@ -517,6 +533,14 @@
     },
     {
       "title": "LTA extends vehicle schemes to increase adoption of EVs",
+      "url": "https://www.straitstimes.com/singapore/lta-extends-ev-schemes-to-achieve-cleaner-energy-vehicles",
+      "source": "Straits Times",
+      "region": "Global",
+      "published": "2025-09-08T15:24:46+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "LTA, NEA extend vehicle schemes to increase adoption of EVs",
       "url": "https://www.straitstimes.com/singapore/lta-extends-ev-schemes-to-achieve-cleaner-energy-vehicles",
       "source": "Straits Times",
       "region": "Global",
@@ -569,6 +593,30 @@
       "source": "Straits Times",
       "region": "North America",
       "published": "2025-09-08T14:38:39+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Maharashtra polls 'stolen' claim: Cong alleges Trai blocked SMS outreach; regulator denies claim",
+      "url": "https://timesofindia.indiatimes.com/india/maharashtra-polls-stolen-claim-congress-alleges-trai-blocked-sms-outreach-regulator-denies-claim/articleshow/123761947.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-09-08T14:19:59+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "\u2018Beedis and Bihar\u2019 X post row: Congress in Kerala rallies around V.T. Balram after party\u2019s digital media head draws flak",
+      "url": "https://www.thehindu.com/news/national/kerala/beedis-and-bihar-x-post-row-congress-in-kerala-rallies-around-vt-balaram-after-partys-digital-media-head-draws-flak/article70025169.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-08T14:13:07+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Facebook, YouTube, X banned in Nepal: GenZs take over Kathmandu streets - Watch",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/facebook-youtube-x-banned-in-nepal-genzs-take-over-kathmandu-streets-watch/articleshow/123761718.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-09-08T14:10:55+05:30",
       "sentiment": "negative"
     },
     {
@@ -660,12 +708,28 @@
       "sentiment": "neutral"
     },
     {
+      "title": "'Should X present this as comments?' Navarro runs poll",
+      "url": "https://timesofindia.indiatimes.com/world/us/should-x-present-this-crap-as-comments-peter-navarro-runs-poll-claims-indian-special-interests-trying-to-interfere/articleshow/123759908.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-09-08T13:36:14+05:30",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Singapore authorities looking into illegal online sale of weight loss patches, slimming drugs",
       "url": "https://www.channelnewsasia.com/singapore/illegal-online-sale-weight-loss-patches-prescription-drugs-slimming-health-ozempic-5334041",
       "source": "Channel News Asia",
       "region": "Asia-Pacific",
       "published": "2025-09-08T13:32:37+08:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "Vande Bharat sleeper: New train may run from Delhi; launch in coming weeks",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/vande-bharat-sleeper-set-for-debut-new-indian-railways-train-may-run-from-delhi-launch-of-semi-high-speed-service-in-coming-weeks/articleshow/123759996.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-09-08T13:30:00+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "Kerala to challenge Supreme Court ruling on Teachers\u2019 Eligibility Test",
@@ -676,12 +740,28 @@
       "sentiment": "positive"
     },
     {
+      "title": "Red Sea cables cut: Microsoft updates; why the route is critical for Asia, Mideast",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-issues-update-after-undersea-cables-cut-in-red-sea-what-makes-red-sea-critical-for-internet-access-in-asia-mideast/articleshow/123760953.cms",
+      "source": "Times of India",
+      "region": "Middle East",
+      "published": "2025-09-08T13:25:46+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "SC issues notice to ED, Gujarat on journalist Mahesh Langa\u2019s bail plea",
       "url": "https://www.thehindu.com/news/national/sc-issues-notice-to-ed-gujarat-on-journalist-mahesh-langas-bail-plea/article70025091.ece",
       "source": "The Hindu",
       "region": "Asia-Pacific",
       "published": "2025-09-08T13:24:40+05:30",
       "sentiment": "negative"
+    },
+    {
+      "title": "Who is Sama Kamel? Meet the newly crowned Miss Egypt 2025",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/who-is-sama-kamel-meet-the-newly-crowned-miss-egypt-2025-and-the-woman-behind-the-crown/articleshow/123760593.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-09-08T13:22:30+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "Burhanpur: 3 injured, 7 held after stone-pelting during Hanuman Chalisa recitation",
@@ -741,6 +821,14 @@
     },
     {
       "title": "Shooting in Jerusalem: Multiple people injured in attack; what we know so far",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/shooting-in-jerusalem-multiple-people-injured-in-attack-what-we-know-so-far/articleshow/123760550.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-09-08T13:05:22+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Shooting in Jerusalem: 4 killed, many injured after attackers open fire in a bus",
       "url": "https://timesofindia.indiatimes.com/world/middle-east/shooting-in-jerusalem-multiple-people-injured-in-attack-what-we-know-so-far/articleshow/123760550.cms",
       "source": "Times of India",
       "region": "North America",
@@ -1186,94 +1274,6 @@
       "region": "North America",
       "published": "2025-09-08T10:43:25+05:30",
       "sentiment": "negative"
-    },
-    {
-      "title": "NFL Game results: All matches, list of winners; know the top scorers & more",
-      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/nfl-game-results-all-matches-list-of-all-winners-top-scorers-and-more/articleshow/123757738.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-09-08T10:43:16+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "How will Japan pick its next leader after Ishiba's resignation?",
-      "url": "https://www.channelnewsasia.com/east-asia/how-will-japan-pick-next-leader-ishiba-resignation-prime-minister-5337401",
-      "source": "Channel News Asia",
-      "region": "Asia-Pacific",
-      "published": "2025-09-08T10:40:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "PNB scam case: India assures Belgium on Mehul Choksi detention",
-      "url": "https://timesofindia.indiatimes.com/india/pnb-scam-case-india-assures-belgium-on-mehul-choksi-detention-safeguards-outlined-for-extradition/articleshow/123757496.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-09-08T10:37:08+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "'Adequate food, attached toilet': How India plans to keep Choksi in Mumbai jail; all you need to know",
-      "url": "https://timesofindia.indiatimes.com/india/pnb-scam-case-india-assures-belgium-on-mehul-choksi-detention-safeguards-outlined-for-extradition/articleshow/123757496.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-09-08T10:37:08+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Hong Kong schools, businesses close as Tropical Storm Tapah brushes past",
-      "url": "https://www.channelnewsasia.com/east-asia/hong-kong-tropical-storm-tapah-schools-close-5337341",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-09-08T10:37:00+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "'Losses must be felt': Zelenskyy backs Trump tariffs on nations supporting Russia; message for India?",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/losses-must-be-felt-zelenskyy-backs-trump-tariffs-on-nations-supporting-russia-message-for-india/articleshow/123757682.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-09-08T10:36:01+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Sengottaiyan heads to Haridwar on \u2018pilgrimage\u2019, denies meeting BJP leaders",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/sengottaiyan-heads-to-haridwar-on-pilgrimage-denies-meeting-bjp-leaders/article70024593.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-08T10:35:06+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "AIADMK leader Sengottaiyan heads to Haridwar on \u2018pilgrimage\u2019, denies meeting BJP leaders",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/sengottaiyan-heads-to-haridwar-on-pilgrimage-denies-meeting-bjp-leaders/article70024593.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-08T10:35:06+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "MS Dhoni takes vintage Rolls-Royce for a spin in Ranchi: Fans go crazy; visuals go viral",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ms-dhoni-takes-vintage-rolls-royce-for-a-spin-in-ranchi-fans-go-crazy/articleshow/123757578.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-09-08T10:33:58+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Caught on camera: Mark Zuckerberg tells Donald Trump, 'I'm sorry I wasn't ...'",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/caught-on-camera-mark-zuckerberg-tells-donald-trump-im-sorry-i-wasnt-/articleshow/123757641.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-09-08T10:31:13+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Caught on cam: Mark Zuckerberg tells Donald Trump, 'I'm sorry I wasn't ...'",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/caught-on-camera-mark-zuckerberg-tells-donald-trump-im-sorry-i-wasnt-/articleshow/123757641.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-09-08T10:31:13+05:30",
-      "sentiment": "positive"
     }
   ]
 }
