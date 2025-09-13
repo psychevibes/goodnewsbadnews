@@ -1,75 +1,51 @@
 {
-  "generated_at": "2025-09-13T07:43:00.518397+00:00",
+  "generated_at": "2025-09-13T08:26:37.184770+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 1180,
-    "neutral": 345,
-    "negative": 1341
+    "positive": 1149,
+    "neutral": 340,
+    "negative": 1330
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 174,
-      "neutral": 75,
-      "negative": 210,
-      "count": 459,
-      "region": "Asia-Pacific"
+      "positive": 170,
+      "neutral": 77,
+      "negative": 209,
+      "count": 456,
+      "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 118,
-      "neutral": 71,
-      "negative": 95,
-      "count": 284,
-      "region": "Europe"
-    },
-    {
-      "source": "Bloomberg",
-      "positive": 85,
-      "neutral": 14,
-      "negative": 62,
-      "count": 161,
+      "positive": 117,
+      "neutral": 69,
+      "negative": 94,
+      "count": 280,
       "region": "North America"
     },
     {
+      "source": "Bloomberg",
+      "positive": 84,
+      "neutral": 13,
+      "negative": 60,
+      "count": 157,
+      "region": "Middle East"
+    },
+    {
       "source": "Times of India",
-      "positive": 61,
-      "neutral": 11,
+      "positive": 56,
+      "neutral": 10,
       "negative": 84,
-      "count": 156,
-      "region": "Europe"
+      "count": 150,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Fox News",
       "positive": 33,
-      "neutral": 9,
-      "negative": 70,
-      "count": 112,
+      "neutral": 10,
+      "negative": 71,
+      "count": 114,
       "region": "North America"
-    },
-    {
-      "source": "Australian Broadcasting Corporation",
-      "positive": 48,
-      "neutral": 8,
-      "negative": 53,
-      "count": 109,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "Channel News Asia",
-      "positive": 50,
-      "neutral": 20,
-      "negative": 38,
-      "count": 108,
-      "region": "Global"
-    },
-    {
-      "source": "The Guardian",
-      "positive": 32,
-      "neutral": 5,
-      "negative": 70,
-      "count": 107,
-      "region": "Asia-Pacific"
     },
     {
       "source": "CBS News",
@@ -80,11 +56,43 @@
       "region": "North America"
     },
     {
+      "source": "Australian Broadcasting Corporation",
+      "positive": 42,
+      "neutral": 7,
+      "negative": 52,
+      "count": 101,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "Channel News Asia",
+      "positive": 46,
+      "neutral": 19,
+      "negative": 36,
+      "count": 101,
+      "region": "Global"
+    },
+    {
+      "source": "The Guardian",
+      "positive": 30,
+      "neutral": 5,
+      "negative": 66,
+      "count": 101,
+      "region": "Europe"
+    },
+    {
       "source": "BBC Sport",
-      "positive": 65,
+      "positive": 62,
       "neutral": 8,
-      "negative": 17,
-      "count": 90,
+      "negative": 16,
+      "count": 86,
+      "region": "North America"
+    },
+    {
+      "source": "Sky Sports",
+      "positive": 52,
+      "neutral": 17,
+      "negative": 13,
+      "count": 82,
       "region": "Europe"
     },
     {
@@ -93,23 +101,15 @@
       "neutral": 9,
       "negative": 43,
       "count": 80,
-      "region": "North America"
-    },
-    {
-      "source": "Sky Sports",
-      "positive": 48,
-      "neutral": 17,
-      "negative": 13,
-      "count": 78,
       "region": "Europe"
     },
     {
       "source": "South China Morning Post",
-      "positive": 29,
+      "positive": 28,
       "neutral": 1,
-      "negative": 38,
-      "count": 68,
-      "region": "Asia-Pacific"
+      "negative": 41,
+      "count": 70,
+      "region": "North America"
     },
     {
       "source": "NBC News",
@@ -120,14 +120,6 @@
       "region": "South America"
     },
     {
-      "source": "ESPN",
-      "positive": 27,
-      "neutral": 14,
-      "negative": 24,
-      "count": 65,
-      "region": "North America"
-    },
-    {
       "source": "Mashable",
       "positive": 47,
       "neutral": 7,
@@ -136,52 +128,68 @@
       "region": "North America"
     },
     {
-      "source": "Middle East Eye",
-      "positive": 9,
-      "neutral": 2,
-      "negative": 46,
-      "count": 57,
-      "region": "Middle East"
-    },
-    {
-      "source": "Euronews",
-      "positive": 26,
-      "neutral": 3,
-      "negative": 27,
+      "source": "ESPN",
+      "positive": 25,
+      "neutral": 12,
+      "negative": 19,
       "count": 56,
-      "region": "Europe"
+      "region": "North America"
     },
     {
       "source": "Al Jazeera English",
       "positive": 13,
-      "neutral": 2,
+      "neutral": 3,
       "negative": 38,
-      "count": 53,
-      "region": "North America"
+      "count": 54,
+      "region": "Asia-Pacific"
     },
     {
-      "source": "CNBC",
-      "positive": 24,
-      "neutral": 8,
-      "negative": 18,
-      "count": 50,
+      "source": "Middle East Eye",
+      "positive": 7,
+      "neutral": 2,
+      "negative": 45,
+      "count": 54,
+      "region": "Middle East"
+    },
+    {
+      "source": "Euronews",
+      "positive": 23,
+      "neutral": 3,
+      "negative": 27,
+      "count": 53,
       "region": "Europe"
     },
     {
       "source": "France 24",
-      "positive": 14,
+      "positive": 15,
       "neutral": 1,
-      "negative": 33,
+      "negative": 32,
+      "count": 48,
+      "region": "North America"
+    },
+    {
+      "source": "CNBC",
+      "positive": 23,
+      "neutral": 8,
+      "negative": 17,
       "count": 48,
       "region": "Europe"
     },
     {
       "source": "Times of Israel",
-      "positive": 17,
+      "positive": 16,
       "neutral": 1,
-      "negative": 20,
+      "negative": 21,
       "count": 38,
       "region": "Middle East"
+    },
+    {
+      "source": "Irish Times",
+      "positive": 8,
+      "neutral": 9,
+      "negative": 20,
+      "count": 37,
+      "region": "Global"
     },
     {
       "source": "MarketWatch",
@@ -192,28 +200,28 @@
       "region": "Global"
     },
     {
-      "source": "Irish Times",
-      "positive": 8,
-      "neutral": 9,
-      "negative": 19,
-      "count": 36,
-      "region": "Global"
+      "source": "Deutsche Welle",
+      "positive": 16,
+      "neutral": 0,
+      "negative": 18,
+      "count": 34,
+      "region": "North America"
     },
     {
       "source": "Financial Times",
       "positive": 12,
-      "neutral": 5,
+      "neutral": 4,
       "negative": 18,
-      "count": 35,
+      "count": 34,
       "region": "Global"
     },
     {
-      "source": "Deutsche Welle",
-      "positive": 16,
-      "neutral": 0,
-      "negative": 17,
-      "count": 33,
-      "region": "North America"
+      "source": "Straits Times",
+      "positive": 9,
+      "neutral": 4,
+      "negative": 18,
+      "count": 31,
+      "region": "Global"
     },
     {
       "source": "NPR",
@@ -240,14 +248,6 @@
       "region": "Africa"
     },
     {
-      "source": "Straits Times",
-      "positive": 9,
-      "neutral": 4,
-      "negative": 16,
-      "count": 29,
-      "region": "Global"
-    },
-    {
       "source": "New York Times",
       "positive": 7,
       "neutral": 1,
@@ -265,19 +265,19 @@
     },
     {
       "source": "RT News",
-      "positive": 8,
+      "positive": 9,
       "neutral": 2,
       "negative": 14,
-      "count": 24,
+      "count": 25,
       "region": "North America"
     },
     {
       "source": "ABC News",
-      "positive": 4,
+      "positive": 3,
       "neutral": 2,
       "negative": 15,
-      "count": 21,
-      "region": "Europe"
+      "count": 20,
+      "region": "North America"
     },
     {
       "source": "Sputnik News",
@@ -339,139 +339,163 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 427,
-      "neutral": 109,
-      "negative": 627,
-      "count": 1163
+      "positive": 416,
+      "neutral": 111,
+      "negative": 618,
+      "count": 1145
     },
     {
       "region": "Europe",
-      "positive": 318,
+      "positive": 312,
       "neutral": 98,
-      "negative": 265,
-      "count": 681
+      "negative": 261,
+      "count": 671
     },
     {
       "region": "Asia-Pacific",
-      "positive": 221,
-      "neutral": 83,
-      "negative": 186,
-      "count": 490
+      "positive": 213,
+      "neutral": 79,
+      "negative": 187,
+      "count": 479
     },
     {
       "region": "Global",
-      "positive": 131,
-      "neutral": 37,
-      "negative": 111,
-      "count": 279
+      "positive": 129,
+      "neutral": 34,
+      "negative": 110,
+      "count": 273
     },
     {
       "region": "Middle East",
-      "positive": 50,
+      "positive": 47,
       "neutral": 11,
       "negative": 124,
-      "count": 185
+      "count": 182
     },
     {
       "region": "South America",
-      "positive": 19,
+      "positive": 18,
       "neutral": 3,
-      "negative": 15,
+      "negative": 16,
       "count": 37
     },
     {
       "region": "Africa",
       "positive": 14,
       "neutral": 4,
-      "negative": 13,
-      "count": 31
+      "negative": 14,
+      "count": 32
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 299,
-      "neutral": 86,
-      "negative": 273,
-      "count": 658
+      "positive": 290,
+      "neutral": 85,
+      "negative": 270,
+      "count": 645
     },
     {
       "topic": "Politics",
-      "positive": 170,
-      "neutral": 54,
+      "positive": 168,
+      "neutral": 53,
       "negative": 394,
-      "count": 618
+      "count": 615
     },
     {
       "topic": "Other",
-      "positive": 163,
-      "neutral": 74,
-      "negative": 198,
-      "count": 435
+      "positive": 158,
+      "neutral": 73,
+      "negative": 196,
+      "count": 427
     },
     {
       "topic": "World",
-      "positive": 139,
-      "neutral": 33,
+      "positive": 133,
+      "neutral": 35,
       "negative": 218,
-      "count": 390
+      "count": 386
     },
     {
       "topic": "Sports",
-      "positive": 164,
-      "neutral": 30,
-      "negative": 55,
-      "count": 249
+      "positive": 161,
+      "neutral": 29,
+      "negative": 52,
+      "count": 242
     },
     {
       "topic": "Business",
-      "positive": 94,
-      "neutral": 31,
-      "negative": 59,
-      "count": 184
+      "positive": 92,
+      "neutral": 30,
+      "negative": 56,
+      "count": 178
     },
     {
       "topic": "Entertainment",
-      "positive": 76,
+      "positive": 75,
       "neutral": 16,
-      "negative": 41,
-      "count": 133
+      "negative": 39,
+      "count": 130
     },
     {
       "topic": "Health",
-      "positive": 26,
+      "positive": 24,
       "neutral": 5,
       "negative": 39,
-      "count": 70
+      "count": 68
     },
     {
       "topic": "Regional",
-      "positive": 21,
-      "neutral": 7,
+      "positive": 20,
+      "neutral": 6,
       "negative": 21,
-      "count": 49
+      "count": 47
     },
     {
       "topic": "Science",
       "positive": 16,
       "neutral": 2,
-      "negative": 24,
-      "count": 42
+      "negative": 25,
+      "count": 43
     },
     {
       "topic": "Local",
       "positive": 12,
-      "neutral": 7,
-      "negative": 19,
+      "neutral": 6,
+      "negative": 20,
       "count": 38
     }
   ],
   "sample_headlines": [
     {
+      "title": "Prabowo makes \u2018solidarity\u2019 visit to Qatar following Israel attack, discusses regional issues with UAE president",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-prabowo-visit-qatar-solidarity-uae-5347781",
+      "source": "Channel News Asia",
+      "region": "Middle East",
+      "published": "2025-09-13T15:51:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "57-year-old woman missing since Sept 11, last seen near Tampines Street 41",
+      "url": "https://www.straitstimes.com/singapore/57-year-old-woman-missing-since-sept-11-last-seen-near-tampines-street-41",
+      "source": "Straits Times",
+      "region": "Global",
+      "published": "2025-09-13T15:35:00+08:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "When a huge order for flowers turns stinky: S\u2019pore florist left in the red after fake bulk order",
       "url": "https://www.straitstimes.com/singapore/when-a-huge-order-for-flowers-turns-stinky-florist-left-in-the-red-after-fake-bulk-order",
       "source": "Straits Times",
       "region": "Global",
+      "published": "2025-09-13T14:45:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "When a huge order for flowers turns stinky: Singapore florist left in the red after fake bulk order",
+      "url": "https://www.straitstimes.com/singapore/when-a-huge-order-for-flowers-turns-stinky-florist-left-in-the-red-after-fake-bulk-order",
+      "source": "Straits Times",
+      "region": "Asia-Pacific",
       "published": "2025-09-13T14:45:00+08:00",
       "sentiment": "negative"
     },
@@ -522,6 +546,30 @@
       "region": "Europe",
       "published": "2025-09-13T13:47:30+08:00",
       "sentiment": "neutral"
+    },
+    {
+      "title": "South African province to strike pact with Kerala government on climate-resilient infrastructure",
+      "url": "https://www.thehindu.com/news/national/kerala/south-african-province-to-strike-pact-with-kerala-government-on-climate-resilient-infrastructure/article70044748.ece",
+      "source": "The Hindu",
+      "region": "Africa",
+      "published": "2025-09-13T13:15:38+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Mangaluru court sentences 51 year-old man to death for murder, rape of minor girl",
+      "url": "https://www.thehindu.com/news/national/karnataka/mangaluru-court-sentences-51-year-old-man-to-death-for-murder-rape-of-minor-girl/article70044947.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-13T13:12:15+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Airstrike on two Myanmar schools as students slept; 19 killed",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/airstrike-on-two-myanmar-schools-500-pound-bombs-dropped-as-students-slept-in-rakhine-19-students-killed/articleshow/123864838.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-09-13T13:03:29+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "80 years on: Telok Ayer Chinese Methodist Church\u2019s new heritage gallery brings WWII history to life",
@@ -1012,6 +1060,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Charlie Kirk's widow on husband's death: 'you have no idea what you just have unleashed.'",
+      "url": "http://www.euronews.com/2025/09/13/charlie-kirks-widow-gives-first-statement-after-his-killing-vouches-to-keep-mission-alive",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-09-13T09:37:40+02:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Chess | Divya pushes Gukesh off top-10 FIDE Rating; play out draw at Grand Swiss",
       "url": "https://timesofindia.indiatimes.com/sports/chess/gukesh-how-much-hindi-do-you-know-divya-deshmukh-once-his-translator-pushes-world-chess-champion-out-of-top-10/articleshow/123863231.cms",
       "source": "Times of India",
@@ -1100,6 +1156,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "Canelo and Crawford at SAME WEIGHT ahead of Las Vegas fight!",
+      "url": "https://www.skysports.com/watch/video/13429771/canelo-alvarez-and-terence-crawford-both-weigh-in-at-167-5-pounds-ahead-of-las-vegas-fight",
+      "source": "Sky Sports",
+      "region": "Europe",
+      "published": "2025-09-13T09:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "UN General Assembly votes to back two-state solution for Israel and Palestine",
       "url": "http://www.euronews.com/2025/09/13/un-general-assembly-votes-to-back-two-state-solution-for-israel-and-palestine",
       "source": "Euronews",
@@ -1140,12 +1204,44 @@
       "sentiment": "negative"
     },
     {
+      "title": "BMW PGA Championship latest: Ryder Cup stars among early starters to R3",
+      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
+      "source": "Sky Sports",
+      "region": "Europe",
+      "published": "2025-09-13T08:30:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Hong Kong set for unsettled weather next week as 3 low-pressure areas develop",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3325432/hong-kong-set-rain-squally-thunderstorms-next-week-3-low-pressure-areas-develop?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "North America",
+      "published": "2025-09-13T08:23:14+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "'Erratic behaviour': Ex-US NSA slams Trump\u2019s India tariffs; rejects India-Pak peace claim",
       "url": "https://timesofindia.indiatimes.com/business/india-business/erratic-behaviour-ex-us-nsa-john-bolton-slams-trumps-india-tariffs-rejects-claim-of-brokering-india-pak-peace/articleshow/123862493.cms",
       "source": "Times of India",
       "region": "Asia-Pacific",
       "published": "2025-09-13T08:19:44+05:30",
       "sentiment": "positive"
+    },
+    {
+      "title": "Thomas Frank responds to Daniel Levy\u2019s Spurs exit \u2014 \u2018business as usual\u2019",
+      "url": "https://www.independent.co.uk/sport/thomas-frank-daniel-levy-spurs-b2825836.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-09-13T08:19:44+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Sharon Osbourne tells fans she\u2019s still \u2018finding her footing\u2019 following Ozzy\u2019s death",
+      "url": "https://www.independent.co.uk/life-style/sharon-osbourne-ozzy-death-fans-b2825834.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-09-13T08:18:03+00:00",
+      "sentiment": "negative"
     },
     {
       "title": "Not all heart attacks are sudden- this hidden artery threat is to blame",
@@ -1156,115 +1252,19 @@
       "sentiment": "negative"
     },
     {
-      "title": "PM Modi in Manipur LIVE: Modi to make first visit to conflict-hit northeast State today",
-      "url": "https://www.thehindu.com/news/national/manipur/pm-modi-in-manipur-ethnic-conflict-kukis-meitei-northeast-live-updates-september-13-2025/article70044638.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-13T08:09:05+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "PM Modi in Manipur LIVE: Modi arrives in Mizoram ahead of first visit to conflict-hit Manipur",
-      "url": "https://www.thehindu.com/news/national/manipur/pm-modi-in-manipur-ethnic-conflict-kukis-meitei-northeast-live-updates-september-13-2025/article70044638.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-13T08:09:05+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "PM Modi in Manipur LIVE: PM Modi lays foundation stone for projects worth \u20b99,000 cr. in Mizoram",
-      "url": "https://www.thehindu.com/news/national/manipur/pm-modi-in-manipur-ethnic-conflict-kukis-meitei-northeast-live-updates-september-13-2025/article70044638.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-13T08:09:05+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "PM Modi in Manipur LIVE: Northeast suffered heavily due to vote bank politics, says PM Modi",
-      "url": "https://www.thehindu.com/news/national/manipur/pm-modi-in-manipur-ethnic-conflict-kukis-meitei-northeast-live-updates-september-13-2025/article70044638.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-13T08:09:05+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "PM Modi in Manipur LIVE: PM Modi arrives in Imphal, likely to head to Churachandpur by road",
-      "url": "https://www.thehindu.com/news/national/manipur/pm-modi-in-manipur-ethnic-conflict-kukis-meitei-northeast-live-updates-september-13-2025/article70044638.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-13T08:09:05+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "PM Modi in Manipur LIVE: PM Modi on way to Churachandpur  by road amid heavy rain",
-      "url": "https://www.thehindu.com/news/national/manipur/pm-modi-in-manipur-ethnic-conflict-kukis-meitei-northeast-live-updates-september-13-2025/article70044638.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-13T08:09:05+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Acquitted 7/11 blasts accused seeks \u20b99 crore compensation for nine years in jail",
-      "url": "https://www.thehindu.com/news/cities/mumbai/acquitted-711-blasts-accused-seeks-9-crore-compensation-for-nine-years-in-jail/article70042713.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-13T08:05:12+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Shots fired outside Disha Patani's Bareilly house; Goldy Brar group claims responsibility",
-      "url": "https://timesofindia.indiatimes.com/city/bareilly/shots-fired-outside-disha-patanis-bareilly-house-over-sisters-remarks-against-godman-goldy-brar-group-claims-responsibility/articleshow/123862483.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-09-13T08:02:26+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Trump wanted Korean battery builders to stay. How dependent is Europe on Korean EV battery makers?",
-      "url": "http://www.euronews.com/next/2025/09/13/trump-wanted-korean-battery-builders-to-stay-how-dependent-is-europe-on-korean-ev-battery-",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2025-09-13T08:01:58+02:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "\u2018Texas was his dream\u2019: Bengaluru mourns Nagamallaiah, beheaded in US",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/for-long-chandra-mouli-nagamallaiah-nursed-entrepreneurial-ambitions/articleshow/123858098.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-09-13T07:54:10+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "'Your contributions will guide generations': Nepal mayor to Gen Z protesters",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/your-contributions-will-guide-generations-nepal-mayor-pays-tribute-to-gen-z-protesters-toll-rises-to-51/articleshow/123862271.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-09-13T07:42:22+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Navy commissions new base to support surveillance in Indian Ocean Region",
-      "url": "https://timesofindia.indiatimes.com/india/navy-commissions-new-base-to-support-surveillance-in-indian-ocean-region/articleshow/123862327.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-09-13T07:41:06+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Nepal picks new interim prime minister",
-      "url": "https://www.rt.com/news/624604-nepal-picks-interim-prime-minister/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "source": "RT News",
-      "region": "North America",
-      "published": "2025-09-13T07:38:05+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "No Punggol LRT service due to \u2018systems fault\u2019",
-      "url": "https://www.channelnewsasia.com/singapore/punggol-lrt-no-service-systems-fault-sbs-transit-5347531",
-      "source": "Channel News Asia",
+      "title": "Nepal: Streets calm as first woman PM takes charge",
+      "url": "https://www.dw.com/en/nepal-streets-calm-as-first-woman-pm-takes-charge/a-73982924?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
       "region": "Global",
-      "published": "2025-09-13T07:33:07+08:00",
+      "published": "2025-09-13T08:14:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Robodogs, laser beams and drone-zapping microwaves: The weapons that could decide the wars of the future",
+      "url": "https://www.independent.co.uk/news/world/europe/war-weapons-future-drones-russia-b2824045.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-09-13T08:11:35+00:00",
       "sentiment": "negative"
     }
   ]
