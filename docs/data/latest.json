@@ -1,27 +1,27 @@
 {
-  "generated_at": "2025-09-13T22:21:51.650598+00:00",
+  "generated_at": "2025-09-13T22:43:31.020329+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 778,
-    "neutral": 276,
-    "negative": 912
+    "positive": 782,
+    "neutral": 271,
+    "negative": 906
   },
   "by_publication": [
     {
       "source": "The Hindu",
       "positive": 99,
       "neutral": 67,
-      "negative": 103,
-      "count": 269,
+      "negative": 102,
+      "count": 268,
       "region": "Asia-Pacific"
     },
     {
       "source": "Independent",
-      "positive": 88,
-      "neutral": 35,
-      "negative": 134,
-      "count": 257,
-      "region": "North America"
+      "positive": 87,
+      "neutral": 34,
+      "negative": 133,
+      "count": 254,
+      "region": "Europe"
     },
     {
       "source": "Times of India",
@@ -29,30 +29,38 @@
       "neutral": 7,
       "negative": 61,
       "count": 125,
-      "region": "Asia-Pacific"
+      "region": "North America"
     },
     {
       "source": "Sky Sports",
-      "positive": 64,
+      "positive": 65,
       "neutral": 32,
       "negative": 22,
-      "count": 118,
+      "count": 119,
       "region": "Europe"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 43,
-      "neutral": 10,
-      "negative": 46,
-      "count": 99,
+      "positive": 44,
+      "neutral": 9,
+      "negative": 48,
+      "count": 101,
       "region": "Asia-Pacific"
     },
     {
       "source": "BBC Sport",
-      "positive": 62,
-      "neutral": 6,
-      "negative": 14,
-      "count": 82,
+      "positive": 65,
+      "neutral": 5,
+      "negative": 16,
+      "count": 86,
+      "region": "Europe"
+    },
+    {
+      "source": "Fox News",
+      "positive": 21,
+      "neutral": 10,
+      "negative": 50,
+      "count": 81,
       "region": "Europe"
     },
     {
@@ -61,39 +69,31 @@
       "neutral": 23,
       "negative": 18,
       "count": 81,
-      "region": "North America"
-    },
-    {
-      "source": "Fox News",
-      "positive": 21,
-      "neutral": 9,
-      "negative": 50,
-      "count": 80,
-      "region": "Europe"
-    },
-    {
-      "source": "CBS News",
-      "positive": 21,
-      "neutral": 8,
-      "negative": 37,
-      "count": 66,
-      "region": "North America"
+      "region": "Global"
     },
     {
       "source": "The Guardian",
       "positive": 19,
       "neutral": 2,
-      "negative": 45,
-      "count": 66,
+      "negative": 47,
+      "count": 68,
       "region": "Middle East"
+    },
+    {
+      "source": "CBS News",
+      "positive": 21,
+      "neutral": 7,
+      "negative": 33,
+      "count": 61,
+      "region": "North America"
     },
     {
       "source": "BBC News",
       "positive": 27,
-      "neutral": 5,
-      "negative": 27,
+      "neutral": 4,
+      "negative": 28,
       "count": 59,
-      "region": "Europe"
+      "region": "North America"
     },
     {
       "source": "South China Morning Post",
@@ -109,54 +109,46 @@
       "neutral": 7,
       "negative": 32,
       "count": 50,
-      "region": "Asia-Pacific"
+      "region": "Middle East"
     },
     {
       "source": "ESPN",
-      "positive": 20,
+      "positive": 21,
       "neutral": 8,
       "negative": 17,
-      "count": 45,
+      "count": 46,
       "region": "Global"
     },
     {
       "source": "NBC News",
-      "positive": 12,
+      "positive": 13,
       "neutral": 9,
-      "negative": 22,
-      "count": 43,
+      "negative": 20,
+      "count": 42,
       "region": "North America"
     },
     {
       "source": "Times of Israel",
-      "positive": 13,
+      "positive": 14,
       "neutral": 2,
-      "negative": 25,
-      "count": 40,
+      "negative": 26,
+      "count": 42,
       "region": "Middle East"
     },
     {
       "source": "Middle East Eye",
       "positive": 1,
       "neutral": 1,
-      "negative": 36,
-      "count": 38,
+      "negative": 34,
+      "count": 36,
       "region": "Middle East"
     },
     {
       "source": "Mashable",
-      "positive": 20,
+      "positive": 19,
       "neutral": 8,
       "negative": 3,
-      "count": 31,
-      "region": "Global"
-    },
-    {
-      "source": "Bloomberg",
-      "positive": 10,
-      "neutral": 3,
-      "negative": 15,
-      "count": 28,
+      "count": 30,
       "region": "Global"
     },
     {
@@ -166,6 +158,14 @@
       "negative": 17,
       "count": 27,
       "region": "Europe"
+    },
+    {
+      "source": "Bloomberg",
+      "positive": 8,
+      "neutral": 3,
+      "negative": 15,
+      "count": 26,
+      "region": "Global"
     },
     {
       "source": "Euronews",
@@ -184,14 +184,6 @@
       "region": "North America"
     },
     {
-      "source": "RT News",
-      "positive": 8,
-      "neutral": 0,
-      "negative": 14,
-      "count": 22,
-      "region": "Global"
-    },
-    {
       "source": "Deutsche Welle",
       "positive": 13,
       "neutral": 1,
@@ -200,20 +192,28 @@
       "region": "Global"
     },
     {
-      "source": "Sputnik News",
-      "positive": 4,
-      "neutral": 4,
+      "source": "RT News",
+      "positive": 8,
+      "neutral": 0,
       "negative": 13,
       "count": 21,
-      "region": "North America"
+      "region": "Global"
     },
     {
       "source": "NPR",
       "positive": 4,
       "neutral": 0,
-      "negative": 17,
-      "count": 21,
+      "negative": 16,
+      "count": 20,
       "region": "North America"
+    },
+    {
+      "source": "Sputnik News",
+      "positive": 4,
+      "neutral": 4,
+      "negative": 12,
+      "count": 20,
+      "region": "Europe"
     },
     {
       "source": "Irish Times",
@@ -242,17 +242,17 @@
     {
       "source": "CNBC",
       "positive": 8,
-      "neutral": 3,
+      "neutral": 2,
       "negative": 6,
-      "count": 17,
-      "region": "North America"
+      "count": 16,
+      "region": "Europe"
     },
     {
       "source": "Wired",
       "positive": 9,
       "neutral": 1,
-      "negative": 3,
-      "count": 13,
+      "negative": 2,
+      "count": 12,
       "region": "Global"
     },
     {
@@ -348,37 +348,37 @@
     {
       "region": "North America",
       "positive": 233,
-      "neutral": 71,
-      "negative": 380,
-      "count": 684
+      "neutral": 70,
+      "negative": 374,
+      "count": 677
     },
     {
       "region": "Europe",
-      "positive": 224,
-      "neutral": 79,
-      "negative": 175,
-      "count": 478
+      "positive": 227,
+      "neutral": 76,
+      "negative": 178,
+      "count": 481
     },
     {
       "region": "Asia-Pacific",
-      "positive": 187,
-      "neutral": 81,
+      "positive": 189,
+      "neutral": 80,
       "negative": 181,
-      "count": 449
+      "count": 450
     },
     {
       "region": "Middle East",
-      "positive": 44,
+      "positive": 45,
       "neutral": 9,
-      "negative": 111,
+      "negative": 110,
       "count": 164
     },
     {
       "region": "Global",
-      "positive": 67,
+      "positive": 65,
       "neutral": 32,
-      "negative": 51,
-      "count": 150
+      "negative": 49,
+      "count": 146
     },
     {
       "region": "Africa",
@@ -399,65 +399,65 @@
     {
       "topic": "Tech",
       "positive": 179,
-      "neutral": 54,
-      "negative": 204,
-      "count": 437
+      "neutral": 53,
+      "negative": 207,
+      "count": 439
     },
     {
       "topic": "Politics",
       "positive": 113,
-      "neutral": 48,
-      "negative": 230,
-      "count": 391
+      "neutral": 46,
+      "negative": 226,
+      "count": 385
     },
     {
       "topic": "Other",
-      "positive": 118,
-      "neutral": 83,
-      "negative": 148,
+      "positive": 119,
+      "neutral": 84,
+      "negative": 146,
       "count": 349
     },
     {
       "topic": "Sports",
-      "positive": 169,
-      "neutral": 32,
-      "negative": 50,
-      "count": 251
+      "positive": 171,
+      "neutral": 31,
+      "negative": 53,
+      "count": 255
     },
     {
       "topic": "World",
-      "positive": 74,
-      "neutral": 20,
-      "negative": 154,
-      "count": 248
+      "positive": 76,
+      "neutral": 19,
+      "negative": 150,
+      "count": 245
     },
     {
       "topic": "Entertainment",
-      "positive": 46,
+      "positive": 47,
       "neutral": 10,
-      "negative": 24,
+      "negative": 23,
       "count": 80
     },
     {
       "topic": "Business",
-      "positive": 26,
+      "positive": 23,
       "neutral": 14,
       "negative": 24,
-      "count": 64
+      "count": 61
     },
     {
       "topic": "Health",
       "positive": 18,
-      "neutral": 5,
+      "neutral": 4,
       "negative": 22,
-      "count": 45
+      "count": 44
     },
     {
       "topic": "Science",
       "positive": 18,
       "neutral": 2,
-      "negative": 18,
-      "count": 38
+      "negative": 17,
+      "count": 37
     },
     {
       "topic": "Regional",
@@ -468,13 +468,21 @@
     },
     {
       "topic": "Local",
-      "positive": 7,
+      "positive": 8,
       "neutral": 4,
       "negative": 19,
-      "count": 30
+      "count": 31
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Where to stay the next time you\u2019re in Kuala Lumpur: The city\u2019s new luxury hotels",
+      "url": "https://www.channelnewsasia.com/experiences/kl-hotel-openings-2025-2026-5339411",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2025-09-14T06:29:00+08:00",
+      "sentiment": "positive"
+    },
     {
       "title": "From fishball factory to bus depot, behind-the-scenes tours gain fans in Singapore",
       "url": "https://www.straitstimes.com/singapore/community/from-fishball-factory-to-bus-depot-factory-tours-gaining-fans",
@@ -580,6 +588,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "China unveils plan to 'stabilise' auto sector growth",
+      "url": "https://www.channelnewsasia.com/east-asia/china-unveils-plan-stabilise-auto-sector-growth-5348256",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-09-14T03:15:00+08:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Odisha Information Commission debars RTI applicant from filing applications for a year",
       "url": "https://www.thehindu.com/news/national/odisha/odisha-information-commission-debars-rti-applicant-from-filing-applications-for-a-year/article70046326.ece",
       "source": "The Hindu",
@@ -642,6 +658,14 @@
       "region": "Asia-Pacific",
       "published": "2025-09-14T02:23:00+05:30",
       "sentiment": "negative"
+    },
+    {
+      "title": "La Ni\u00f1a likely by year-end, may bring colder winter in India: Experts",
+      "url": "https://timesofindia.indiatimes.com/city/pune/la-nia-likely-by-year-end-may-bring-colder-winter-in-india-experts/articleshow/123874860.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-09-14T02:18:48+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "Congress to probe Nelledam\u2019s death",
@@ -980,6 +1004,14 @@
       "sentiment": "neutral"
     },
     {
+      "title": "UFC star McCann wins boxing debut after taking mid-fight kick!",
+      "url": "https://www.skysports.com/boxing/news/12040/13430645/molly-mccann-wins-professional-boxing-debut-but-former-ufc-star-has-to-take-a-kick-along-the-way",
+      "source": "Sky Sports",
+      "region": "Europe",
+      "published": "2025-09-13T23:11:00+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "India vs Pakistan: Zayed Khan backs Team India ahead of Asia Cup 2025 clash",
       "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/india-vs-pakistan-zayed-khan-backs-team-india-ahead-of-asia-cup-2025-clash-a-damn-good-team-100-jeetne-waali-hai/articleshow/123872975.cms",
       "source": "Times of India",
@@ -1084,6 +1116,30 @@
       "sentiment": "positive"
     },
     {
+      "title": "Right-wing ministers call to annex West Bank after UN votes for two-state solution",
+      "url": "https://www.timesofisrael.com/right-wing-ministers-call-to-annex-west-bank-after-un-votes-for-two-state-solution/",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "published": "2025-09-13T22:37:36+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Steeplechaser stops to help struggling rival at World Athletics Champs",
+      "url": "https://www.abc.net.au/news/2025-09-14/world-athletics-championships-steeplechase-tim-van-de-velde/105771466",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-09-13T22:37:12+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Somerset beat Hampshire to win T20 Blast in record-breaking final",
+      "url": "https://www.bbc.com/sport/cricket/videos/cewngxqz2jvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "region": "Europe",
+      "published": "2025-09-13T22:36:16+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "IND vs PAK boycott: Ex-cricketer and BJP leader reiterates - \u2018Shouldn\u2019t be played\u2019",
       "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/amid-india-vs-pakistan-boycott-calls-former-cricketer-and-bjp-leader-reiterates-stance-this-match-shouldnt-/articleshow/123872301.cms",
       "source": "Times of India",
@@ -1100,11 +1156,51 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Biden struggling to find donors willing to fund his presidential library",
+      "url": "https://www.rt.com/news/624631-biden-presidential-library-donors/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "source": "RT News",
+      "region": "Global",
+      "published": "2025-09-13T22:31:02+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Trump administration reportedly has plan to send national guard to Louisiana \u2013 as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/13/charlie-kirk-suspect-tyler-robinson-erika-kirk-us-politics-latest-news-donald-trump",
+      "source": "The Guardian",
+      "region": "North America",
+      "published": "2025-09-13T22:30:33+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Charlie Kirk\u2019s public memorial service will be held in Arizona next weekend",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/charlie-kirk-public-memorial-service-arizona-b2826049.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-09-13T22:28:16+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Trump shares call for media \u2018accountability\u2019 with \u2018Charlie Kirk Act\u2019 after shooting",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/media-censorship-accountability-charlie-kirk-act-b2825988.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-09-13T22:27:28+00:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "'Salami slicing': Russia's incursion into Poland - How Putin has riled Trump, again",
       "url": "https://timesofindia.indiatimes.com/world/us/salami-slicing-russias-incursion-into-poland-how-putin-has-riled-trump-again/articleshow/123872315.cms",
       "source": "Times of India",
       "region": "Europe",
       "published": "2025-09-13T22:26:54+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "UN condemns reported Haitian village massacre by armed gangs",
+      "url": "https://www.theguardian.com/world/2025/sep/13/un-condemns-reported-haitian-village-massacre-by-armed-gangs",
+      "source": "The Guardian",
+      "region": "Europe",
+      "published": "2025-09-13T22:26:51+00:00",
       "sentiment": "negative"
     },
     {
@@ -1124,12 +1220,44 @@
       "sentiment": "negative"
     },
     {
+      "title": "Belfast's Crocker beats Donovan to win world title",
+      "url": "https://www.bbc.com/sport/boxing/articles/c89dgx3jnzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "region": "Europe",
+      "published": "2025-09-13T22:23:29+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Crocker beats Donovan to win world title at Windsor Park",
+      "url": "https://www.bbc.com/sport/boxing/articles/c89dgx3jnzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "region": "Europe",
+      "published": "2025-09-13T22:23:29+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Pressure mounts on Speakman after Liberals' Kiama loss",
+      "url": "https://www.abc.net.au/news/2025-09-14/holder-nsw-kiama-by-election-analysis/105768772",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-09-13T22:22:35+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "New Railway line brings new hope for Mizoram\u2019s handicrafts",
       "url": "https://www.thehindu.com/news/national/mizoram/new-railway-line-brings-new-hope-for-mizorams-handicrafts/article70042710.ece",
       "source": "The Hindu",
       "region": "Asia-Pacific",
       "published": "2025-09-13T22:22:29+05:30",
       "sentiment": "positive"
+    },
+    {
+      "title": "Littler fights back to beat Clayton at World Series",
+      "url": "https://www.bbc.com/sport/darts/articles/c8jme9w8k83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "region": "Europe",
+      "published": "2025-09-13T22:21:04+00:00",
+      "sentiment": "negative"
     },
     {
       "title": "Rajahmundry Central Prison wins bronze for hygiene at national prison meet",
@@ -1146,134 +1274,6 @@
       "region": "Europe",
       "published": "2025-09-13T22:20:00+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Dozens of police officers injured and 25 arrests as huge Tommy Robinson rally marred by violence",
-      "url": "https://www.independent.co.uk/news/uk/home-news/tommy-robinson-protest-met-police-london-b2825980.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-09-13T22:16:20+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Four, including mother-son duo, meet watery grave",
-      "url": "https://www.thehindu.com/news/national/telangana/four-including-mother-son-duo-meet-watery-grave/article70045897.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-09-13T22:14:00+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Corey Perry sidelined after knee surgery, out 6-8 weeks for Los Angeles Kings",
-      "url": "https://timesofindia.indiatimes.com/sports/nhl/news/corey-perry-sidelined-after-knee-surgery-out-6-8-weeks-for-los-angeles-kings/articleshow/123872091.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-09-13T22:13:21+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Canelo vs Crawford live: Start time, undercard, fight updates and results tonight",
-      "url": "https://www.independent.co.uk/sport/boxing/canelo-crawford-fight-live-stream-results-updates-b2825601.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-09-13T22:13:02+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Eddie Hearn scoffs at Dana White\u2019s claim about Canelo vs Crawford and \u2018boxing\u2019s biggest fights\u2019",
-      "url": "https://www.independent.co.uk/sport/boxing/dana-white-canelo-crawford-eddie-hearn-b2826060.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-09-13T22:12:45+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Watch | PM Modi in Manipur: Ethnic violence victims request a safe return back to home",
-      "url": "https://www.thehindu.com/videos/watch-pm-modi-in-manipur-ethnic-violence-victims-request-a-safe-return-back-to-home/article70046759.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-09-13T22:10:43+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Appeasing the hungry ghosts of Christmas Island's painful past",
-      "url": "https://www.abc.net.au/news/2025-09-14/hungry-ghost-festivities-mark-christmas-island-troubled-past/105747320",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-09-13T22:09:34+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Ukraine hits one of Russia\u2019s largest oil refining complexes",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3325454/ukraine-hits-one-russias-largest-oil-refining-complexes?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Europe",
-      "published": "2025-09-13T22:09:06+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Red Roses legend says this year\u2019s World Cup marks turning point in women\u2019s rugby",
-      "url": "https://www.independent.co.uk/tv/sport/red-roses-shaunagh-brown-interview-video-b2826065.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-09-13T22:08:59+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Second half blitz takes New Zealand to 46-17 World Cup win over S Africa",
-      "url": "https://www.channelnewsasia.com/sport/second-half-blitz-takes-new-zealand-46-17-world-cup-win-over-s-africa-5348066",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-09-13T22:08:50+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Chelsea\u2019s defence undermines attacking talent as Brentford strike late",
-      "url": "https://www.telegraph.co.uk/football/2025/09/13/brentford-vs-chelsea-live-score-latest-premier-league-watch/",
-      "source": "Telegraph",
-      "region": "Europe",
-      "published": "2025-09-13T22:08:41+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Gaza Famine Death Toll Rises to 420, Including 145 Children - Health Ministry",
-      "url": "https://sputnikglobe.com/20250913/gaza-famine-death-toll-rises-to-420-including-145-children-health-ministry-1122779535.html",
-      "source": "Sputnik News",
-      "region": "Middle East",
-      "published": "2025-09-13T22:07:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Dutch GP stewards cancel penalty points handed to Sainz",
-      "url": "https://www.channelnewsasia.com/sport/dutch-gp-stewards-cancel-penalty-points-handed-sainz-5348056",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-09-13T22:05:55+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Ignoring long throw 'snobbery' key to Brentford success - Andrews",
-      "url": "https://www.bbc.com/sport/football/videos/crkjx0r0nvvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "region": "Europe",
-      "published": "2025-09-13T22:05:33+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Adani Power to invest $3 billion to set up 2400 MW power project in Bihar",
-      "url": "https://www.thehindu.com/business/adani-power-to-invest-3-billion-to-set-up-2400-mw-power-project-in-bihar/article70046746.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-09-13T22:04:46+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Tariffs and fentanyl cloud prospect of Trump-Xi summit in Beijing",
-      "url": "https://www.ft.com/content/b6fb9c02-e5d5-426b-906c-76225258ad59",
-      "source": "Financial Times",
-      "region": "Asia-Pacific",
-      "published": "2025-09-13T22:02:48+00:00",
-      "sentiment": "positive"
     }
   ]
 }
