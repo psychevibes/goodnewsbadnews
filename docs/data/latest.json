@@ -1,42 +1,42 @@
 {
-  "generated_at": "2025-09-13T06:30:39.680874+00:00",
+  "generated_at": "2025-09-13T06:49:38.719482+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 1213,
-    "neutral": 347,
-    "negative": 1383
+    "positive": 1202,
+    "neutral": 346,
+    "negative": 1369
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 185,
-      "neutral": 79,
-      "negative": 224,
-      "count": 488,
+      "positive": 184,
+      "neutral": 78,
+      "negative": 223,
+      "count": 485,
       "region": "North America"
     },
     {
       "source": "The Hindu",
-      "positive": 127,
-      "neutral": 70,
-      "negative": 96,
-      "count": 293,
+      "positive": 125,
+      "neutral": 71,
+      "negative": 93,
+      "count": 289,
       "region": "Asia-Pacific"
     },
     {
       "source": "Bloomberg",
       "positive": 87,
-      "neutral": 16,
+      "neutral": 15,
       "negative": 63,
-      "count": 166,
-      "region": "Asia-Pacific"
+      "count": 165,
+      "region": "Europe"
     },
     {
       "source": "Times of India",
       "positive": 59,
       "neutral": 9,
-      "negative": 82,
-      "count": 150,
+      "negative": 84,
+      "count": 152,
       "region": "Asia-Pacific"
     },
     {
@@ -57,11 +57,11 @@
     },
     {
       "source": "Channel News Asia",
-      "positive": 52,
-      "neutral": 18,
-      "negative": 40,
+      "positive": 51,
+      "neutral": 20,
+      "negative": 39,
       "count": 110,
-      "region": "Asia-Pacific"
+      "region": "Global"
     },
     {
       "source": "CBS News",
@@ -75,33 +75,25 @@
       "source": "Australian Broadcasting Corporation",
       "positive": 44,
       "neutral": 7,
-      "negative": 55,
-      "count": 106,
+      "negative": 53,
+      "count": 104,
       "region": "Asia-Pacific"
     },
     {
       "source": "BBC Sport",
-      "positive": 65,
+      "positive": 64,
       "neutral": 7,
       "negative": 17,
-      "count": 89,
-      "region": "Africa"
+      "count": 88,
+      "region": "North America"
     },
     {
       "source": "BBC News",
-      "positive": 30,
+      "positive": 28,
       "neutral": 9,
-      "negative": 43,
-      "count": 82,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "Sky Sports",
-      "positive": 46,
-      "neutral": 18,
-      "negative": 13,
-      "count": 77,
-      "region": "Europe"
+      "negative": 42,
+      "count": 79,
+      "region": "North America"
     },
     {
       "source": "ESPN",
@@ -112,27 +104,35 @@
       "region": "Global"
     },
     {
+      "source": "Sky Sports",
+      "positive": 46,
+      "neutral": 17,
+      "negative": 13,
+      "count": 76,
+      "region": "Middle East"
+    },
+    {
       "source": "South China Morning Post",
-      "positive": 32,
+      "positive": 30,
       "neutral": 1,
-      "negative": 41,
-      "count": 74,
-      "region": "Asia-Pacific"
+      "negative": 40,
+      "count": 71,
+      "region": "Europe"
     },
     {
       "source": "NBC News",
       "positive": 11,
       "neutral": 9,
-      "negative": 47,
-      "count": 67,
-      "region": "Asia-Pacific"
+      "negative": 45,
+      "count": 65,
+      "region": "South America"
     },
     {
       "source": "Al Jazeera English",
       "positive": 16,
       "neutral": 2,
-      "negative": 46,
-      "count": 64,
+      "negative": 45,
+      "count": 63,
       "region": "North America"
     },
     {
@@ -152,20 +152,20 @@
       "region": "Middle East"
     },
     {
-      "source": "CNBC",
-      "positive": 29,
-      "neutral": 8,
-      "negative": 18,
-      "count": 55,
-      "region": "North America"
-    },
-    {
       "source": "Euronews",
       "positive": 25,
       "neutral": 3,
-      "negative": 27,
-      "count": 55,
+      "negative": 26,
+      "count": 54,
       "region": "Europe"
+    },
+    {
+      "source": "CNBC",
+      "positive": 26,
+      "neutral": 8,
+      "negative": 18,
+      "count": 52,
+      "region": "North America"
     },
     {
       "source": "France 24",
@@ -203,17 +203,9 @@
       "source": "Deutsche Welle",
       "positive": 16,
       "neutral": 0,
-      "negative": 18,
-      "count": 34,
-      "region": "Europe"
-    },
-    {
-      "source": "AllAfrica",
-      "positive": 12,
-      "neutral": 4,
       "negative": 17,
       "count": 33,
-      "region": "Global"
+      "region": "North America"
     },
     {
       "source": "Straits Times",
@@ -230,6 +222,14 @@
       "negative": 12,
       "count": 31,
       "region": "North America"
+    },
+    {
+      "source": "AllAfrica",
+      "positive": 13,
+      "neutral": 3,
+      "negative": 14,
+      "count": 30,
+      "region": "Africa"
     },
     {
       "source": "NPR",
@@ -267,8 +267,8 @@
       "source": "RT News",
       "positive": 8,
       "neutral": 2,
-      "negative": 12,
-      "count": 22,
+      "negative": 13,
+      "count": 23,
       "region": "North America"
     },
     {
@@ -339,30 +339,30 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 447,
+      "positive": 444,
       "neutral": 109,
-      "negative": 637,
-      "count": 1193
+      "negative": 634,
+      "count": 1187
     },
     {
       "region": "Europe",
-      "positive": 315,
-      "neutral": 100,
-      "negative": 276,
-      "count": 691
+      "positive": 313,
+      "neutral": 99,
+      "negative": 273,
+      "count": 685
     },
     {
       "region": "Asia-Pacific",
-      "positive": 227,
-      "neutral": 81,
-      "negative": 202,
-      "count": 510
+      "positive": 223,
+      "neutral": 82,
+      "negative": 193,
+      "count": 498
     },
     {
       "region": "Global",
       "positive": 138,
-      "neutral": 38,
-      "negative": 109,
+      "neutral": 37,
+      "negative": 110,
       "count": 285
     },
     {
@@ -381,61 +381,61 @@
     },
     {
       "region": "Africa",
-      "positive": 17,
+      "positive": 15,
       "neutral": 4,
       "negative": 14,
-      "count": 35
+      "count": 33
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 306,
+      "positive": 301,
       "neutral": 83,
-      "negative": 283,
-      "count": 672
+      "negative": 277,
+      "count": 661
     },
     {
       "topic": "Politics",
-      "positive": 179,
+      "positive": 176,
       "neutral": 55,
-      "negative": 390,
-      "count": 624
+      "negative": 389,
+      "count": 620
     },
     {
       "topic": "Other",
-      "positive": 168,
+      "positive": 169,
       "neutral": 75,
-      "negative": 200,
-      "count": 443
+      "negative": 201,
+      "count": 445
     },
     {
       "topic": "World",
-      "positive": 137,
-      "neutral": 35,
-      "negative": 237,
-      "count": 409
+      "positive": 138,
+      "neutral": 34,
+      "negative": 232,
+      "count": 404
     },
     {
       "topic": "Sports",
-      "positive": 168,
+      "positive": 163,
       "neutral": 30,
-      "negative": 60,
-      "count": 258
+      "negative": 59,
+      "count": 252
     },
     {
       "topic": "Business",
-      "positive": 102,
-      "neutral": 31,
+      "positive": 101,
+      "neutral": 32,
       "negative": 61,
       "count": 194
     },
     {
       "topic": "Entertainment",
       "positive": 78,
-      "neutral": 17,
-      "negative": 42,
-      "count": 137
+      "neutral": 16,
+      "negative": 41,
+      "count": 135
     },
     {
       "topic": "Health",
@@ -446,9 +446,9 @@
     },
     {
       "topic": "Regional",
-      "positive": 20,
+      "positive": 21,
       "neutral": 7,
-      "negative": 23,
+      "negative": 22,
       "count": 50
     },
     {
@@ -468,6 +468,14 @@
   ],
   "sample_headlines": [
     {
+      "title": "Emotions run high as India and Pakistan face off after May clashes",
+      "url": "https://www.channelnewsasia.com/sport/emotions-run-high-india-and-pakistan-face-after-may-clashes-5347751",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-09-13T14:36:43+08:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Neymar won't have problems securing Brazil WC spot if in top shape, says Ancelotti",
       "url": "https://www.channelnewsasia.com/sport/neymar-wont-have-problems-securing-brazil-wc-spot-if-in-top-shape-says-ancelotti-5347731",
       "source": "Channel News Asia",
@@ -486,6 +494,14 @@
     {
       "title": "BlackRock to invest $678 million in UK data centres during Trump visit, Sky News reports",
       "url": "https://www.channelnewsasia.com/business/blackrock-invest-678-million-in-uk-data-centres-during-trump-visit-sky-news-reports-5347716",
+      "source": "Channel News Asia",
+      "region": "Europe",
+      "published": "2025-09-13T13:47:30+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "BlackRock to invest $700 million in UK data centres during Trump visit, Sky News reports",
+      "url": "https://www.channelnewsasia.com/business/blackrock-invest-700-million-in-uk-data-centres-during-trump-visit-sky-news-reports-5347716",
       "source": "Channel News Asia",
       "region": "Europe",
       "published": "2025-09-13T13:47:30+08:00",
@@ -530,6 +546,38 @@
       "region": "Asia-Pacific",
       "published": "2025-09-13T12:06:43+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Kerala Speaker\u2019s office receives letter stating Rahul Mamkootathil remains debarred from CLP",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-speakers-office-receives-letter-stating-rahul-mamkootathil-remains-debarred-from-clp/article70044852.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-13T12:06:24+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Iridium scam: Tamil Nadu police bust racket that cheated many using fake RBI credentials",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/iridium-scam-tamil-nadu-police-bust-racket-that-cheated-many-using-fake-rbi-credentials/article70044843.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-09-13T12:05:31+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "'Farce, tokenism, insult': PM Modi's Manipur visit draws Congress ire",
+      "url": "https://timesofindia.indiatimes.com/india/farce-tokenism-insult-pm-modis-manipur-visit-draws-congress-ire-leaders-say-should-have-visited-long-back/articleshow/123864850.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-09-13T12:01:43+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "'NE suffered due to vote bank politics': PM Modi slams Cong in Mizoram - top quotes",
+      "url": "https://timesofindia.indiatimes.com/india/northeast-suffered-heavily-due-to-vote-bank-politics-pm-modi-slams-congress-in-mizoram-top-quotes/articleshow/123864793.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-09-13T12:00:44+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Singapore's new Boeing P-8A maritime patrol aircraft could enter service in early 2030s: Chan Chun Sing",
@@ -594,6 +642,14 @@
       "region": "Asia-Pacific",
       "published": "2025-09-13T11:26:33+05:30",
       "sentiment": "positive"
+    },
+    {
+      "title": "CBSE 2026: Additional subject scrapped; private candidates blindsided",
+      "url": "https://timesofindia.indiatimes.com/education/news/cbse-scraps-additional-subject-option-without-prior-notice-for-private-students-leaving-thousands-adrift/articleshow/123864470.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-09-13T11:16:43+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Hyderabad drug bust: Accused linked to international drug network spanning eight years",
@@ -1209,62 +1265,6 @@
       "source": "Sky Sports",
       "region": "Europe",
       "published": "2025-09-13T07:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Canelo vs Crawford big-fight predictions: Who wins?",
-      "url": "https://www.skysports.com/boxing/news/12040/13429263/canelo-alvarez-vs-terence-crawford-big-fight-predictions-who-wins-undisputed-super-middleweight-title-clash",
-      "source": "Sky Sports",
-      "region": "North America",
-      "published": "2025-09-13T07:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "SC may rethink cracker ban, restrains authorities from cancelling licences",
-      "url": "https://timesofindia.indiatimes.com/india/sc-may-rethink-cracker-ban-restrains-authorities-from-cancelling-licences/articleshow/123862151.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-09-13T06:57:34+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "20 custodial deaths in two years in Rajasthan; rights groups express concern",
-      "url": "https://www.thehindu.com/news/national/rajasthan/20-custodial-deaths-in-two-years-in-rajasthan-rights-groups-express-concern/article70042659.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-13T06:55:05+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "India votes in favour of UNGA resolution on Palestine endorsing two-state solution",
-      "url": "https://www.thehindu.com/news/national/india-votes-in-favour-of-unga-resolution-on-palestine-endorsing-two-state-solution/article70043475.ece",
-      "source": "The Hindu",
-      "region": "Europe",
-      "published": "2025-09-13T06:45:14+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "\u2018Personal liberty first\u2019: SC directs HCs; claims bail pleas must be decided in 2 months",
-      "url": "https://timesofindia.indiatimes.com/india/tell-lower-courts-to-give-priority-to-personal-liberty-cases-sc-to-hcs/articleshow/123862092.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-09-13T06:44:09+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Beer and booze on camelback: Delhi Police crack desert-style smuggling racket",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/beer-and-booze-on-camelback-delhi-police-crack-desert-style-smuggling-racket/articleshow/123862086.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-09-13T06:41:48+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Inside Shanghai\u2019s coolest spots: Hidden bars, modern art and surprising flavours",
-      "url": "https://www.channelnewsasia.com/experiences/shanghai-creative-travel-itinerary-5341346",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-09-13T06:33:51+08:00",
       "sentiment": "positive"
     }
   ]
