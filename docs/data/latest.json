@@ -1,81 +1,81 @@
 {
-  "generated_at": "2025-09-16T19:20:30.744806+00:00",
+  "generated_at": "2025-09-16T19:43:01.369619+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 1296,
-    "neutral": 451,
-    "negative": 1570
+    "positive": 1304,
+    "neutral": 450,
+    "negative": 1593
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 220,
-      "neutral": 103,
-      "negative": 249,
-      "count": 572,
+      "positive": 221,
+      "neutral": 104,
+      "negative": 250,
+      "count": 575,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 99,
+      "positive": 98,
       "neutral": 84,
-      "negative": 111,
-      "count": 294,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "Bloomberg",
-      "positive": 129,
-      "neutral": 30,
-      "negative": 60,
-      "count": 219,
+      "negative": 110,
+      "count": 292,
       "region": "North America"
     },
     {
+      "source": "Bloomberg",
+      "positive": 130,
+      "neutral": 29,
+      "negative": 61,
+      "count": 220,
+      "region": "Global"
+    },
+    {
       "source": "CBS News",
-      "positive": 41,
+      "positive": 40,
       "neutral": 17,
-      "negative": 86,
-      "count": 144,
+      "negative": 91,
+      "count": 148,
+      "region": "South America"
+    },
+    {
+      "source": "The Guardian",
+      "positive": 35,
+      "neutral": 3,
+      "negative": 105,
+      "count": 143,
       "region": "North America"
     },
     {
       "source": "Times of India",
-      "positive": 61,
+      "positive": 60,
       "neutral": 8,
       "negative": 72,
-      "count": 141,
-      "region": "North America"
+      "count": 140,
+      "region": "Asia-Pacific"
     },
     {
-      "source": "The Guardian",
-      "positive": 34,
-      "neutral": 3,
-      "negative": 100,
-      "count": 137,
-      "region": "North America"
-    },
-    {
-      "source": "Australian Broadcasting Corporation",
-      "positive": 36,
-      "neutral": 8,
-      "negative": 88,
-      "count": 132,
+      "source": "Fox News",
+      "positive": 39,
+      "neutral": 7,
+      "negative": 84,
+      "count": 130,
       "region": "Asia-Pacific"
     },
     {
       "source": "Channel News Asia",
       "positive": 42,
-      "neutral": 40,
-      "negative": 46,
-      "count": 128,
-      "region": "North America"
+      "neutral": 39,
+      "negative": 48,
+      "count": 129,
+      "region": "Global"
     },
     {
-      "source": "Fox News",
-      "positive": 38,
-      "neutral": 7,
-      "negative": 82,
+      "source": "Australian Broadcasting Corporation",
+      "positive": 34,
+      "neutral": 8,
+      "negative": 85,
       "count": 127,
       "region": "Asia-Pacific"
     },
@@ -91,25 +91,33 @@
       "source": "NBC News",
       "positive": 19,
       "neutral": 17,
-      "negative": 59,
-      "count": 95,
+      "negative": 61,
+      "count": 97,
       "region": "North America"
     },
     {
       "source": "South China Morning Post",
-      "positive": 40,
+      "positive": 41,
       "neutral": 3,
       "negative": 47,
-      "count": 90,
+      "count": 91,
       "region": "Middle East"
     },
     {
       "source": "Al Jazeera English",
-      "positive": 13,
+      "positive": 14,
       "neutral": 8,
-      "negative": 63,
-      "count": 84,
+      "negative": 64,
+      "count": 86,
       "region": "North America"
+    },
+    {
+      "source": "France 24",
+      "positive": 18,
+      "neutral": 5,
+      "negative": 52,
+      "count": 75,
+      "region": "Middle East"
     },
     {
       "source": "BBC Sport",
@@ -118,14 +126,6 @@
       "negative": 23,
       "count": 74,
       "region": "South America"
-    },
-    {
-      "source": "France 24",
-      "positive": 18,
-      "neutral": 5,
-      "negative": 48,
-      "count": 71,
-      "region": "Middle East"
     },
     {
       "source": "Euronews",
@@ -147,33 +147,49 @@
       "source": "Mashable",
       "positive": 43,
       "neutral": 9,
-      "negative": 11,
-      "count": 63,
-      "region": "Global"
+      "negative": 10,
+      "count": 62,
+      "region": "North America"
     },
     {
       "source": "ESPN",
-      "positive": 38,
+      "positive": 39,
       "neutral": 15,
       "negative": 8,
-      "count": 61,
-      "region": "Global"
+      "count": 62,
+      "region": "North America"
     },
     {
       "source": "CNBC",
-      "positive": 40,
-      "neutral": 7,
-      "negative": 11,
-      "count": 58,
+      "positive": 41,
+      "neutral": 8,
+      "negative": 12,
+      "count": 61,
       "region": "North America"
     },
     {
       "source": "Middle East Eye",
-      "positive": 11,
+      "positive": 10,
       "neutral": 2,
-      "negative": 28,
-      "count": 41,
+      "negative": 30,
+      "count": 42,
       "region": "Middle East"
+    },
+    {
+      "source": "Sky Sports",
+      "positive": 24,
+      "neutral": 8,
+      "negative": 8,
+      "count": 40,
+      "region": "Europe"
+    },
+    {
+      "source": "MarketWatch",
+      "positive": 27,
+      "neutral": 3,
+      "negative": 10,
+      "count": 40,
+      "region": "Global"
     },
     {
       "source": "New York Times",
@@ -184,14 +200,6 @@
       "region": "North America"
     },
     {
-      "source": "Sky Sports",
-      "positive": 22,
-      "neutral": 8,
-      "negative": 8,
-      "count": 38,
-      "region": "Europe"
-    },
-    {
       "source": "Times of Israel",
       "positive": 14,
       "neutral": 2,
@@ -200,19 +208,11 @@
       "region": "North America"
     },
     {
-      "source": "MarketWatch",
-      "positive": 26,
-      "neutral": 3,
-      "negative": 9,
-      "count": 38,
-      "region": "Global"
-    },
-    {
       "source": "Financial Times",
-      "positive": 13,
+      "positive": 14,
       "neutral": 8,
-      "negative": 15,
-      "count": 36,
+      "negative": 16,
+      "count": 38,
       "region": "Global"
     },
     {
@@ -224,20 +224,20 @@
       "region": "North America"
     },
     {
-      "source": "Irish Times",
-      "positive": 11,
-      "neutral": 3,
-      "negative": 19,
+      "source": "ABC News",
+      "positive": 5,
+      "neutral": 5,
+      "negative": 23,
       "count": 33,
       "region": "North America"
     },
     {
-      "source": "ABC News",
-      "positive": 5,
-      "neutral": 5,
-      "negative": 22,
+      "source": "Irish Times",
+      "positive": 11,
+      "neutral": 3,
+      "negative": 18,
       "count": 32,
-      "region": "North America"
+      "region": "Global"
     },
     {
       "source": "Straits Times",
@@ -256,35 +256,35 @@
       "region": "Asia-Pacific"
     },
     {
-      "source": "RT News",
-      "positive": 7,
-      "neutral": 2,
-      "negative": 20,
-      "count": 29,
-      "region": "Europe"
-    },
-    {
       "source": "The Verge",
-      "positive": 18,
+      "positive": 19,
       "neutral": 4,
       "negative": 5,
-      "count": 27,
+      "count": 28,
       "region": "Global"
     },
     {
-      "source": "Sputnik News",
-      "positive": 11,
-      "neutral": 3,
-      "negative": 11,
-      "count": 25,
-      "region": "Europe"
+      "source": "RT News",
+      "positive": 6,
+      "neutral": 2,
+      "negative": 20,
+      "count": 28,
+      "region": "Global"
     },
     {
       "source": "NPR",
       "positive": 7,
       "neutral": 1,
-      "negative": 15,
-      "count": 23,
+      "negative": 16,
+      "count": 24,
+      "region": "North America"
+    },
+    {
+      "source": "Sputnik News",
+      "positive": 11,
+      "neutral": 3,
+      "negative": 10,
+      "count": 24,
       "region": "North America"
     },
     {
@@ -312,20 +312,20 @@
       "region": "South America"
     },
     {
+      "source": "Ars Technica",
+      "positive": 5,
+      "neutral": 6,
+      "negative": 1,
+      "count": 12,
+      "region": "Global"
+    },
+    {
       "source": "Sky News",
       "positive": 1,
       "neutral": 2,
       "negative": 9,
       "count": 12,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "Ars Technica",
-      "positive": 3,
-      "neutral": 7,
-      "negative": 1,
-      "count": 11,
-      "region": "Global"
+      "region": "North America"
     },
     {
       "source": "Telegraph",
@@ -347,38 +347,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 490,
-      "neutral": 159,
-      "negative": 661,
-      "count": 1310
+      "positive": 491,
+      "neutral": 158,
+      "negative": 673,
+      "count": 1322
     },
     {
       "region": "Europe",
-      "positive": 292,
-      "neutral": 104,
-      "negative": 315,
-      "count": 711
+      "positive": 297,
+      "neutral": 106,
+      "negative": 317,
+      "count": 720
     },
     {
       "region": "Asia-Pacific",
-      "positive": 248,
-      "neutral": 102,
-      "negative": 248,
-      "count": 598
+      "positive": 247,
+      "neutral": 101,
+      "negative": 247,
+      "count": 595
     },
     {
       "region": "Middle East",
       "positive": 74,
-      "neutral": 25,
-      "negative": 215,
-      "count": 314
+      "neutral": 26,
+      "negative": 223,
+      "count": 323
     },
     {
       "region": "Global",
-      "positive": 152,
-      "neutral": 54,
-      "negative": 69,
-      "count": 275
+      "positive": 155,
+      "neutral": 52,
+      "negative": 70,
+      "count": 277
     },
     {
       "region": "Africa",
@@ -391,80 +391,80 @@
       "region": "South America",
       "positive": 17,
       "neutral": 1,
-      "negative": 35,
-      "count": 53
+      "negative": 36,
+      "count": 54
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 322,
-      "neutral": 114,
-      "negative": 301,
-      "count": 737
+      "positive": 328,
+      "neutral": 111,
+      "negative": 303,
+      "count": 742
     },
     {
       "topic": "Politics",
-      "positive": 224,
+      "positive": 221,
       "neutral": 73,
-      "negative": 414,
-      "count": 711
+      "negative": 424,
+      "count": 718
     },
     {
       "topic": "World",
-      "positive": 137,
-      "neutral": 39,
-      "negative": 316,
-      "count": 492
+      "positive": 138,
+      "neutral": 40,
+      "negative": 318,
+      "count": 496
     },
     {
       "topic": "Other",
       "positive": 172,
       "neutral": 94,
-      "negative": 191,
-      "count": 457
+      "negative": 195,
+      "count": 461
     },
     {
       "topic": "Business",
-      "positive": 150,
+      "positive": 148,
       "neutral": 40,
-      "negative": 86,
-      "count": 276
+      "negative": 87,
+      "count": 275
     },
     {
       "topic": "Sports",
-      "positive": 149,
-      "neutral": 31,
-      "negative": 52,
-      "count": 232
+      "positive": 151,
+      "neutral": 32,
+      "negative": 51,
+      "count": 234
     },
     {
       "topic": "Entertainment",
-      "positive": 59,
+      "positive": 64,
       "neutral": 19,
-      "negative": 72,
-      "count": 150
+      "negative": 74,
+      "count": 157
     },
     {
       "topic": "Health",
-      "positive": 28,
-      "neutral": 15,
+      "positive": 27,
+      "neutral": 16,
       "negative": 56,
       "count": 99
     },
     {
       "topic": "Science",
-      "positive": 27,
+      "positive": 26,
       "neutral": 10,
       "negative": 34,
-      "count": 71
+      "count": 70
     },
     {
       "topic": "Regional",
-      "positive": 14,
-      "neutral": 10,
-      "negative": 33,
-      "count": 57
+      "positive": 15,
+      "neutral": 9,
+      "negative": 36,
+      "count": 60
     },
     {
       "topic": "Local",
@@ -475,6 +475,30 @@
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Prosecutors to seek death penalty for suspect in Charlie Kirk assassination",
+      "url": "https://www.channelnewsasia.com/world/prosecutors-seek-death-penalty-suspect-in-charlie-kirk-assassination-5352776",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2025-09-17T03:33:18+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "She went from accidental hiker to climbing 87 mountains and building a women\u2019s trekking community",
+      "url": "https://www.channelnewsasia.com/women/amazing-trekkers-club-hazleen-ahmad-hiking-adhd-5344171",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-09-17T03:27:00+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Timeless luxury: How Hong Kong\u2019s heritage hotels are adapting to the modern traveller",
+      "url": "https://www.channelnewsasia.com/experiences/timeless-luxury-hong-kong-hotels-5346121",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2025-09-17T03:22:00+08:00",
+      "sentiment": "positive"
+    },
     {
       "title": "Subs Martinelli and Trossard earn Arsenal 2-0 win at Bilbao",
       "url": "https://www.channelnewsasia.com/sport/subs-martinelli-and-trossard-earn-arsenal-2-0-win-bilbao-5352751",
@@ -540,12 +564,44 @@
       "sentiment": "negative"
     },
     {
+      "title": "Oil settles over 1% higher as Ukraine drone attacks target Russian supply",
+      "url": "https://www.channelnewsasia.com/business/oil-settles-over-1-higher-ukraine-drone-attacks-target-russian-supply-5351031",
+      "source": "Channel News Asia",
+      "region": "Europe",
+      "published": "2025-09-17T01:07:14+08:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Exclusive-Japan's JERA in advanced talks to buy $1.7 billion of US shale gas assets, sources say",
       "url": "https://www.channelnewsasia.com/business/exclusive-japans-jera-in-advanced-talks-buy-17-billion-us-shale-gas-assets-sources-say-5352631",
       "source": "Channel News Asia",
       "region": "North America",
       "published": "2025-09-17T00:59:48+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Hyderabad rains: Afzal Sagar erased, flash floods now fill the void",
+      "url": "https://www.thehindu.com/news/national/telangana/hyderabad-rains-afzal-sagar-erased-flash-floods-now-fill-the-void/article70057757.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-17T00:56:55+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Tribal woman delivers baby in a \u2018doli\u2019 on way to hospital in Telangana\u2019s Charla mandal",
+      "url": "https://www.thehindu.com/news/national/telangana/tribal-woman-delivers-baby-in-a-doli-on-way-to-hospital-in-telanganas-charla-mandal/article70057830.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-17T00:53:25+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "First phase of web counselling for MBBS course begins",
+      "url": "https://www.thehindu.com/news/national/telangana/first-phase-of-web-counselling-for-mbbs-course-begins/article70057868.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-17T00:51:57+05:30",
+      "sentiment": "neutral"
     },
     {
       "title": "Moscow and Minsk rehearse launch of nuclear weapons deployed in Belarus, says Lukashenko",
@@ -594,6 +650,14 @@
       "region": "Europe",
       "published": "2025-09-17T00:30:07+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Charlie Kirk shooter officially charged for assassination; death penalty possible",
+      "url": "https://timesofindia.indiatimes.com/world/us/american-tragedy-charlie-kirk-shooter-tyler-robinson-officially-charged-for-charlie-kirk-assassination-death-penalty-possible/articleshow/123929333.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-09-17T00:27:48+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Alleged online fraud: two youths arrested",
@@ -733,6 +797,14 @@
     },
     {
       "title": "Kerala High Court seeks report on alleged custodial torture",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-seeks-report-on-alleged-custodial-torture/article70057966.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-09-16T23:13:08+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Kerala High Court seeks report on custodial torture cases",
       "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-seeks-report-on-alleged-custodial-torture/article70057966.ece",
       "source": "The Hindu",
       "region": "North America",
@@ -1201,78 +1273,6 @@
       "source": "Channel News Asia",
       "region": "Global",
       "published": "2025-09-16T21:28:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "A platform for children to express their dream of social development",
-      "url": "https://www.thehindu.com/news/national/kerala/a-platform-for-children-to-express-their-dream-of-social-development/article70057856.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-09-16T21:25:57+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "HC CJ expresses disappointment over Hyderabad Police Commissioner not furnishing details over explosives usage",
-      "url": "https://www.thehindu.com/news/national/telangana/hc-cj-expresses-disappointment-over-hyderabad-police-commissioner-not-furnishing-details-over-explosives-usage/article70058005.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-16T21:23:07+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "CCTVs in police stations: HC seeks report",
-      "url": "https://www.thehindu.com/news/national/kerala/cctvs-in-police-stations-hc-seeks-report/article70057840.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-09-16T21:21:42+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Man booked on charge of shooting at cats with airgun",
-      "url": "https://www.thehindu.com/news/national/kerala/man-booked-on-charge-of-shooting-at-cats-with-airgun/article70057825.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-09-16T21:20:52+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "More than 18,400 vapes seized from Malaysian lorry at Tuas Checkpoint",
-      "url": "https://www.channelnewsasia.com/singapore/18400-vapes-seized-malaysian-lorry-largest-smuggling-haul-ica-tuas-checkpoint-5352081",
-      "source": "Channel News Asia",
-      "region": "Asia-Pacific",
-      "published": "2025-09-16T21:20:00+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "No video recording of counting process: Karnataka High Court orders recounting of votes polled in election held to Malur Assembly constituency",
-      "url": "https://www.thehindu.com/news/national/karnataka/no-video-recording-of-counting-process-karnataka-high-court-orders-recounting-of-votes-polled-in-election-held-to-malur-assembly-constituency/article70057884.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-09-16T21:18:30+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "World\u2019s largest bamboo-based ethanol plant getting pick of the north east\u2019s grass",
-      "url": "https://www.thehindu.com/news/national/assam/worlds-largest-bamboo-based-ethanol-plant-getting-pick-of-the-north-easts-grass/article70057359.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-16T21:18:13+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "No case against Suresh Gopi for alleged bogus vote entry due to lack of evidence",
-      "url": "https://www.thehindu.com/news/national/kerala/no-case-against-suresh-gopi-for-alleged-bogus-vote-entry-due-to-lack-of-evidence/article70057774.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-16T21:18:06+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Naidu bats for tech-driven roadmap for governance, law and oder reforms in A.P.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-bats-for-tech-driven-roadmap-for-governance-law-and-oder-reforms-in-ap/article70057533.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-16T21:17:44+05:30",
       "sentiment": "negative"
     }
   ]
