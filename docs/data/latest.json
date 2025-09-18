@@ -1,58 +1,58 @@
 {
-  "generated_at": "2025-09-18T02:48:45.425977+00:00",
+  "generated_at": "2025-09-18T03:35:53.753525+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 1424,
-    "neutral": 461,
-    "negative": 1634
+    "positive": 1422,
+    "neutral": 459,
+    "negative": 1627
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 280,
+      "positive": 277,
       "neutral": 80,
-      "negative": 277,
-      "count": 637,
-      "region": "Europe"
-    },
-    {
-      "source": "The Hindu",
-      "positive": 106,
-      "neutral": 96,
-      "negative": 115,
-      "count": 317,
+      "negative": 275,
+      "count": 632,
       "region": "Asia-Pacific"
     },
     {
+      "source": "The Hindu",
+      "positive": 104,
+      "neutral": 93,
+      "negative": 113,
+      "count": 310,
+      "region": "North America"
+    },
+    {
       "source": "Bloomberg",
-      "positive": 105,
-      "neutral": 30,
-      "negative": 75,
-      "count": 210,
+      "positive": 103,
+      "neutral": 31,
+      "negative": 78,
+      "count": 212,
       "region": "Asia-Pacific"
     },
     {
       "source": "CBS News",
       "positive": 54,
       "neutral": 18,
-      "negative": 91,
-      "count": 163,
-      "region": "Middle East"
+      "negative": 90,
+      "count": 162,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Channel News Asia",
-      "positive": 56,
-      "neutral": 55,
+      "positive": 55,
+      "neutral": 56,
       "negative": 45,
       "count": 156,
-      "region": "North America"
+      "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
-      "positive": 61,
+      "positive": 60,
       "neutral": 13,
       "negative": 79,
-      "count": 153,
+      "count": 152,
       "region": "Asia-Pacific"
     },
     {
@@ -61,31 +61,39 @@
       "neutral": 1,
       "negative": 111,
       "count": 147,
-      "region": "Asia-Pacific"
+      "region": "North America"
     },
     {
       "source": "Fox News",
-      "positive": 43,
+      "positive": 44,
       "neutral": 13,
-      "negative": 82,
-      "count": 138,
-      "region": "Asia-Pacific"
+      "negative": 80,
+      "count": 137,
+      "region": "North America"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 35,
-      "neutral": 9,
-      "negative": 75,
-      "count": 119,
+      "positive": 34,
+      "neutral": 7,
+      "negative": 73,
+      "count": 114,
       "region": "Asia-Pacific"
     },
     {
       "source": "South China Morning Post",
-      "positive": 50,
+      "positive": 52,
       "neutral": 1,
       "negative": 41,
-      "count": 92,
+      "count": 94,
       "region": "Asia-Pacific"
+    },
+    {
+      "source": "BBC News",
+      "positive": 32,
+      "neutral": 8,
+      "negative": 46,
+      "count": 86,
+      "region": "North America"
     },
     {
       "source": "Al Jazeera English",
@@ -94,14 +102,6 @@
       "negative": 56,
       "count": 83,
       "region": "Middle East"
-    },
-    {
-      "source": "BBC News",
-      "positive": 32,
-      "neutral": 7,
-      "negative": 44,
-      "count": 83,
-      "region": "North America"
     },
     {
       "source": "BBC Sport",
@@ -115,8 +115,8 @@
       "source": "ESPN",
       "positive": 40,
       "neutral": 14,
-      "negative": 22,
-      "count": 76,
+      "negative": 21,
+      "count": 75,
       "region": "Global"
     },
     {
@@ -130,18 +130,10 @@
     {
       "source": "NBC News",
       "positive": 13,
-      "neutral": 9,
-      "negative": 46,
-      "count": 68,
+      "neutral": 11,
+      "negative": 45,
+      "count": 69,
       "region": "North America"
-    },
-    {
-      "source": "Times of Israel",
-      "positive": 25,
-      "neutral": 5,
-      "negative": 36,
-      "count": 66,
-      "region": "Middle East"
     },
     {
       "source": "Euronews",
@@ -152,35 +144,43 @@
       "region": "Europe"
     },
     {
-      "source": "CNBC",
-      "positive": 36,
-      "neutral": 8,
-      "negative": 20,
+      "source": "Times of Israel",
+      "positive": 25,
+      "neutral": 5,
+      "negative": 34,
       "count": 64,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "France 24",
-      "positive": 19,
-      "neutral": 3,
-      "negative": 37,
-      "count": 59,
       "region": "Middle East"
     },
     {
-      "source": "Mashable",
-      "positive": 38,
+      "source": "France 24",
+      "positive": 21,
+      "neutral": 3,
+      "negative": 40,
+      "count": 64,
+      "region": "Middle East"
+    },
+    {
+      "source": "CNBC",
+      "positive": 35,
       "neutral": 8,
+      "negative": 20,
+      "count": 63,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "Mashable",
+      "positive": 42,
+      "neutral": 9,
       "negative": 8,
-      "count": 54,
+      "count": 59,
       "region": "Global"
     },
     {
       "source": "MarketWatch",
-      "positive": 23,
+      "positive": 24,
       "neutral": 7,
       "negative": 20,
-      "count": 50,
+      "count": 51,
       "region": "Global"
     },
     {
@@ -216,14 +216,6 @@
       "region": "Europe"
     },
     {
-      "source": "Straits Times",
-      "positive": 15,
-      "neutral": 11,
-      "negative": 15,
-      "count": 41,
-      "region": "Global"
-    },
-    {
       "source": "Financial Times",
       "positive": 19,
       "neutral": 5,
@@ -240,6 +232,14 @@
       "region": "Global"
     },
     {
+      "source": "Straits Times",
+      "positive": 16,
+      "neutral": 9,
+      "negative": 13,
+      "count": 38,
+      "region": "Asia-Pacific"
+    },
+    {
       "source": "Deutsche Welle",
       "positive": 11,
       "neutral": 1,
@@ -250,10 +250,10 @@
     {
       "source": "ABC News",
       "positive": 9,
-      "neutral": 5,
+      "neutral": 4,
       "negative": 16,
-      "count": 30,
-      "region": "North America"
+      "count": 29,
+      "region": "Europe"
     },
     {
       "source": "NPR",
@@ -320,20 +320,20 @@
       "region": "Global"
     },
     {
-      "source": "Washington Post",
-      "positive": 6,
-      "neutral": 0,
-      "negative": 5,
-      "count": 11,
-      "region": "North America"
-    },
-    {
       "source": "Sky News",
       "positive": 2,
       "neutral": 1,
       "negative": 8,
       "count": 11,
       "region": "North America"
+    },
+    {
+      "source": "Washington Post",
+      "positive": 4,
+      "neutral": 0,
+      "negative": 5,
+      "count": 9,
+      "region": "Europe"
     },
     {
       "source": "Buenos Aires Herald",
@@ -347,38 +347,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 577,
-      "neutral": 144,
-      "negative": 734,
-      "count": 1455
+      "positive": 581,
+      "neutral": 145,
+      "negative": 735,
+      "count": 1461
     },
     {
       "region": "Europe",
-      "positive": 350,
+      "positive": 349,
       "neutral": 108,
-      "negative": 309,
-      "count": 767
+      "negative": 312,
+      "count": 769
     },
     {
       "region": "Asia-Pacific",
-      "positive": 251,
-      "neutral": 119,
-      "negative": 287,
-      "count": 657
+      "positive": 242,
+      "neutral": 116,
+      "negative": 283,
+      "count": 641
     },
     {
       "region": "Global",
-      "positive": 143,
+      "positive": 145,
       "neutral": 67,
-      "negative": 95,
-      "count": 305
+      "negative": 92,
+      "count": 304
     },
     {
       "region": "Middle East",
-      "positive": 62,
+      "positive": 64,
       "neutral": 17,
-      "negative": 170,
-      "count": 249
+      "negative": 166,
+      "count": 247
     },
     {
       "region": "Africa",
@@ -398,66 +398,66 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 360,
-      "neutral": 97,
-      "negative": 375,
-      "count": 832
+      "positive": 358,
+      "neutral": 95,
+      "negative": 372,
+      "count": 825
     },
     {
       "topic": "Politics",
       "positive": 296,
-      "neutral": 78,
-      "negative": 378,
-      "count": 752
+      "neutral": 76,
+      "negative": 379,
+      "count": 751
     },
     {
       "topic": "Other",
-      "positive": 160,
-      "neutral": 110,
-      "negative": 207,
-      "count": 477
+      "positive": 163,
+      "neutral": 112,
+      "negative": 203,
+      "count": 478
     },
     {
       "topic": "World",
-      "positive": 118,
+      "positive": 115,
       "neutral": 39,
-      "negative": 256,
-      "count": 413
+      "negative": 253,
+      "count": 407
     },
     {
       "topic": "Business",
-      "positive": 153,
-      "neutral": 46,
-      "negative": 110,
-      "count": 309
+      "positive": 151,
+      "neutral": 47,
+      "negative": 112,
+      "count": 310
     },
     {
       "topic": "Sports",
-      "positive": 161,
-      "neutral": 31,
+      "positive": 163,
+      "neutral": 30,
       "negative": 76,
-      "count": 268
+      "count": 269
     },
     {
       "topic": "Entertainment",
-      "positive": 70,
+      "positive": 71,
       "neutral": 23,
       "negative": 40,
-      "count": 133
+      "count": 134
     },
     {
       "topic": "Health",
-      "positive": 37,
+      "positive": 36,
       "neutral": 6,
-      "negative": 77,
+      "negative": 78,
       "count": 120
     },
     {
       "topic": "Regional",
       "positive": 35,
       "neutral": 15,
-      "negative": 54,
-      "count": 104
+      "negative": 53,
+      "count": 103
     },
     {
       "topic": "Science",
@@ -476,6 +476,30 @@
   ],
   "sample_headlines": [
     {
+      "title": "The pickleball pickle: Loud nuisance or fun pastime?",
+      "url": "https://www.straitstimes.com/singapore/the-pickleball-pickle-loud-nuisance-or-fun-pastime",
+      "source": "Straits Times",
+      "region": "Global",
+      "published": "2025-09-18T11:00:00+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Late Chinese actor Yu Menglong\u2019s mother says his fatal fall was alcohol-related, urges end to rumours",
+      "url": "https://www.channelnewsasia.com/entertainment/chinese-actor-yu-menglong-dies-mother-statement-5355341",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-09-18T10:46:21+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Haig Road, Berseh food centres to close for 3 months for upgrading",
+      "url": "https://www.straitstimes.com/singapore/haig-road-berseh-food-centres-to-close-for-3-months-for-upgrading",
+      "source": "Straits Times",
+      "region": "Global",
+      "published": "2025-09-18T10:40:00+08:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "US FTC wins key rulings against Amazon ahead of trial on Prime signups",
       "url": "https://www.channelnewsasia.com/business/us-ftc-wins-key-rulings-against-amazon-ahead-trial-prime-signups-5355451",
       "source": "Channel News Asia",
@@ -484,7 +508,23 @@
       "sentiment": "positive"
     },
     {
+      "title": "Amazon violated online shopper protection law, judge rules ahead of Prime signup trial",
+      "url": "https://www.channelnewsasia.com/business/amazon-violated-online-shopper-protection-law-judge-rules-ahead-prime-signup-trial-5355451",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-09-18T10:30:28+08:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Asian markets rise after Fed rate cuts",
+      "url": "https://www.channelnewsasia.com/business/asia-markets-fed-rate-cuts-nikkei-kospi-sti-hang-seng-5355431",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-09-18T10:20:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Asian markets mixed after US Fed rate cut",
       "url": "https://www.channelnewsasia.com/business/asia-markets-fed-rate-cuts-nikkei-kospi-sti-hang-seng-5355431",
       "source": "Channel News Asia",
       "region": "Asia-Pacific",
@@ -498,6 +538,14 @@
       "region": "Global",
       "published": "2025-09-18T10:18:22+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Northrop spacecraft's ISS cargo delivery set for Thursday after software hiccup",
+      "url": "https://www.channelnewsasia.com/business/northrop-spacecrafts-iss-cargo-delivery-set-thursday-after-software-hiccup-5355416",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-09-18T10:18:22+08:00",
+      "sentiment": "neutral"
     },
     {
       "title": "Trump hails UK special relationship as he revels in pomp of historic state visit",
@@ -540,6 +588,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "Asia Cup: Pakistan join India in Super 4s; Group B fight goes down to the wire",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/asia-cup-points-table-2025-pakistan-join-india-in-super-4s-group-b-fight-goes-down-to-the-wire/articleshow/123961940.cms",
+      "source": "Times of India",
+      "region": "Middle East",
+      "published": "2025-09-18T08:40:14+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "Unresolved questions hang over case against Charlie Kirk's accused killer",
       "url": "https://www.channelnewsasia.com/world/charlie-kirk-accused-killer-case-tyler-robinson-5355091",
       "source": "Channel News Asia",
@@ -548,12 +604,28 @@
       "sentiment": "negative"
     },
     {
+      "title": "Amazon founder Jeff Bezos says he is proud of his salary package",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-founder-jeff-bezos-says-he-is-proud-of-his-salary-package-/articleshow/123961931.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-09-18T08:34:17+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "Brazil launches proposals to attract data centers, regulate digital competition",
       "url": "https://www.channelnewsasia.com/business/brazil-launches-proposals-attract-data-centers-regulate-digital-competition-5355261",
       "source": "Channel News Asia",
       "region": "South America",
       "published": "2025-09-18T08:28:20+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "What is Lyme disease? Bella Hadid seemingly shares photos from hospital bed",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/bella-hadid-seemingly-shares-photos-from-hospital-bed-what-is-lyme-disease-early-signs-risk-factors-prevention-and-management-inside/articleshow/123961406.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-09-18T08:18:03+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "SEC paves way for crypto spot ETFs with new listing rules",
@@ -586,6 +658,14 @@
       "region": "Asia-Pacific",
       "published": "2025-09-18T08:00:00+05:30",
       "sentiment": "positive"
+    },
+    {
+      "title": "Uttarakhand cloudburst: 5 missing, 6 buildings collapse in Chamoli; many feared missing",
+      "url": "https://timesofindia.indiatimes.com/city/dehradun/uttarakhand-cloudburst-5-missing-6-buildings-collapse-in-chamoli-rescue-ops-on/articleshow/123960869.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-09-18T07:53:15+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Dubai's Burj Khalifa dazzles with greetings on PM Modi\u2019s 75th birthday",
@@ -706,6 +786,14 @@
       "region": "North America",
       "published": "2025-09-18T07:03:26+08:00",
       "sentiment": "neutral"
+    },
+    {
+      "title": "Bill Belichick\u2019s girlfriend: DWTS exit to last-minute decision; Hudson\u2019s claim revealed",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/she-wanted-control-bill-belichicks-girlfriend-jordon-hudson-reportedly-ditched-dancing-with-the-stars-at-last-minute-for-this-reason/articleshow/123960275.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-09-18T07:02:28+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "Share of U-rated films highest in Malayalam, lowest in Bhojpuri: Data",
@@ -869,6 +957,14 @@
     },
     {
       "title": "Jimmy Kimmel Live! pulled from ABC over Charlie Kirk remarks",
+      "url": "https://timesofindia.indiatimes.com/world/us/jimmy-kimmel-live-pulled-from-abc-late-night-show-suspended-indefinitely-backlash-over-charlie-kirk-remarks/articleshow/123959434.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-09-18T05:42:34+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "'Jimmy Kimmel Live!' suspended indefinitely over Charlie Kirk remarks; Trump mocks 'total losers'",
       "url": "https://timesofindia.indiatimes.com/world/us/jimmy-kimmel-live-pulled-from-abc-late-night-show-suspended-indefinitely-backlash-over-charlie-kirk-remarks/articleshow/123959434.cms",
       "source": "Times of India",
       "region": "North America",
@@ -1177,102 +1273,6 @@
       "source": "The Hindu",
       "region": "North America",
       "published": "2025-09-18T03:37:00+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Trump arrives in UK for unprecedented second state visit",
-      "url": "https://www.channelnewsasia.com/world/trump-arrives-in-uk-unprecedented-second-state-visit-5354921",
-      "source": "Channel News Asia",
-      "region": "Europe",
-      "published": "2025-09-18T03:34:00+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Pak army chief ordered officers to attend Sindoor funerals: JeM man",
-      "url": "https://timesofindia.indiatimes.com/india/pak-army-chief-ordered-officers-to-attend-sindoor-funerals-jem-man/articleshow/123956467.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-09-18T03:32:24+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "19 dead this year: 'Brain-eating' amoeba sparks political slugfest in Kerala House",
-      "url": "https://timesofindia.indiatimes.com/india/19-dead-this-year-brain-eating-amoeba-sparks-political-slugfest-in-kerala-house/articleshow/123956442.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-09-18T03:28:18+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Stocks edge lower, US yields fall after Fed delivers rate cut",
-      "url": "https://www.channelnewsasia.com/world/stocks-edge-lower-us-yields-fall-after-fed-delivers-rate-cut-5354901",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-09-18T03:13:49+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Brave Bodo/Glimt snatch 2-2 draw with Slavia Prague in Champions League debut",
-      "url": "https://www.channelnewsasia.com/sport/brave-bodoglimt-snatch-2-2-draw-slavia-prague-in-champions-league-debut-5354906",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-09-18T03:12:03+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Olympiakos frustrated as 10-man Pafos hold out for goalless draw",
-      "url": "https://www.channelnewsasia.com/sport/olympiakos-frustrated-10-man-pafos-hold-out-goalless-draw-5354911",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-09-18T03:08:50+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Olympic medallist Kerley joins Enhanced Games following provisional suspension",
-      "url": "https://www.channelnewsasia.com/sport/olympic-medallist-kerley-joins-enhanced-games-following-provisional-suspension-5354896",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-09-18T03:05:14+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "US says Wells Fargo banker barred from leaving China has returned home",
-      "url": "https://www.channelnewsasia.com/world/us-says-wells-fargo-banker-barred-leaving-china-has-returned-home-5354891",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-09-18T03:04:13+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Over one crore saplings planted to celebrate PM\u2019s birthday: Odisha CM Majhi",
-      "url": "https://www.thehindu.com/news/national/odisha/over-one-crore-saplings-planted-to-celebrate-pms-birthday-odisha-cm-majhi/article70061758.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-09-18T02:54:00+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "US Fed cuts rates by quarter point, signals steady reductions ahead",
-      "url": "https://www.channelnewsasia.com/world/fed-cuts-rates-quarter-point-signals-steady-reductions-ahead-5354881",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-09-18T02:52:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Pennsylvania shooting: 3 officers killed, 2 seriously injured",
-      "url": "https://timesofindia.indiatimes.com/world/us/pennsylvania-shooting-3-officers-killed-2-seriously-injured-investigation-under-way/articleshow/123955706.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-09-18T02:46:35+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "British celebrities hold anti-Israel concert in London to fundraise for Gaza",
-      "url": "https://www.timesofisrael.com/british-celebrities-hold-anti-israel-concert-in-london-to-fundraise-for-gaza/",
-      "source": "Times of Israel",
-      "region": "Middle East",
-      "published": "2025-09-18T02:42:32+00:00",
       "sentiment": "negative"
     }
   ]
