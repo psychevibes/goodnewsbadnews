@@ -1,51 +1,43 @@
 {
-  "generated_at": "2025-09-21T09:22:52.731191+00:00",
+  "generated_at": "2025-09-21T09:42:13.440065+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 785,
+    "positive": 791,
     "neutral": 318,
-    "negative": 785
+    "negative": 793
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 104,
-      "neutral": 60,
+      "positive": 108,
+      "neutral": 61,
       "negative": 139,
-      "count": 303,
+      "count": 308,
       "region": "North America"
     },
     {
       "source": "The Hindu",
       "positive": 94,
       "neutral": 78,
-      "negative": 98,
-      "count": 270,
+      "negative": 100,
+      "count": 272,
       "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
-      "positive": 59,
+      "positive": 61,
       "neutral": 15,
-      "negative": 46,
-      "count": 120,
+      "negative": 51,
+      "count": 127,
       "region": "Asia-Pacific"
     },
     {
       "source": "Sky Sports",
       "positive": 37,
-      "neutral": 43,
+      "neutral": 44,
       "negative": 26,
-      "count": 106,
+      "count": 107,
       "region": "Europe"
-    },
-    {
-      "source": "Australian Broadcasting Corporation",
-      "positive": 39,
-      "neutral": 9,
-      "negative": 40,
-      "count": 88,
-      "region": "Asia-Pacific"
     },
     {
       "source": "Fox News",
@@ -59,33 +51,33 @@
       "source": "BBC Sport",
       "positive": 61,
       "neutral": 6,
-      "negative": 19,
-      "count": 86,
-      "region": "Europe"
+      "negative": 20,
+      "count": 87,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "Australian Broadcasting Corporation",
+      "positive": 38,
+      "neutral": 9,
+      "negative": 36,
+      "count": 83,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Channel News Asia",
       "positive": 30,
-      "neutral": 23,
-      "negative": 32,
-      "count": 85,
-      "region": "Asia-Pacific"
+      "neutral": 22,
+      "negative": 31,
+      "count": 83,
+      "region": "Global"
     },
     {
       "source": "BBC News",
       "positive": 31,
-      "neutral": 7,
-      "negative": 28,
-      "count": 66,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "Al Jazeera English",
-      "positive": 17,
       "neutral": 8,
-      "negative": 28,
-      "count": 53,
-      "region": "Middle East"
+      "negative": 31,
+      "count": 70,
+      "region": "Asia-Pacific"
     },
     {
       "source": "CBS News",
@@ -99,8 +91,16 @@
       "source": "South China Morning Post",
       "positive": 18,
       "neutral": 2,
-      "negative": 31,
-      "count": 51,
+      "negative": 32,
+      "count": 52,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "Al Jazeera English",
+      "positive": 17,
+      "neutral": 7,
+      "negative": 28,
+      "count": 52,
       "region": "Asia-Pacific"
     },
     {
@@ -113,11 +113,11 @@
     },
     {
       "source": "ESPN",
-      "positive": 31,
+      "positive": 30,
       "neutral": 6,
       "negative": 12,
-      "count": 49,
-      "region": "North America"
+      "count": 48,
+      "region": "Global"
     },
     {
       "source": "Middle East Eye",
@@ -129,10 +129,10 @@
     },
     {
       "source": "France 24",
-      "positive": 15,
+      "positive": 16,
       "neutral": 4,
       "negative": 17,
-      "count": 36,
+      "count": 37,
       "region": "Middle East"
     },
     {
@@ -152,14 +152,6 @@
       "region": "Europe"
     },
     {
-      "source": "NPR",
-      "positive": 9,
-      "neutral": 3,
-      "negative": 7,
-      "count": 19,
-      "region": "Europe"
-    },
-    {
       "source": "NBC News",
       "positive": 2,
       "neutral": 4,
@@ -176,12 +168,28 @@
       "region": "North America"
     },
     {
+      "source": "NPR",
+      "positive": 8,
+      "neutral": 3,
+      "negative": 7,
+      "count": 18,
+      "region": "Europe"
+    },
+    {
       "source": "New York Times",
       "positive": 7,
       "neutral": 1,
       "negative": 10,
       "count": 18,
       "region": "North America"
+    },
+    {
+      "source": "Straits Times",
+      "positive": 11,
+      "neutral": 5,
+      "negative": 2,
+      "count": 18,
+      "region": "Global"
     },
     {
       "source": "Mashable",
@@ -192,28 +200,20 @@
       "region": "Global"
     },
     {
-      "source": "RT News",
-      "positive": 5,
-      "neutral": 3,
-      "negative": 9,
-      "count": 17,
-      "region": "Middle East"
-    },
-    {
-      "source": "Straits Times",
-      "positive": 11,
-      "neutral": 5,
-      "negative": 1,
-      "count": 17,
-      "region": "Global"
-    },
-    {
       "source": "Sputnik News",
       "positive": 8,
       "neutral": 1,
       "negative": 7,
       "count": 16,
       "region": "Europe"
+    },
+    {
+      "source": "RT News",
+      "positive": 5,
+      "neutral": 2,
+      "negative": 9,
+      "count": 16,
+      "region": "Middle East"
     },
     {
       "source": "Wired",
@@ -232,12 +232,20 @@
       "region": "North America"
     },
     {
+      "source": "Euronews",
+      "positive": 8,
+      "neutral": 2,
+      "negative": 4,
+      "count": 14,
+      "region": "Europe"
+    },
+    {
       "source": "Deutsche Welle",
       "positive": 6,
       "neutral": 1,
       "negative": 7,
       "count": 14,
-      "region": "Middle East"
+      "region": "Europe"
     },
     {
       "source": "Telegraph",
@@ -262,14 +270,6 @@
       "negative": 5,
       "count": 13,
       "region": "Global"
-    },
-    {
-      "source": "Euronews",
-      "positive": 6,
-      "neutral": 2,
-      "negative": 4,
-      "count": 12,
-      "region": "Europe"
     },
     {
       "source": "Sky News",
@@ -347,38 +347,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 266,
+      "positive": 268,
       "neutral": 66,
-      "negative": 311,
-      "count": 643
+      "negative": 310,
+      "count": 644
     },
     {
       "region": "Europe",
-      "positive": 211,
-      "neutral": 114,
-      "negative": 204,
-      "count": 529
+      "positive": 216,
+      "neutral": 116,
+      "negative": 210,
+      "count": 542
     },
     {
       "region": "Asia-Pacific",
-      "positive": 191,
+      "positive": 189,
       "neutral": 98,
-      "negative": 153,
-      "count": 442
+      "negative": 156,
+      "count": 443
     },
     {
       "region": "Middle East",
-      "positive": 41,
-      "neutral": 15,
+      "positive": 40,
+      "neutral": 14,
       "negative": 83,
-      "count": 139
+      "count": 137
     },
     {
       "region": "Global",
-      "positive": 62,
-      "neutral": 22,
+      "positive": 64,
+      "neutral": 21,
       "negative": 27,
-      "count": 111
+      "count": 112
     },
     {
       "region": "Africa",
@@ -398,38 +398,38 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 190,
+      "positive": 196,
       "neutral": 78,
-      "negative": 228,
-      "count": 496
-    },
-    {
-      "topic": "Other",
-      "positive": 111,
-      "neutral": 88,
-      "negative": 112,
-      "count": 311
+      "negative": 235,
+      "count": 509
     },
     {
       "topic": "Politics",
-      "positive": 118,
+      "positive": 116,
       "neutral": 46,
-      "negative": 144,
+      "negative": 146,
       "count": 308
     },
     {
+      "topic": "Other",
+      "positive": 109,
+      "neutral": 87,
+      "negative": 111,
+      "count": 307
+    },
+    {
       "topic": "World",
-      "positive": 87,
+      "positive": 86,
       "neutral": 25,
-      "negative": 153,
-      "count": 265
+      "negative": 152,
+      "count": 263
     },
     {
       "topic": "Sports",
-      "positive": 147,
+      "positive": 151,
       "neutral": 45,
-      "negative": 60,
-      "count": 252
+      "negative": 58,
+      "count": 254
     },
     {
       "topic": "Entertainment",
@@ -439,6 +439,13 @@
       "count": 100
     },
     {
+      "topic": "Health",
+      "positive": 15,
+      "neutral": 7,
+      "negative": 22,
+      "count": 44
+    },
+    {
       "topic": "Business",
       "positive": 27,
       "neutral": 2,
@@ -446,35 +453,36 @@
       "count": 43
     },
     {
-      "topic": "Health",
-      "positive": 15,
-      "neutral": 7,
-      "negative": 20,
-      "count": 42
-    },
-    {
       "topic": "Regional",
       "positive": 9,
-      "neutral": 6,
+      "neutral": 7,
       "negative": 13,
-      "count": 28
+      "count": 29
     },
     {
       "topic": "Science",
       "positive": 13,
       "neutral": 2,
-      "negative": 10,
-      "count": 25
+      "negative": 11,
+      "count": 26
     },
     {
       "topic": "Local",
-      "positive": 9,
+      "positive": 10,
       "neutral": 1,
       "negative": 8,
-      "count": 18
+      "count": 19
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Coe acclaims championship for the ages",
+      "url": "https://www.channelnewsasia.com/sport/coe-acclaims-championship-ages-5360431",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-09-21T17:25:24+08:00",
+      "sentiment": "positive"
+    },
     {
       "title": "US House lawmakers make rare China visit to stabilise ties",
       "url": "https://www.channelnewsasia.com/east-asia/us-china-visit-beijing-li-qiang-tiktok-5360391",
@@ -492,6 +500,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Man wanted by CNB arrested after drugs, vape found on him; tries to bite police during struggle",
+      "url": "https://www.straitstimes.com/singapore/man-wanted-by-cnb-arrested-after-drugs-vape-found-on-him-tries-to-bite-police-during-struggle",
+      "source": "Straits Times",
+      "region": "North America",
+      "published": "2025-09-21T17:00:54+08:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "China citizen journalist reportedly sentenced to jail in new case",
       "url": "https://www.channelnewsasia.com/east-asia/china-journalist-zhang-zhan-jailed-covid-19-5360396",
       "source": "Channel News Asia",
@@ -506,6 +522,22 @@
       "region": "North America",
       "published": "2025-09-21T15:15:00+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Prakasam District SP\u2019s initiative to curb menace of consumption of liquor in public places",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/prakasam-district-sps-initiative-to-curb-menace-of-consumption-of-liquor-in-public-places/article70074649.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-21T14:58:08+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "'Shahid Afridi dog meat khaata hai': Irfan Pathan\u2019s brutal attack; PAK allrounder left red-faced",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shahid-afridi-dog-meat-khaata-hai-bhaukta-rehta-hai-irfan-pathans-brutal-attack/articleshow/124026103.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-09-21T14:41:12+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Evacuations in Philippines, Taiwan as super typhoon nears",
@@ -556,6 +588,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Zubeen Garg\u2019s final journey: Thousands bid farewell to Assam\u2019s music icon",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/zubeen-gargs-final-journey-thousands-bid-farewell-to-assams-music-icon-watch-video/articleshow/124025811.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-09-21T14:12:30+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Every possibility of 'resounding victory' of Mahagatbhandhan in Bihar: CPI-M ahead of Assembly polls",
       "url": "https://www.thehindu.com/elections/bihar-assembly/bihar-assembly-election-2025-cpim-mahagathbandn-ma-baby-rjd/article70076655.ece",
       "source": "The Hindu",
@@ -572,7 +612,23 @@
       "sentiment": "neutral"
     },
     {
+      "title": "India vs WI Tests: BCCI secy confirms squad announcement date; 1st Test Oct 2",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-vs-west-indies-tests-bcci-secretary-confirms-squad-announcement-date/articleshow/124025742.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-09-21T13:59:39+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "Asia Cup: 'Focus on cricket, not politics' \u2013 Former cricketer's message ahead of Ind-Pak clash",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/focus-on-cricket-not-politics-former-cricketers-message-ahead-of-india-pakistan-clash/articleshow/124025740.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-09-21T13:58:40+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "IND vs PAK showdown: Declaration - 'India will beat Pakistan in Super Four'",
       "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/focus-on-cricket-not-politics-former-cricketers-message-ahead-of-india-pakistan-clash/articleshow/124025740.cms",
       "source": "Times of India",
       "region": "North America",
@@ -836,6 +892,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Journalists forced to obtain approval to publish stories in new Pentagon restrictions",
+      "url": "http://www.euronews.com/2025/09/21/journalists-forced-to-obtain-approval-to-publish-stories-in-new-pentagon-restrictions",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-09-21T11:11:17+02:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "India, Oman to sign CEPA trade pact very soon: Oman's Ambassador to India",
       "url": "https://www.thehindu.com/news/national/india-oman-to-sign-cepa-trade-pact-very-soon-omans-ambassador-to-india/article70076426.ece",
       "source": "The Hindu",
@@ -881,6 +945,14 @@
       "source": "The Hindu",
       "region": "Asia-Pacific",
       "published": "2025-09-21T10:54:53+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Remembering Robert Redford: 'I'd like to think I made a valuable contribution to culture'",
+      "url": "http://www.euronews.com/2025/09/21/remembering-robert-redford-interview-with-a-hollywood-legend",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-09-21T10:53:51+02:00",
       "sentiment": "positive"
     },
     {
@@ -956,7 +1028,23 @@
       "sentiment": "negative"
     },
     {
+      "title": "Azerbaijan GP: Verstappen starts on pole, McLarens in midfield for 12pm race LIVE!",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13434416/f1-azerbaijan-gp-live-race-qualifying-updates-results-stream-highlights-from-baku-city-circuit",
+      "source": "Sky Sports",
+      "region": "Europe",
+      "published": "2025-09-21T10:21:00+00:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Maharashtra Dy CM Eknath Shinde's 'X' account hacked;",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-dy-cm-eknath-shindes-x-account-hacked/article70076386.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-21T10:19:39+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Maharashtra Dy CM Eknath Shinde's 'X' account hacked; Congress leader Nana Patole questions cyber security in Maharashtra",
       "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-dy-cm-eknath-shindes-x-account-hacked/article70076386.ece",
       "source": "The Hindu",
       "region": "Asia-Pacific",
@@ -1020,6 +1108,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Trump repeats 'Putin let me down'; pushes for pause on oil drilling",
+      "url": "https://timesofindia.indiatimes.com/world/us/russia-ukraine-war-donald-trump-repeats-putin-let-me-down-suggests-halting-oil-drilling/articleshow/124023838.cms",
+      "source": "Times of India",
+      "region": "Europe",
+      "published": "2025-09-21T10:05:59+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Community partnerships drive St Luke\u2019s efforts to transform eldercare for a super-aged Singapore",
       "url": "https://www.straitstimes.com/singapore/community/community-partnerships-drive-st-lukes-efforts-to-transform-eldercare-for-a-super-aged-singapore",
       "source": "Straits Times",
@@ -1044,11 +1140,67 @@
       "sentiment": "positive"
     },
     {
+      "title": "British fighter jets deployed to secure Polish airspace after Russian incursions",
+      "url": "https://www.independent.co.uk/bulletin/news/fighter-jets-raf-uk-poland-b2830712.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-09-21T09:39:38+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "John Stapleton spoke of importance of thinking positively in final TV interview before his death",
+      "url": "https://www.independent.co.uk/tv/news/john-stapleton-dead-parkinsons-last-interview-b2830718.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-09-21T09:38:50+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "European airport opens a luxury dog hotel to make travel easier for pet owners",
+      "url": "https://www.independent.co.uk/travel/news-and-advice/rome-dog-hotel-airport-italy-b2830710.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-09-21T09:38:43+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Germany updates: Berlin hosts marathon with 55,000 runners",
+      "url": "https://www.dw.com/en/germany-updates-berlin-hosts-marathon-with-55-000-runners/live-74072701?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "region": "Europe",
+      "published": "2025-09-21T09:36:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Steve Martin cancels tour stops hours before showtime due to health issue",
+      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/steve-martin-health-update-covid-tour-cancelled-b2830714.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-09-21T09:35:22+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "\u2018Inexcusable\u2019: UP man makes Insta reels inside Pocso courtroom, jailed",
       "url": "https://timesofindia.indiatimes.com/city/agra/inexcusable-up-man-makes-insta-reels-inside-pocso-courtroom-jailed/articleshow/124023782.cms",
       "source": "Times of India",
       "region": "North America",
       "published": "2025-09-21T09:35:19+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Liverpool and Burnley WSL matches postponed following Matt Beard\u2019s death",
+      "url": "https://www.independent.co.uk/sport/football/liverpool-barclays-aston-villa-west-brom-united-states-b2830719.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-09-21T09:34:12+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Australia investigating Optus emergency calls outage linked to 4 deaths",
+      "url": "https://www.scmp.com/news/asia/australasia/article/3326296/australia-investigating-optus-emergency-calls-outage-linked-4-deaths?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Asia-Pacific",
+      "published": "2025-09-21T09:33:06+00:00",
       "sentiment": "negative"
     },
     {
@@ -1068,6 +1220,30 @@
       "sentiment": "negative"
     },
     {
+      "title": "Live: Six Aussies in medal contention on Super Sunday in Tokyo",
+      "url": "https://www.abc.net.au/news/2025-09-21/live-updates-world-athletics-championships-2025-in-tokyo-day-9/105799230",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-09-21T09:31:41+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Bruno Fernandes unleashed gives Ruben Amorim food for thought despite morale-boosting success",
+      "url": "https://www.independent.co.uk/sport/football/man-united-chelsea-bruno-fernandes-ruben-amorim-b2830716.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-09-21T09:31:25+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "How Penrith sent a chilling reminder that nobody does it like them",
+      "url": "https://www.abc.net.au/news/2025-09-21/panthers-bulldogs-nrl-finals-cleary-galvin-too/105799368",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-09-21T09:31:18+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Asia Cup clash: Ex-India captain slams Pakistan; calls them \u2018seventh-division team\u2019",
       "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/pakistan-are-a-seventh-division-team-ex-india-captain-fires-shots-ahead-of-super-four-clash/articleshow/124023499.cms",
       "source": "Times of India",
@@ -1084,195 +1260,19 @@
       "sentiment": "positive"
     },
     {
-      "title": "Asia Cup: Yashasvi Jaiswal opens up on snub - 'Decisions are in selectors\u2019 hands'",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/yashasvi-jaiswal-opens-up-on-asia-cup-snub-decisions-are-in-selectors-hands-ill-keep-working-hard/articleshow/124023616.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-09-21T09:15:35+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "\u2018I bought my wonderful home for \u00a31.2m \u2013 but HS2 came along and now I could be forced to sell for \u00a3757k\u2019",
-      "url": "https://www.independent.co.uk/news/uk/home-news/hs2-railway-line-staffordshire-whitmore-house-prices-b2829245.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-09-21T09:15:07+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Twenty minutes of chaos prove that the same issues still plague Chelsea and Enzo Maresca",
-      "url": "https://www.independent.co.uk/sport/football/chelsea-man-united-enzo-maresca-todd-boehly-b2830597.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-09-21T09:15:07+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Super Rich In Korea\u2019s David Yong fined $1k for holding executive business appointment",
-      "url": "https://www.straitstimes.com/singapore/super-rich-in-koreas-david-yong-fined-1k-for-holding-executive-business-appointment",
-      "source": "Straits Times",
-      "region": "Asia-Pacific",
-      "published": "2025-09-21T09:15:00+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Veteran broadcaster John Stapleton dies aged 79",
-      "url": "https://www.independent.co.uk/news/uk/home-news/john-stapleton-dead-parkinsons-pneumonia-b2830697.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-09-21T09:14:20+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Watch: Family in 1st AC caught stealing railway bedrolls",
-      "url": "https://timesofindia.indiatimes.com/india/watch-family-in-1st-ac-caught-stealing-railway-bedrolls-video-sparks-backlash/articleshow/124023596.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-09-21T09:14:09+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "What we know about the cyberattack that hit major European airports",
-      "url": "https://www.cnbc.com/2025/09/21/what-we-know-about-the-cyberattack-that-hit-major-european-airports.html",
-      "source": "CNBC",
-      "region": "Europe",
-      "published": "2025-09-21T09:13:03+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Passengers face another day of disruption after airport \u2018cyber attack\u2019",
-      "url": "https://www.independent.co.uk/bulletin/news/airport-brussels-heathrow-cyber-attack-b2830705.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-09-21T09:12:03+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Israel kills 34 people in Gaza ahead of UN meeting, where countries will recognize Palestinian state",
-      "url": "https://www.independent.co.uk/news/israel-palestinian-palestinians-cairo-hamas-b2830707.html",
-      "source": "Independent",
-      "region": "Middle East",
-      "published": "2025-09-21T09:11:10+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Villa v Liverpool postponed following Beard's death",
-      "url": "https://www.bbc.com/sport/football/articles/ckgee1yd46ko?at_medium=RSS&at_campaign=rss",
+      "title": "Veteran broadcaster John Stapleton, 79, dies",
+      "url": "https://www.bbc.com/news/articles/c9300xw27vgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "region": "Europe",
-      "published": "2025-09-21T09:10:21+00:00",
+      "published": "2025-09-21T09:27:51+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Villa v Liverpool postponed following Beard's death",
-      "url": "https://www.bbc.com/sport/football/articles/ckgee1yd46ko?at_medium=RSS&at_campaign=rss",
+      "title": "Fritz stuns Alcaraz to turn tide for Team World in Laver Cup",
+      "url": "https://www.bbc.com/sport/tennis/articles/c1jzz88g58do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
-      "region": "Europe",
-      "published": "2025-09-21T09:10:21+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "European Heritage days in France: Rare access to the Orient Express in Paris",
-      "url": "https://www.france24.com/en/video/20250921-european-heritage-days-in-france-rare-access-to-the-orient-express-in-paris",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2025-09-21T09:10:07+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Inside Russia\u2019s revamped answer to Eurovision as winner crowned in night of glitter and geopolitics",
-      "url": "https://www.independent.co.uk/news/world/europe/eurovision-intervision-russia-duc-phuc-b2830698.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-09-21T09:09:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Priscilla Presley says she was \u2018appalled\u2019 by daughter\u2019s Michael Jackson marriage",
-      "url": "https://www.independent.co.uk/arts-entertainment/music/news/michael-jackson-priscilla-presley-elvis-b2830690.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-09-21T09:08:25+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Rwanda: Kigali hosts historic first World Championships in Africa",
-      "url": "https://www.france24.com/en/video/20250921-rwanda-kigali-hosts-historic-first-world-championships-in-africa",
-      "source": "France 24",
-      "region": "Africa",
-      "published": "2025-09-21T09:08:23+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Broadcaster John Stapleton dies aged 79",
-      "url": "https://www.theguardian.com/media/2025/sep/21/broadcaster-john-stapleton-dies-aged-79",
-      "source": "The Guardian",
-      "region": "Europe",
-      "published": "2025-09-21T09:05:53+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "'One Nobel for each': Trump war math on peace prize; reiterates India-Pak truce claim",
-      "url": "https://timesofindia.indiatimes.com/world/us/one-nobel-for-each-donald-trump-war-math-on-peace-prize-reiterates-india-pak-truce-claim-along-with-six-others/articleshow/124023422.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-09-21T09:04:03+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "OM and PSG clash to close out matchday 5 in Ligue 1",
-      "url": "https://www.france24.com/en/tv-shows/sports/20250921-om-and-psg-clash-to-close-out-matchday-5-in-ligue-1",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2025-09-21T09:03:59+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "U.N. Gathers Amid Its 80th Anniversary and a \u2018Free Fall\u2019",
-      "url": "https://www.nytimes.com/2025/09/21/world/middleeast/un-general-assembly-80th-anniversary.html",
-      "source": "New York Times",
-      "region": "Middle East",
-      "published": "2025-09-21T09:02:16+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "A Rush to Save Ancient Artifacts in Gaza Highlights All That Has Been Lost",
-      "url": "https://www.nytimes.com/2025/09/21/world/middleeast/gaza-archeological-heritage.html",
-      "source": "New York Times",
       "region": "North America",
-      "published": "2025-09-21T09:02:01+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "UN High Seas Treaty, ratified by 60 countries, to take effect in early 2026",
-      "url": "https://www.france24.com/en/video/20250921-un-high-seas-treaty-ratified-by-60-countries-to-take-effect-in-early-2026",
-      "source": "France 24",
-      "region": "North America",
-      "published": "2025-09-21T09:01:14+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Ukraine Counterattacks, Scoring Rare, if Modest, Success in Northeast",
-      "url": "https://www.nytimes.com/2025/09/21/world/europe/ukraine-sumy-advances.html",
-      "source": "New York Times",
-      "region": "Europe",
-      "published": "2025-09-21T09:01:10+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The Taliban are reaching out \u2014 and some countries are responding",
-      "url": "https://www.washingtonpost.com/world/2025/09/21/taliban-diplomacy-official-recognition/",
-      "source": "Washington Post",
-      "region": "Europe",
-      "published": "2025-09-21T09:00:59+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The High School Teacher Leading Mexico\u2019s \u2018Fashion Police\u2019",
-      "url": "https://www.nytimes.com/2025/09/21/world/americas/mexico-politicians-fashion.html",
-      "source": "New York Times",
-      "region": "North America",
-      "published": "2025-09-21T09:00:33+00:00",
+      "published": "2025-09-21T09:24:43+00:00",
       "sentiment": "positive"
     }
   ]
