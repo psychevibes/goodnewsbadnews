@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-09-28T17:19:18.288967+00:00",
+  "generated_at": "2025-09-28T17:42:04.401521+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 756,
+    "positive": 757,
     "neutral": 241,
     "negative": 941
   },
@@ -10,34 +10,50 @@
     {
       "source": "Independent",
       "positive": 106,
-      "neutral": 43,
-      "negative": 125,
-      "count": 274,
-      "region": "Europe"
+      "neutral": 42,
+      "negative": 122,
+      "count": 270,
+      "region": "North America"
     },
     {
       "source": "The Hindu",
-      "positive": 96,
-      "neutral": 62,
-      "negative": 106,
-      "count": 264,
+      "positive": 97,
+      "neutral": 63,
+      "negative": 105,
+      "count": 265,
       "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
-      "positive": 57,
+      "positive": 55,
       "neutral": 3,
       "negative": 76,
-      "count": 136,
+      "count": 134,
       "region": "Asia-Pacific"
     },
     {
       "source": "CBS News",
       "positive": 28,
-      "neutral": 16,
+      "neutral": 17,
       "negative": 62,
-      "count": 106,
+      "count": 107,
       "region": "North America"
+    },
+    {
+      "source": "Fox News",
+      "positive": 29,
+      "neutral": 3,
+      "negative": 55,
+      "count": 87,
+      "region": "North America"
+    },
+    {
+      "source": "BBC Sport",
+      "positive": 58,
+      "neutral": 10,
+      "negative": 19,
+      "count": 87,
+      "region": "Europe"
     },
     {
       "source": "Australian Broadcasting Corporation",
@@ -48,51 +64,35 @@
       "region": "Asia-Pacific"
     },
     {
-      "source": "BBC Sport",
-      "positive": 57,
-      "neutral": 9,
-      "negative": 19,
-      "count": 85,
-      "region": "Europe"
-    },
-    {
-      "source": "Fox News",
-      "positive": 29,
-      "neutral": 2,
-      "negative": 54,
-      "count": 85,
-      "region": "North America"
-    },
-    {
-      "source": "Channel News Asia",
-      "positive": 24,
-      "neutral": 19,
-      "negative": 32,
-      "count": 75,
-      "region": "South America"
-    },
-    {
       "source": "The Guardian",
       "positive": 23,
       "neutral": 0,
-      "negative": 52,
-      "count": 75,
+      "negative": 54,
+      "count": 77,
       "region": "Middle East"
+    },
+    {
+      "source": "Channel News Asia",
+      "positive": 23,
+      "neutral": 19,
+      "negative": 32,
+      "count": 74,
+      "region": "Europe"
     },
     {
       "source": "Sky Sports",
       "positive": 40,
-      "neutral": 16,
+      "neutral": 15,
       "negative": 16,
-      "count": 72,
+      "count": 71,
       "region": "Europe"
     },
     {
       "source": "BBC News",
-      "positive": 31,
+      "positive": 32,
       "neutral": 7,
-      "negative": 30,
-      "count": 68,
+      "negative": 31,
+      "count": 70,
       "region": "Middle East"
     },
     {
@@ -106,26 +106,26 @@
     {
       "source": "Al Jazeera English",
       "positive": 12,
-      "neutral": 6,
-      "negative": 39,
+      "neutral": 5,
+      "negative": 40,
       "count": 57,
-      "region": "Middle East"
+      "region": "North America"
     },
     {
       "source": "France 24",
       "positive": 9,
       "neutral": 2,
-      "negative": 34,
-      "count": 45,
+      "negative": 35,
+      "count": 46,
       "region": "Middle East"
     },
     {
       "source": "ESPN",
-      "positive": 25,
+      "positive": 26,
       "neutral": 8,
-      "negative": 12,
+      "negative": 11,
       "count": 45,
-      "region": "Global"
+      "region": "North America"
     },
     {
       "source": "Times of Israel",
@@ -137,18 +137,18 @@
     },
     {
       "source": "Middle East Eye",
-      "positive": 7,
+      "positive": 8,
       "neutral": 0,
-      "negative": 30,
+      "negative": 29,
       "count": 37,
       "region": "Middle East"
     },
     {
       "source": "NBC News",
-      "positive": 6,
+      "positive": 7,
       "neutral": 3,
-      "negative": 17,
-      "count": 26,
+      "negative": 18,
+      "count": 28,
       "region": "North America"
     },
     {
@@ -168,12 +168,12 @@
       "region": "Global"
     },
     {
-      "source": "Bloomberg",
-      "positive": 13,
+      "source": "NPR",
+      "positive": 3,
       "neutral": 2,
-      "negative": 6,
-      "count": 21,
-      "region": "Global"
+      "negative": 14,
+      "count": 19,
+      "region": "North America"
     },
     {
       "source": "Financial Times",
@@ -184,12 +184,12 @@
       "region": "North America"
     },
     {
-      "source": "Deutsche Welle",
-      "positive": 3,
-      "neutral": 4,
-      "negative": 11,
-      "count": 18,
-      "region": "North America"
+      "source": "Bloomberg",
+      "positive": 11,
+      "neutral": 2,
+      "negative": 6,
+      "count": 19,
+      "region": "Global"
     },
     {
       "source": "RT News",
@@ -205,14 +205,6 @@
       "neutral": 2,
       "negative": 7,
       "count": 18,
-      "region": "North America"
-    },
-    {
-      "source": "NPR",
-      "positive": 3,
-      "neutral": 2,
-      "negative": 12,
-      "count": 17,
       "region": "North America"
     },
     {
@@ -232,12 +224,20 @@
       "region": "Asia-Pacific"
     },
     {
+      "source": "Deutsche Welle",
+      "positive": 3,
+      "neutral": 4,
+      "negative": 9,
+      "count": 16,
+      "region": "North America"
+    },
+    {
       "source": "Euronews",
       "positive": 8,
       "neutral": 1,
-      "negative": 6,
-      "count": 15,
-      "region": "Europe"
+      "negative": 5,
+      "count": 14,
+      "region": "Middle East"
     },
     {
       "source": "Sky News",
@@ -246,14 +246,6 @@
       "negative": 10,
       "count": 13,
       "region": "Asia-Pacific"
-    },
-    {
-      "source": "Telegraph",
-      "positive": 3,
-      "neutral": 4,
-      "negative": 3,
-      "count": 10,
-      "region": "Africa"
     },
     {
       "source": "Sputnik News",
@@ -278,6 +270,14 @@
       "negative": 3,
       "count": 10,
       "region": "Global"
+    },
+    {
+      "source": "Telegraph",
+      "positive": 3,
+      "neutral": 3,
+      "negative": 3,
+      "count": 9,
+      "region": "Europe"
     },
     {
       "source": "ABC News",
@@ -339,96 +339,96 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 266,
-      "neutral": 63,
-      "negative": 356,
-      "count": 685
+      "positive": 268,
+      "neutral": 65,
+      "negative": 357,
+      "count": 690
     },
     {
       "region": "Europe",
-      "positive": 195,
-      "neutral": 70,
-      "negative": 207,
-      "count": 472
+      "positive": 196,
+      "neutral": 69,
+      "negative": 208,
+      "count": 473
     },
     {
       "region": "Asia-Pacific",
-      "positive": 178,
-      "neutral": 70,
-      "negative": 207,
-      "count": 455
+      "positive": 177,
+      "neutral": 71,
+      "negative": 205,
+      "count": 453
     },
     {
       "region": "Middle East",
-      "positive": 36,
-      "neutral": 9,
-      "negative": 118,
-      "count": 163
+      "positive": 38,
+      "neutral": 8,
+      "negative": 119,
+      "count": 165
     },
     {
       "region": "Global",
-      "positive": 68,
+      "positive": 67,
       "neutral": 23,
-      "negative": 40,
-      "count": 131
+      "negative": 39,
+      "count": 129
     },
     {
       "region": "Africa",
-      "positive": 12,
-      "neutral": 4,
+      "positive": 11,
+      "neutral": 3,
       "negative": 4,
-      "count": 20
+      "count": 18
     },
     {
       "region": "South America",
-      "positive": 1,
+      "positive": 0,
       "neutral": 2,
       "negative": 9,
-      "count": 12
+      "count": 11
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 207,
-      "neutral": 56,
-      "negative": 200,
-      "count": 463
+      "positive": 204,
+      "neutral": 55,
+      "negative": 199,
+      "count": 458
     },
     {
       "topic": "World",
-      "positive": 92,
-      "neutral": 33,
-      "negative": 225,
+      "positive": 93,
+      "neutral": 30,
+      "negative": 227,
       "count": 350
     },
     {
       "topic": "Politics",
-      "positive": 111,
-      "neutral": 33,
+      "positive": 107,
+      "neutral": 32,
       "negative": 198,
-      "count": 342
+      "count": 337
     },
     {
       "topic": "Other",
-      "positive": 95,
+      "positive": 96,
       "neutral": 63,
-      "negative": 143,
-      "count": 301
+      "negative": 144,
+      "count": 303
     },
     {
       "topic": "Sports",
-      "positive": 153,
-      "neutral": 23,
-      "negative": 55,
-      "count": 231
+      "positive": 155,
+      "neutral": 24,
+      "negative": 54,
+      "count": 233
     },
     {
       "topic": "Entertainment",
       "positive": 45,
-      "neutral": 8,
+      "neutral": 9,
       "negative": 37,
-      "count": 90
+      "count": 91
     },
     {
       "topic": "Business",
@@ -439,24 +439,24 @@
     },
     {
       "topic": "Health",
-      "positive": 7,
+      "positive": 8,
       "neutral": 6,
       "negative": 26,
-      "count": 39
+      "count": 40
     },
     {
       "topic": "Regional",
-      "positive": 12,
+      "positive": 13,
       "neutral": 2,
-      "negative": 18,
+      "negative": 17,
       "count": 32
     },
     {
       "topic": "Local",
-      "positive": 6,
-      "neutral": 3,
+      "positive": 8,
+      "neutral": 6,
       "negative": 16,
-      "count": 25
+      "count": 30
     },
     {
       "topic": "Science",
@@ -524,6 +524,62 @@
       "sentiment": "positive"
     },
     {
+      "title": "Faith-driven hunt threatens survival of Telangana\u2019s State bird, Palapitta",
+      "url": "https://www.thehindu.com/news/national/telangana/faith-driven-hunt-threatens-survival-of-telanganas-state-bird-palapitta/article70105508.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-28T23:03:53+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "KVPS slams government for \u2018humiliating\u2019\u00a0Legislative Council Chairman",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kvps-slams-government-for-humiliating-legislative-council-chairman/article70106233.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-28T23:01:48+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Deepavali discount sale begins at Co-optex showroom in Villupuram",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/deepavali-discount-sale-begins-at-co-optex-showroom-in-villupuram/article70105223.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-28T22:52:40+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Krishna floods: Officials close bathing ghats, stop devotees from taking bath in river",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/krishna-floods-officials-close-bathing-ghats-stop-devotees-from-taking-bath-in-river/article70106108.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-28T22:52:32+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "LPG consumers can change their suppliers, companies soon",
+      "url": "https://www.thehindu.com/news/national/lpg-consumers-can-change-their-suppliers-companies-soon/article70105625.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-28T22:49:27+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "The Hindu and Andhra Hospitals to conduct awareness programme today on heart health",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/the-hindu-and-andhra-hospitals-to-conduct-awareness-programme-today-on-heart-health/article70106188.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-28T22:48:08+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "600 treated at free eye camp",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/600-treated-at-free-eye-camp/article70106200.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-28T22:47:07+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "Former IAS officer opposes government\u2019s decision of PPP model for medical colleges",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/former-ias-officer-opposes-governments-decision-of-ppp-model-for-medical-colleges/article70106183.ece",
       "source": "The Hindu",
@@ -546,6 +602,14 @@
       "region": "Asia-Pacific",
       "published": "2025-09-28T22:42:04+05:30",
       "sentiment": "neutral"
+    },
+    {
+      "title": "India captain SKY faces heat from Akram for 'unnecessary' call",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/india-captain-suryakumar-yadav-faces-heat-from-pakistan-legend-wasim-akram-for-unnecessary-call/articleshow/124197507.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-09-28T22:40:40+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "At UNGA week, India signals realignment with the Global South",
@@ -1202,70 +1266,6 @@
       "region": "Asia-Pacific",
       "published": "2025-09-28T19:50:30+05:30",
       "sentiment": "positive"
-    },
-    {
-      "title": "Kanaka Durga temple in Vijayawada spruced up for \u2018Moola Nakshatram\u2019 fete on September 29",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kanaka-durga-temple-in-vijayawada-spruced-up-for-moola-nakshatram-fete-on-september-29/article70105416.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-28T19:49:13+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Asia Cup: Pak skipper questioned ahead of India final; asked about team morale",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/how-is-the-morale-former-pakistan-captain-waqar-younis-questions-teams-mood-ahead-of-final-vs-india/articleshow/124195927.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-09-28T19:49:08+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "'Will get it done': Trump hints at major announcement for Middle East; 'something special'",
-      "url": "https://timesofindia.indiatimes.com/world/us/we-will-get-it-done-donald-trump-hints-at-major-announcement-for-middle-east-calls-it-something-special/articleshow/124195825.cms",
-      "source": "Times of India",
-      "region": "Middle East",
-      "published": "2025-09-28T19:42:40+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Cow yields 38.15 litres of milk, owner bags first prize at Dasara",
-      "url": "https://www.thehindu.com/news/national/karnataka/cow-yields-3815-litres-of-milk-owner-bags-first-prize-at-dasara/article70105046.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-09-28T19:42:22+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Watch: Implications of Congress Working Committee meeting in Patna on Mahagathbandhan | Talking Politics",
-      "url": "https://www.thehindu.com/videos/watch-implications-of-congress-working-committee-meeting-in-patna-on-mahagathbandhan-talking-politics/article70105786.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-09-28T19:41:27+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Body of missing journalist recovered from lake in Uttarkashi",
-      "url": "https://www.thehindu.com/news/national/uttarakhand/body-of-missing-journalist-recovered-from-lake-in-uttarkashi/article70105608.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-09-28T19:39:50+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "TV actor Veer Sharma and his brother pass away in a tragic fire accident",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/tv-actor-veer-sharma-and-his-brother-pass-away-in-a-tragic-fire-accident/articleshow/124195922.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-09-28T19:39:14+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Asia Cup Final: No handshake again! SKY royally ignores former Pakistan captain at toss",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/no-handshake-again-suryakumar-yadav-royally-ignores-former-pakistan-captain-at-toss/articleshow/124195556.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-09-28T19:39:10+05:30",
-      "sentiment": "negative"
     }
   ]
 }
