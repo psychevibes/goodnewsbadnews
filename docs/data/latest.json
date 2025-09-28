@@ -1,12 +1,20 @@
 {
-  "generated_at": "2025-09-28T04:26:50.079906+00:00",
+  "generated_at": "2025-09-28T04:47:16.943343+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 831,
+    "positive": 836,
     "neutral": 292,
-    "negative": 859
+    "negative": 895
   },
   "by_publication": [
+    {
+      "source": "The Hindu",
+      "positive": 94,
+      "neutral": 69,
+      "negative": 135,
+      "count": 298,
+      "region": "North America"
+    },
     {
       "source": "Independent",
       "positive": 119,
@@ -16,19 +24,11 @@
       "region": "Middle East"
     },
     {
-      "source": "The Hindu",
-      "positive": 90,
-      "neutral": 70,
-      "negative": 132,
-      "count": 292,
-      "region": "Asia-Pacific"
-    },
-    {
       "source": "Times of India",
       "positive": 57,
       "neutral": 8,
-      "negative": 55,
-      "count": 120,
+      "negative": 56,
+      "count": 121,
       "region": "North America"
     },
     {
@@ -56,6 +56,14 @@
       "region": "North America"
     },
     {
+      "source": "CBS News",
+      "positive": 23,
+      "neutral": 6,
+      "negative": 57,
+      "count": 86,
+      "region": "Middle East"
+    },
+    {
       "source": "Channel News Asia",
       "positive": 28,
       "neutral": 22,
@@ -65,9 +73,9 @@
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 40,
+      "positive": 38,
       "neutral": 5,
-      "negative": 36,
+      "negative": 38,
       "count": 81,
       "region": "Asia-Pacific"
     },
@@ -81,11 +89,19 @@
     },
     {
       "source": "The Guardian",
-      "positive": 20,
+      "positive": 21,
       "neutral": 2,
       "negative": 42,
-      "count": 64,
+      "count": 65,
       "region": "Asia-Pacific"
+    },
+    {
+      "source": "ESPN",
+      "positive": 31,
+      "neutral": 7,
+      "negative": 23,
+      "count": 61,
+      "region": "Global"
     },
     {
       "source": "South China Morning Post",
@@ -94,22 +110,6 @@
       "negative": 28,
       "count": 60,
       "region": "South America"
-    },
-    {
-      "source": "ESPN",
-      "positive": 31,
-      "neutral": 6,
-      "negative": 22,
-      "count": 59,
-      "region": "Global"
-    },
-    {
-      "source": "CBS News",
-      "positive": 20,
-      "neutral": 6,
-      "negative": 30,
-      "count": 56,
-      "region": "Middle East"
     },
     {
       "source": "France 24",
@@ -123,8 +123,8 @@
       "source": "Al Jazeera English",
       "positive": 6,
       "neutral": 12,
-      "negative": 26,
-      "count": 44,
+      "negative": 24,
+      "count": 42,
       "region": "Middle East"
     },
     {
@@ -184,12 +184,12 @@
       "region": "North America"
     },
     {
-      "source": "Deutsche Welle",
-      "positive": 5,
-      "neutral": 4,
-      "negative": 11,
+      "source": "Bloomberg",
+      "positive": 8,
+      "neutral": 5,
+      "negative": 7,
       "count": 20,
-      "region": "Europe"
+      "region": "North America"
     },
     {
       "source": "Daily News Egypt",
@@ -200,19 +200,19 @@
       "region": "Middle East"
     },
     {
-      "source": "Bloomberg",
-      "positive": 6,
-      "neutral": 6,
-      "negative": 7,
+      "source": "Sputnik News",
+      "positive": 7,
+      "neutral": 2,
+      "negative": 10,
       "count": 19,
       "region": "North America"
     },
     {
-      "source": "NPR",
-      "positive": 9,
-      "neutral": 1,
-      "negative": 8,
-      "count": 18,
+      "source": "Deutsche Welle",
+      "positive": 4,
+      "neutral": 4,
+      "negative": 11,
+      "count": 19,
       "region": "North America"
     },
     {
@@ -224,7 +224,7 @@
       "region": "Asia-Pacific"
     },
     {
-      "source": "Sputnik News",
+      "source": "NPR",
       "positive": 7,
       "neutral": 1,
       "negative": 8,
@@ -259,8 +259,8 @@
       "source": "Financial Times",
       "positive": 4,
       "neutral": 1,
-      "negative": 6,
-      "count": 11,
+      "negative": 7,
+      "count": 12,
       "region": "Europe"
     },
     {
@@ -288,20 +288,20 @@
       "region": "North America"
     },
     {
+      "source": "Sky News",
+      "positive": 1,
+      "neutral": 0,
+      "negative": 7,
+      "count": 8,
+      "region": "South America"
+    },
+    {
       "source": "The Verge",
       "positive": 6,
       "neutral": 0,
       "negative": 1,
       "count": 7,
       "region": "Global"
-    },
-    {
-      "source": "Sky News",
-      "positive": 1,
-      "neutral": 0,
-      "negative": 6,
-      "count": 7,
-      "region": "South America"
     },
     {
       "source": "ABC News",
@@ -347,38 +347,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 299,
-      "neutral": 81,
-      "negative": 308,
-      "count": 688
+      "positive": 304,
+      "neutral": 80,
+      "negative": 338,
+      "count": 722
     },
     {
       "region": "Europe",
       "positive": 225,
       "neutral": 89,
-      "negative": 182,
-      "count": 496
+      "negative": 184,
+      "count": 498
     },
     {
       "region": "Asia-Pacific",
       "positive": 183,
-      "neutral": 72,
-      "negative": 205,
-      "count": 460
+      "neutral": 71,
+      "negative": 209,
+      "count": 463
     },
     {
       "region": "Middle East",
       "positive": 41,
-      "neutral": 16,
-      "negative": 104,
-      "count": 161
+      "neutral": 17,
+      "negative": 102,
+      "count": 160
     },
     {
       "region": "Global",
       "positive": 67,
-      "neutral": 29,
-      "negative": 43,
-      "count": 139
+      "neutral": 30,
+      "negative": 45,
+      "count": 142
     },
     {
       "region": "South America",
@@ -398,59 +398,59 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 210,
+      "positive": 211,
       "neutral": 51,
-      "negative": 201,
-      "count": 462
+      "negative": 209,
+      "count": 471
     },
     {
       "topic": "Politics",
-      "positive": 115,
+      "positive": 116,
       "neutral": 37,
-      "negative": 171,
-      "count": 323
+      "negative": 175,
+      "count": 328
     },
     {
       "topic": "World",
-      "positive": 111,
-      "neutral": 37,
-      "negative": 174,
-      "count": 322
+      "positive": 112,
+      "neutral": 38,
+      "negative": 177,
+      "count": 327
     },
     {
       "topic": "Other",
-      "positive": 99,
-      "neutral": 82,
-      "negative": 112,
-      "count": 293
+      "positive": 101,
+      "neutral": 81,
+      "negative": 132,
+      "count": 314
     },
     {
       "topic": "Sports",
-      "positive": 176,
-      "neutral": 34,
-      "negative": 61,
-      "count": 271
+      "positive": 177,
+      "neutral": 35,
+      "negative": 62,
+      "count": 274
     },
     {
       "topic": "Entertainment",
-      "positive": 47,
+      "positive": 45,
       "neutral": 15,
       "negative": 37,
-      "count": 99
+      "count": 97
     },
     {
       "topic": "Health",
-      "positive": 14,
+      "positive": 15,
       "neutral": 8,
       "negative": 38,
-      "count": 60
+      "count": 61
     },
     {
       "topic": "Business",
       "positive": 28,
-      "neutral": 8,
+      "neutral": 7,
       "negative": 23,
-      "count": 59
+      "count": 58
     },
     {
       "topic": "Regional",
@@ -508,8 +508,64 @@
       "sentiment": "negative"
     },
     {
+      "title": "The Hindu FIC to hold awareness programme on heart health in Vijayawada on September 29",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/the-hindu-fic-to-hold-awareness-programme-on-heart-health-in-vijayawada-on-september-29/article70102576.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-28T10:12:09+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Vijayawada to help five smaller cities achieve cleanliness goals",
+      "url": "https://www.thehindu.com/news/cities/Vijayawada/vijayawada-to-help-five-smaller-cities-achieve-cleanliness-goals/article70102267.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-28T10:10:31+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Heavy rains soak Mumbai overnight; IMD forecasts more showers",
+      "url": "https://www.thehindu.com/news/cities/mumbai/heavy-rains-soak-mumbai-overnight-imd-forecasts-more-showers/article70104484.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-09-28T10:05:58+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "TVK rally stampede: T.N. BJP president Nainar Nagenthran seeks probe by SC bench",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-rally-stampede-tn-bjp-president-nainar-nagenthran-seeks-probe-by-sc-bench/article70104471.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-09-28T09:55:43+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Rains LIVE: Maharashtra to witness heavy rainfall till Sept 30; low-pressure area likely to form over Bay of Bengal on Oct 1",
+      "url": "https://www.thehindu.com/news/national/rainfall-prediction-imd-weather-forecast-andhra-pradesh-telangana-bay-of-bengal-odisha-mumbai-rain-live-september-28-2025/article70104465.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-09-28T09:53:27+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "North Carolina shooting: Passing boat opens fire at Southport eatery; 3 dead",
+      "url": "https://timesofindia.indiatimes.com/world/us/north-carolina-shooting-passing-boat-opens-fire-at-southport-eatery-three-dead-eight-injured/articleshow/124190577.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-09-28T09:50:59+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Shortcomings in security arrangements led to loss of lives in Karur, alleges Palaniswami",
       "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/shortcomings-in-security-arrangements-led-to-loss-of-lives-in-karur-alleges-palaniswami/article70104456.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-09-28T09:46:05+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "TVK rally stampede: Shortcomings in security arrangements led to loss of lives in Karur, alleges Palaniswami",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/shortcomings-in-security-arrangements-led-to-loss-of-lives-in-karur-alleges-palaniswami/article70104456.ece",
       "source": "The Hindu",
       "region": "North America",
       "published": "2025-09-28T09:46:05+05:30",
@@ -900,6 +956,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "Man found dead in early hours of morning at Brisbane shopping centre",
+      "url": "https://www.abc.net.au/news/2025-09-28/brisbane-man-found-dead-at-shopping-centre/105827860",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-09-28T04:41:26+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "'Standing here with deep sorrow': Stalin meets Karur stampede families; toll rises to 39",
       "url": "https://timesofindia.indiatimes.com/india/standing-here-with-deep-sorrow-tamil-nadu-cm-mk-stalin-consoles-karur-stampede-families-orders-inquiry-under-retired-judge/articleshow/124188247.cms",
       "source": "Times of India",
@@ -921,6 +985,14 @@
       "source": "The Hindu",
       "region": "Asia-Pacific",
       "published": "2025-09-28T04:33:29+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Australia news live: Lions coach hails AFL grand final win as \u2018better than last year\u2019; Greens call for date to end old growth logging",
+      "url": "https://www.theguardian.com/australia-news/live/2025/sep/28/australia-news-live-albanese-king-charles-afl-brisbane-coalition-liberals-western-australia-gst-queensland-nsw-victoria-labor-ntwnfb",
+      "source": "The Guardian",
+      "region": "North America",
+      "published": "2025-09-28T04:28:25+00:00",
       "sentiment": "positive"
     },
     {
@@ -956,12 +1028,28 @@
       "sentiment": "positive"
     },
     {
+      "title": "US, European Powers Seek Diplomacy After Iran Sanctions Snapback",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-28/us-european-powers-seek-diplomacy-after-iran-sanctions-snapback",
+      "source": "Bloomberg",
+      "region": "Europe",
+      "published": "2025-09-28T04:08:04+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "The mood changed in minutes in Karur: Cheering Vijay supporters left mourning; 39 dead",
       "url": "https://timesofindia.indiatimes.com/city/trichy/funereal-atmosphere-at-karur-govt-hospital/articleshow/124187259.cms",
       "source": "Times of India",
       "region": "Asia-Pacific",
       "published": "2025-09-28T04:07:48+05:30",
       "sentiment": "negative"
+    },
+    {
+      "title": "Japan\u2019s LDP Contender Takaichi Hints at Review of US Trade Deal",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-28/japan-s-ldp-contender-takaichi-hints-at-review-of-us-trade-deal",
+      "source": "Bloomberg",
+      "region": "North America",
+      "published": "2025-09-28T04:05:33+00:00",
+      "sentiment": "positive"
     },
     {
       "title": "Erasmus praises record breaker Feinberg-Mngomezulu",
@@ -1044,12 +1132,28 @@
       "sentiment": "negative"
     },
     {
+      "title": "Private equity\u2019s rush to raise money prompts fears of European sector shake-out",
+      "url": "https://www.ft.com/content/c86ba8ca-de0f-40e0-a33a-4712cf594b48",
+      "source": "Financial Times",
+      "region": "Europe",
+      "published": "2025-09-28T04:00:10+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Suriname pledges to shield 90% of forests, far beyond global conservation goal",
       "url": "https://www.independent.co.uk/news/suriname-amazon-bogota-colombia-new-york-city-b2835143.html",
       "source": "Independent",
       "region": "Europe",
       "published": "2025-09-28T03:59:19+00:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Trump Summons Congressional Leaders as Government Shutdown Looms",
+      "url": "https://sputnikglobe.com/20250928/trump-summons-congressional-leaders-as-government-shutdown-looms-1122879359.html",
+      "source": "Sputnik News",
+      "region": "Global",
+      "published": "2025-09-28T03:58:00+00:00",
+      "sentiment": "negative"
     },
     {
       "title": "AAP slams Rahul Gandhi's silence on activist's arrest, Congress hits back",
@@ -1148,6 +1252,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Bundeswehr Concludes Largest Military Exercise Since Cold War in Hamburg",
+      "url": "https://sputnikglobe.com/20250928/bundeswehr-concludes-largest-military-exercise-since-cold-war-in-hamburg-1122879207.html",
+      "source": "Sputnik News",
+      "region": "Europe",
+      "published": "2025-09-28T03:39:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Pair caught bagging up fresh seafood, beef to take home from Hong Kong buffet",
       "url": "https://www.scmp.com/news/hong-kong/society/article/3327125/2-diners-caught-bagging-fresh-seafood-beef-take-home-hong-kong-buffet?utm_source=rss_feed",
       "source": "South China Morning Post",
@@ -1161,118 +1273,6 @@
       "source": "Channel News Asia",
       "region": "Middle East",
       "published": "2025-09-28T03:37:07+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "UN sanctions set to be reimposed on Iran",
-      "url": "https://www.channelnewsasia.com/world/un-sanctions-set-be-reimposed-iran-saturday-5373641",
-      "source": "Channel News Asia",
-      "region": "Middle East",
-      "published": "2025-09-28T03:37:00+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "United Nations arms embargo, other sanctions reimposed on Iran",
-      "url": "https://www.channelnewsasia.com/world/un-sanctions-set-be-reimposed-iran-saturday-5373641",
-      "source": "Channel News Asia",
-      "region": "Middle East",
-      "published": "2025-09-28T03:37:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Kash Patel denies Trump rant that FBI agents incited Jan 6 riots: \u2018Crowd control mission\u2019",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/kash-patel-fbi-agents-jan-6-b2835136.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-09-28T03:35:03+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Stay alert: VHP to govt over AIMPLB's stir against waqf law",
-      "url": "https://timesofindia.indiatimes.com/india/stay-alert-vhp-to-govt-over-aimplbs-stir-against-waqf-law/articleshow/124187488.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-09-28T03:29:19+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The crucial issue behind Wangchuk\u2019s detention is whether his acts prejudiced \u2018public order\u2019",
-      "url": "https://www.thehindu.com/news/national/the-crucial-issue-behind-wangchuks-detention-is-whether-his-acts-prejudiced-public-order/article70102773.ece",
-      "source": "The Hindu",
-      "region": "Europe",
-      "published": "2025-09-28T03:28:40+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Gunman opens fire at US restaurant from a boat (VIDEOS)",
-      "url": "https://www.rt.com/news/625436-north-carolina-shooter-boat/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "source": "RT News",
-      "region": "North America",
-      "published": "2025-09-28T03:24:43+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "'Swachh Shehar Jodi' launched to help 200 cities manage solid waste",
-      "url": "https://timesofindia.indiatimes.com/india/swachh-shehar-jodi-launched-to-help-200-cities-manage-solid-waste/articleshow/124187481.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-09-28T03:22:05+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Trump to meet top congressional leaders on Monday with shutdown looming",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-congress-leaders-meeting-shutdown-b2835139.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-09-28T03:21:58+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "England's women eye further dominance after World Cup win",
-      "url": "https://www.channelnewsasia.com/sport/englands-women-eye-further-dominance-after-world-cup-win-5373616",
-      "source": "Channel News Asia",
-      "region": "Europe",
-      "published": "2025-09-28T03:21:20+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Nicheliving customer left with leaking home after plumber uses wrong pipe",
-      "url": "https://www.abc.net.au/news/2025-09-28/former-nicheliving-customer-discovers-defective-plumbing-work/105822686",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-09-28T03:17:39+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Draft bill to strengthen statistical institute unveiled",
-      "url": "https://timesofindia.indiatimes.com/india/draft-bill-to-strengthen-statistical-institute-unveiled/articleshow/124187471.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-09-28T03:13:52+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Amit Shah sets 160+ target for NDA in Bihar elections",
-      "url": "https://timesofindia.indiatimes.com/india/amit-shah-sets-160-target-for-nda-in-bihar-elections/articleshow/124187467.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-09-28T03:09:34+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Moldova heads to polls with EU bid at stake",
-      "url": "https://www.dw.com/en/moldova-heads-to-polls-with-eu-bid-at-stake/live-74163154?maca=en-rss-en-all-1573-xml-mrss",
-      "source": "Deutsche Welle",
-      "region": "Europe",
-      "published": "2025-09-28T03:09:00+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Moldova elections: Polls open with EU bid at stake",
-      "url": "https://www.dw.com/en/moldova-elections-polls-open-with-eu-bid-at-stake/live-74163154?maca=en-rss-en-all-1573-xml-mrss",
-      "source": "Deutsche Welle",
-      "region": "Europe",
-      "published": "2025-09-28T03:09:00+00:00",
       "sentiment": "neutral"
     }
   ]
