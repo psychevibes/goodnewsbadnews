@@ -1,67 +1,67 @@
 {
-  "generated_at": "2025-10-01T04:26:43.406167+00:00",
+  "generated_at": "2025-10-01T04:48:36.347355+00:00",
   "window_hours": 24,
   "totals": {
     "positive": 1498,
-    "neutral": 494,
-    "negative": 1578
+    "neutral": 502,
+    "negative": 1579
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 242,
-      "neutral": 104,
+      "positive": 241,
+      "neutral": 106,
       "negative": 273,
-      "count": 619,
+      "count": 620,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 87,
-      "neutral": 77,
+      "positive": 88,
+      "neutral": 78,
       "negative": 124,
-      "count": 288,
+      "count": 290,
       "region": "Asia-Pacific"
     },
     {
       "source": "Bloomberg",
-      "positive": 140,
-      "neutral": 34,
-      "negative": 76,
-      "count": 250,
+      "positive": 141,
+      "neutral": 33,
+      "negative": 74,
+      "count": 248,
       "region": "Asia-Pacific"
     },
     {
       "source": "Channel News Asia",
-      "positive": 60,
-      "neutral": 39,
+      "positive": 61,
+      "neutral": 42,
       "negative": 61,
-      "count": 160,
-      "region": "Global"
+      "count": 164,
+      "region": "North America"
+    },
+    {
+      "source": "Times of India",
+      "positive": 63,
+      "neutral": 19,
+      "negative": 76,
+      "count": 158,
+      "region": "North America"
     },
     {
       "source": "CBS News",
       "positive": 61,
       "neutral": 23,
-      "negative": 72,
-      "count": 156,
-      "region": "North America"
-    },
-    {
-      "source": "Times of India",
-      "positive": 61,
-      "neutral": 18,
-      "negative": 74,
-      "count": 153,
+      "negative": 73,
+      "count": 157,
       "region": "North America"
     },
     {
       "source": "The Guardian",
-      "positive": 60,
+      "positive": 61,
       "neutral": 4,
-      "negative": 87,
-      "count": 151,
-      "region": "Asia-Pacific"
+      "negative": 88,
+      "count": 153,
+      "region": "North America"
     },
     {
       "source": "Fox News",
@@ -73,18 +73,10 @@
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 40,
-      "neutral": 19,
-      "negative": 87,
-      "count": 146,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "South China Morning Post",
-      "positive": 51,
-      "neutral": 4,
-      "negative": 40,
-      "count": 95,
+      "positive": 38,
+      "neutral": 20,
+      "negative": 86,
+      "count": 144,
       "region": "Asia-Pacific"
     },
     {
@@ -94,6 +86,14 @@
       "negative": 45,
       "count": 93,
       "region": "Europe"
+    },
+    {
+      "source": "South China Morning Post",
+      "positive": 48,
+      "neutral": 4,
+      "negative": 41,
+      "count": 93,
+      "region": "North America"
     },
     {
       "source": "Sky Sports",
@@ -106,33 +106,33 @@
     {
       "source": "CNBC",
       "positive": 47,
-      "neutral": 16,
-      "negative": 20,
-      "count": 83,
+      "neutral": 17,
+      "negative": 18,
+      "count": 82,
       "region": "North America"
     },
     {
       "source": "ESPN",
       "positive": 39,
       "neutral": 15,
-      "negative": 26,
-      "count": 80,
+      "negative": 27,
+      "count": 81,
       "region": "Europe"
     },
     {
       "source": "NBC News",
       "positive": 15,
-      "neutral": 12,
+      "neutral": 13,
       "negative": 44,
-      "count": 71,
+      "count": 72,
       "region": "North America"
     },
     {
       "source": "Al Jazeera English",
       "positive": 23,
       "neutral": 5,
-      "negative": 40,
-      "count": 68,
+      "negative": 43,
+      "count": 71,
       "region": "North America"
     },
     {
@@ -145,16 +145,16 @@
     },
     {
       "source": "AllAfrica",
-      "positive": 25,
+      "positive": 23,
       "neutral": 10,
-      "negative": 28,
-      "count": 63,
+      "negative": 25,
+      "count": 58,
       "region": "Africa"
     },
     {
       "source": "Euronews",
-      "positive": 25,
-      "neutral": 7,
+      "positive": 26,
+      "neutral": 6,
       "negative": 24,
       "count": 56,
       "region": "Europe"
@@ -176,20 +176,20 @@
       "region": "Global"
     },
     {
-      "source": "Middle East Eye",
-      "positive": 21,
-      "neutral": 1,
-      "negative": 31,
-      "count": 53,
-      "region": "Middle East"
-    },
-    {
       "source": "BBC Sport",
       "positive": 29,
       "neutral": 10,
       "negative": 14,
       "count": 53,
       "region": "Europe"
+    },
+    {
+      "source": "Middle East Eye",
+      "positive": 21,
+      "neutral": 1,
+      "negative": 30,
+      "count": 52,
+      "region": "Middle East"
     },
     {
       "source": "Times of Israel",
@@ -216,14 +216,6 @@
       "region": "North America"
     },
     {
-      "source": "Deutsche Welle",
-      "positive": 14,
-      "neutral": 1,
-      "negative": 24,
-      "count": 39,
-      "region": "North America"
-    },
-    {
       "source": "Irish Times",
       "positive": 7,
       "neutral": 5,
@@ -233,11 +225,19 @@
     },
     {
       "source": "Financial Times",
-      "positive": 13,
+      "positive": 14,
       "neutral": 7,
-      "negative": 17,
-      "count": 37,
+      "negative": 18,
+      "count": 39,
       "region": "Europe"
+    },
+    {
+      "source": "Deutsche Welle",
+      "positive": 14,
+      "neutral": 1,
+      "negative": 21,
+      "count": 36,
+      "region": "Asia-Pacific"
     },
     {
       "source": "New York Times",
@@ -251,8 +251,8 @@
       "source": "RT News",
       "positive": 8,
       "neutral": 5,
-      "negative": 21,
-      "count": 34,
+      "negative": 22,
+      "count": 35,
       "region": "Middle East"
     },
     {
@@ -283,8 +283,8 @@
       "source": "ABC News",
       "positive": 4,
       "neutral": 4,
-      "negative": 12,
-      "count": 20,
+      "negative": 13,
+      "count": 21,
       "region": "North America"
     },
     {
@@ -331,8 +331,8 @@
       "source": "Washington Post",
       "positive": 3,
       "neutral": 1,
-      "negative": 6,
-      "count": 10,
+      "negative": 7,
+      "count": 11,
       "region": "Asia-Pacific"
     },
     {
@@ -347,134 +347,166 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 619,
-      "neutral": 185,
+      "positive": 620,
+      "neutral": 188,
       "negative": 692,
-      "count": 1496
+      "count": 1500
     },
     {
       "region": "Asia-Pacific",
-      "positive": 243,
-      "neutral": 118,
-      "negative": 349,
-      "count": 710
+      "positive": 242,
+      "neutral": 122,
+      "negative": 350,
+      "count": 714
     },
     {
       "region": "Europe",
-      "positive": 313,
+      "positive": 315,
       "neutral": 111,
-      "negative": 262,
-      "count": 686
+      "negative": 263,
+      "count": 689
     },
     {
       "region": "Middle East",
-      "positive": 149,
+      "positive": 148,
       "neutral": 19,
-      "negative": 142,
-      "count": 310
+      "negative": 140,
+      "count": 307
     },
     {
       "region": "Global",
-      "positive": 143,
-      "neutral": 54,
-      "negative": 91,
-      "count": 288
+      "positive": 145,
+      "neutral": 55,
+      "negative": 92,
+      "count": 292
     },
     {
       "region": "Africa",
-      "positive": 27,
+      "positive": 24,
       "neutral": 5,
-      "negative": 29,
-      "count": 61
+      "negative": 28,
+      "count": 57
     },
     {
       "region": "South America",
       "positive": 4,
       "neutral": 2,
-      "negative": 13,
-      "count": 19
+      "negative": 14,
+      "count": 20
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 350,
-      "neutral": 99,
-      "negative": 356,
-      "count": 805
+      "positive": 353,
+      "neutral": 101,
+      "negative": 358,
+      "count": 812
     },
     {
       "topic": "Politics",
-      "positive": 295,
-      "neutral": 87,
-      "negative": 396,
-      "count": 778
+      "positive": 296,
+      "neutral": 91,
+      "negative": 399,
+      "count": 786
     },
     {
       "topic": "Other",
-      "positive": 191,
-      "neutral": 125,
-      "negative": 223,
-      "count": 539
+      "positive": 192,
+      "neutral": 127,
+      "negative": 225,
+      "count": 544
     },
     {
       "topic": "World",
-      "positive": 211,
+      "positive": 210,
       "neutral": 37,
-      "negative": 229,
-      "count": 477
+      "negative": 228,
+      "count": 475
     },
     {
       "topic": "Sports",
       "positive": 141,
       "neutral": 39,
-      "negative": 97,
-      "count": 277
+      "negative": 100,
+      "count": 280
     },
     {
       "topic": "Business",
-      "positive": 154,
-      "neutral": 47,
-      "negative": 73,
-      "count": 274
+      "positive": 153,
+      "neutral": 46,
+      "negative": 69,
+      "count": 268
     },
     {
       "topic": "Entertainment",
-      "positive": 51,
-      "neutral": 19,
+      "positive": 50,
+      "neutral": 20,
       "negative": 56,
       "count": 126
     },
     {
       "topic": "Health",
-      "positive": 38,
+      "positive": 37,
       "neutral": 10,
-      "negative": 54,
-      "count": 102
+      "negative": 52,
+      "count": 99
     },
     {
       "topic": "Local",
       "positive": 28,
       "neutral": 12,
-      "negative": 35,
-      "count": 75
+      "negative": 34,
+      "count": 74
     },
     {
       "topic": "Science",
       "positive": 27,
       "neutral": 15,
-      "negative": 26,
-      "count": 68
+      "negative": 25,
+      "count": 67
     },
     {
       "topic": "Regional",
-      "positive": 12,
+      "positive": 11,
       "neutral": 4,
       "negative": 33,
-      "count": 49
+      "count": 48
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Singapore hotels, F&B and retail businesses gear up for F1 race weekend surge",
+      "url": "https://www.channelnewsasia.com/singapore/f1-race-hotels-food-beverage-retail-gear-up-5377256",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-10-01T12:36:38+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "US government shutdown begins as partisan division rules Washington",
+      "url": "https://www.channelnewsasia.com/world/us-government-shutdown-begins-washington-5379201",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2025-10-01T12:30:00+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "NBCUniversal, YouTube TV ink short-term deal extension, Variety reports",
+      "url": "https://www.channelnewsasia.com/business/nbcuniversal-youtube-tv-ink-short-term-deal-extension-variety-reports-5379226",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-10-01T12:25:27+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Nomura to boost rates and FX trading units, sees more market volatility",
+      "url": "https://www.channelnewsasia.com/business/nomura-boost-rates-and-fx-trading-units-sees-more-market-volatility-5379221",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-10-01T12:23:20+08:00",
+      "sentiment": "positive"
+    },
     {
       "title": "NUS scientists gear up for high seas expedition to explore Indian Ocean seamount biodiversity",
       "url": "https://www.straitstimes.com/singapore/environment/nus-scientists-gear-up-for-high-seas-expedition-to-explore-indian-ocean-seamount-biodiversity",
@@ -510,6 +542,14 @@
     {
       "title": "Record-breaking Wallaby Slipper to retire after All Blacks test",
       "url": "https://www.channelnewsasia.com/sport/record-breaking-wallaby-slipper-retire-after-all-blacks-test-5379156",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-10-01T11:37:57+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Wallabies' record-breaking prop Slipper to retire after All Blacks test",
+      "url": "https://www.channelnewsasia.com/sport/wallabies-record-breaking-prop-slipper-retire-after-all-blacks-test-5379156",
       "source": "Channel News Asia",
       "region": "Global",
       "published": "2025-10-01T11:37:57+08:00",
@@ -604,6 +644,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "Congress president Mallikarjun Kharge hospitalised",
+      "url": "https://www.thehindu.com/news/national/congress-president-mallikarjun-kharge-hospitalised/article70115663.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-01T10:14:26+05:30",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Wall Street futures fall as clock ticks to US government shutdown",
       "url": "https://www.channelnewsasia.com/business/wall-street-futures-fall-clock-ticks-us-government-shutdown-5378991",
       "source": "Channel News Asia",
@@ -636,12 +684,28 @@
       "sentiment": "negative"
     },
     {
+      "title": "Trump admin\u2019s last-ditch effort fails; US govt shuts down \u2013 Why it matters",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-admins-last-ditch-effort-fails-us-government-shutdown-takes-effect-why-it-matters/articleshow/124247317.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-10-01T09:30:59+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Festival organiser, Zubeen Garg\u2019s manager arrested in Delhi",
       "url": "https://www.thehindu.com/news/national/festival-organiser-zubeen-gargs-manager-arrested-in-delhi/article70115602.ece",
       "source": "The Hindu",
       "region": "Asia-Pacific",
       "published": "2025-10-01T09:26:47+05:30",
       "sentiment": "negative"
+    },
+    {
+      "title": "Zubeen Garg\u2019s manager, Singapore festival organiser arrested from NCR",
+      "url": "https://www.thehindu.com/news/national/festival-organiser-zubeen-gargs-manager-arrested-in-delhi/article70115602.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-01T09:26:47+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "New Zealand defender Riley to retire at end of US season",
@@ -684,6 +748,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "'I Love Mohammad' row: Cong MP Imran Masood put under house arrest",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/i-love-mohammad-row-imran-masood-put-under-house-arrest-congress-mp-was-heading-to-violence-hit-bareilly/articleshow/124247089.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-10-01T09:11:13+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "Home season plans: India want flatter pitches vs WI, turners for South Africa",
       "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/home-season-plans-india-want-flatter-pitches-vs-west-indies-turners-for-south-africa/articleshow/124246988.cms",
       "source": "Times of India",
@@ -722,6 +794,14 @@
       "region": "Asia-Pacific",
       "published": "2025-10-01T08:55:14+05:30",
       "sentiment": "positive"
+    },
+    {
+      "title": "Teenage sensation! Vaibhav Suryavanshi smashes century; record vs Aus U-19",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/teenage-sensation-vaibhav-suryavanshi-smashes-record-breaking-century-vs-australia-u-19/articleshow/124246885.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-10-01T08:53:51+05:30",
+      "sentiment": "neutral"
     },
     {
       "title": "Oil steadies as investors weigh OPEC+ output hike against US crude inventories",
@@ -781,6 +861,14 @@
     },
     {
       "title": "Zubeen Garg death probe: Manager Siddharth Sharma and Singapore festival organiser arrested",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/zubeen-garg-death-probe-festival-organiser-shyamkanu-mahanta-manager-siddharth-sharma-arrested-in-delhi/articleshow/124245898.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-10-01T08:09:35+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Zubeen Garg death probe: Manager and festival organiser arrested; brought to Guwahati",
       "url": "https://timesofindia.indiatimes.com/city/guwahati/zubeen-garg-death-probe-festival-organiser-shyamkanu-mahanta-manager-siddharth-sharma-arrested-in-delhi/articleshow/124245898.cms",
       "source": "Times of India",
       "region": "Asia-Pacific",
@@ -852,6 +940,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "H-1B crackdown shakes US workforce: Big tech layoffs hit immigrants; careers at risk",
+      "url": "https://timesofindia.indiatimes.com/education/news/americas-immigration-crossroads-h-1b-crackdown-big-tech-layoffs-and-career-challenges-for-immigrant-workers/articleshow/124245638.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-10-01T07:01:27+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "'I\u2019m untouchable': Delhi 'godman' misled cops with UK number",
       "url": "https://timesofindia.indiatimes.com/city/delhi/im-untouchable-delhi-godman-misled-cops-with-uk-number-claimed-ill-call-chief-justice-after-case/articleshow/124245725.cms",
       "source": "Times of India",
@@ -881,6 +977,14 @@
       "source": "Times of India",
       "region": "Asia-Pacific",
       "published": "2025-10-01T06:30:42+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Rattled Denmark hosts EU summit to talk Drone Wall, defence and Ukraine",
+      "url": "http://www.euronews.com/my-europe/2025/10/01/rattled-denmark-hosts-eu-summit-to-talk-drone-wall-defence-and-ukraine",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-10-01T06:30:18+02:00",
       "sentiment": "positive"
     },
     {
@@ -1170,110 +1274,6 @@
       "region": "Global",
       "published": "2025-10-01T05:02:27+08:00",
       "sentiment": "positive"
-    },
-    {
-      "title": "Asia Cup: PCB punishes Pakistan players for defeat vs India? All NOC cancelled",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/pcb-punishes-pakistan-players-for-asia-cup-defeat-all-noc-cancelled/articleshow/124241411.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-10-01T05:02:00+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Inter's Martinez leads the way in 3-0 win over Slavia Prague",
-      "url": "https://www.channelnewsasia.com/sport/inters-martinez-leads-way-in-3-0-win-over-slavia-prague-5378531",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-10-01T05:01:27+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Trump says Harvard to pay US$500m in settlement with administration",
-      "url": "https://www.channelnewsasia.com/world/trump-says-harvard-pay-us500m-in-settlement-administration-5378521",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-10-01T05:01:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Asia Cup: Imran Khan slams PCB chief; claims Mohsin Naqvi ruining Pak cricket",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/mohsin-naqvi-is-ruining-cricket-like-asim-munir-is-ruining-pakistan-imran-khan-lashes-out-at-pcb-chief/articleshow/124240857.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-10-01T05:01:00+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "At Vuitton, the Louvre is a stage for stars, spectacle and Paris Fashion Week's moving masterpiece",
-      "url": "https://www.channelnewsasia.com/obsessions/vuitton-louvre-stage-stars-spectacle-and-paris-fashion-weeks-moving-masterpiece-5378476",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-10-01T04:45:43+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Scientists create human eggs using skin cells",
-      "url": "https://www.channelnewsasia.com/business/scientists-create-human-eggs-using-skin-cells-5378501",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-10-01T04:43:40+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Zubeen Garg\u2019s death casts shadow on Durga Puja festivity in Assam",
-      "url": "https://www.thehindu.com/news/national/assam/zubeen-gargs-death-casts-shadow-on-durga-puja-festivity-in-assam/article70113907.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-10-01T04:40:00+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Post-Ladakh firing, Omar says can\u2019t hit streets for statehood",
-      "url": "https://timesofindia.indiatimes.com/india/post-ladakh-firing-omar-says-cant-hit-streets-for-statehood/articleshow/124245182.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-10-01T04:28:40+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "After Ladakh group, Kargil bloc quits talks; sets conditions",
-      "url": "https://timesofindia.indiatimes.com/india/after-ladakh-group-kargil-bloc-quits-talks-sets-conditions/articleshow/124245180.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-10-01T04:28:15+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Wangchuk\u2019s arrest: Wife Angmo calls anti-national claims 'blatant lies'; vows fight",
-      "url": "https://timesofindia.indiatimes.com/india/blatant-lies-portraying-sonam-wangchuk-as-anti-national-wife-angmo/articleshow/124245164.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-10-01T04:23:06+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "New York City auditor traded free lap dances for helping strip club chain avoid $8M in taxes: authorities",
-      "url": "https://www.independent.co.uk/news/world/americas/crime/new-york-auditor-indicted-strip-club-bribe-b2836997.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-10-01T04:22:21+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Capital Group On Long-Term Active Investing Trends",
-      "url": "https://www.bloomberg.com/news/videos/2025-10-01/capital-group-on-long-term-active-investing-trends",
-      "source": "Bloomberg",
-      "region": "North America",
-      "published": "2025-10-01T04:20:16+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Punjab seeks special package for flood damages; Centre says it stands shoulder to shoulder with people of Punjab",
-      "url": "https://www.thehindu.com/news/national/punjab/punjab-seeks-special-package-for-flood-damages-centre-says-it-stands-shoulder-to-shoulder-with-people-of-punjab/article70114059.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-10-01T04:20:00+05:30",
-      "sentiment": "negative"
     }
   ]
 }
