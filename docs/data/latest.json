@@ -1,51 +1,43 @@
 {
-  "generated_at": "2025-10-05T13:26:34.013334+00:00",
+  "generated_at": "2025-10-05T13:42:56.641901+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 826,
-    "neutral": 224,
-    "negative": 756
+    "positive": 821,
+    "neutral": 215,
+    "negative": 765
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 90,
-      "neutral": 36,
-      "negative": 127,
-      "count": 253,
-      "region": "Middle East"
+      "positive": 89,
+      "neutral": 35,
+      "negative": 133,
+      "count": 257,
+      "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 86,
-      "neutral": 55,
-      "negative": 90,
-      "count": 231,
+      "positive": 85,
+      "neutral": 48,
+      "negative": 89,
+      "count": 222,
       "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
-      "positive": 64,
+      "positive": 63,
       "neutral": 6,
       "negative": 66,
-      "count": 136,
+      "count": 135,
       "region": "Asia-Pacific"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 59,
+      "positive": 58,
       "neutral": 10,
       "negative": 32,
-      "count": 101,
+      "count": 100,
       "region": "Asia-Pacific"
-    },
-    {
-      "source": "Fox News",
-      "positive": 27,
-      "neutral": 6,
-      "negative": 42,
-      "count": 75,
-      "region": "North America"
     },
     {
       "source": "BBC Sport",
@@ -56,6 +48,14 @@
       "region": "Asia-Pacific"
     },
     {
+      "source": "Fox News",
+      "positive": 26,
+      "neutral": 6,
+      "negative": 42,
+      "count": 74,
+      "region": "North America"
+    },
+    {
       "source": "BBC News",
       "positive": 30,
       "neutral": 5,
@@ -64,19 +64,11 @@
       "region": "Europe"
     },
     {
-      "source": "Channel News Asia",
-      "positive": 31,
-      "neutral": 12,
-      "negative": 23,
-      "count": 66,
-      "region": "North America"
-    },
-    {
       "source": "Sky Sports",
-      "positive": 28,
+      "positive": 29,
       "neutral": 17,
       "negative": 17,
-      "count": 62,
+      "count": 63,
       "region": "Europe"
     },
     {
@@ -96,28 +88,36 @@
       "region": "Asia-Pacific"
     },
     {
+      "source": "Channel News Asia",
+      "positive": 26,
+      "neutral": 12,
+      "negative": 22,
+      "count": 60,
+      "region": "Global"
+    },
+    {
       "source": "CBS News",
-      "positive": 23,
+      "positive": 24,
       "neutral": 7,
-      "negative": 21,
-      "count": 51,
+      "negative": 23,
+      "count": 54,
       "region": "North America"
     },
     {
       "source": "ESPN",
-      "positive": 26,
+      "positive": 29,
       "neutral": 5,
       "negative": 20,
-      "count": 51,
+      "count": 54,
       "region": "Asia-Pacific"
     },
     {
       "source": "Al Jazeera English",
-      "positive": 15,
+      "positive": 14,
       "neutral": 6,
-      "negative": 27,
-      "count": 48,
-      "region": "North America"
+      "negative": 26,
+      "count": 46,
+      "region": "Europe"
     },
     {
       "source": "Times of Israel",
@@ -131,15 +131,15 @@
       "source": "France 24",
       "positive": 11,
       "neutral": 5,
-      "negative": 20,
-      "count": 36,
+      "negative": 21,
+      "count": 37,
       "region": "Middle East"
     },
     {
       "source": "Middle East Eye",
-      "positive": 9,
+      "positive": 8,
       "neutral": 0,
-      "negative": 19,
+      "negative": 20,
       "count": 28,
       "region": "Middle East"
     },
@@ -153,8 +153,8 @@
     },
     {
       "source": "NBC News",
-      "positive": 6,
-      "neutral": 7,
+      "positive": 7,
+      "neutral": 6,
       "negative": 12,
       "count": 25,
       "region": "Europe"
@@ -187,9 +187,9 @@
       "source": "Bloomberg",
       "positive": 14,
       "neutral": 3,
-      "negative": 6,
-      "count": 23,
-      "region": "North America"
+      "negative": 5,
+      "count": 22,
+      "region": "Global"
     },
     {
       "source": "RT News",
@@ -232,6 +232,14 @@
       "region": "Europe"
     },
     {
+      "source": "Irish Times",
+      "positive": 1,
+      "neutral": 1,
+      "negative": 14,
+      "count": 16,
+      "region": "North America"
+    },
+    {
       "source": "Sputnik News",
       "positive": 8,
       "neutral": 1,
@@ -248,14 +256,6 @@
       "region": "North America"
     },
     {
-      "source": "Irish Times",
-      "positive": 1,
-      "neutral": 1,
-      "negative": 12,
-      "count": 14,
-      "region": "North America"
-    },
-    {
       "source": "Telegraph",
       "positive": 10,
       "neutral": 1,
@@ -265,10 +265,10 @@
     },
     {
       "source": "CNBC",
-      "positive": 6,
+      "positive": 7,
       "neutral": 1,
-      "negative": 4,
-      "count": 11,
+      "negative": 5,
+      "count": 13,
       "region": "North America"
     },
     {
@@ -347,31 +347,31 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 227,
-      "neutral": 52,
-      "negative": 226,
-      "count": 505
+      "positive": 224,
+      "neutral": 51,
+      "negative": 229,
+      "count": 504
     },
     {
       "region": "Asia-Pacific",
-      "positive": 212,
-      "neutral": 82,
-      "negative": 191,
-      "count": 485
+      "positive": 209,
+      "neutral": 76,
+      "negative": 193,
+      "count": 478
     },
     {
       "region": "Europe",
-      "positive": 186,
-      "neutral": 45,
-      "negative": 164,
-      "count": 395
+      "positive": 187,
+      "neutral": 44,
+      "negative": 163,
+      "count": 394
     },
     {
       "region": "Middle East",
       "positive": 104,
-      "neutral": 26,
-      "negative": 125,
-      "count": 255
+      "neutral": 25,
+      "negative": 129,
+      "count": 258
     },
     {
       "region": "Global",
@@ -384,8 +384,8 @@
       "region": "Africa",
       "positive": 22,
       "neutral": 1,
-      "negative": 0,
-      "count": 23
+      "negative": 1,
+      "count": 24
     },
     {
       "region": "South America",
@@ -399,79 +399,79 @@
     {
       "topic": "Tech",
       "positive": 202,
-      "neutral": 47,
-      "negative": 161,
+      "neutral": 45,
+      "negative": 163,
       "count": 410
     },
     {
       "topic": "Politics",
-      "positive": 142,
-      "neutral": 44,
-      "negative": 137,
+      "positive": 141,
+      "neutral": 42,
+      "negative": 140,
       "count": 323
     },
     {
       "topic": "Other",
-      "positive": 110,
-      "neutral": 55,
-      "negative": 131,
-      "count": 296
+      "positive": 109,
+      "neutral": 50,
+      "negative": 134,
+      "count": 293
     },
     {
       "topic": "World",
-      "positive": 112,
+      "positive": 113,
       "neutral": 18,
       "negative": 159,
-      "count": 289
+      "count": 290
     },
     {
       "topic": "Sports",
-      "positive": 137,
-      "neutral": 19,
-      "negative": 69,
-      "count": 225
+      "positive": 135,
+      "neutral": 20,
+      "negative": 68,
+      "count": 223
     },
     {
       "topic": "Entertainment",
       "positive": 50,
       "neutral": 9,
-      "negative": 11,
-      "count": 70
+      "negative": 12,
+      "count": 71
     },
     {
       "topic": "Health",
-      "positive": 17,
+      "positive": 16,
       "neutral": 5,
-      "negative": 32,
+      "negative": 33,
       "count": 54
     },
     {
       "topic": "Business",
       "positive": 25,
       "neutral": 9,
-      "negative": 19,
-      "count": 53
+      "negative": 18,
+      "count": 52
     },
     {
       "topic": "Regional",
-      "positive": 11,
+      "positive": 10,
       "neutral": 4,
-      "negative": 18,
+      "negative": 19,
       "count": 33
     },
     {
       "topic": "Local",
       "positive": 7,
       "neutral": 9,
-      "negative": 14,
-      "count": 30
+      "negative": 15,
+      "count": 31
     },
     {
       "topic": "Science",
       "positive": 13,
-      "neutral": 5,
-      "negative": 5,
-      "count": 23
+      "neutral": 4,
+      "negative": 4,
+      "count": 21
     }
   ],
   "sample_headlines": [
@@ -490,6 +490,38 @@
       "region": "Global",
       "published": "2025-10-05T20:03:00+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Prakash Raj to head Kerala State Film Awards jury",
+      "url": "https://www.thehindu.com/news/national/kerala/prakash-raj-to-head-kerala-state-film-awards-jury/article70128171.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-05T19:07:47+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Crisis in recruitment to aided schools takes centre stage ahead of polls",
+      "url": "https://www.thehindu.com/news/national/kerala/crisis-in-recruitment-to-aided-schools-takes-centre-stage-ahead-of-polls/article70128009.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-05T19:05:47+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Vichara Sadas inaugurated in Alappuzha",
+      "url": "https://www.thehindu.com/news/national/kerala/vichara-sadas-inaugurated-in-alappuzha/article70128142.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-05T19:05:36+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Woman killed in road accident; six injured",
+      "url": "https://www.thehindu.com/news/national/kerala/woman-killed-in-road-accident-six-injured/article70127992.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-05T18:56:53+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Singapore kitefoiler Max Maeder clinches silver at World Championships",
@@ -1164,6 +1196,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Marco Rubio says Gaza war not yet over",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/marco-rubio-says-gaza-war-not-yet-over",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "published": "2025-10-05T14:29:14+01:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Trump says Hamas will face 'complete obliteration' if it doesn't cede power in Gaza",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-hamas-will-face-complete-obliteration-if-it-doesnt-cede-power",
       "source": "Middle East Eye",
@@ -1178,6 +1218,14 @@
       "region": "North America",
       "published": "2025-10-05T14:16:04+05:30",
       "sentiment": "negative"
+    },
+    {
+      "title": "'Unbelievable!' | Andy Murray shocks commentators with MONSTER birdie putt",
+      "url": "https://www.skysports.com/watch/video/13445152/dunhill-links-andy-murray-sinks-a-monster-birdie-putt",
+      "source": "Sky Sports",
+      "region": "Europe",
+      "published": "2025-10-05T14:16:00+00:00",
+      "sentiment": "positive"
     },
     {
       "title": "Dyscalculia: Could struggling with mathematics point to a learning difficulty?",
@@ -1226,54 +1274,6 @@
       "region": "Europe",
       "published": "2025-10-05T13:57:51+05:30",
       "sentiment": "positive"
-    },
-    {
-      "title": "Indian states ban cough syrup linked to child deaths",
-      "url": "https://www.channelnewsasia.com/asia/india-cough-syrup-toxic-children-deaths-ban-5385331",
-      "source": "Channel News Asia",
-      "region": "Asia-Pacific",
-      "published": "2025-10-05T13:56:37+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "RAT gets deployed on Air India\u2019s Birmingham-bound plane; aircraft lands safely",
-      "url": "https://www.thehindu.com/news/national/rat-gets-deployed-on-air-indias-birmingham-bound-plane-aircraft-lands-safely/article70127540.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-10-05T13:50:29+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Mangalore University Physical Education Director passes away",
-      "url": "https://www.thehindu.com/news/cities/Mangalore/mangalore-university-physical-education-director-passes-away/article70127499.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-10-05T13:41:48+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Playing for power in Haryana\u2019s Ahirwal belt",
-      "url": "https://www.thehindu.com/news/national/haryana/playing-for-power-in-haryanas-ahirwal-belt/article70117001.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-10-05T13:39:28+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Pereira reclaims light heavyweight belt at UFC 320",
-      "url": "https://www.channelnewsasia.com/sport/pereira-reclaims-light-heavyweight-belt-ufc-320-5385326",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-10-05T13:39:10+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "At least seven Palestinians wounded from Israeli gunfire in Bethlehem",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-seven-palestinians-wounded-israeli-gunfire-bethlehem",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "published": "2025-10-05T13:30:32+01:00",
-      "sentiment": "negative"
     }
   ]
 }
