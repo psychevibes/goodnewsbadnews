@@ -1,42 +1,42 @@
 {
-  "generated_at": "2025-10-05T08:26:30.894770+00:00",
+  "generated_at": "2025-10-05T08:46:10.537847+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 877,
-    "neutral": 254,
-    "negative": 787
+    "positive": 875,
+    "neutral": 257,
+    "negative": 789
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 107,
-      "neutral": 44,
-      "negative": 140,
-      "count": 291,
+      "positive": 105,
+      "neutral": 45,
+      "negative": 137,
+      "count": 287,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 87,
+      "positive": 88,
       "neutral": 55,
-      "negative": 98,
+      "negative": 97,
       "count": 240,
       "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
-      "positive": 63,
+      "positive": 64,
       "neutral": 5,
-      "negative": 63,
-      "count": 131,
+      "negative": 64,
+      "count": 133,
       "region": "Asia-Pacific"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 54,
+      "positive": 50,
       "neutral": 11,
       "negative": 31,
-      "count": 96,
+      "count": 92,
       "region": "Asia-Pacific"
     },
     {
@@ -51,17 +51,9 @@
       "source": "Channel News Asia",
       "positive": 36,
       "neutral": 17,
-      "negative": 26,
-      "count": 79,
+      "negative": 27,
+      "count": 80,
       "region": "Asia-Pacific"
-    },
-    {
-      "source": "BBC Sport",
-      "positive": 57,
-      "neutral": 7,
-      "negative": 14,
-      "count": 78,
-      "region": "Europe"
     },
     {
       "source": "Sky Sports",
@@ -72,11 +64,19 @@
       "region": "North America"
     },
     {
+      "source": "BBC Sport",
+      "positive": 56,
+      "neutral": 7,
+      "negative": 14,
+      "count": 77,
+      "region": "Asia-Pacific"
+    },
+    {
       "source": "BBC News",
       "positive": 32,
       "neutral": 5,
-      "negative": 32,
-      "count": 69,
+      "negative": 33,
+      "count": 70,
       "region": "Europe"
     },
     {
@@ -88,20 +88,20 @@
       "region": "Europe"
     },
     {
+      "source": "South China Morning Post",
+      "positive": 38,
+      "neutral": 6,
+      "negative": 18,
+      "count": 62,
+      "region": "Asia-Pacific"
+    },
+    {
       "source": "ESPN",
       "positive": 31,
       "neutral": 8,
       "negative": 21,
       "count": 60,
       "region": "Global"
-    },
-    {
-      "source": "South China Morning Post",
-      "positive": 35,
-      "neutral": 5,
-      "negative": 18,
-      "count": 58,
-      "region": "Asia-Pacific"
     },
     {
       "source": "CBS News",
@@ -115,9 +115,9 @@
       "source": "Al Jazeera English",
       "positive": 15,
       "neutral": 6,
-      "negative": 26,
-      "count": 47,
-      "region": "North America"
+      "negative": 25,
+      "count": 46,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Times of Israel",
@@ -130,9 +130,9 @@
     {
       "source": "France 24",
       "positive": 13,
-      "neutral": 5,
-      "negative": 18,
-      "count": 36,
+      "neutral": 6,
+      "negative": 19,
+      "count": 38,
       "region": "Europe"
     },
     {
@@ -153,26 +153,26 @@
     },
     {
       "source": "Mashable",
-      "positive": 22,
+      "positive": 21,
       "neutral": 5,
       "negative": 4,
-      "count": 31,
-      "region": "Global"
+      "count": 30,
+      "region": "North America"
     },
     {
       "source": "Deutsche Welle",
       "positive": 10,
       "neutral": 2,
-      "negative": 11,
-      "count": 23,
+      "negative": 12,
+      "count": 24,
       "region": "Middle East"
     },
     {
       "source": "Straits Times",
       "positive": 14,
       "neutral": 3,
-      "negative": 6,
-      "count": 23,
+      "negative": 7,
+      "count": 24,
       "region": "Asia-Pacific"
     },
     {
@@ -227,9 +227,17 @@
       "source": "NPR",
       "positive": 8,
       "neutral": 1,
-      "negative": 6,
-      "count": 15,
+      "negative": 7,
+      "count": 16,
       "region": "North America"
+    },
+    {
+      "source": "Euronews",
+      "positive": 9,
+      "neutral": 4,
+      "negative": 3,
+      "count": 16,
+      "region": "Europe"
     },
     {
       "source": "Financial Times",
@@ -256,14 +264,6 @@
       "region": "North America"
     },
     {
-      "source": "Euronews",
-      "positive": 8,
-      "neutral": 4,
-      "negative": 2,
-      "count": 14,
-      "region": "Europe"
-    },
-    {
       "source": "Telegraph",
       "positive": 10,
       "neutral": 1,
@@ -288,18 +288,18 @@
       "region": "North America"
     },
     {
-      "source": "Washington Post",
-      "positive": 7,
-      "neutral": 0,
-      "negative": 2,
-      "count": 9,
-      "region": "Europe"
-    },
-    {
       "source": "ABC News",
       "positive": 1,
       "neutral": 2,
       "negative": 5,
+      "count": 8,
+      "region": "Middle East"
+    },
+    {
+      "source": "Washington Post",
+      "positive": 7,
+      "neutral": 0,
+      "negative": 1,
       "count": 8,
       "region": "Middle East"
     },
@@ -347,45 +347,45 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 254,
+      "positive": 255,
       "neutral": 55,
-      "negative": 245,
+      "negative": 244,
       "count": 554
     },
     {
       "region": "Asia-Pacific",
-      "positive": 219,
-      "neutral": 82,
-      "negative": 194,
-      "count": 495
+      "positive": 216,
+      "neutral": 83,
+      "negative": 197,
+      "count": 496
     },
     {
       "region": "Europe",
-      "positive": 190,
-      "neutral": 67,
+      "positive": 189,
+      "neutral": 68,
       "negative": 167,
       "count": 424
     },
     {
       "region": "Middle East",
-      "positive": 120,
-      "neutral": 26,
+      "positive": 122,
+      "neutral": 27,
       "negative": 124,
-      "count": 270
+      "count": 273
     },
     {
       "region": "Global",
-      "positive": 65,
+      "positive": 64,
       "neutral": 23,
-      "negative": 45,
+      "negative": 46,
       "count": 133
     },
     {
       "region": "Africa",
       "positive": 21,
       "neutral": 1,
-      "negative": 3,
-      "count": 25
+      "negative": 2,
+      "count": 24
     },
     {
       "region": "South America",
@@ -398,52 +398,52 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 220,
+      "positive": 221,
       "neutral": 63,
-      "negative": 175,
-      "count": 458
+      "negative": 176,
+      "count": 460
     },
     {
       "topic": "Politics",
-      "positive": 150,
+      "positive": 152,
       "neutral": 44,
-      "negative": 151,
+      "negative": 149,
       "count": 345
     },
     {
       "topic": "Other",
-      "positive": 102,
-      "neutral": 56,
-      "negative": 140,
-      "count": 298
+      "positive": 100,
+      "neutral": 57,
+      "negative": 142,
+      "count": 299
     },
     {
       "topic": "World",
-      "positive": 118,
-      "neutral": 22,
-      "negative": 155,
-      "count": 295
+      "positive": 120,
+      "neutral": 23,
+      "negative": 154,
+      "count": 297
     },
     {
       "topic": "Sports",
-      "positive": 160,
+      "positive": 155,
       "neutral": 23,
       "negative": 56,
-      "count": 239
+      "count": 234
     },
     {
       "topic": "Entertainment",
-      "positive": 51,
-      "neutral": 11,
+      "positive": 50,
+      "neutral": 12,
       "negative": 15,
       "count": 77
     },
     {
       "topic": "Health",
-      "positive": 18,
+      "positive": 19,
       "neutral": 5,
-      "negative": 35,
-      "count": 58
+      "negative": 36,
+      "count": 60
     },
     {
       "topic": "Business",
@@ -456,8 +456,8 @@
       "topic": "Regional",
       "positive": 13,
       "neutral": 3,
-      "negative": 22,
-      "count": 38
+      "negative": 23,
+      "count": 39
     },
     {
       "topic": "Local",
@@ -476,12 +476,36 @@
   ],
   "sample_headlines": [
     {
+      "title": "Israel strikes Gaza as Palestinians pin hopes on Trump's peace plan",
+      "url": "https://www.channelnewsasia.com/world/israel-hamas-war-gaza-trump-peace-plan-hostages-strikes-5385376",
+      "source": "Channel News Asia",
+      "region": "Middle East",
+      "published": "2025-10-05T16:29:00+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Motorcyling-Champion Marquez suffers collarbone injury after crash in Indonesia",
+      "url": "https://www.channelnewsasia.com/sport/motorcyling-champion-marquez-suffers-collarbone-injury-after-crash-in-indonesia-5385371",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-10-05T16:18:39+08:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Typhoon Matmo hits southern China during peak holiday season",
       "url": "https://www.channelnewsasia.com/east-asia/typhoon-matmo-southern-china-peak-holiday-season-5385346",
       "source": "Channel News Asia",
       "region": "Asia-Pacific",
       "published": "2025-10-05T16:13:54+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Man taken to hospital after accident in Hougang involving GetGo Car",
+      "url": "https://www.straitstimes.com/singapore/man-taken-to-hospital-after-accident-in-hougang-involving-getgo-car",
+      "source": "Straits Times",
+      "region": "Global",
+      "published": "2025-10-05T15:51:45+08:00",
+      "sentiment": "negative"
     },
     {
       "title": "Rookie Aldeguer wins Indonesia GP as Marquez, Bezzecchi crash",
@@ -529,6 +553,14 @@
       "source": "Channel News Asia",
       "region": "North America",
       "published": "2025-10-05T14:14:25+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "India, EU to begin next round of talks for trade pact from Oct. 6 in Brussels",
+      "url": "https://www.thehindu.com/business/Economy/india-eu-to-begin-next-round-of-talks-for-trade-pact-from-oct-6-in-brussels/article70127598.ece",
+      "source": "The Hindu",
+      "region": "Europe",
+      "published": "2025-10-05T13:57:51+05:30",
       "sentiment": "positive"
     },
     {
@@ -908,6 +940,22 @@
       "sentiment": "negative"
     },
     {
+      "title": "Nepal hit by Monsoon: At least 42 dead in landslides, flood",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/eastern-nepal-hit-by-monsoon-several-dead-in-landslides-flood-evacuations-underway-authorities-warn-of-heavy-rain/articleshow/124316721.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-10-05T11:06:06+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Harvard trained gastroenterologist reveals 10 best foods for gas and bloating",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/diet/harvard-trained-gastroenterologist-reveals-10-best-anti-bloating-foods/articleshow/124316547.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-10-05T11:02:41+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "Hermes unveils sandy-hued spring/summer 2026 collection at Paris Fashion Week",
       "url": "https://www.channelnewsasia.com/obsessions/hermes-unveils-sandy-hued-springsummer-2026-collection-paris-fashion-week-5385081",
       "source": "Channel News Asia",
@@ -1036,6 +1084,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "US judge blocks Trump from deploying troops in Portland, Oregon",
+      "url": "http://www.euronews.com/2025/10/05/us-judge-blocks-trump-from-deploying-troops-in-portland-oregon",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-10-05T10:03:47+02:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Critical to communicate, standardise, review if S\u2019pore wants to raise construction productivity",
       "url": "https://www.straitstimes.com/singapore/critical-to-communicate-standardise-review-if-spore-wants-to-raise-construction-productivity",
       "source": "Straits Times",
@@ -1076,6 +1132,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Israeli and Hamas negotiators in Cairo for indirect talks, says report",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-and-hamas-negotiators-cairo-indirect-talks-says-report",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "published": "2025-10-05T09:35:51+01:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "'Pakistan my Janmabhoomi, but India is my Matrubhumi': Ex-Pak cricketer",
       "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-may-be-my-janmabhoomi-but-india-is-my-matrubhumi-former-pakistan-cricketer/articleshow/124315611.cms",
       "source": "Times of India",
@@ -1106,6 +1170,14 @@
       "region": "Middle East",
       "published": "2025-10-05T09:20:33+05:30",
       "sentiment": "negative"
+    },
+    {
+      "title": "Israeli PM Benjamin Netanyahu hopeful for release of all hostages from Gaza \u2018in the coming days\u2019",
+      "url": "http://www.euronews.com/2025/10/05/israeli-pm-netanyahu-hopes-to-announce-release-of-all-hostages-from-gaza-in-the-coming-day",
+      "source": "Euronews",
+      "region": "Middle East",
+      "published": "2025-10-05T09:19:03+02:00",
+      "sentiment": "positive"
     },
     {
       "title": "Israeli military says it intercepted missile launched from Yemen",
@@ -1172,6 +1244,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "China\u2019s top diplomat Wang Yi to visit Italy, Switzerland: foreign ministry",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3327915/chinas-top-diplomat-wang-yi-visit-italy-and-switzerland-week-foreign-ministry?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Asia-Pacific",
+      "published": "2025-10-05T08:44:51+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "US judge temporarily blocks Trump administration from deploying national guard in Portland",
       "url": "https://www.channelnewsasia.com/world/us-judge-temporarily-blocks-trump-administration-deploying-national-guard-in-portland-5385231",
       "source": "Channel News Asia",
@@ -1180,100 +1260,20 @@
       "sentiment": "negative"
     },
     {
-      "title": "National Green Tribunal flags rising ozone pollution in Indian cities",
-      "url": "https://www.thehindu.com/news/national/national-green-tribunal-flags-rising-ozone-pollution-in-indian-cities/article70126015.ece",
-      "source": "The Hindu",
+      "title": "Nepal: Deadly landslides, flash floods kill many",
+      "url": "https://www.dw.com/en/nepal-deadly-landslides-flash-floods-kill-many/a-74240553?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
       "region": "Asia-Pacific",
-      "published": "2025-10-05T08:39:52+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Korda still without a win as Hwang claims Hawaii title for first LPGA Tour victory",
-      "url": "https://www.skysports.com/golf/news/12040/13444918/nelly-korda-still-without-a-win-as-youmin-hwang-claims-hawaii-title-for-her-first-lpga-tour-victory",
-      "source": "Sky Sports",
-      "region": "Europe",
-      "published": "2025-10-05T08:27:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "MP cough syrup deaths: Doctor held after 11 kids die from toxic Coldrif; TN manufacturers booked",
-      "url": "https://timesofindia.indiatimes.com/city/bhopal/12-children-deaths-in-mp-doctor-who-prescribed-poisoned-cough-syrup-arrested/articleshow/124315650.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-10-05T08:25:24+05:30",
+      "published": "2025-10-05T08:42:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Doctor held after 11 kids die in MP from toxic Coldrif; TN manufacturers booked",
-      "url": "https://timesofindia.indiatimes.com/city/bhopal/12-children-deaths-in-mp-doctor-who-prescribed-poisoned-cough-syrup-arrested/articleshow/124315650.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-10-05T08:25:24+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Taylor Swift reveals she surprised her record label with \u2018The Life of a Showgirl\u2019",
-      "url": "https://www.independent.co.uk/arts-entertainment/music/news/taylor-swift-life-of-a-showgirl-secret-album-bbc-scott-mills-b2839550.html",
+      "title": "UK politics live: Badenoch to launch Tory conference with migrant \u2018removals force\u2019 pledge inspired by Trump\u2019s ICE",
+      "url": "https://www.independent.co.uk/news/uk/politics/tory-party-conference-2025-conservative-kemi-badenoch-manchester-live-b2839486.html",
       "source": "Independent",
       "region": "Europe",
-      "published": "2025-10-05T08:24:30+00:00",
+      "published": "2025-10-05T08:41:28+00:00",
       "sentiment": "positive"
-    },
-    {
-      "title": "Ex-President Saakashvili Tried to Stage 'Maidan' in Georgia",
-      "url": "https://sputnikglobe.com/20251005/ex-president-saakashvili-tried-to-stage-maidan-in-georgia-1122914420.html",
-      "source": "Sputnik News",
-      "region": "Global",
-      "published": "2025-10-05T08:20:10+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Typhoon Matmo: China evacuates 150,000 people as powerful storm makes landfall",
-      "url": "https://www.independent.co.uk/asia/china/typhoon-matmo-china-hong-kong-vietnam-landfall-latest-b2839532.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-10-05T08:16:59+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Man arrested after fatal road crash in Co Wexford",
-      "url": "https://www.irishtimes.com/crime-law/2025/10/05/man-arrested-after-fatal-road-crash-in-co-wexford/",
-      "source": "Irish Times",
-      "region": "North America",
-      "published": "2025-10-05T08:16:32+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Big Bangor win, postponements & Glenavon's woes - Premiership takeaways",
-      "url": "https://www.bbc.com/sport/articles/cwywm09rexjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "region": "Europe",
-      "published": "2025-10-05T08:16:14+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Hong Kong adds additional private residential plot in Northern Metropolis",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3327914/hong-kong-adds-additional-private-residential-plot-northern-metropolis?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-10-05T08:16:10+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "My son plans to drop higher-level Irish for the Leaving Cert. Is this a good idea?",
-      "url": "https://www.irishtimes.com/ireland/education/2025/10/05/my-son-plans-to-drop-higher-level-irish-for-the-leaving-cert-is-this-a-good-idea/",
-      "source": "Irish Times",
-      "region": "Global",
-      "published": "2025-10-05T08:14:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Typhoon Matmo Makes Landfall in Southern China",
-      "url": "https://www.nytimes.com/2025/10/05/world/asia/typhoon-matmo-china-guangdong.html",
-      "source": "New York Times",
-      "region": "Asia-Pacific",
-      "published": "2025-10-05T08:13:25+00:00",
-      "sentiment": "negative"
     }
   ]
 }
