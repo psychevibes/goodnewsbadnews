@@ -1,43 +1,51 @@
 {
-  "generated_at": "2025-10-05T21:20:34.262652+00:00",
+  "generated_at": "2025-10-05T21:42:23.382738+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 792,
-    "neutral": 226,
-    "negative": 809
+    "positive": 800,
+    "neutral": 231,
+    "negative": 811
   },
   "by_publication": [
     {
-      "source": "The Hindu",
-      "positive": 67,
-      "neutral": 61,
-      "negative": 113,
-      "count": 241,
-      "region": "Asia-Pacific"
+      "source": "Independent",
+      "positive": 98,
+      "neutral": 28,
+      "negative": 118,
+      "count": 244,
+      "region": "North America"
     },
     {
-      "source": "Independent",
-      "positive": 94,
-      "neutral": 26,
-      "negative": 119,
-      "count": 239,
-      "region": "Europe"
+      "source": "The Hindu",
+      "positive": 68,
+      "neutral": 61,
+      "negative": 112,
+      "count": 241,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
       "positive": 57,
       "neutral": 5,
-      "negative": 65,
-      "count": 127,
-      "region": "North America"
+      "negative": 66,
+      "count": 128,
+      "region": "Middle East"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 60,
-      "neutral": 8,
+      "positive": 61,
+      "neutral": 9,
       "negative": 37,
-      "count": 105,
+      "count": 107,
       "region": "Asia-Pacific"
+    },
+    {
+      "source": "BBC Sport",
+      "positive": 50,
+      "neutral": 8,
+      "negative": 20,
+      "count": 78,
+      "region": "North America"
     },
     {
       "source": "Sky Sports",
@@ -48,36 +56,28 @@
       "region": "Asia-Pacific"
     },
     {
-      "source": "BBC Sport",
-      "positive": 48,
-      "neutral": 8,
-      "negative": 19,
-      "count": 75,
-      "region": "North America"
-    },
-    {
       "source": "South China Morning Post",
-      "positive": 39,
+      "positive": 40,
       "neutral": 6,
-      "negative": 26,
-      "count": 71,
+      "negative": 27,
+      "count": 73,
       "region": "North America"
     },
     {
       "source": "Fox News",
-      "positive": 23,
+      "positive": 24,
       "neutral": 4,
-      "negative": 41,
-      "count": 68,
+      "negative": 43,
+      "count": 71,
       "region": "North America"
     },
     {
       "source": "BBC News",
-      "positive": 29,
+      "positive": 28,
       "neutral": 13,
-      "negative": 23,
-      "count": 65,
-      "region": "Middle East"
+      "negative": 22,
+      "count": 63,
+      "region": "Asia-Pacific"
     },
     {
       "source": "The Guardian",
@@ -91,40 +91,40 @@
       "source": "Channel News Asia",
       "positive": 28,
       "neutral": 8,
-      "negative": 23,
-      "count": 59,
-      "region": "Middle East"
+      "negative": 24,
+      "count": 60,
+      "region": "Global"
     },
     {
       "source": "CBS News",
-      "positive": 20,
+      "positive": 21,
       "neutral": 12,
       "negative": 26,
-      "count": 58,
+      "count": 59,
       "region": "Asia-Pacific"
     },
     {
       "source": "ESPN",
-      "positive": 36,
+      "positive": 34,
       "neutral": 9,
       "negative": 11,
-      "count": 56,
+      "count": 54,
       "region": "North America"
     },
     {
       "source": "Al Jazeera English",
       "positive": 12,
       "neutral": 9,
-      "negative": 33,
-      "count": 54,
+      "negative": 32,
+      "count": 53,
       "region": "Middle East"
     },
     {
       "source": "Times of Israel",
       "positive": 18,
-      "neutral": 2,
+      "neutral": 3,
       "negative": 23,
-      "count": 43,
+      "count": 44,
       "region": "Middle East"
     },
     {
@@ -139,8 +139,8 @@
       "source": "France 24",
       "positive": 7,
       "neutral": 1,
-      "negative": 23,
-      "count": 31,
+      "negative": 24,
+      "count": 32,
       "region": "Middle East"
     },
     {
@@ -153,10 +153,10 @@
     },
     {
       "source": "NBC News",
-      "positive": 7,
-      "neutral": 6,
+      "positive": 8,
+      "neutral": 7,
       "negative": 14,
-      "count": 27,
+      "count": 29,
       "region": "North America"
     },
     {
@@ -179,8 +179,8 @@
       "source": "Financial Times",
       "positive": 11,
       "neutral": 4,
-      "negative": 7,
-      "count": 22,
+      "negative": 6,
+      "count": 21,
       "region": "North America"
     },
     {
@@ -205,7 +205,7 @@
       "neutral": 2,
       "negative": 12,
       "count": 19,
-      "region": "Asia-Pacific"
+      "region": "Middle East"
     },
     {
       "source": "Irish Times",
@@ -256,14 +256,6 @@
       "region": "Europe"
     },
     {
-      "source": "NPR",
-      "positive": 3,
-      "neutral": 0,
-      "negative": 9,
-      "count": 12,
-      "region": "North America"
-    },
-    {
       "source": "Telegraph",
       "positive": 9,
       "neutral": 1,
@@ -275,9 +267,17 @@
       "source": "ABC News",
       "positive": 4,
       "neutral": 1,
-      "negative": 5,
-      "count": 10,
+      "negative": 6,
+      "count": 11,
       "region": "Middle East"
+    },
+    {
+      "source": "NPR",
+      "positive": 3,
+      "neutral": 0,
+      "negative": 8,
+      "count": 11,
+      "region": "North America"
     },
     {
       "source": "Sky News",
@@ -321,48 +321,48 @@
     },
     {
       "source": "Buenos Aires Herald",
-      "positive": 2,
+      "positive": 1,
       "neutral": 0,
       "negative": 1,
-      "count": 3,
+      "count": 2,
       "region": "South America"
     }
   ],
   "by_region": [
     {
       "region": "North America",
-      "positive": 219,
-      "neutral": 65,
-      "negative": 276,
-      "count": 560
+      "positive": 225,
+      "neutral": 67,
+      "negative": 278,
+      "count": 570
     },
     {
       "region": "Asia-Pacific",
-      "positive": 218,
-      "neutral": 81,
-      "negative": 213,
-      "count": 512
+      "positive": 221,
+      "neutral": 82,
+      "negative": 210,
+      "count": 513
     },
     {
       "region": "Europe",
-      "positive": 177,
+      "positive": 179,
       "neutral": 43,
-      "negative": 158,
-      "count": 378
+      "negative": 159,
+      "count": 381
     },
     {
       "region": "Middle East",
-      "positive": 82,
-      "neutral": 19,
+      "positive": 80,
+      "neutral": 20,
       "negative": 118,
-      "count": 219
+      "count": 218
     },
     {
       "region": "Global",
       "positive": 76,
-      "neutral": 16,
-      "negative": 38,
-      "count": 130
+      "neutral": 17,
+      "negative": 40,
+      "count": 133
     },
     {
       "region": "Africa",
@@ -373,61 +373,61 @@
     },
     {
       "region": "South America",
-      "positive": 7,
+      "positive": 6,
       "neutral": 1,
       "negative": 5,
-      "count": 13
+      "count": 12
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 186,
-      "neutral": 42,
-      "negative": 183,
-      "count": 411
+      "positive": 185,
+      "neutral": 44,
+      "negative": 186,
+      "count": 415
     },
     {
       "topic": "Politics",
-      "positive": 139,
-      "neutral": 41,
-      "negative": 154,
-      "count": 334
+      "positive": 144,
+      "neutral": 42,
+      "negative": 155,
+      "count": 341
     },
     {
       "topic": "Other",
-      "positive": 111,
-      "neutral": 63,
-      "negative": 154,
-      "count": 328
+      "positive": 112,
+      "neutral": 65,
+      "negative": 155,
+      "count": 332
     },
     {
       "topic": "World",
-      "positive": 99,
+      "positive": 98,
       "neutral": 16,
-      "negative": 160,
-      "count": 275
+      "negative": 158,
+      "count": 272
     },
     {
       "topic": "Sports",
-      "positive": 131,
+      "positive": 133,
       "neutral": 27,
-      "negative": 65,
-      "count": 223
+      "negative": 64,
+      "count": 224
     },
     {
       "topic": "Entertainment",
       "positive": 45,
       "neutral": 15,
-      "negative": 12,
-      "count": 72
+      "negative": 11,
+      "count": 71
     },
     {
       "topic": "Business",
-      "positive": 28,
+      "positive": 30,
       "neutral": 8,
-      "negative": 18,
-      "count": 54
+      "negative": 19,
+      "count": 57
     },
     {
       "topic": "Health",
@@ -459,6 +459,14 @@
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Rangers sack manager Martin after dismal start to season",
+      "url": "https://www.channelnewsasia.com/sport/rangers-sack-manager-martin-after-dismal-start-season-5385726",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-10-06T05:16:21+08:00",
+      "sentiment": "negative"
+    },
     {
       "title": "Mass layoffs to begin if shutdown talks stall, says White House",
       "url": "https://www.channelnewsasia.com/world/mass-layoffs-begin-if-shutdown-talks-stall-says-white-house-5385721",
@@ -540,6 +548,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "Firefly strengthens portfolio with $855 million deal for national security tech firm SciTec",
+      "url": "https://www.channelnewsasia.com/business/firefly-strengthens-portfolio-855-million-deal-national-security-tech-firm-scitec-5385696",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-10-06T04:24:45+08:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Trump says Putin's nuclear arms proposal \u2018sounds like a good idea\u2019",
       "url": "https://www.channelnewsasia.com/world/trump-says-putins-nuclear-arms-proposal-sounds-good-idea-5385686",
       "source": "Channel News Asia",
@@ -570,6 +586,30 @@
       "region": "Middle East",
       "published": "2025-10-06T02:55:12+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "India-US trade talks: New Delhi's 'red lines' must be respected, says Jaishankar",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-talks-new-delhis-red-lines-must-be-respected-says-s-jaishankar-urges-finding-landing-ground/articleshow/124325944.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T02:52:21+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Haryana Congress leader Brijendra Singh embarks on Sadbhav Yatra\u201d to revive social harmony against BJP\u2019s divisive politics",
+      "url": "https://www.thehindu.com/news/national/haryana/haryana-congress-leader-brijendra-singh-embarks-on-sadbhav-yatra-to-revive-social-harmony-against-bjps-divisive-politics/article70128618.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T02:51:00+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Bengal floods: 28 dead, dozens missing as rain ravages Darjeeling hills",
+      "url": "https://timesofindia.indiatimes.com/india/bengal-floods-28-dead-dozens-missing-as-rain-ravages-darjeeling-hills-tourist-town-of-mirik-badly-hit/articleshow/124325934.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-10-06T02:37:55+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Mamata\u2019s carnival push as north Bengal reels under floods gives Opposition a handle",
@@ -1044,6 +1084,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Global Sumud Flotilla says dozens of activists detained by Israel on hunger strike",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/global-sumud-flotilla-says-dozens-activists-detained-israel-hunger",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "published": "2025-10-05T22:27:44+01:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "\u2018Chicago is a war zone\u2019: Trump admin declares US cities as battle field",
       "url": "https://timesofindia.indiatimes.com/world/us/chicago-is-a-war-zone-trump-administration-declares-us-cities-as-battle-field-deploys-national-guard/articleshow/124323194.cms",
       "source": "Times of India",
@@ -1196,67 +1244,19 @@
       "sentiment": "negative"
     },
     {
+      "title": "Who has made Troy's Premier League team of the week?",
+      "url": "https://www.bbc.com/sport/football/articles/ce84l8467pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "region": "North America",
+      "published": "2025-10-05T21:37:24+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Congress leaders slam Prashant Kishor for remarks against Revanth Reddy",
       "url": "https://www.thehindu.com/news/national/telangana/congress-leaders-slam-prashant-kishor-for-remarks-against-revanth-reddy/article70128871.ece",
       "source": "The Hindu",
       "region": "Asia-Pacific",
       "published": "2025-10-05T21:35:10+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Haaland is English football's 'greatest goalscorer' ever, says Carra",
-      "url": "https://www.skysports.com/football/news/12040/13445690/erling-haaland-man-city-striker-is-english-footballs-greatest-goalscorer-ever-says-jamie-carragher",
-      "source": "Sky Sports",
-      "region": "Europe",
-      "published": "2025-10-05T21:31:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Rangers sack Martin following Falkirk draw",
-      "url": "https://www.skysports.com/football/news/12040/13437914/russell-martin-sacked-by-rangers-ibrox-side-dismiss-head-coach-following-falkirk-draw-after-123-days-in-charge",
-      "source": "Sky Sports",
-      "region": "North America",
-      "published": "2025-10-05T21:30:00+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Hills in chaos: 20 killed as landslides hit Bengal's Mirik, Darjeeling - 10 points",
-      "url": "https://timesofindia.indiatimes.com/india/hills-in-chaos-20-killed-as-landslides-hit-bengals-mirik-and-darjeeling-hundreds-of-tourists-stranded-10-points/articleshow/124322486.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-10-05T21:21:51+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Cough syrup contamination:\u00a0Health Ministry directs strict compliance with revised Schedule M norms",
-      "url": "https://www.thehindu.com/news/national/cough-syrup-contamination-health-ministry-directs-strict-compliance-with-revised-schedule-m-norms/article70128414.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-10-05T21:18:09+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "WA taxpayers fork out millions to Griffin Coal's Indian backer",
-      "url": "https://www.abc.net.au/news/2025-10-06/taxpayer-dollars-leak-offshore-amid-griffin-coal-failure/105846232",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-10-05T21:17:14+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Forklift driver who won \u00a31m on scratchcard rushed to hospital after \u2018three months of partying\u2019",
-      "url": "https://www.independent.co.uk/news/uk/home-news/adam-lopez-lotto-scratchcard-winner-b2839778.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-10-05T21:17:12+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Released Gaza flotilla activists allege mistreatment while detained in Israel",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3327939/released-gaza-flotilla-activists-allege-mistreatment-while-being-detained-israel?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Middle East",
-      "published": "2025-10-05T21:17:03+00:00",
       "sentiment": "negative"
     }
   ]
