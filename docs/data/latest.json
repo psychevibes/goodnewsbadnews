@@ -1,43 +1,59 @@
 {
-  "generated_at": "2025-10-06T06:35:06.914022+00:00",
+  "generated_at": "2025-10-06T06:57:17.984645+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 875,
-    "neutral": 269,
-    "negative": 977
+    "positive": 878,
+    "neutral": 273,
+    "negative": 990
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 126,
-      "neutral": 42,
-      "negative": 133,
-      "count": 301,
-      "region": "Middle East"
+      "positive": 127,
+      "neutral": 44,
+      "negative": 135,
+      "count": 306,
+      "region": "North America"
     },
     {
       "source": "The Hindu",
       "positive": 65,
       "neutral": 59,
-      "negative": 107,
-      "count": 231,
+      "negative": 109,
+      "count": 233,
       "region": "North America"
-    },
-    {
-      "source": "Australian Broadcasting Corporation",
-      "positive": 55,
-      "neutral": 8,
-      "negative": 59,
-      "count": 122,
-      "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
       "positive": 51,
       "neutral": 10,
-      "negative": 61,
-      "count": 122,
+      "negative": 63,
+      "count": 124,
       "region": "Asia-Pacific"
+    },
+    {
+      "source": "Australian Broadcasting Corporation",
+      "positive": 54,
+      "neutral": 8,
+      "negative": 61,
+      "count": 123,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "BBC Sport",
+      "positive": 45,
+      "neutral": 12,
+      "negative": 27,
+      "count": 84,
+      "region": "Europe"
+    },
+    {
+      "source": "Bloomberg",
+      "positive": 51,
+      "neutral": 8,
+      "negative": 23,
+      "count": 82,
+      "region": "Europe"
     },
     {
       "source": "CBS News",
@@ -48,20 +64,20 @@
       "region": "North America"
     },
     {
-      "source": "BBC Sport",
-      "positive": 45,
-      "neutral": 10,
-      "negative": 26,
-      "count": 81,
+      "source": "Sky Sports",
+      "positive": 33,
+      "neutral": 21,
+      "negative": 25,
+      "count": 79,
       "region": "Europe"
     },
     {
-      "source": "Sky Sports",
-      "positive": 33,
-      "neutral": 22,
-      "negative": 25,
-      "count": 80,
-      "region": "Europe"
+      "source": "Channel News Asia",
+      "positive": 37,
+      "neutral": 10,
+      "negative": 32,
+      "count": 79,
+      "region": "Middle East"
     },
     {
       "source": "South China Morning Post",
@@ -72,28 +88,12 @@
       "region": "Asia-Pacific"
     },
     {
-      "source": "Bloomberg",
-      "positive": 50,
-      "neutral": 7,
-      "negative": 21,
-      "count": 78,
-      "region": "Europe"
-    },
-    {
       "source": "The Guardian",
-      "positive": 32,
+      "positive": 31,
       "neutral": 4,
-      "negative": 41,
+      "negative": 42,
       "count": 77,
       "region": "North America"
-    },
-    {
-      "source": "Channel News Asia",
-      "positive": 37,
-      "neutral": 8,
-      "negative": 31,
-      "count": 76,
-      "region": "Middle East"
     },
     {
       "source": "Fox News",
@@ -115,8 +115,8 @@
       "source": "BBC News",
       "positive": 23,
       "neutral": 9,
-      "negative": 34,
-      "count": 66,
+      "negative": 36,
+      "count": 68,
       "region": "North America"
     },
     {
@@ -130,10 +130,10 @@
     {
       "source": "Al Jazeera English",
       "positive": 13,
-      "neutral": 9,
-      "negative": 27,
-      "count": 49,
-      "region": "Europe"
+      "neutral": 8,
+      "negative": 25,
+      "count": 46,
+      "region": "Middle East"
     },
     {
       "source": "Times of Israel",
@@ -152,20 +152,28 @@
       "region": "Middle East"
     },
     {
-      "source": "France 24",
-      "positive": 6,
-      "neutral": 1,
-      "negative": 27,
-      "count": 34,
-      "region": "North America"
-    },
-    {
       "source": "NBC News",
       "positive": 10,
       "neutral": 7,
       "negative": 17,
       "count": 34,
       "region": "Middle East"
+    },
+    {
+      "source": "France 24",
+      "positive": 6,
+      "neutral": 1,
+      "negative": 24,
+      "count": 31,
+      "region": "Europe"
+    },
+    {
+      "source": "Euronews",
+      "positive": 16,
+      "neutral": 2,
+      "negative": 12,
+      "count": 30,
+      "region": "Europe"
     },
     {
       "source": "Mashable",
@@ -176,14 +184,6 @@
       "region": "Global"
     },
     {
-      "source": "Euronews",
-      "positive": 14,
-      "neutral": 2,
-      "negative": 11,
-      "count": 27,
-      "region": "Europe"
-    },
-    {
       "source": "RT News",
       "positive": 3,
       "neutral": 2,
@@ -192,18 +192,26 @@
       "region": "Europe"
     },
     {
-      "source": "Straits Times",
-      "positive": 7,
-      "neutral": 6,
-      "negative": 10,
+      "source": "Irish Times",
+      "positive": 3,
+      "neutral": 0,
+      "negative": 20,
       "count": 23,
       "region": "Global"
     },
     {
-      "source": "Irish Times",
-      "positive": 3,
-      "neutral": 0,
-      "negative": 19,
+      "source": "Financial Times",
+      "positive": 14,
+      "neutral": 2,
+      "negative": 7,
+      "count": 23,
+      "region": "Global"
+    },
+    {
+      "source": "Straits Times",
+      "positive": 7,
+      "neutral": 5,
+      "negative": 10,
       "count": 22,
       "region": "Global"
     },
@@ -214,14 +222,6 @@
       "negative": 13,
       "count": 21,
       "region": "Middle East"
-    },
-    {
-      "source": "Financial Times",
-      "positive": 13,
-      "neutral": 2,
-      "negative": 6,
-      "count": 21,
-      "region": "Global"
     },
     {
       "source": "CNBC",
@@ -339,38 +339,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 251,
+      "positive": 253,
       "neutral": 91,
-      "negative": 349,
-      "count": 691
+      "negative": 355,
+      "count": 699
     },
     {
       "region": "Asia-Pacific",
       "positive": 239,
       "neutral": 79,
-      "negative": 239,
-      "count": 557
+      "negative": 244,
+      "count": 562
     },
     {
       "region": "Europe",
-      "positive": 209,
-      "neutral": 52,
-      "negative": 188,
-      "count": 449
+      "positive": 210,
+      "neutral": 55,
+      "negative": 191,
+      "count": 456
     },
     {
       "region": "Middle East",
       "positive": 64,
       "neutral": 18,
-      "negative": 128,
-      "count": 210
+      "negative": 126,
+      "count": 208
     },
     {
       "region": "Global",
       "positive": 88,
-      "neutral": 26,
-      "negative": 54,
-      "count": 168
+      "neutral": 27,
+      "negative": 55,
+      "count": 170
     },
     {
       "region": "Africa",
@@ -391,37 +391,37 @@
     {
       "topic": "Tech",
       "positive": 195,
-      "neutral": 48,
-      "negative": 213,
-      "count": 456
+      "neutral": 50,
+      "negative": 221,
+      "count": 466
     },
     {
       "topic": "Politics",
-      "positive": 168,
+      "positive": 169,
       "neutral": 58,
-      "negative": 203,
+      "negative": 202,
       "count": 429
     },
     {
       "topic": "Other",
       "positive": 117,
-      "neutral": 76,
-      "negative": 172,
-      "count": 365
+      "neutral": 77,
+      "negative": 174,
+      "count": 368
     },
     {
       "topic": "World",
-      "positive": 100,
+      "positive": 101,
       "neutral": 12,
-      "negative": 183,
+      "negative": 182,
       "count": 295
     },
     {
       "topic": "Sports",
       "positive": 141,
       "neutral": 34,
-      "negative": 65,
-      "count": 240
+      "negative": 64,
+      "count": 239
     },
     {
       "topic": "Entertainment",
@@ -432,41 +432,65 @@
     },
     {
       "topic": "Business",
-      "positive": 49,
-      "neutral": 9,
-      "negative": 30,
-      "count": 88
+      "positive": 50,
+      "neutral": 10,
+      "negative": 31,
+      "count": 91
     },
     {
       "topic": "Health",
       "positive": 15,
       "neutral": 4,
-      "negative": 52,
-      "count": 71
+      "negative": 54,
+      "count": 73
     },
     {
       "topic": "Local",
       "positive": 14,
       "neutral": 3,
-      "negative": 18,
-      "count": 35
+      "negative": 19,
+      "count": 36
     },
     {
       "topic": "Regional",
       "positive": 11,
       "neutral": 3,
-      "negative": 13,
-      "count": 27
+      "negative": 14,
+      "count": 28
     },
     {
       "topic": "Science",
       "positive": 12,
       "neutral": 3,
-      "negative": 6,
-      "count": 21
+      "negative": 7,
+      "count": 22
     }
   ],
   "sample_headlines": [
+    {
+      "title": "EssilorLuxottica becomes Nikon's largest shareholder, gets clearance to up holding to 20%",
+      "url": "https://www.channelnewsasia.com/business/essilorluxottica-becomes-nikons-largest-shareholder-gets-clearance-up-holding-20-5386231",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-10-06T14:52:25+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Couple loses suit against condominium builder over vibrations that 'damaged' their house across the road",
+      "url": "https://www.channelnewsasia.com/singapore/couple-sue-builder-condo-serangoon-vibrations-5386136",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2025-10-06T14:39:14+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Whaley saves par and 'both hands' in close encounter with alligator",
+      "url": "https://www.channelnewsasia.com/sport/whaley-saves-par-and-both-hands-in-close-encounter-alligator-5386206",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-10-06T14:31:10+08:00",
+      "sentiment": "neutral"
+    },
     {
       "title": "Tourist in Japan injured in latest bear attack",
       "url": "https://www.channelnewsasia.com/east-asia/tourist-japan-injured-latest-bear-attack-5386186",
@@ -570,6 +594,22 @@
       "region": "North America",
       "published": "2025-10-06T12:25:50+08:00",
       "sentiment": "neutral"
+    },
+    {
+      "title": "Dog attacks artiste during street play against stray dog menace in Kerala",
+      "url": "https://www.thehindu.com/news/national/kerala/dog-attacks-artiste-during-street-play-against-stray-dog-menace-in-kerala/article70130302.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-10-06T12:15:28+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Police book 221 for drinking openly in Guntur District",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-book-221-for-drinking-openly-in-guntur-district/article70130224.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T12:09:20+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Dacia challenges low-cost Chinese EVs with prototype 15,000 euro mini-car",
@@ -868,6 +908,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Steve Jobs death anniversary: Sent last mail on his Apple ID; read what he wrote",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/steve-jobs-14th-death-anniversary-what-steve-jobs-wrote-in-his-last-email-to-himself-on-his-apple-email-id/articleshow/124330365.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T09:54:46+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Bihar elections: NDA & INDIA bloc battle ready; poll dates to be announced at 4pm today",
       "url": "https://timesofindia.indiatimes.com/india/bihar-assembly-polls-stage-set-for-nda-vs-india-bloc-poll-dates-to-be-announced-at-4-pm-today/articleshow/124330357.cms",
       "source": "Times of India",
@@ -996,6 +1044,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Organised or moody? These are the personality traits that could predict how long you live",
+      "url": "http://www.euronews.com/health/2025/10/06/organised-or-moody-these-are-the-personality-traits-that-could-predict-how-long-you-live",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-10-06T08:37:50+02:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "What is the SC order on local polls in Maharashtra? | Explained",
       "url": "https://www.thehindu.com/news/national/maharashtra/what-is-the-sc-order-on-local-polls-in-maharashtra-explained/article70129077.ece",
       "source": "The Hindu",
@@ -1042,6 +1098,14 @@
       "region": "Asia-Pacific",
       "published": "2025-10-06T08:16:46+05:30",
       "sentiment": "neutral"
+    },
+    {
+      "title": "Culture Digest: The best things to do, hear, see or watch in Europe this week",
+      "url": "http://www.euronews.com/culture/2025/10/06/culture-digest-the-best-things-to-do-hear-see-or-watch-in-europe-this-week",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-10-06T08:14:38+02:00",
+      "sentiment": "positive"
     },
     {
       "title": "Gunman opens fire on Sydney street, injuring 20, one seriously",
@@ -1100,6 +1164,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Syria holds its first parliamentary election since ousting of Bashar al-Assad",
+      "url": "http://www.euronews.com/2025/10/06/syria-holds-its-first-parliamentary-election-since-ousting-of-bashar-al-assad",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-10-06T07:47:50+02:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Three policemen in Raebareli suspended after Dalit man\u2019s death, Rahul Gandhi dials family",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/three-policemen-in-raebareli-suspended-after-dalit-mans-death-rahul-gandhi-dials-family/article70129989.ece",
       "source": "The Hindu",
@@ -1133,6 +1205,14 @@
     },
     {
       "title": "Former England captain Moody diagnosed with with motor neurone disease",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13445759/lewis-moody-former-england-captain-and-world-cup-winner-diagnosed-with-with-motor-neurone-disease",
+      "source": "Sky Sports",
+      "region": "Europe",
+      "published": "2025-10-06T07:20:00+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Former England captain Moody diagnosed with motor neurone disease",
       "url": "https://www.skysports.com/rugby-union/news/12040/13445759/lewis-moody-former-england-captain-and-world-cup-winner-diagnosed-with-with-motor-neurone-disease",
       "source": "Sky Sports",
       "region": "Europe",
@@ -1186,86 +1266,6 @@
       "region": "Europe",
       "published": "2025-10-06T07:00:06+02:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Mogalli Ganesh who saw Kannada folk through a desi lens passes away",
-      "url": "https://www.thehindu.com/news/national/karnataka/mogalli-ganesh-who-saw-kannada-folk-through-a-desi-lens-passes-away/article70127592.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-10-06T07:00:00+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "McMurray chases the hat-trick at Yarmouth",
-      "url": "https://www.skysports.com/racing/news/12040/13444877/today-on-sky-sports-racing-wolverhampton-and-yarmouth",
-      "source": "Sky Sports",
-      "region": "North America",
-      "published": "2025-10-06T07:00:00+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "6 important things doctors in Singapore want women to know about breast cancer symptoms, risks and screening",
-      "url": "https://www.channelnewsasia.com/women/breast-cancer-singapore-symptoms-screening-risks-5379666",
-      "source": "Channel News Asia",
-      "region": "Asia-Pacific",
-      "published": "2025-10-06T06:59:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Rajasthan hospital fire: 6 patients killed, kin allege staff ignored warnings",
-      "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-hospital-fire-patients-killed-kin-allege-staff-ignored-warnings/article70129985.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-10-06T06:54:28+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Six patients killed in Rajasthan hospital fire, kin allege staff ignored warnings",
-      "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-hospital-fire-patients-killed-kin-allege-staff-ignored-warnings/article70129985.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-10-06T06:54:28+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Spanish Gaza flotilla activists report rights violation by Israeli authorities",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/spanish-gaza-flotilla-activists-report-rights-violation-israeli",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "published": "2025-10-06T06:47:59+01:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "\u2018When people buy an EV, they rarely go back\u2019:  Hyundai CEO on designing for Europe",
-      "url": "http://www.euronews.com/business/2025/10/06/when-people-buy-an-ev-they-rarely-go-back-hyundai-ceo-on-designing-for-europe",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2025-10-06T06:47:10+02:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "IND vs PAK: After beating Pakistan, captain sends message to Indians - 'I'm sure'",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-world-cup-2025/ind-vs-pak-after-beating-pakistan-skipper-harmanpreet-kaur-sends-message-to-indians-im-sure-everyone-back-home-/articleshow/124328260.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-10-06T06:35:26+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Reports of Greta Thunberg's abuse in Israel very serous, Swedish minister says",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/reports-greta-thunbergs-abuse-israel-very-serous-swedish-minister-says",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "published": "2025-10-06T06:35:09+01:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Fine jewellery icons reimagined: Boucheron, Cartier, Van Cleef & Arpels and more",
-      "url": "https://www.channelnewsasia.com/obsessions/luxury-fine-jewellery-icons-reimagined-cartier-tiffany-dior-5381506",
-      "source": "Channel News Asia",
-      "region": "Europe",
-      "published": "2025-10-06T06:33:55+08:00",
-      "sentiment": "positive"
     }
   ]
 }
