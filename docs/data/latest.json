@@ -1,27 +1,27 @@
 {
-  "generated_at": "2025-10-06T07:25:05.656248+00:00",
+  "generated_at": "2025-10-06T07:44:00.220734+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 883,
-    "neutral": 278,
-    "negative": 1012
+    "positive": 891,
+    "neutral": 280,
+    "negative": 1011
   },
   "by_publication": [
     {
       "source": "Independent",
       "positive": 126,
-      "neutral": 45,
-      "negative": 136,
-      "count": 307,
-      "region": "Middle East"
+      "neutral": 44,
+      "negative": 134,
+      "count": 304,
+      "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 64,
-      "neutral": 59,
+      "positive": 66,
+      "neutral": 58,
       "negative": 115,
-      "count": 238,
-      "region": "Asia-Pacific"
+      "count": 239,
+      "region": "North America"
     },
     {
       "source": "Australian Broadcasting Corporation",
@@ -35,25 +35,41 @@
       "source": "Times of India",
       "positive": 49,
       "neutral": 10,
-      "negative": 64,
-      "count": 123,
-      "region": "Asia-Pacific"
+      "negative": 60,
+      "count": 119,
+      "region": "North America"
     },
     {
       "source": "Bloomberg",
-      "positive": 53,
-      "neutral": 11,
+      "positive": 54,
+      "neutral": 14,
       "negative": 26,
-      "count": 90,
-      "region": "Europe"
+      "count": 94,
+      "region": "Global"
     },
     {
       "source": "BBC Sport",
-      "positive": 45,
+      "positive": 46,
       "neutral": 12,
       "negative": 27,
+      "count": 85,
+      "region": "Europe"
+    },
+    {
+      "source": "Sky Sports",
+      "positive": 33,
+      "neutral": 22,
+      "negative": 29,
       "count": 84,
       "region": "Europe"
+    },
+    {
+      "source": "Channel News Asia",
+      "positive": 40,
+      "neutral": 12,
+      "negative": 32,
+      "count": 84,
+      "region": "Asia-Pacific"
     },
     {
       "source": "CBS News",
@@ -64,36 +80,12 @@
       "region": "North America"
     },
     {
-      "source": "Channel News Asia",
-      "positive": 38,
-      "neutral": 11,
-      "negative": 32,
-      "count": 81,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "Sky Sports",
-      "positive": 32,
-      "neutral": 21,
-      "negative": 27,
-      "count": 80,
-      "region": "South America"
-    },
-    {
       "source": "The Guardian",
       "positive": 34,
       "neutral": 4,
       "negative": 42,
       "count": 80,
       "region": "Europe"
-    },
-    {
-      "source": "South China Morning Post",
-      "positive": 37,
-      "neutral": 1,
-      "negative": 41,
-      "count": 79,
-      "region": "Asia-Pacific"
     },
     {
       "source": "Fox News",
@@ -104,51 +96,59 @@
       "region": "North America"
     },
     {
-      "source": "ESPN",
-      "positive": 38,
-      "neutral": 12,
-      "negative": 19,
-      "count": 69,
-      "region": "Global"
+      "source": "South China Morning Post",
+      "positive": 37,
+      "neutral": 1,
+      "negative": 37,
+      "count": 75,
+      "region": "Asia-Pacific"
     },
     {
       "source": "BBC News",
       "positive": 22,
       "neutral": 9,
-      "negative": 35,
-      "count": 66,
+      "negative": 37,
+      "count": 68,
+      "region": "Europe"
+    },
+    {
+      "source": "ESPN",
+      "positive": 38,
+      "neutral": 12,
+      "negative": 18,
+      "count": 68,
       "region": "Europe"
     },
     {
       "source": "AllAfrica",
-      "positive": 24,
+      "positive": 26,
       "neutral": 6,
-      "negative": 30,
-      "count": 60,
+      "negative": 32,
+      "count": 64,
       "region": "Africa"
     },
     {
       "source": "Al Jazeera English",
-      "positive": 13,
-      "neutral": 9,
-      "negative": 25,
-      "count": 47,
-      "region": "Middle East"
-    },
-    {
-      "source": "Times of Israel",
       "positive": 12,
-      "neutral": 4,
-      "negative": 25,
-      "count": 41,
+      "neutral": 9,
+      "negative": 24,
+      "count": 45,
       "region": "Middle East"
     },
     {
       "source": "Middle East Eye",
       "positive": 8,
       "neutral": 0,
-      "negative": 29,
-      "count": 37,
+      "negative": 32,
+      "count": 40,
+      "region": "Middle East"
+    },
+    {
+      "source": "Times of Israel",
+      "positive": 12,
+      "neutral": 3,
+      "negative": 25,
+      "count": 40,
       "region": "Middle East"
     },
     {
@@ -163,8 +163,8 @@
       "source": "Euronews",
       "positive": 15,
       "neutral": 2,
-      "negative": 13,
-      "count": 30,
+      "negative": 14,
+      "count": 31,
       "region": "Europe"
     },
     {
@@ -184,20 +184,20 @@
       "region": "Global"
     },
     {
-      "source": "RT News",
-      "positive": 3,
-      "neutral": 2,
-      "negative": 20,
-      "count": 25,
-      "region": "Europe"
-    },
-    {
       "source": "Straits Times",
       "positive": 7,
       "neutral": 6,
       "negative": 11,
       "count": 24,
       "region": "Global"
+    },
+    {
+      "source": "RT News",
+      "positive": 2,
+      "neutral": 2,
+      "negative": 20,
+      "count": 24,
+      "region": "North America"
     },
     {
       "source": "Financial Times",
@@ -235,9 +235,17 @@
       "source": "Deutsche Welle",
       "positive": 4,
       "neutral": 0,
-      "negative": 14,
-      "count": 18,
+      "negative": 15,
+      "count": 19,
       "region": "Asia-Pacific"
+    },
+    {
+      "source": "ABC News",
+      "positive": 7,
+      "neutral": 0,
+      "negative": 10,
+      "count": 17,
+      "region": "Middle East"
     },
     {
       "source": "Engadget",
@@ -246,14 +254,6 @@
       "negative": 3,
       "count": 17,
       "region": "North America"
-    },
-    {
-      "source": "ABC News",
-      "positive": 6,
-      "neutral": 0,
-      "negative": 10,
-      "count": 16,
-      "region": "Middle East"
     },
     {
       "source": "Daily News Egypt",
@@ -339,38 +339,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 256,
-      "neutral": 92,
-      "negative": 366,
-      "count": 714
+      "positive": 261,
+      "neutral": 93,
+      "negative": 365,
+      "count": 719
     },
     {
       "region": "Asia-Pacific",
-      "positive": 241,
+      "positive": 242,
       "neutral": 79,
-      "negative": 257,
-      "count": 577
+      "negative": 252,
+      "count": 573
     },
     {
       "region": "Europe",
-      "positive": 209,
-      "neutral": 57,
-      "negative": 188,
-      "count": 454
+      "positive": 210,
+      "neutral": 58,
+      "negative": 190,
+      "count": 458
     },
     {
       "region": "Middle East",
-      "positive": 64,
+      "positive": 65,
       "neutral": 19,
-      "negative": 125,
-      "count": 208
+      "negative": 127,
+      "count": 211
     },
     {
       "region": "Global",
-      "positive": 89,
+      "positive": 90,
       "neutral": 28,
-      "negative": 55,
-      "count": 172
+      "negative": 56,
+      "count": 174
     },
     {
       "region": "Africa",
@@ -381,68 +381,68 @@
     },
     {
       "region": "South America",
-      "positive": 4,
+      "positive": 3,
       "neutral": 1,
       "negative": 3,
-      "count": 8
+      "count": 7
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
       "positive": 191,
-      "neutral": 50,
-      "negative": 224,
-      "count": 465
+      "neutral": 51,
+      "negative": 221,
+      "count": 463
     },
     {
       "topic": "Politics",
-      "positive": 171,
-      "neutral": 59,
-      "negative": 208,
-      "count": 438
+      "positive": 174,
+      "neutral": 56,
+      "negative": 209,
+      "count": 439
     },
     {
       "topic": "Other",
-      "positive": 117,
-      "neutral": 77,
-      "negative": 177,
+      "positive": 118,
+      "neutral": 78,
+      "negative": 175,
       "count": 371
     },
     {
       "topic": "World",
-      "positive": 99,
-      "neutral": 17,
-      "negative": 182,
-      "count": 298
+      "positive": 101,
+      "neutral": 19,
+      "negative": 184,
+      "count": 304
     },
     {
       "topic": "Sports",
-      "positive": 142,
+      "positive": 143,
       "neutral": 34,
-      "negative": 64,
-      "count": 240
+      "negative": 65,
+      "count": 242
     },
     {
       "topic": "Business",
       "positive": 55,
-      "neutral": 10,
-      "negative": 31,
+      "neutral": 11,
+      "negative": 30,
       "count": 96
     },
     {
       "topic": "Entertainment",
       "positive": 53,
-      "neutral": 18,
-      "negative": 23,
+      "neutral": 17,
+      "negative": 24,
       "count": 94
     },
     {
       "topic": "Health",
       "positive": 17,
       "neutral": 4,
-      "negative": 56,
-      "count": 77
+      "negative": 55,
+      "count": 76
     },
     {
       "topic": "Local",
@@ -453,10 +453,10 @@
     },
     {
       "topic": "Regional",
-      "positive": 11,
-      "neutral": 3,
-      "negative": 19,
-      "count": 33
+      "positive": 12,
+      "neutral": 4,
+      "negative": 20,
+      "count": 36
     },
     {
       "topic": "Science",
@@ -468,11 +468,35 @@
   ],
   "sample_headlines": [
     {
+      "title": "Celebs at F1 Singapore Grand Prix 2025: Superman star David Corenswet, Dylan Wang, K-pop group Seventeen and more",
+      "url": "https://www.channelnewsasia.com/entertainment/celebrities-f1-singapore-grand-prix-2025-5386261",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T15:40:00+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Japan's Asahi restarts beer production following cyberattack",
+      "url": "https://www.channelnewsasia.com/business/japans-asahi-restarts-beer-production-following-cyberattack-5386316",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T15:31:48+08:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Hong Kong star Sammi Cheng recovers from back muscle injury after gym workout",
       "url": "https://www.channelnewsasia.com/entertainment/hong-kong-sammi-cheng-injury-back-pain-5386236",
       "source": "Channel News Asia",
       "region": "North America",
       "published": "2025-10-06T15:16:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Ex-England captain Moody diagnosed with motor neurone disease",
+      "url": "https://www.channelnewsasia.com/sport/ex-england-captain-moody-diagnosed-motor-neurone-disease-5386291",
+      "source": "Channel News Asia",
+      "region": "Europe",
+      "published": "2025-10-06T15:14:44+08:00",
       "sentiment": "negative"
     },
     {
@@ -506,6 +530,14 @@
       "region": "Global",
       "published": "2025-10-06T14:52:25+08:00",
       "sentiment": "neutral"
+    },
+    {
+      "title": "EssilorLuxottica raises Nikon stake to 10.8%, wins approval to increase it to 20%",
+      "url": "https://www.channelnewsasia.com/business/essilorluxottica-raises-nikon-stake-108-wins-approval-increase-it-20-5386231",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-10-06T14:52:25+08:00",
+      "sentiment": "positive"
     },
     {
       "title": "Couple loses suit against condominium builder over vibrations that 'damaged' their house across the road",
@@ -580,11 +612,67 @@
       "sentiment": "positive"
     },
     {
+      "title": "Maharashtra BMC polls: State Election Commission approves ward boundaries",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-bmc-polls-state-election-commission-approves-ward-boundaries/article70130369.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T13:06:00+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Kerala HC forms SIT to probe reduced weight of gold-clad plates of Dwarapalaka in Sabarimala",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-forms-sit-to-probe-reduced-weight-of-gold-clad-plates-of-dwarapalaka-in-sabarimala/article70130430.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T13:05:34+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Jharkhand reports record school dropout rate decline in 2024\u201325, but activists question data accuracy",
+      "url": "https://www.thehindu.com/education/jharkhand-reports-record-school-dropout-rate-decline-in-202425-but-activists-question-data-accuracy/article70109642.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T13:04:35+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "American fan favourite Ilona Maher gets her own Barbie doll",
       "url": "https://www.channelnewsasia.com/sport/american-fan-favourite-ilona-maher-gets-her-own-barbie-doll-5386086",
       "source": "Channel News Asia",
       "region": "North America",
       "published": "2025-10-06T13:03:08+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Asian push for carbon capture, storage could add 25 billion tonnes of emissions by 2050: report",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/asian-push-for-carbon-capture-storage-could-add-25-billion-tonnes-of-emissions-by-2050-report/article70130297.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T12:56:38+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Sabarimala \u2018gold theft\u2019 allegations rock Kerala Assembly",
+      "url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-theft-allegations-rock-kerala-assembly/article70130362.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T12:54:40+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Bihar Assembly poll dates announcement LIVE: Election Commission of India to announce schedule today",
+      "url": "https://www.thehindu.com/elections/bihar-assembly/bihar-assembly-elections-2025-poll-schedule-dates-announcement-election-commission-presser-live-updates/article70130106.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T12:50:46+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Supreme Court refuses to entertain plea against Kerala CM Pinarayi Vijayan, daughter on CMRL-Exalogic transactions",
+      "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-entertain-plea-against-kerala-cm-pinarayi-vijayan-daughter-on-cmrl-exalogic-transactions/article70130371.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-10-06T12:47:43+05:30",
       "sentiment": "positive"
     },
     {
@@ -1076,6 +1164,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Entertainment world reacts to reports of Greta Thunberg mistreated by Israeli forces",
+      "url": "http://www.euronews.com/culture/2025/10/06/entertainment-world-reacts-to-reports-of-greta-thunberg-mistreated-by-israeli-forces",
+      "source": "Euronews",
+      "region": "Middle East",
+      "published": "2025-10-06T09:35:10+02:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Kerala girl\u2019s hand amputation: Two Palakkad junior doctors suspended",
       "url": "https://www.thehindu.com/news/national/kerala/kerala-girls-hand-amputation-two-palakkad-junior-doctors-suspended/article70130035.ece",
       "source": "The Hindu",
@@ -1170,102 +1266,6 @@
       "region": "Asia-Pacific",
       "published": "2025-10-06T08:48:06+05:30",
       "sentiment": "negative"
-    },
-    {
-      "title": "Organised or moody? These are the personality traits that could predict how long you live",
-      "url": "http://www.euronews.com/health/2025/10/06/organised-or-moody-these-are-the-personality-traits-that-could-predict-how-long-you-live",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2025-10-06T08:37:50+02:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "What is the SC order on local polls in Maharashtra? | Explained",
-      "url": "https://www.thehindu.com/news/national/maharashtra/what-is-the-sc-order-on-local-polls-in-maharashtra-explained/article70129077.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-10-06T08:30:00+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "2027 ODI WC: Ex-India captain on Rohit, Virat - 'Play domestic cricket'",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-rohit-sharma-should-play-vijay-hazare-trophy-ex-india-captain-gives-blunt-take-on-duos-2027-odi-world-cup-dream/articleshow/124329342.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-10-06T08:27:46+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Cuttack bandh: 36-hour curfew, internet banned; city on edge - Key points",
-      "url": "https://timesofindia.indiatimes.com/india/cuttack-bandh-36-hour-curfew-internet-banned-city-on-edge-after-violent-clashes-key-points/articleshow/124328665.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-10-06T08:25:46+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "This IIT will offer an MD first: NMC approval in; MBBS programme paused",
-      "url": "https://timesofindia.indiatimes.com/education/news/iit-kharagpur-set-to-launch-md-course-following-national-medical-commission-approval-mbbs-plan-on-hold/articleshow/124328786.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-10-06T08:22:39+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Jaipur hospital fire: Witnesses recall horror; relatives of patients claim staff fled as smoke spread",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-hospital-fire-doctors-compounders-fled-as-smoke-spread-say-kin-cm-reviews-situation-at-sms-trauma-centre/articleshow/124328834.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-10-06T08:21:11+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Sardar Patel Road to be widened at a cost of \u20b945 crore",
-      "url": "https://www.thehindu.com/news/cities/chennai/sardar-patel-road-to-be-widened-at-a-cost-of-45-crore/article70128641.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-10-06T08:16:46+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Culture Digest: The best things to do, hear, see or watch in Europe this week",
-      "url": "http://www.euronews.com/culture/2025/10/06/culture-digest-the-best-things-to-do-hear-see-or-watch-in-europe-this-week",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2025-10-06T08:14:38+02:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Gunman opens fire on Sydney street, injuring 20, one seriously",
-      "url": "https://www.channelnewsasia.com/world/australia-sydney-inner-west-shooting-gunman-20-injured-5385771",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-10-06T08:14:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Over a dozen wounded in rare Sydney mass shooting",
-      "url": "https://www.channelnewsasia.com/world/australia-sydney-inner-west-shooting-gunman-over-dozen-injured-5385771",
-      "source": "Channel News Asia",
-      "region": "Asia-Pacific",
-      "published": "2025-10-06T08:14:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Japan's Nikkei surges to record after election win by fiscal dove Takaichi",
-      "url": "https://www.channelnewsasia.com/business/japans-nikkei-surges-record-after-election-win-fiscal-dove-takaichi-5385776",
-      "source": "Channel News Asia",
-      "region": "Asia-Pacific",
-      "published": "2025-10-06T08:13:18+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Japan's stocks zoom, yen slumps as Takaichi win dims BOJ hike bets",
-      "url": "https://www.channelnewsasia.com/business/japans-stocks-zoom-yen-slumps-takaichi-win-dims-boj-hike-bets-5385776",
-      "source": "Channel News Asia",
-      "region": "Asia-Pacific",
-      "published": "2025-10-06T08:13:18+08:00",
-      "sentiment": "positive"
     }
   ]
 }
