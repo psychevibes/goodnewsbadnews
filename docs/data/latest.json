@@ -1,42 +1,42 @@
 {
-  "generated_at": "2025-10-06T05:23:45.755822+00:00",
+  "generated_at": "2025-10-06T05:45:19.097023+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 844,
-    "neutral": 265,
-    "negative": 945
+    "positive": 860,
+    "neutral": 264,
+    "negative": 956
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 114,
-      "neutral": 38,
+      "positive": 119,
+      "neutral": 39,
       "negative": 127,
-      "count": 279,
+      "count": 285,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 63,
+      "positive": 64,
       "neutral": 59,
-      "negative": 116,
-      "count": 238,
+      "negative": 118,
+      "count": 241,
       "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
       "positive": 51,
       "neutral": 10,
-      "negative": 67,
-      "count": 128,
+      "negative": 61,
+      "count": 122,
       "region": "North America"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 52,
+      "positive": 53,
       "neutral": 8,
       "negative": 54,
-      "count": 114,
+      "count": 115,
       "region": "Asia-Pacific"
     },
     {
@@ -50,18 +50,10 @@
     {
       "source": "South China Morning Post",
       "positive": 39,
-      "neutral": 5,
-      "negative": 35,
+      "neutral": 4,
+      "negative": 36,
       "count": 79,
-      "region": "Middle East"
-    },
-    {
-      "source": "Channel News Asia",
-      "positive": 37,
-      "neutral": 10,
-      "negative": 31,
-      "count": 78,
-      "region": "Global"
+      "region": "Asia-Pacific"
     },
     {
       "source": "BBC Sport",
@@ -80,6 +72,14 @@
       "region": "North America"
     },
     {
+      "source": "Channel News Asia",
+      "positive": 38,
+      "neutral": 7,
+      "negative": 31,
+      "count": 76,
+      "region": "North America"
+    },
+    {
       "source": "Sky Sports",
       "positive": 32,
       "neutral": 21,
@@ -93,63 +93,63 @@
       "neutral": 4,
       "negative": 41,
       "count": 74,
-      "region": "Middle East"
+      "region": "Europe"
     },
     {
       "source": "ESPN",
-      "positive": 36,
+      "positive": 38,
       "neutral": 13,
       "negative": 19,
-      "count": 68,
+      "count": 70,
+      "region": "Europe"
+    },
+    {
+      "source": "Bloomberg",
+      "positive": 45,
+      "neutral": 5,
+      "negative": 17,
+      "count": 67,
       "region": "Europe"
     },
     {
       "source": "BBC News",
       "positive": 25,
       "neutral": 10,
-      "negative": 30,
-      "count": 65,
+      "negative": 31,
+      "count": 66,
       "region": "Europe"
     },
     {
-      "source": "Bloomberg",
-      "positive": 44,
+      "source": "AllAfrica",
+      "positive": 20,
       "neutral": 5,
-      "negative": 16,
-      "count": 65,
-      "region": "Asia-Pacific"
+      "negative": 27,
+      "count": 52,
+      "region": "Africa"
     },
     {
       "source": "Al Jazeera English",
-      "positive": 13,
-      "neutral": 8,
-      "negative": 26,
-      "count": 47,
+      "positive": 14,
+      "neutral": 9,
+      "negative": 28,
+      "count": 51,
       "region": "Middle East"
     },
     {
       "source": "Times of Israel",
       "positive": 11,
       "neutral": 4,
-      "negative": 25,
-      "count": 40,
+      "negative": 24,
+      "count": 39,
       "region": "Middle East"
     },
     {
-      "source": "France 24",
-      "positive": 9,
-      "neutral": 1,
+      "source": "Middle East Eye",
+      "positive": 8,
+      "neutral": 0,
       "negative": 26,
-      "count": 36,
+      "count": 34,
       "region": "Middle East"
-    },
-    {
-      "source": "AllAfrica",
-      "positive": 14,
-      "neutral": 3,
-      "negative": 19,
-      "count": 36,
-      "region": "Africa"
     },
     {
       "source": "NBC News",
@@ -160,12 +160,12 @@
       "region": "Middle East"
     },
     {
-      "source": "Middle East Eye",
-      "positive": 8,
+      "source": "France 24",
+      "positive": 6,
       "neutral": 0,
       "negative": 25,
-      "count": 33,
-      "region": "Middle East"
+      "count": 31,
+      "region": "Europe"
     },
     {
       "source": "Euronews",
@@ -187,16 +187,24 @@
       "source": "RT News",
       "positive": 3,
       "neutral": 2,
-      "negative": 20,
-      "count": 25,
+      "negative": 21,
+      "count": 26,
       "region": "Global"
     },
     {
       "source": "Straits Times",
-      "positive": 6,
+      "positive": 7,
       "neutral": 6,
       "negative": 10,
-      "count": 22,
+      "count": 23,
+      "region": "Global"
+    },
+    {
+      "source": "Financial Times",
+      "positive": 13,
+      "neutral": 2,
+      "negative": 6,
+      "count": 21,
       "region": "Global"
     },
     {
@@ -204,14 +212,6 @@
       "positive": 3,
       "neutral": 0,
       "negative": 17,
-      "count": 20,
-      "region": "Global"
-    },
-    {
-      "source": "Financial Times",
-      "positive": 13,
-      "neutral": 2,
-      "negative": 5,
       "count": 20,
       "region": "Global"
     },
@@ -237,7 +237,7 @@
       "neutral": 0,
       "negative": 12,
       "count": 16,
-      "region": "North America"
+      "region": "Asia-Pacific"
     },
     {
       "source": "Engadget",
@@ -259,8 +259,8 @@
       "source": "ABC News",
       "positive": 5,
       "neutral": 0,
-      "negative": 9,
-      "count": 14,
+      "negative": 10,
+      "count": 15,
       "region": "Middle East"
     },
     {
@@ -272,28 +272,20 @@
       "region": "Global"
     },
     {
+      "source": "NPR",
+      "positive": 3,
+      "neutral": 1,
+      "negative": 9,
+      "count": 13,
+      "region": "North America"
+    },
+    {
       "source": "Telegraph",
       "positive": 10,
       "neutral": 1,
       "negative": 2,
       "count": 13,
       "region": "Asia-Pacific"
-    },
-    {
-      "source": "NPR",
-      "positive": 2,
-      "neutral": 1,
-      "negative": 9,
-      "count": 12,
-      "region": "North America"
-    },
-    {
-      "source": "Sky News",
-      "positive": 4,
-      "neutral": 0,
-      "negative": 5,
-      "count": 9,
-      "region": "Middle East"
     },
     {
       "source": "MarketWatch",
@@ -310,6 +302,14 @@
       "negative": 3,
       "count": 9,
       "region": "Global"
+    },
+    {
+      "source": "Sky News",
+      "positive": 3,
+      "neutral": 0,
+      "negative": 5,
+      "count": 8,
+      "region": "Europe"
     },
     {
       "source": "Wired",
@@ -339,45 +339,45 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 250,
+      "positive": 253,
       "neutral": 89,
-      "negative": 338,
-      "count": 677
+      "negative": 342,
+      "count": 684
     },
     {
       "region": "Asia-Pacific",
-      "positive": 226,
+      "positive": 231,
       "neutral": 81,
-      "negative": 241,
-      "count": 548
+      "negative": 239,
+      "count": 551
     },
     {
       "region": "Europe",
-      "positive": 197,
+      "positive": 202,
       "neutral": 51,
-      "negative": 176,
-      "count": 424
+      "negative": 179,
+      "count": 432
     },
     {
       "region": "Middle East",
-      "positive": 68,
-      "neutral": 18,
+      "positive": 64,
+      "neutral": 17,
       "negative": 123,
-      "count": 209
+      "count": 204
     },
     {
       "region": "Global",
-      "positive": 83,
-      "neutral": 24,
+      "positive": 86,
+      "neutral": 23,
       "negative": 54,
-      "count": 161
+      "count": 163
     },
     {
       "region": "Africa",
-      "positive": 15,
-      "neutral": 1,
-      "negative": 9,
-      "count": 25
+      "positive": 19,
+      "neutral": 2,
+      "negative": 15,
+      "count": 36
     },
     {
       "region": "South America",
@@ -390,83 +390,91 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 192,
+      "positive": 195,
       "neutral": 47,
-      "negative": 215,
-      "count": 454
+      "negative": 217,
+      "count": 459
     },
     {
       "topic": "Politics",
-      "positive": 157,
+      "positive": 161,
       "neutral": 59,
-      "negative": 190,
-      "count": 406
+      "negative": 198,
+      "count": 418
     },
     {
       "topic": "Other",
-      "positive": 111,
+      "positive": 115,
       "neutral": 74,
-      "negative": 166,
-      "count": 351
+      "negative": 169,
+      "count": 358
     },
     {
       "topic": "World",
-      "positive": 99,
-      "neutral": 15,
-      "negative": 172,
-      "count": 286
+      "positive": 98,
+      "neutral": 13,
+      "negative": 176,
+      "count": 287
     },
     {
       "topic": "Sports",
-      "positive": 138,
+      "positive": 140,
       "neutral": 32,
-      "negative": 67,
-      "count": 237
+      "negative": 64,
+      "count": 236
+    },
+    {
+      "topic": "Entertainment",
+      "positive": 51,
+      "neutral": 18,
+      "negative": 21,
+      "count": 90
     },
     {
       "topic": "Business",
       "positive": 50,
-      "neutral": 10,
-      "negative": 30,
-      "count": 90
-    },
-    {
-      "topic": "Entertainment",
-      "positive": 47,
-      "neutral": 18,
-      "negative": 20,
-      "count": 85
+      "neutral": 8,
+      "negative": 29,
+      "count": 87
     },
     {
       "topic": "Health",
       "positive": 13,
-      "neutral": 2,
+      "neutral": 4,
       "negative": 43,
-      "count": 58
+      "count": 60
     },
     {
       "topic": "Local",
-      "positive": 15,
-      "neutral": 3,
+      "positive": 14,
+      "neutral": 4,
       "negative": 16,
       "count": 34
     },
     {
       "topic": "Regional",
-      "positive": 9,
+      "positive": 10,
       "neutral": 2,
-      "negative": 20,
-      "count": 31
+      "negative": 16,
+      "count": 28
     },
     {
       "topic": "Science",
       "positive": 13,
       "neutral": 3,
-      "negative": 6,
-      "count": 22
+      "negative": 7,
+      "count": 23
     }
   ],
   "sample_headlines": [
+    {
+      "title": "F1 Singapore Grand Prix 2025 concerts: Elton John, G-Dragon, Foo Fighters, Smashing Pumpkins and CL",
+      "url": "https://www.channelnewsasia.com/entertainment/f1-singapore-2025-concerts-elton-john-gdragon-cl-foo-fighters-smashing-pumpkins-5385891",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T13:34:00+08:00",
+      "sentiment": "positive"
+    },
     {
       "title": "Thai central bank likely to cut rates by 25 bps to shore up economy",
       "url": "https://www.channelnewsasia.com/business/thai-central-bank-likely-cut-rates-25-bps-shore-up-economy-5386106",
@@ -604,6 +612,14 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Three militants arrested in Manipur",
+      "url": "https://www.thehindu.com/news/national/manipur/three-militants-arrested-in-manipur/article70130178.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T11:09:29+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Man, 22, fined after Instagram joke about blowing up plane delays flight",
       "url": "https://www.channelnewsasia.com/singapore/man-instagram-story-blow-up-plane-fined-court-5385906",
       "source": "Channel News Asia",
@@ -618,6 +634,22 @@
       "region": "Global",
       "published": "2025-10-06T10:57:00+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "No Kohli, Rohit; no problem! You won\u2019t believe what happened in Australia",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-australia/no-virat-kohli-rohit-sharma-no-problem-you-wont-believe-what-has-happened-in-australia/articleshow/124330928.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T10:56:06+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Waqf board move to earmark land as graveyard hits hurdle in Telangana",
+      "url": "https://www.thehindu.com/news/national/telangana/waqf-board-move-to-earmark-land-as-graveyard-hits-hurdle-in-telangana/article70128993.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-10-06T10:52:38+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Prayers and protests in Leh",
@@ -692,6 +724,14 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Vietnam's economy accelerates despite dip in US exports, footwear drop",
+      "url": "https://www.channelnewsasia.com/business/vietnams-economy-accelerates-despite-dip-in-us-exports-footwear-drop-5385886",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2025-10-06T10:12:31+08:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Sonam Wangchuk\u2019s hearing LIVE: Supreme Court to hear plea by Wangchuk\u2019s wife that his detention is mala fide",
       "url": "https://www.thehindu.com/news/national/sonam-wangchuk-detention-supreme-court-hearing-leh-protests-statehood-live-october-6/article70130057.ece",
       "source": "The Hindu",
@@ -701,6 +741,14 @@
     },
     {
       "title": "Sonam Wangchuk\u2019s hearing LIVE: Supreme Court hears plea by Wangchuk\u2019s wife that his detention is mala fide",
+      "url": "https://www.thehindu.com/news/national/sonam-wangchuk-detention-supreme-court-hearing-leh-protests-statehood-live-october-6/article70130057.ece",
+      "source": "The Hindu",
+      "region": "Europe",
+      "published": "2025-10-06T10:08:48+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Sonam Wangchuk\u2019s hearing LIVE: Supreme Court posts the case for  October 14; allows Dr. Angmo to meet Wangchuk",
       "url": "https://www.thehindu.com/news/national/sonam-wangchuk-detention-supreme-court-hearing-leh-protests-statehood-live-october-6/article70130057.ece",
       "source": "The Hindu",
       "region": "Europe",
@@ -1076,6 +1124,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "Reports of Greta Thunberg's abuse in Israel very serous, Swedish minister says",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/reports-greta-thunbergs-abuse-israel-very-serous-swedish-minister-says",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "published": "2025-10-06T06:35:09+01:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Fine jewellery icons reimagined: Boucheron, Cartier, Van Cleef & Arpels and more",
       "url": "https://www.channelnewsasia.com/obsessions/luxury-fine-jewellery-icons-reimagined-cartier-tiffany-dior-5381506",
       "source": "Channel News Asia",
@@ -1210,62 +1266,6 @@
       "region": "North America",
       "published": "2025-10-06T05:43:00+08:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "IND vs PAK: Pathan trolls Pakistan without naming them - \u2018Just another Sunday\u2019",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-world-cup-2025/just-another-sunday-irfan-pathan-trolls-pakistan-without-naming-them-after-indias-womens-world-cup-triumph/articleshow/124328063.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-10-06T05:41:08+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Israel launched 131 air strikes on Gaza in two days, media office says",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-launched-131-air-strikes-gaza-two-days-media-office-says",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "published": "2025-10-06T05:40:57+01:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Georgia's prime minister accuses opposition of attempting to topple him and vows further crackdown",
-      "url": "http://www.euronews.com/2025/10/06/georgias-prime-minister-accuses-opposition-of-attempting-to-topple-him-and-vows-further-cr",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2025-10-06T05:40:03+02:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Morning update",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-423",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "published": "2025-10-06T05:34:58+01:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Flu vaccination to be available at more retail pharmacies as service continues at least another year",
-      "url": "https://www.straitstimes.com/singapore/health/flu-vaccination-to-be-available-at-more-retail-pharmacies-as-services-continue-for-at-least-another",
-      "source": "Straits Times",
-      "region": "Global",
-      "published": "2025-10-06T05:30:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Martin Scorsese \u2018not proud of his behaviour\u2019 while making Taxi Driver",
-      "url": "https://www.independent.co.uk/arts-entertainment/films/news/martin-scorsese-taxi-driver-apple-tv-b2839879.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-10-06T05:20:55+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Shabbat and the Radical Idea of Rest - Sponsored Content",
-      "url": "https://toi.li/Mc7OpR",
-      "source": "Times of Israel",
-      "region": "North America",
-      "published": "2025-10-06T05:20:50+00:00",
-      "sentiment": "neutral"
     }
   ]
 }
