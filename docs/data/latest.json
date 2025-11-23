@@ -1,26 +1,26 @@
 {
-  "generated_at": "2025-11-23T08:35:09.076971+00:00",
+  "generated_at": "2025-11-23T08:46:15.593764+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 428,
-    "neutral": 104,
-    "negative": 391
+    "positive": 446,
+    "neutral": 105,
+    "negative": 409
   },
   "by_publication": [
     {
       "source": "The Hindu",
       "positive": 35,
       "neutral": 24,
-      "negative": 41,
-      "count": 100,
-      "region": "North America"
+      "negative": 44,
+      "count": 103,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Independent",
-      "positive": 46,
+      "positive": 48,
       "neutral": 12,
-      "negative": 41,
-      "count": 99,
+      "negative": 43,
+      "count": 103,
       "region": "Europe"
     },
     {
@@ -33,11 +33,11 @@
     },
     {
       "source": "South China Morning Post",
-      "positive": 23,
+      "positive": 24,
       "neutral": 3,
       "negative": 24,
-      "count": 50,
-      "region": "North America"
+      "count": 51,
+      "region": "Europe"
     },
     {
       "source": "Times of India",
@@ -121,11 +121,19 @@
     },
     {
       "source": "Channel News Asia",
-      "positive": 6,
+      "positive": 7,
       "neutral": 4,
       "negative": 10,
-      "count": 20,
+      "count": 21,
       "region": "Global"
+    },
+    {
+      "source": "Euronews",
+      "positive": 15,
+      "neutral": 2,
+      "negative": 3,
+      "count": 20,
+      "region": "Europe"
     },
     {
       "source": "Middle East Eye",
@@ -136,14 +144,6 @@
       "region": "Middle East"
     },
     {
-      "source": "Euronews",
-      "positive": 14,
-      "neutral": 2,
-      "negative": 3,
-      "count": 19,
-      "region": "Europe"
-    },
-    {
       "source": "Sky Sports",
       "positive": 10,
       "neutral": 1,
@@ -152,20 +152,20 @@
       "region": "Europe"
     },
     {
-      "source": "Bloomberg",
-      "positive": 8,
-      "neutral": 4,
-      "negative": 7,
-      "count": 19,
-      "region": "Africa"
-    },
-    {
       "source": "CBS News",
       "positive": 12,
       "neutral": 0,
       "negative": 7,
       "count": 19,
       "region": "North America"
+    },
+    {
+      "source": "Bloomberg",
+      "positive": 8,
+      "neutral": 4,
+      "negative": 6,
+      "count": 18,
+      "region": "Africa"
     },
     {
       "source": "NBC News",
@@ -208,12 +208,28 @@
       "region": "North America"
     },
     {
+      "source": "RT News",
+      "positive": 7,
+      "neutral": 1,
+      "negative": 7,
+      "count": 15,
+      "region": "Europe"
+    },
+    {
       "source": "Times of Israel",
       "positive": 2,
       "neutral": 2,
       "negative": 11,
       "count": 15,
       "region": "Middle East"
+    },
+    {
+      "source": "Sputnik News",
+      "positive": 6,
+      "neutral": 0,
+      "negative": 7,
+      "count": 13,
+      "region": "North America"
     },
     {
       "source": "Wired",
@@ -339,31 +355,31 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 166,
+      "positive": 172,
       "neutral": 34,
-      "negative": 130,
-      "count": 330
+      "negative": 134,
+      "count": 340
     },
     {
       "region": "Europe",
-      "positive": 108,
+      "positive": 119,
       "neutral": 26,
-      "negative": 88,
-      "count": 222
+      "negative": 98,
+      "count": 243
     },
     {
       "region": "Asia-Pacific",
       "positive": 70,
       "neutral": 29,
-      "negative": 66,
-      "count": 165
+      "negative": 69,
+      "count": 168
     },
     {
       "region": "Global",
-      "positive": 49,
+      "positive": 50,
       "neutral": 10,
       "negative": 22,
-      "count": 81
+      "count": 82
     },
     {
       "region": "Middle East",
@@ -376,45 +392,45 @@
       "region": "South America",
       "positive": 14,
       "neutral": 2,
-      "negative": 20,
-      "count": 36
+      "negative": 21,
+      "count": 37
     },
     {
       "region": "Africa",
       "positive": 11,
-      "neutral": 1,
+      "neutral": 2,
       "negative": 18,
-      "count": 30
+      "count": 31
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 136,
+      "positive": 138,
       "neutral": 21,
       "negative": 97,
-      "count": 254
+      "count": 256
     },
     {
       "topic": "Politics",
-      "positive": 56,
-      "neutral": 17,
-      "negative": 72,
-      "count": 145
-    },
-    {
-      "topic": "Other",
-      "positive": 52,
-      "neutral": 19,
-      "negative": 62,
-      "count": 133
+      "positive": 62,
+      "neutral": 18,
+      "negative": 79,
+      "count": 159
     },
     {
       "topic": "World",
-      "positive": 47,
+      "positive": 56,
       "neutral": 14,
-      "negative": 69,
-      "count": 130
+      "negative": 78,
+      "count": 148
+    },
+    {
+      "topic": "Other",
+      "positive": 53,
+      "neutral": 19,
+      "negative": 63,
+      "count": 135
     },
     {
       "topic": "Sports",
@@ -427,8 +443,15 @@
       "topic": "Entertainment",
       "positive": 34,
       "neutral": 2,
-      "negative": 10,
-      "count": 46
+      "negative": 9,
+      "count": 45
+    },
+    {
+      "topic": "Health",
+      "positive": 11,
+      "neutral": 3,
+      "negative": 21,
+      "count": 35
     },
     {
       "topic": "Business",
@@ -436,13 +459,6 @@
       "neutral": 4,
       "negative": 13,
       "count": 34
-    },
-    {
-      "topic": "Health",
-      "positive": 11,
-      "neutral": 3,
-      "negative": 19,
-      "count": 33
     },
     {
       "topic": "Science",
@@ -548,11 +564,35 @@
       "sentiment": "neutral"
     },
     {
+      "title": "A Bengal Vinayaga idol with snake as sacred thread in Tamil Nadu\u2019s Nageswaran temple",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/a-bengal-vinayaga-idol-with-snake-as-sacred-thread-in-kumbakonam-nageswaran-temple/article70313795.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-11-23T14:11:07+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Forest embracing the ugly side of the game, says Dyche",
       "url": "https://www.channelnewsasia.com/sport/forest-embracing-ugly-side-game-says-dyche-5485291",
       "source": "Channel News Asia",
       "region": "Global",
       "published": "2025-11-23T14:06:46+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Proposal on Chandigarh doesn\u2019t alter administrative structure, no final decision yet: MHA",
+      "url": "https://www.thehindu.com/news/national/proposal-on-chandigarh-doesnt-alter-administrative-structure-no-final-decision-yet-mha/article70313800.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-11-23T14:03:37+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Four pilgrims from Madhya Pradesh killed in road accident",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/four-pilgrims-from-madhya-pradesh-killed-in-road-accident/article70313643.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-11-23T14:02:56+05:30",
       "sentiment": "negative"
     },
     {
@@ -574,6 +614,14 @@
     {
       "title": "Verstappen wins in Vegas, Norris second and extends lead",
       "url": "https://www.channelnewsasia.com/sport/verstappen-wins-in-vegas-norris-second-and-extends-lead-5485276",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-11-23T13:43:32+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Verstappen wins in Vegas, McLarens at risk of disqualification",
+      "url": "https://www.channelnewsasia.com/sport/verstappen-wins-in-vegas-mclarens-risk-disqualification-5485276",
       "source": "Channel News Asia",
       "region": "Global",
       "published": "2025-11-23T13:43:32+08:00",
@@ -988,6 +1036,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "US senators claim Rubio told them Trump\u2019s Ukraine peace plan is Russia\u2019s \u2018wish list\u2019",
+      "url": "http://www.euronews.com/2025/11/23/us-senators-claim-rubio-told-them-trumps-ukraine-peace-plan-is-russias-wish-list",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-11-23T09:40:17+01:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "'Used as example of under-performer': Peers flag humiliation; Delhi student suicide case deepens",
       "url": "https://timesofindia.indiatimes.com/city/delhi/he-used-as-example-of-under-performing-students-classmates-flag-pattern-of-humiliation-in-delhi-st-columbas-student-suicide-case/articleshow/125515110.cms",
       "source": "Times of India",
@@ -1018,6 +1074,30 @@
       "region": "Asia-Pacific",
       "published": "2025-11-23T08:40:36+05:30",
       "sentiment": "positive"
+    },
+    {
+      "title": "Italian left gathers for anti-Meloni campaign despite rivalries",
+      "url": "https://www.scmp.com/news/world/europe/article/3333843/italian-left-gathers-anti-meloni-campaign-despite-rivalries?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Europe",
+      "published": "2025-11-23T08:38:35+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Lando Norris and Oscar Piastri face disqualification from Las Vegas Grand Prix",
+      "url": "https://www.independent.co.uk/f1/lando-norris-las-vegas-grand-prix-oscar-piastri-fia-investigation-b2870686.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-11-23T08:37:28+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Strictly star La Voix forced to withdraw completely due to injury",
+      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/la-voix-strictly-injury-b2870689.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-11-23T08:35:57+00:00",
+      "sentiment": "negative"
     },
     {
       "title": "Exclusive! Abhinav Tejrana - The Delhi boy ignored by DDCA is making waves for Goa",
@@ -1065,6 +1145,22 @@
       "source": "CNN",
       "region": "North America",
       "published": "2025-11-23T08:33:19.807276+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Dan Driscoll: Who is Trump\u2019s new special representative for Ukraine?",
+      "url": "https://www.rt.com/news/628223-trump-ukraine-plan-driscoll/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "source": "RT News",
+      "region": "Europe",
+      "published": "2025-11-23T08:31:44+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "JFK\u2019s granddaughter Tatiana Schlossberg, 35, criticizes RFK Jr as she reveals she has terminal cancer",
+      "url": "https://www.independent.co.uk/life-style/tatiana-schlossberg-kennedy-jfk-granddaughter-terminal-cancer-b2870688.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-11-23T08:30:36+00:00",
       "sentiment": "negative"
     },
     {
@@ -1186,86 +1282,6 @@
       "region": "Europe",
       "published": "2025-11-23T08:01:14+01:00",
       "sentiment": "neutral"
-    },
-    {
-      "title": "\u2018On the same side\u2019: India, China align on climate at Cop30 as ties thaw",
-      "url": "https://www.scmp.com/week-asia/health-environment/article/3333729/cop30-india-and-china-align-climate-ties-thaw-going-same-direction?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-11-23T08:00:24+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Snowcapped prosperity: China\u2019s winter sports market glides upwards",
-      "url": "https://www.scmp.com/economy/china-economy/article/3333702/frost-and-funds-chinas-winter-sports-boom-drives-spending-and-industry-growth?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-11-23T08:00:16+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "\u2018Waiting for love\u2019: Chinese man owes US$27,000 in rent, hoards items in \u2018filthy\u2019 flat",
-      "url": "https://www.scmp.com/news/people-culture/article/3333267/waiting-love-chinese-man-owes-us27000-back-rent-hoards-items-filthy-flat?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-11-23T08:00:09+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "\u2018We\u2019ve got to find answers\u2019: Corby families affected by cancer searching for truth about toxic waste sites",
-      "url": "https://www.theguardian.com/society/2025/nov/23/cancer-corby-toxic-waste-sites-steelworks",
-      "source": "The Guardian",
-      "region": "North America",
-      "published": "2025-11-23T08:00:04+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "How ambitious \u2018forest city\u2019 plan for England could become a reality",
-      "url": "https://www.theguardian.com/environment/2025/nov/23/how-ambitious-forest-city-plan-for-england-could-become-a-reality",
-      "source": "The Guardian",
-      "region": "North America",
-      "published": "2025-11-23T08:00:03+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Arteta - I sometimes think: How would Arsene Wenger do it?",
-      "url": "https://www.skysports.com/football/news/12040/13473668/mikel-arteta-interview-arsenal-manager-reveals-influence-of-arsene-wenger-on-his-career-as-he-prepares-to-face-spurs-in-north-london-derby",
-      "source": "Sky Sports",
-      "region": "Europe",
-      "published": "2025-11-23T08:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Lando Norris waits to hear if he will be disqualified from Las Vegas GP",
-      "url": "https://www.telegraph.co.uk/formula-1/2025/11/23/las-vegas-grand-prix-2025-latest-updates-race-results/",
-      "source": "Telegraph",
-      "region": "Europe",
-      "published": "2025-11-23T07:55:55+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Thitikul leads Korda by six at LPGA Tour finale after nine birdies in third round",
-      "url": "https://www.skysports.com/golf/news/12040/13474388/cme-group-tour-championship-jeeno-thitikul-leads-nelly-korda-by-six-shots-after-round-three-cards-nine-birdies",
-      "source": "Sky Sports",
-      "region": "Europe",
-      "published": "2025-11-23T07:55:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Hong Kong\u2019s HK$19 trillion in bank deposits proves safe haven status: Paul Chan",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3333838/hong-kongs-hk19-trillion-bank-deposits-proves-safe-haven-status-paul-chan?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "North America",
-      "published": "2025-11-23T07:50:02+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Norris and Piastri face possible disqualifications",
-      "url": "https://www.bbc.com/sport/formula1/articles/cr7l5v2exv0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "Europe",
-      "published": "2025-11-23T07:49:35+00:00",
-      "sentiment": "positive"
     }
   ]
 }
