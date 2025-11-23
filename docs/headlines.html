@@ -1,158 +1,65 @@
 <!doctype html>
 <html lang="en">
+
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>All Headlines - News Sentiment Dashboard</title>
-<link rel="stylesheet" href="./styles.css" />
-<link rel="stylesheet" href="./headlines-styles.css" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>All Headlines - News Sentiment Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+  <link rel="stylesheet" href="./headlines-styles.css" />
 </head>
+
 <body>
-<!-- Background gradients -->
-<div class="bg-gradient"></div>
-<div class="bg-gradient-2"></div>
+  <!-- Background gradients -->
+  <div class="bg-gradient"></div>
+  <div class="bg-gradient-2"></div>
 
-<div class="headlines-editor-container">
-  <!-- Header -->
-  <header class="editor-header">
-    <div class="header-left">
-      <a href="index.html" class="back-btn">← Back to Dashboard</a>
-      <h1 class="page-title">All Headlines Editor</h1>
-    </div>
-    <div class="header-right">
-      <button id="saveChanges" class="save-btn" disabled>
-        💾 Save Changes
-      </button>
-      <button id="exportData" class="export-btn">
-        📥 Export Data
-      </button>
-    </div>
-  </header>
+  <div class="headlines-editor-container">
+    <!-- Header -->
+    <header class="editor-header">
+      <div class="header-left">
+        <a href="index.html" class="back-btn">← Back to Dashboard</a>
+        <h1 class="page-title">All Headlines Editor</h1>
+      </div>
+      <div class="header-right">
+        <button id="saveChanges" class="save-btn" disabled>
+          💾 Save Changes
+        </button>
+        <button id="exportData" class="export-btn">
+          📥 Export Data
+        </button>
+      </div>
+    </header>
 
-  <!-- Filters Bar -->
-  <div class="filters-bar">
-    <div class="filter-group">
-      <label>Search:</label>
-      <input type="text" id="searchInput" placeholder="Search headlines..." />
-    </div>
-    
-    <div class="filter-group">
-      <label>Source:</label>
-      <select id="filterSource">
-        <option value="">All Sources</option>
-      </select>
-    </div>
+    <!-- Filters Bar -->
+    <div class="filters-bar">
+      <div class="filter-group">
+        <label>Search:</label>
+        <input type="text" id="searchInput" placeholder="Search headlines..." />
+      </div>
 
       <div class="filter-group">
-      <label>Region:</label>
-      <select id="filterRegion">
-        <option value="">All Regions</option>
-      </select>
-    </div>
-    
-    
-    <div class="filter-group">
-      <label>Topic:</label>
-      <select id="filterTopic">
-        <option value="">All Topics</option>
-        <option value="Politics">Politics</option>
-        <option value="Business">Business</option>
-        <option value="Tech">Tech</option>
-        <option value="Sports">Sports</option>
-        <option value="Health">Health</option>
-        <option value="Science">Science</option>
-        <option value="Entertainment">Entertainment</option>
-        <option value="World">World</option>
-        <option value="Other">Other</option>
-      </select>
-    </div>
-    
-    <div class="filter-group">
-      <label>Sentiment:</label>
-      <select id="filterSentiment">
-        <option value="">All Sentiments</option>
-        <option value="positive">Positive</option>
-        <option value="neutral">Neutral</option>
-        <option value="negative">Negative</option>
-      </select>
-    </div>
-    
-  
-    <div class="filter-stats">
-      <span id="filterResults">Showing 0 of 0 headlines</span>
-    </div>
-  </div>
-
-  <!-- Headlines Table -->
-  <div class="headlines-table-container">
-    <table id="headlinesTable" class="headlines-table">
-      <thead>
-        <tr>
-          <th class="col-time sortable" data-sort="published">
-            Time <span class="sort-icon">↕</span>
-          </th>
-          <th class="col-headline">Headline</th>
-          <th class="col-source sortable" data-sort="source">
-            Source <span class="sort-icon">↕</span>
-          </th>
-          <th class="col-region">Region</th>
-          <th class="col-topic">Topic</th>
-          <th class="col-sentiment">Sentiment</th>
-          <th class="col-actions">Actions</th>
-        </tr>
-      </thead>
-      <tbody id="headlinesBody">
-        <!-- Headlines will be populated here -->
-      </tbody>
-    </table>
-  </div>
-
-  <!-- Pagination -->
-  <div class="pagination-container">
-    <button id="prevPage" class="pagination-btn">← Previous</button>
-    <span id="pageInfo">Page 1 of 1</span>
-    <button id="nextPage" class="pagination-btn">Next →</button>
-  </div>
-</div>
-
-<!-- Edit Modal -->
-<div id="editModal" class="modal hidden">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h2>Edit Article</h2>
-      <button class="modal-close" onclick="closeEditModal()">×</button>
-    </div>
-    <div class="modal-body">
-      <div class="form-group">
-        <label>Title:</label>
-        <input type="text" id="editTitle" />
-      </div>
-      <div class="form-group">
-        <label>URL:</label>
-        <input type="text" id="editUrl" />
-      </div>
-      <div class="form-group">
         <label>Source:</label>
-        <input type="text" id="editSource" />
-      </div>
-      <div class="form-group">
-        <label>Region:</label>
-        <select id="editRegion">
-          <option value="Global">Global</option>
-          <option value="North America">North America</option>
-          <option value="Europe">Europe</option>
-          <option value="Asia-Pacific">Asia-Pacific</option>
-          <option value="Middle East">Middle East</option>
-          <option value="Africa">Africa</option>
-          <option value="South America">South America</option>
-          <option value="Business">Business</option>
-          <option value="Technology">Technology</option>
-          <option value="Sports">Sports</option>
+        <select id="filterSource">
+          <option value="">All Sources</option>
         </select>
       </div>
-      <div class="form-group">
+
+      <div class="filter-group">
+        <label>Region:</label>
+        <select id="filterRegion">
+          <option value="">All Regions</option>
+        </select>
+      </div>
+
+
+      <div class="filter-group">
         <label>Topic:</label>
-        <select id="editTopic">
+        <select id="filterTopic">
+          <option value="">All Topics</option>
           <option value="Politics">Politics</option>
           <option value="Business">Business</option>
           <option value="Tech">Tech</option>
@@ -164,22 +71,121 @@
           <option value="Other">Other</option>
         </select>
       </div>
-      <div class="form-group">
+
+      <div class="filter-group">
         <label>Sentiment:</label>
-        <select id="editSentiment">
+        <select id="filterSentiment">
+          <option value="">All Sentiments</option>
           <option value="positive">Positive</option>
           <option value="neutral">Neutral</option>
           <option value="negative">Negative</option>
         </select>
       </div>
+
+
+      <div class="filter-stats">
+        <span id="filterResults">Showing 0 of 0 headlines</span>
+      </div>
     </div>
-    <div class="modal-footer">
-      <button onclick="closeEditModal()" class="btn-cancel">Cancel</button>
-      <button onclick="saveEdit()" class="btn-save">Save Changes</button>
+
+    <!-- Headlines Table -->
+    <div class="headlines-table-container">
+      <table id="headlinesTable" class="headlines-table">
+        <thead>
+          <tr>
+            <th class="col-time sortable" data-sort="published">
+              Time <span class="sort-icon">↕</span>
+            </th>
+            <th class="col-headline">Headline</th>
+            <th class="col-source sortable" data-sort="source">
+              Source <span class="sort-icon">↕</span>
+            </th>
+            <th class="col-region">Region</th>
+            <th class="col-topic">Topic</th>
+            <th class="col-sentiment">Sentiment</th>
+            <th class="col-actions">Actions</th>
+          </tr>
+        </thead>
+        <tbody id="headlinesBody">
+          <!-- Headlines will be populated here -->
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Pagination -->
+    <div class="pagination-container">
+      <button id="prevPage" class="pagination-btn">← Previous</button>
+      <span id="pageInfo">Page 1 of 1</span>
+      <button id="nextPage" class="pagination-btn">Next →</button>
     </div>
   </div>
-</div>
 
-<script src="./headlines-editor.js"></script>
+  <!-- Edit Modal -->
+  <div id="editModal" class="modal hidden">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2>Edit Article</h2>
+        <button class="modal-close" onclick="closeEditModal()">×</button>
+      </div>
+      <div class="modal-body">
+        <div class="form-group">
+          <label>Title:</label>
+          <input type="text" id="editTitle" />
+        </div>
+        <div class="form-group">
+          <label>URL:</label>
+          <input type="text" id="editUrl" />
+        </div>
+        <div class="form-group">
+          <label>Source:</label>
+          <input type="text" id="editSource" />
+        </div>
+        <div class="form-group">
+          <label>Region:</label>
+          <select id="editRegion">
+            <option value="Global">Global</option>
+            <option value="North America">North America</option>
+            <option value="Europe">Europe</option>
+            <option value="Asia-Pacific">Asia-Pacific</option>
+            <option value="Middle East">Middle East</option>
+            <option value="Africa">Africa</option>
+            <option value="South America">South America</option>
+            <option value="Business">Business</option>
+            <option value="Technology">Technology</option>
+            <option value="Sports">Sports</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Topic:</label>
+          <select id="editTopic">
+            <option value="Politics">Politics</option>
+            <option value="Business">Business</option>
+            <option value="Tech">Tech</option>
+            <option value="Sports">Sports</option>
+            <option value="Health">Health</option>
+            <option value="Science">Science</option>
+            <option value="Entertainment">Entertainment</option>
+            <option value="World">World</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Sentiment:</label>
+          <select id="editSentiment">
+            <option value="positive">Positive</option>
+            <option value="neutral">Neutral</option>
+            <option value="negative">Negative</option>
+          </select>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button onclick="closeEditModal()" class="btn-cancel">Cancel</button>
+        <button onclick="saveEdit()" class="btn-save">Save Changes</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="./headlines-editor.js"></script>
 </body>
+
 </html>

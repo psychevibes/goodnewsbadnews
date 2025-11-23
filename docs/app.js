@@ -19,11 +19,11 @@ const DATA_BASE_URL = './data/';
 
 // Colour definitions matching those in styles.css
 const COLOR = {
-  positive: '#00D4AA',
-  neutral: '#8B93A6',
-  negative: '#FF6B9D',
-  text: 'rgba(255,255,255,0.8)',
-  grid: 'rgba(255,255,255,0.15)',
+  positive: '#10b981', // Emerald
+  neutral: '#94a3b8',  // Slate
+  negative: '#ef4444', // Red
+  text: '#f8fafc',     // Slate 50
+  grid: 'rgba(255,255,255,0.1)',
 };
 
 // A small set of common English stop words used when extracting
@@ -77,19 +77,19 @@ async function loadData() {
     console.log('Loading dashboard data...');
     const latest = await fetchJSON(`${DATA_BASE_URL}latest.json`);
     const history = await fetchJSON(`${DATA_BASE_URL}history.json`);
-    
-    console.log('Data loaded successfully:', { 
-      latestArticles: latest.totals, 
-      historyDays: history.history?.length 
+
+    console.log('Data loaded successfully:', {
+      latestArticles: latest.totals,
+      historyDays: history.history?.length
     });
-    
+
     return { latest, history };
   } catch (e) {
     console.error('Error fetching data:', e);
-    
+
     // Show user-friendly error message
     document.getElementById('generatedAt').textContent = 'Error loading data - check console for details';
-    
+
     // Try to provide fallback or helpful information
     throw new Error(`Failed to load dashboard data: ${e.message}`);
   }
@@ -105,17 +105,17 @@ async function loadData() {
 function renderSourcesList(byPublication) {
   const listEl = document.getElementById('sourcesList');
   listEl.innerHTML = '';
-  
+
   if (!byPublication || byPublication.length === 0) {
     listEl.innerHTML = '<div class="source-item">No sources available</div>';
     return;
   }
-  
+
   // Sort sources alphabetically
   const sorted = [...byPublication].sort((a, b) =>
     a.source.localeCompare(b.source)
   );
-  
+
   sorted.forEach((item) => {
     const li = document.createElement('div');
     li.className = 'source-item';
@@ -126,7 +126,7 @@ function renderSourcesList(byPublication) {
     });
     listEl.appendChild(li);
   });
-  
+
   updateSourceVisuals();
 }
 
@@ -166,7 +166,7 @@ function updateSourceVisuals() {
  */
 function selectAllSources() {
   if (!globalData.latest?.by_publication) return;
-  
+
   globalData.latest.by_publication.forEach((item) => {
     globalData.selectedSources.add(item.source);
   });
@@ -210,12 +210,12 @@ function filterDataBySources(latest, selected) {
       sample_headlines: latest.sample_headlines || [],
     };
   }
-  
+
   // Filter by publication
   const filteredPublications = (latest.by_publication || []).filter((item) =>
     selected.has(item.source)
   );
-  
+
   // Recalculate totals
   const totals = filteredPublications.reduce(
     (acc, item) => {
@@ -226,16 +226,16 @@ function filterDataBySources(latest, selected) {
     },
     { positive: 0, neutral: 0, negative: 0 }
   );
-  
+
   // Filter sample headlines by source
   const filteredHeadlines = (latest.sample_headlines || []).filter((h) =>
     selected.has(h.source)
   );
-  
+
   // For topics and regions, we keep the original data since we don't have
   // per-publication topic/region breakdowns in the current data structure
   const filteredByTopic = latest.by_topic || [];
-  
+
   // Recalculate by_region from filtered publications
   const regionMap = {};
   filteredPublications.forEach((pub) => {
@@ -247,7 +247,7 @@ function filterDataBySources(latest, selected) {
     regionMap[region].neutral += pub.neutral || 0;
     regionMap[region].negative += pub.negative || 0;
   });
-  
+
   const filteredByRegion = Object.entries(regionMap).map(([region, val]) => ({
     region,
     positive: val.positive,
@@ -275,7 +275,7 @@ function updateStats(totals) {
   if (!totals) {
     totals = { positive: 0, neutral: 0, negative: 0 };
   }
-  
+
   animateCounter('positiveCount', totals.positive || 0);
   animateCounter('neutralCount', totals.neutral || 0);
   animateCounter('negativeCount', totals.negative || 0);
@@ -292,11 +292,11 @@ function updateStats(totals) {
 function animateCounter(id, targetValue) {
   const el = document.getElementById(id);
   if (!el) return;
-  
+
   const startValue = parseInt(el.innerText.replace(/,/g, '')) || 0;
   const duration = 500;
   const startTime = performance.now();
-  
+
   function update(currentTime) {
     const elapsed = currentTime - startTime;
     const progress = Math.min(elapsed / duration, 1);
@@ -317,13 +317,13 @@ function animateCounter(id, targetValue) {
 function renderOverallChart(totals) {
   const canvas = document.getElementById('overallChart');
   if (!canvas) return;
-  
+
   const ctx = canvas.getContext('2d');
   if (overallChart) overallChart.destroy();
-  
+
   const data = [totals.positive || 0, totals.neutral || 0, totals.negative || 0];
   const hasData = data.some(val => val > 0);
-  
+
   if (!hasData) {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     ctx.fillStyle = COLOR.text;
@@ -332,7 +332,7 @@ function renderOverallChart(totals) {
     ctx.fillText('No data available', canvas.width / 2, canvas.height / 2);
     return;
   }
-  
+
   overallChart = new Chart(ctx, {
     type: 'doughnut',
     data: {
@@ -364,7 +364,7 @@ function renderOverallChart(totals) {
           },
         },
       },
-      onResize: function(chart, size) {
+      onResize: function (chart, size) {
         // Prevent excessive resizing
         if (size.height > 300) {
           chart.canvas.style.height = '280px';
@@ -383,10 +383,10 @@ function renderOverallChart(totals) {
 function renderPublicationChart(byPub, sortBy) {
   const canvas = document.getElementById('pubChart');
   if (!canvas) return;
-  
+
   const ctx = canvas.getContext('2d');
   if (pubChart) pubChart.destroy();
-  
+
   if (!byPub || byPub.length === 0) {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     ctx.fillStyle = COLOR.text;
@@ -395,7 +395,7 @@ function renderPublicationChart(byPub, sortBy) {
     ctx.fillText('No publications data', canvas.width / 2, canvas.height / 2);
     return;
   }
-  
+
   // Sort the data
   const sorted = [...byPub].sort((a, b) => {
     if (sortBy === 'count') {
@@ -403,9 +403,9 @@ function renderPublicationChart(byPub, sortBy) {
     }
     return (b[sortBy] || 0) - (a[sortBy] || 0);
   });
-  
+
   const top = sorted.slice(0, 8);
-  const labels = top.map((item) => 
+  const labels = top.map((item) =>
     item.source && item.source.length > 12 ? item.source.slice(0, 12) + '…' : item.source
   );
   const pos = top.map((item) => item.positive || 0);
@@ -445,7 +445,7 @@ function renderPublicationChart(byPub, sortBy) {
       plugins: {
         legend: { display: false },
       },
-      onResize: function(chart, size) {
+      onResize: function (chart, size) {
         if (size.height > 300) {
           chart.canvas.style.height = '280px';
         }
@@ -462,10 +462,10 @@ function renderPublicationChart(byPub, sortBy) {
 function renderTopicChart(byTopic) {
   const canvas = document.getElementById('topicChart');
   if (!canvas) return;
-  
+
   const ctx = canvas.getContext('2d');
   if (topicChart) topicChart.destroy();
-  
+
   if (!byTopic || byTopic.length === 0) {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     ctx.fillStyle = COLOR.text;
@@ -474,13 +474,13 @@ function renderTopicChart(byTopic) {
     ctx.fillText('No topics data', canvas.width / 2, canvas.height / 2);
     return;
   }
-  
+
   const sorted = [...byTopic].sort((a, b) => (b.count || 0) - (a.count || 0));
   const labels = sorted.map((item) => item.topic);
   const pos = sorted.map((item) => item.positive || 0);
   const neu = sorted.map((item) => item.neutral || 0);
   const neg = sorted.map((item) => item.negative || 0);
-  
+
   topicChart = new Chart(ctx, {
     type: 'bar',
     data: {
@@ -500,7 +500,7 @@ function renderTopicChart(byTopic) {
         y: { stacked: true, ticks: { color: COLOR.text } },
       },
       plugins: { legend: { display: false } },
-      onResize: function(chart, size) {
+      onResize: function (chart, size) {
         if (size.height > 300) {
           chart.canvas.style.height = '280px';
         }
@@ -517,10 +517,10 @@ function renderTopicChart(byTopic) {
 function renderTrendChart(historyArr) {
   const canvas = document.getElementById('trendChart');
   if (!canvas) return;
-  
+
   const ctx = canvas.getContext('2d');
   if (trendChart) trendChart.destroy();
-  
+
   if (!historyArr || historyArr.length === 0) {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     ctx.fillStyle = COLOR.text;
@@ -529,7 +529,7 @@ function renderTrendChart(historyArr) {
     ctx.fillText('No trend data', canvas.width / 2, canvas.height / 2);
     return;
   }
-  
+
   const labels = historyArr.map((h) => {
     const d = new Date(h.date);
     return d.toLocaleDateString('en-GB', { month: 'short', day: 'numeric' });
@@ -537,7 +537,7 @@ function renderTrendChart(historyArr) {
   const pos = historyArr.map((h) => h.positive || 0);
   const neu = historyArr.map((h) => h.neutral || 0);
   const neg = historyArr.map((h) => h.negative || 0);
-  
+
   trendChart = new Chart(ctx, {
     type: 'line',
     data: {
@@ -577,13 +577,13 @@ function renderTrendChart(historyArr) {
         x: { ticks: { color: COLOR.text } },
         y: { ticks: { color: COLOR.text } },
       },
-      plugins: { 
-        legend: { 
+      plugins: {
+        legend: {
           display: true,
           labels: { color: COLOR.text }
-        } 
+        }
       },
-      onResize: function(chart, size) {
+      onResize: function (chart, size) {
         if (size.height > 300) {
           chart.canvas.style.height = '280px';
         }
@@ -599,10 +599,10 @@ function renderTrendChart(historyArr) {
 function renderRegionChart(byRegion) {
   const canvas = document.getElementById('regionChart');
   if (!canvas) return;
-  
+
   const ctx = canvas.getContext('2d');
   if (regionChart) regionChart.destroy();
-  
+
   if (!byRegion || byRegion.length === 0) {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     ctx.fillStyle = COLOR.text;
@@ -611,13 +611,13 @@ function renderRegionChart(byRegion) {
     ctx.fillText('No regions data', canvas.width / 2, canvas.height / 2);
     return;
   }
-  
+
   const sorted = [...byRegion].sort((a, b) => (b.count || 0) - (a.count || 0));
   const labels = sorted.map((item) => item.region);
   const pos = sorted.map((item) => item.positive || 0);
   const neu = sorted.map((item) => item.neutral || 0);
   const neg = sorted.map((item) => item.negative || 0);
-  
+
   regionChart = new Chart(ctx, {
     type: 'bar',
     data: {
@@ -637,7 +637,7 @@ function renderRegionChart(byRegion) {
         y: { stacked: true, ticks: { color: COLOR.text } },
       },
       plugins: { legend: { display: false } },
-      onResize: function(chart, size) {
+      onResize: function (chart, size) {
         if (size.height > 300) {
           chart.canvas.style.height = '280px';
         }
@@ -657,7 +657,7 @@ function renderRegionChart(byRegion) {
  */
 function extractTopKeywords(headlines, sentimentFilter = 'all', topN = 10) {
   if (!headlines || headlines.length === 0) return [];
-  
+
   const freq = {};
   headlines.forEach((item) => {
     if (sentimentFilter !== 'all' && item.sentiment !== sentimentFilter) {
@@ -672,7 +672,7 @@ function extractTopKeywords(headlines, sentimentFilter = 'all', topN = 10) {
       freq[word] = (freq[word] || 0) + 1;
     });
   });
-  
+
   const sorted = Object.entries(freq)
     .sort((a, b) => b[1] - a[1])
     .slice(0, topN);
@@ -686,10 +686,10 @@ function extractTopKeywords(headlines, sentimentFilter = 'all', topN = 10) {
 function renderKeywordsChart(keywordsData) {
   const canvas = document.getElementById('keywordsChart');
   if (!canvas) return;
-  
+
   const ctx = canvas.getContext('2d');
   if (keywordsChart) keywordsChart.destroy();
-  
+
   if (!keywordsData || keywordsData.length === 0) {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     ctx.fillStyle = COLOR.text;
@@ -698,10 +698,10 @@ function renderKeywordsChart(keywordsData) {
     ctx.fillText('No keywords found', canvas.width / 2, canvas.height / 2);
     return;
   }
-  
+
   const labels = keywordsData.map((k) => k.keyword);
   const counts = keywordsData.map((k) => k.count);
-  
+
   keywordsChart = new Chart(ctx, {
     type: 'bar',
     data: {
@@ -723,7 +723,7 @@ function renderKeywordsChart(keywordsData) {
         y: { ticks: { color: COLOR.text } },
       },
       plugins: { legend: { display: false } },
-      onResize: function(chart, size) {
+      onResize: function (chart, size) {
         if (size.height > 300) {
           chart.canvas.style.height = '280px';
         }
@@ -741,15 +741,15 @@ function renderKeywordsChart(keywordsData) {
 function renderHeadlinesList(headlines) {
   const listEl = document.getElementById('headlines');
   if (!listEl) return;
-  
+
   listEl.innerHTML = '';
-  
+
   if (!headlines || headlines.length === 0) {
     listEl.innerHTML = '<li><span class="headline-title">No headlines available</span></li>';
     document.getElementById('headlinesCount').textContent = '0 articles';
     return;
   }
-  
+
   const slice = headlines.slice(0, 30);
   slice.forEach((item) => {
     const li = document.createElement('li');
@@ -763,7 +763,7 @@ function renderHeadlinesList(headlines) {
     li.appendChild(meta);
     listEl.appendChild(li);
   });
-  
+
   const countEl = document.getElementById('headlinesCount');
   if (countEl) {
     countEl.textContent = `${headlines.length} articles`;
@@ -776,7 +776,7 @@ function renderHeadlinesList(headlines) {
  */
 function formatTimeAgo(iso) {
   if (!iso) return 'Unknown';
-  
+
   try {
     const published = new Date(iso);
     const now = new Date();
@@ -800,29 +800,29 @@ function updateDashboard() {
     console.warn('No data available for dashboard update');
     return;
   }
-  
+
   console.log('Updating dashboard with current data');
   const filtered = filterDataBySources(globalData.latest, globalData.selectedSources);
-  
+
   updateStats(filtered.totals);
-  
+
   // Add small delay to prevent resize loops when multiple charts update
   requestAnimationFrame(() => {
     renderOverallChart(filtered.totals);
-    
+
     // Determine sort option for publication chart
     const sortBy = document.getElementById('pubSort')?.value || 'count';
     renderPublicationChart(filtered.by_publication, sortBy);
-    
+
     renderTopicChart(filtered.by_topic);
     renderRegionChart(filtered.by_region);
-    
+
     // Keywords sentiment filter
     const kwFilter = document.getElementById('keywordsSentiment')?.value || 'all';
     const keywordsData = extractTopKeywords(filtered.sample_headlines, kwFilter, 10);
     renderKeywordsChart(keywordsData);
   });
-  
+
   renderHeadlinesList(filtered.sample_headlines);
 }
 
@@ -832,17 +832,17 @@ function updateDashboard() {
  */
 async function init() {
   console.log('Initializing dashboard...');
-  
+
   try {
     // Check if Chart.js loaded
     if (typeof Chart === 'undefined') {
       throw new Error('Chart.js failed to load. Please check your internet connection.');
     }
-    
+
     const { latest, history } = await loadData();
     globalData.latest = latest;
     globalData.history = history;
-    
+
     // Set update time
     const updateDate = new Date(latest.generated_at);
     const generatedAtEl = document.getElementById('generatedAt');
@@ -854,31 +854,31 @@ async function init() {
         minute: '2-digit',
       })}`;
     }
-    
+
     // Build sources list
     renderSourcesList(latest.by_publication);
-    
+
     // Event listeners for controls
     const selectAllBtn = document.getElementById('selectAllSources');
     const deselectAllBtn = document.getElementById('deselectAllSources');
     const pubSortSelect = document.getElementById('pubSort');
     const keywordsSentimentSelect = document.getElementById('keywordsSentiment');
-    
+
     if (selectAllBtn) selectAllBtn.addEventListener('click', selectAllSources);
     if (deselectAllBtn) deselectAllBtn.addEventListener('click', deselectAllSources);
     if (pubSortSelect) pubSortSelect.addEventListener('change', updateDashboard);
     if (keywordsSentimentSelect) keywordsSentimentSelect.addEventListener('change', updateDashboard);
-    
+
     // Render static charts once
     if (history?.history) {
       renderTrendChart(history.history);
     }
-    
+
     // Initially select all sources
     selectAllSources();
-    
+
     console.log('Dashboard initialized successfully');
-    
+
     // Add window resize handler to prevent chart issues
     let resizeTimeout;
     window.addEventListener('resize', () => {
@@ -892,15 +892,15 @@ async function init() {
         });
       }, 100);
     });
-    
+
   } catch (err) {
     console.error('Dashboard initialization failed:', err);
-    
+
     const generatedAtEl = document.getElementById('generatedAt');
     if (generatedAtEl) {
       generatedAtEl.textContent = `Error: ${err.message}`;
     }
-    
+
     // Show fallback content
     updateStats({ positive: 0, neutral: 0, negative: 0 });
   }
