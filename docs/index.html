@@ -1,147 +1,144 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>News Sentiment Dashboard</title>
-    <!-- Load a modern Google font -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
-      rel="stylesheet"
-    />
-    <!-- Local stylesheet for layout and dark theme -->
-    <link rel="stylesheet" href="styles.css" />
-    <!-- Chart.js from CDN - Fixed integrity hash -->
-    <script
-      src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"
-      crossorigin="anonymous"
-      defer
-    ></script>
-    <!-- Main application script -->
-    <script src="app.js" defer></script>
-  </head>
-  <body>
-    <!-- Background gradients -->
-    <div class="bg-gradient"></div>
-    <div class="bg-gradient-2"></div>
 
-    <div class="dashboard">
-      <!-- Sidebar for source filters -->
-      <aside class="sidebar">
-        <h2>Sources</h2>
-        <div class="source-controls">
-          <button id="selectAllSources" class="btn small">All</button>
-          <button id="deselectAllSources" class="btn small">None</button>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>News Sentiment Dashboard</title>
+  <!-- Load a modern Google font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <!-- Local stylesheet for layout and dark theme -->
+  <link rel="stylesheet" href="styles.css?v=2" />
+  <!-- Chart.js from CDN - Fixed integrity hash -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js" crossorigin="anonymous"
+    defer></script>
+  <!-- Main application script -->
+  <script src="app.js" defer></script>
+</head>
+
+<body>
+  <!-- Background gradients -->
+  <div class="bg-gradient"></div>
+  <div class="bg-gradient-2"></div>
+
+  <div class="dashboard">
+    <!-- Sidebar for source filters -->
+    <aside class="sidebar">
+      <h2>Sources</h2>
+      <div class="source-controls">
+        <button id="selectAllSources" class="btn small">All</button>
+        <button id="deselectAllSources" class="btn small">None</button>
+      </div>
+      <div id="sourcesList" class="sources-list"></div>
+    </aside>
+    <!-- Main content area -->
+    <main class="main">
+      <header class="main-header">
+        <div class="header-left">
+          <h1 class="page-title">goodnewsbadnews.xyz</h1>
+          <p class="page-subtitle">
+            Global News Sentiment Analysis
+          </p>
         </div>
-        <div id="sourcesList" class="sources-list"></div>
-      </aside>
-      <!-- Main content area -->
-      <main class="main">
-        <header class="main-header">
-          <div class="header-left">
-            <h1 class="page-title">goodnewsbadnews.xyz</h1>
-            <p class="page-subtitle">
-              Global News Sentiment Analysis
-            </p>
-          </div>
-          <div class="header-right">
-            <span id="generatedAt" class="status-text">Loading data...</span>
-            <a href="headlines.html" class="header-btn">
-              <span>📰</span> View All Headlines
-            </a>
-          </div>
-        </header>
-        <!-- Summary statistics -->
-        <div class="stats-grid">
-          <div class="stat-card" id="totalStat">
-            <p class="stat-title">Total Articles</p>
-            <span class="stat-value" id="totalCount">0</span>
-          </div>
-          <div class="stat-card positive" id="positiveStat">
-            <p class="stat-title">Positive</p>
-            <span class="stat-value" id="positiveCount">0</span>
-          </div>
-          <div class="stat-card neutral" id="neutralStat">
-            <p class="stat-title">Neutral</p>
-            <span class="stat-value" id="neutralCount">0</span>
-          </div>
-          <div class="stat-card negative" id="negativeStat">
-            <p class="stat-title">Negative</p>
-            <span class="stat-value" id="negativeCount">0</span>
-          </div>
+        <div class="header-right">
+          <span id="generatedAt" class="status-text">Loading data...</span>
+          <a href="headlines.html" class="header-btn">
+            <span>📰</span> View All Headlines
+          </a>
         </div>
-        <!-- Charts and widgets -->
-        <div class="widgets-grid">
-          <!-- Sentiment distribution -->
-          <div class="chart-widget">
-            <div class="widget-title">
-              Sentiment Distribution
-            </div>
-            <canvas id="overallChart"></canvas>
-          </div>
-          <!-- 7‑day trend -->
-          <div class="chart-widget">
-            <div class="widget-title">
-              7‑Day Trend
-            </div>
-            <canvas id="trendChart"></canvas>
-          </div>
-          <!-- Regional sentiment -->
-          <div class="chart-widget">
-            <div class="widget-title">
-              Regional Sentiment
-            </div>
-            <canvas id="regionChart"></canvas>
-          </div>
-          <!-- By publication -->
-          <div class="chart-widget">
-            <div class="widget-title">
-              By Publication
-              <label for="pubSort" class="sr-only">Sort by</label>
-              <select id="pubSort" class="dropdown">
-                <option value="count" selected>Total Articles</option>
-                <option value="positive">Most Positive</option>
-                <option value="neutral">Most Neutral</option>
-                <option value="negative">Most Negative</option>
-              </select>
-            </div>
-            <canvas id="pubChart"></canvas>
-          </div>
-          <!-- By topic -->
-          <div class="chart-widget">
-            <div class="widget-title">
-              By Topic
-            </div>
-            <canvas id="topicChart"></canvas>
-          </div>
-          <!-- Trending keywords -->
-          <div class="chart-widget">
-            <div class="widget-title">
-              Trending Keywords
-              <label for="keywordsSentiment" class="sr-only">Filter by sentiment</label>
-              <select id="keywordsSentiment" class="dropdown">
-                <option value="all" selected>All Sentiments</option>
-                <option value="positive">Positive Only</option>
-                <option value="negative">Negative Only</option>
-              </select>
-            </div>
-            <canvas id="keywordsChart"></canvas>
-          </div>
+      </header>
+      <!-- Summary statistics -->
+      <div class="stats-grid">
+        <div class="stat-card" id="totalStat">
+          <p class="stat-title">Total Articles</p>
+          <span class="stat-value" id="totalCount">0</span>
         </div>
-        <!-- Latest headlines -->
-        <div class="headlines-widget">
+        <div class="stat-card positive" id="positiveStat">
+          <p class="stat-title">Positive</p>
+          <span class="stat-value" id="positiveCount">0</span>
+        </div>
+        <div class="stat-card neutral" id="neutralStat">
+          <p class="stat-title">Neutral</p>
+          <span class="stat-value" id="neutralCount">0</span>
+        </div>
+        <div class="stat-card negative" id="negativeStat">
+          <p class="stat-title">Negative</p>
+          <span class="stat-value" id="negativeCount">0</span>
+        </div>
+      </div>
+      <!-- Charts and widgets -->
+      <div class="widgets-grid">
+        <!-- Sentiment distribution -->
+        <div class="chart-widget">
           <div class="widget-title">
-            Latest Headlines
-            <p id="headlinesCount" class="headline-count">0 articles</p>
+            Sentiment Distribution
           </div>
-          <ul id="headlines" class="headlines-list"></ul>
-          <div style="text-align: center; margin-top: 24px;">
-            <a href="headlines.html" class="view-all-btn">View All Headlines →</a>
-          </div>
+          <canvas id="overallChart"></canvas>
         </div>
-      </main>
-    </div>
-  </body>
+        <!-- 7‑day trend -->
+        <div class="chart-widget">
+          <div class="widget-title">
+            7‑Day Trend
+          </div>
+          <canvas id="trendChart"></canvas>
+        </div>
+        <!-- Regional sentiment -->
+        <div class="chart-widget">
+          <div class="widget-title">
+            Regional Sentiment
+          </div>
+          <canvas id="regionChart"></canvas>
+        </div>
+        <!-- By publication -->
+        <div class="chart-widget">
+          <div class="widget-title">
+            By Publication
+            <label for="pubSort" class="sr-only">Sort by</label>
+            <select id="pubSort" class="dropdown">
+              <option value="count" selected>Total Articles</option>
+              <option value="positive">Most Positive</option>
+              <option value="neutral">Most Neutral</option>
+              <option value="negative">Most Negative</option>
+            </select>
+          </div>
+          <canvas id="pubChart"></canvas>
+        </div>
+        <!-- By topic -->
+        <div class="chart-widget">
+          <div class="widget-title">
+            By Topic
+          </div>
+          <canvas id="topicChart"></canvas>
+        </div>
+        <!-- Trending keywords -->
+        <div class="chart-widget">
+          <div class="widget-title">
+            Trending Keywords
+            <label for="keywordsSentiment" class="sr-only">Filter by sentiment</label>
+            <select id="keywordsSentiment" class="dropdown">
+              <option value="all" selected>All Sentiments</option>
+              <option value="positive">Positive Only</option>
+              <option value="negative">Negative Only</option>
+            </select>
+          </div>
+          <canvas id="keywordsChart"></canvas>
+        </div>
+      </div>
+      <!-- Latest headlines -->
+      <div class="headlines-widget">
+        <div class="widget-title">
+          Latest Headlines
+          <p id="headlinesCount" class="headline-count">0 articles</p>
+        </div>
+        <ul id="headlines" class="headlines-list"></ul>
+        <div style="text-align: center; margin-top: 24px;">
+          <a href="headlines.html" class="view-all-btn">View All Headlines →</a>
+        </div>
+      </div>
+    </main>
+  </div>
+</body>
+
 </html>
