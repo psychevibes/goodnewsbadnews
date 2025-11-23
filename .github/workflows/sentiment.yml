@@ -31,7 +31,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Cache NLTK data
+        uses: actions/cache@v3
+        with:
+          path: nltk_data
+          key: nltk-data-vader
+      
       - name: Run fetcher
+        env:
+          NLTK_DATA: ${{ github.workspace }}/nltk_data
         run: python fetcher.py
 
       - name: Configure Git

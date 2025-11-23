@@ -3,6 +3,8 @@ import json
 import time
 import hashlib
 import re
+import socket
+import traceback
 from datetime import datetime, timedelta, timezone
 import nltk
 
@@ -13,10 +15,19 @@ from dateutil import parser as dateparser
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 # Ensure VADER lexicon is present
+# Ensure VADER lexicon is present
 try:
+    # Use NLTK_DATA env var if set, otherwise default
+    nltk_data_path = os.environ.get('NLTK_DATA')
+    if nltk_data_path:
+        if nltk_data_path not in nltk.data.path:
+            nltk.data.path.append(nltk_data_path)
+        print(f"Using NLTK data path: {nltk_data_path}")
+    
     nltk.data.find('vader_lexicon')
 except LookupError:
-    nltk.download('vader_lexicon')
+    print("Downloading vader_lexicon...")
+    nltk.download('vader_lexicon', download_dir=os.environ.get('NLTK_DATA'))
 
 sia = SentimentIntensityAnalyzer()
 
@@ -27,6 +38,7 @@ RAW_PATH = os.path.join('data', 'raw.jsonl')
 LATEST_PATH = os.path.join(OUTPUT_DIR, 'latest.json')
 HISTORY_PATH = os.path.join(OUTPUT_DIR, 'history.json')
 ALL_HEADLINES_PATH = os.path.join(OUTPUT_DIR, 'all_headlines.json')
+MAX_ARTICLES = 100000  # Limit to ~75MB to stay under GitHub's 100MB limit
 
 # RSS feeds organized by region (same as before)
 FEEDS = [
@@ -643,68 +655,88 @@ def generate_history_data(articles):
 
 def main():
     """Main execution function"""
-    print("🔄 Fetching news articles with enhanced classification...")
+    # Set global timeout for socket operations
+    socket.setdefaulttimeout(30)
     
-    # Fetch new articles
-    new_articles = fetch_rss_feeds()
-    print(f"📰 Fetched {len(new_articles)} new articles")
+    try:
+        print("🔄 Fetching news articles with enhanced classification...")
     
-    # Load existing articles
-    existing_articles = load_existing_articles()
-    print(f"📚 Loaded {len(existing_articles)} existing articles")
+        # Fetch new articles
+        new_articles = fetch_rss_feeds()
+        print(f"📰 Fetched {len(new_articles)} new articles")
+        
+        # Load existing articles
+        existing_articles = load_existing_articles()
+        print(f"📚 Loaded {len(existing_articles)} existing articles")
+        
+        # Combine and deduplicate
+        all_articles = existing_articles.copy()
+        existing_ids = {a['id'] for a in existing_articles}
+        
+        for article in new_articles:
+            if article['id'] not in existing_ids:
+                all_articles.append(article)
+        
+        print(f"📊 Total unique articles: {len(all_articles)}")
     
-    # Combine and deduplicate
-    all_articles = existing_articles.copy()
-    existing_ids = {a['id'] for a in existing_articles}
+        # Prune articles if exceeding limit
+        if len(all_articles) > MAX_ARTICLES:
+            print(f"✂️ Pruning articles from {len(all_articles)} to {MAX_ARTICLES}...")
+            # Sort by date (newest first) and keep top MAX_ARTICLES
+            all_articles.sort(key=lambda x: x['published'], reverse=True)
+            all_articles = all_articles[:MAX_ARTICLES]
+            print(f"✅ Pruned to {len(all_articles)} articles")
     
-    for article in new_articles:
-        if article['id'] not in existing_ids:
-            all_articles.append(article)
-    
-    print(f"📊 Total unique articles: {len(all_articles)}")
-    
-    # Save all articles
-    save_articles(all_articles)
-    
-    # Generate latest dashboard data (last 24 hours)
-    recent_articles = filter_recent_articles(all_articles, hours=24)
-    print(f"🕐 Recent articles (24h): {len(recent_articles)}")
-    
-    latest_stats = generate_statistics(recent_articles)
-    
-    # Save ALL recent headlines for the headlines editor
-    save_all_headlines(recent_articles)
-    
-    # Generate history data (last 7 days)
-    week_articles = filter_recent_articles(all_articles, hours=24*ROLLING_DAYS)
-    history_data = generate_history_data(week_articles)
-    
-    # Ensure output directory exists
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    
-    # Save latest data
-    latest_output = {
-        'generated_at': datetime.now(timezone.utc).isoformat(),
-        'window_hours': 24,
-        **latest_stats
-    }
-    
-    with open(LATEST_PATH, 'w', encoding='utf-8') as f:
-        json.dump(latest_output, f, indent=2)
-    
-    # Save history data
-    history_output = {
-        'generated_at': datetime.now(timezone.utc).isoformat(),
-        'history': history_data
-    }
-    
-    with open(HISTORY_PATH, 'w', encoding='utf-8') as f:
-        json.dump(history_output, f, indent=2)
-    
-    print(f"✅ Enhanced dashboard data updated!")
-    print(f"📈 Sentiment distribution: {latest_stats['totals']}")
-    print(f"🌍 Regions covered: {len(latest_stats['by_region'])}")
-    print(f"📋 Topics covered: {len(latest_stats['by_topic'])}")
+        # Save all articles
+        save_articles(all_articles)
+        
+        # Generate latest dashboard data (last 24 hours)
+        recent_articles = filter_recent_articles(all_articles, hours=24)
+        print(f"🕐 Recent articles (24h): {len(recent_articles)}")
+        
+        latest_stats = generate_statistics(recent_articles)
+        
+        # Save ALL recent headlines for the headlines editor
+        save_all_headlines(recent_articles)
+        
+        # Generate history data (last 7 days)
+        week_articles = filter_recent_articles(all_articles, hours=24*ROLLING_DAYS)
+        history_data = generate_history_data(week_articles)
+        
+        # Ensure output directory exists
+        os.makedirs(OUTPUT_DIR, exist_ok=True)
+        
+        # Save latest data
+        latest_output = {
+            'generated_at': datetime.now(timezone.utc).isoformat(),
+            'window_hours': 24,
+            **latest_stats
+        }
+        
+        with open(LATEST_PATH, 'w', encoding='utf-8') as f:
+            json.dump(latest_output, f, indent=2)
+        
+        # Save history data
+        history_output = {
+            'generated_at': datetime.now(timezone.utc).isoformat(),
+            'history': history_data
+        }
+        
+        with open(HISTORY_PATH, 'w', encoding='utf-8') as f:
+            json.dump(history_output, f, indent=2)
+        
+        print(f"✅ Enhanced dashboard data updated!")
+        print(f"📈 Sentiment distribution: {latest_stats['totals']}")
+        print(f"🌍 Regions covered: {len(latest_stats['by_region'])}")
+        print(f"📋 Topics covered: {len(latest_stats['by_topic'])}")
+
+    except Exception as e:
+        print(f"❌ Fatal error in main execution: {e}")
+        traceback.print_exc()
+        # We don't exit with error code to allow the workflow to "succeed" 
+        # even if one run fails, unless it's critical. 
+        # But for now let's exit with 1 so we know it failed in CI logs.
+        exit(1)
 
 if __name__ == "__main__":
     main()
