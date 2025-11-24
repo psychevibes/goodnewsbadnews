@@ -1,43 +1,51 @@
 {
-  "generated_at": "2025-11-24T03:24:55.130355+00:00",
+  "generated_at": "2025-11-24T04:09:43.644775+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 885,
-    "neutral": 234,
-    "negative": 845
+    "positive": 919,
+    "neutral": 239,
+    "negative": 870
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 120,
+      "positive": 121,
       "neutral": 33,
       "negative": 127,
-      "count": 280,
+      "count": 281,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
       "positive": 75,
       "neutral": 59,
-      "negative": 95,
-      "count": 229,
-      "region": "North America"
+      "negative": 96,
+      "count": 230,
+      "region": "Europe"
     },
     {
       "source": "Times of India",
-      "positive": 59,
+      "positive": 62,
       "neutral": 9,
-      "negative": 54,
-      "count": 122,
-      "region": "North America"
+      "negative": 59,
+      "count": 130,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 35,
+      "positive": 37,
       "neutral": 8,
-      "negative": 47,
-      "count": 90,
+      "negative": 51,
+      "count": 96,
       "region": "Asia-Pacific"
+    },
+    {
+      "source": "ESPN",
+      "positive": 43,
+      "neutral": 18,
+      "negative": 27,
+      "count": 88,
+      "region": "Global"
     },
     {
       "source": "Fox News",
@@ -49,42 +57,34 @@
     },
     {
       "source": "CBS News",
-      "positive": 40,
+      "positive": 39,
       "neutral": 8,
       "negative": 37,
-      "count": 85,
-      "region": "North America"
-    },
-    {
-      "source": "ESPN",
-      "positive": 42,
-      "neutral": 17,
-      "negative": 25,
       "count": 84,
-      "region": "Global"
-    },
-    {
-      "source": "The Guardian",
-      "positive": 33,
-      "neutral": 2,
-      "negative": 45,
-      "count": 80,
       "region": "North America"
     },
     {
       "source": "Channel News Asia",
-      "positive": 37,
-      "neutral": 15,
+      "positive": 40,
+      "neutral": 16,
       "negative": 26,
-      "count": 78,
-      "region": "Global"
+      "count": 82,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "The Guardian",
+      "positive": 34,
+      "neutral": 2,
+      "negative": 44,
+      "count": 80,
+      "region": "North America"
     },
     {
       "source": "South China Morning Post",
-      "positive": 31,
+      "positive": 35,
       "neutral": 3,
-      "negative": 41,
-      "count": 75,
+      "negative": 42,
+      "count": 80,
       "region": "Asia-Pacific"
     },
     {
@@ -101,7 +101,7 @@
       "neutral": 7,
       "negative": 30,
       "count": 63,
-      "region": "North America"
+      "region": "Europe"
     },
     {
       "source": "Al Jazeera English",
@@ -115,8 +115,8 @@
       "source": "BBC Sport",
       "positive": 33,
       "neutral": 5,
-      "negative": 20,
-      "count": 58,
+      "negative": 19,
+      "count": 57,
       "region": "North America"
     },
     {
@@ -129,11 +129,11 @@
     },
     {
       "source": "Bloomberg",
-      "positive": 23,
+      "positive": 24,
       "neutral": 5,
-      "negative": 11,
-      "count": 39,
-      "region": "North America"
+      "negative": 14,
+      "count": 43,
+      "region": "Global"
     },
     {
       "source": "Middle East Eye",
@@ -152,6 +152,22 @@
       "region": "North America"
     },
     {
+      "source": "AllAfrica",
+      "positive": 17,
+      "neutral": 5,
+      "negative": 9,
+      "count": 31,
+      "region": "Africa"
+    },
+    {
+      "source": "NBC News",
+      "positive": 14,
+      "neutral": 3,
+      "negative": 12,
+      "count": 29,
+      "region": "North America"
+    },
+    {
       "source": "Engadget",
       "positive": 29,
       "neutral": 0,
@@ -160,11 +176,11 @@
       "region": "North America"
     },
     {
-      "source": "NBC News",
-      "positive": 14,
-      "neutral": 3,
-      "negative": 11,
-      "count": 28,
+      "source": "Mashable",
+      "positive": 21,
+      "neutral": 4,
+      "negative": 2,
+      "count": 27,
       "region": "North America"
     },
     {
@@ -178,18 +194,10 @@
     {
       "source": "Straits Times",
       "positive": 10,
-      "neutral": 6,
-      "negative": 8,
+      "neutral": 5,
+      "negative": 9,
       "count": 24,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "Mashable",
-      "positive": 17,
-      "neutral": 3,
-      "negative": 2,
-      "count": 22,
-      "region": "Global"
+      "region": "North America"
     },
     {
       "source": "CNBC",
@@ -264,20 +272,20 @@
       "region": "Africa"
     },
     {
-      "source": "Sputnik News",
-      "positive": 8,
-      "neutral": 2,
-      "negative": 2,
-      "count": 12,
-      "region": "Europe"
-    },
-    {
       "source": "NPR",
       "positive": 2,
       "neutral": 0,
       "negative": 9,
       "count": 11,
       "region": "North America"
+    },
+    {
+      "source": "Sputnik News",
+      "positive": 6,
+      "neutral": 2,
+      "negative": 2,
+      "count": 10,
+      "region": "Europe"
     },
     {
       "source": "ABC News",
@@ -328,14 +336,6 @@
       "region": "Asia-Pacific"
     },
     {
-      "source": "AllAfrica",
-      "positive": 0,
-      "neutral": 2,
-      "negative": 0,
-      "count": 2,
-      "region": "North America"
-    },
-    {
       "source": "Buenos Aires Herald",
       "positive": 1,
       "neutral": 0,
@@ -347,134 +347,190 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 295,
-      "neutral": 62,
-      "negative": 267,
-      "count": 624
+      "positive": 303,
+      "neutral": 61,
+      "negative": 278,
+      "count": 642
     },
     {
       "region": "Europe",
-      "positive": 276,
+      "positive": 281,
       "neutral": 57,
-      "negative": 187,
-      "count": 520
+      "negative": 188,
+      "count": 526
     },
     {
       "region": "Asia-Pacific",
-      "positive": 171,
-      "neutral": 70,
-      "negative": 196,
-      "count": 437
+      "positive": 175,
+      "neutral": 71,
+      "negative": 204,
+      "count": 450
     },
     {
       "region": "Middle East",
-      "positive": 32,
+      "positive": 31,
       "neutral": 14,
-      "negative": 111,
-      "count": 157
+      "negative": 110,
+      "count": 155
     },
     {
       "region": "Global",
-      "positive": 79,
-      "neutral": 20,
-      "negative": 37,
-      "count": 136
+      "positive": 89,
+      "neutral": 23,
+      "negative": 41,
+      "count": 153
     },
     {
       "region": "Africa",
-      "positive": 17,
-      "neutral": 7,
-      "negative": 31,
-      "count": 55
+      "positive": 25,
+      "neutral": 9,
+      "negative": 34,
+      "count": 68
     },
     {
       "region": "South America",
       "positive": 15,
       "neutral": 4,
-      "negative": 16,
-      "count": 35
+      "negative": 15,
+      "count": 34
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 220,
+      "positive": 225,
       "neutral": 58,
-      "negative": 230,
-      "count": 508
+      "negative": 239,
+      "count": 522
     },
     {
       "topic": "Politics",
-      "positive": 139,
-      "neutral": 39,
-      "negative": 153,
-      "count": 331
+      "positive": 146,
+      "neutral": 42,
+      "negative": 156,
+      "count": 344
     },
     {
       "topic": "Other",
-      "positive": 120,
-      "neutral": 60,
+      "positive": 123,
+      "neutral": 62,
       "negative": 130,
-      "count": 310
+      "count": 315
     },
     {
       "topic": "World",
-      "positive": 138,
+      "positive": 145,
       "neutral": 19,
-      "negative": 142,
-      "count": 299
+      "negative": 143,
+      "count": 307
     },
     {
       "topic": "Sports",
-      "positive": 128,
+      "positive": 132,
       "neutral": 22,
       "negative": 47,
-      "count": 197
+      "count": 201
     },
     {
       "topic": "Business",
-      "positive": 48,
+      "positive": 50,
       "neutral": 7,
-      "negative": 28,
-      "count": 83
+      "negative": 31,
+      "count": 88
     },
     {
       "topic": "Health",
-      "positive": 21,
-      "neutral": 8,
-      "negative": 47,
-      "count": 76
+      "positive": 22,
+      "neutral": 7,
+      "negative": 48,
+      "count": 77
     },
     {
       "topic": "Entertainment",
-      "positive": 34,
+      "positive": 36,
       "neutral": 3,
-      "negative": 25,
-      "count": 62
+      "negative": 26,
+      "count": 65
     },
     {
       "topic": "Regional",
       "positive": 12,
-      "neutral": 7,
-      "negative": 22,
-      "count": 41
+      "neutral": 8,
+      "negative": 26,
+      "count": 46
     },
     {
       "topic": "Science",
-      "positive": 12,
+      "positive": 13,
       "neutral": 7,
-      "negative": 13,
-      "count": 32
+      "negative": 15,
+      "count": 35
     },
     {
       "topic": "Local",
-      "positive": 13,
+      "positive": 15,
       "neutral": 4,
-      "negative": 8,
-      "count": 25
+      "negative": 9,
+      "count": 28
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Malaysian floods affect 11,000 people across 7 states",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-floods-states-affected-kelantan-5486476",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-11-24T12:03:38+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Singaporean Amos Yee in US immigration detention facility after being released on parole from prison",
+      "url": "https://www.channelnewsasia.com/singapore/amos-yee-singaporean-us-immigration-detention-facility-deportation-5486441",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-11-24T11:55:27+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Richie Koh didn\u2019t win a Golden Horse award, but he did score a photo with director Lee Ang",
+      "url": "https://www.channelnewsasia.com/entertainment/richie-koh-golden-horse-best-actor-award-lee-ang-5486391",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-11-24T11:54:00+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "S\u2019poreans in Hat Yai \u2018strongly encouraged\u2019 to e-register with MFA as Thai city undergoes flooding",
+      "url": "https://www.straitstimes.com/singapore/sporeans-in-hat-yai-strongly-encouraged-to-e-register-with-mfa-as-thai-city-undergoes-flooding",
+      "source": "Straits Times",
+      "region": "North America",
+      "published": "2025-11-24T11:51:53+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Philippine president says 7 suspects in corruption scandal have been detained, others being sought",
+      "url": "https://www.channelnewsasia.com/asia/philippine-marcos-corruption-scandal-suspects-detained-5486311",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2025-11-24T11:51:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Wallabies return from Europe winless with green shoots wilting",
+      "url": "https://www.channelnewsasia.com/sport/wallabies-return-europe-winless-green-shoots-wilting-5486431",
+      "source": "Channel News Asia",
+      "region": "Europe",
+      "published": "2025-11-24T11:32:18+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Actor Desmond Tan gained over 10kg for upcoming film: 'Even walking leaves me breathless'",
+      "url": "https://www.channelnewsasia.com/entertainment/desmond-tan-gained-10kg-new-movie-role-5486281",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-11-24T11:31:52+08:00",
+      "sentiment": "positive"
+    },
     {
       "title": "CNN pulls stories from Apple News feed, Semafor reports",
       "url": "https://www.channelnewsasia.com/business/cnn-pulls-stories-apple-news-feed-semafor-reports-5486386",
@@ -548,6 +604,22 @@
       "sentiment": "positive"
     },
     {
+      "title": "'FC HQs under attack': Gunmen target paramilitary facility in Pakistan's Peshawar; explosions heard",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/fc-hqs-under-attack-gunmen-target-paramilitary-facility-in-pakistans-peshawar-explosions-heard/articleshow/125529845.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-11-24T09:18:29+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Stock market today: Nifty50 opens above 26,100; BSE Sensex up 100 points",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-november-24-2025-dalal-street-indian-equities-global-markets-donald-trump-tariffs-india-us-trade-deal/articleshow/125530898.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-11-24T09:18:26+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "Keeping Singapore safe in a changing security landscape",
       "url": "https://www.channelnewsasia.com/advertorial/keeping-singapore-safe-in-changing-security-landscape-5446236",
       "source": "Channel News Asia",
@@ -556,11 +628,51 @@
       "sentiment": "positive"
     },
     {
+      "title": "Diabetes alert: One eating habit raising blood sugar levels unknowingly",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/one-eating-habit-secretly-raising-blood-sugar-in-diabetics-doctors-reveal-the-fix/articleshow/125516430.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-11-24T09:11:14+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Russian aerobatic team\u2019s tribute to pilot killed in Tejas crash; video",
+      "url": "https://timesofindia.indiatimes.com/india/for-brothers-who-didnt-return-russian-aerobatic-teams-tribute-to-pilot-killed-in-tejas-crash-watch-video/articleshow/125530858.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-11-24T09:09:51+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Turning Trade Paperwork into Digital Potential",
       "url": "https://www.channelnewsasia.com/brand-studio/turning-trade-paperwork-digital-potential-5479516",
       "source": "Channel News Asia",
       "region": "North America",
       "published": "2025-11-24T09:06:45+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Asian stocks climb as rate-cut hopes steady markets; crude prices ease",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/market-watch-asian-stocks-climb-as-rate-cut-hopes-steady-markets-crude-prices-ease-on-russia-ukraine-peace-signals/articleshow/125530910.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-11-24T08:59:40+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Sonam Wangchuk's hearing LIVE: SC to hear plea challenging activist\u2019s\u00a0NSA\u00a0detention",
+      "url": "https://www.thehindu.com/news/national/sonam-wangchuk-detention-nsa-plea-supreme-court-hearing-live-updates-november-24-2025/article70316185.ece",
+      "source": "The Hindu",
+      "region": "Europe",
+      "published": "2025-11-24T08:58:51+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Top shares to buy: Stock recommendations for the week starting Nov 24 - check list",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-november-24-2025-week-max-healthcare-reliance-industries-stocks-to-buy-today/articleshow/125530833.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-11-24T08:54:51+05:30",
       "sentiment": "positive"
     },
     {
@@ -580,12 +692,28 @@
       "sentiment": "negative"
     },
     {
+      "title": "'Abusing Hindus again': BJP hits out at TN deputy CM for calling Sanskrit 'dead language'",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/abusing-hindus-again-bjp-hits-out-at-tn-deputy-cm-udhayanidhi-stalin-for-calling-sanskrit-dead-language/articleshow/125530646.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-11-24T08:39:51+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Malakpet railway station set to get a \u20b926.5 crore makeover",
       "url": "https://www.thehindu.com/news/national/telangana/malakpet-railway-station-set-to-get-a-265-crore-makeover/article70314054.ece",
       "source": "The Hindu",
       "region": "Asia-Pacific",
       "published": "2025-11-24T08:36:54+05:30",
       "sentiment": "neutral"
+    },
+    {
+      "title": "Smriti Mandhana's wedding postponed: Doctor provides crucial health update on father",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/fathers-illness-forces-smriti-mandhana-to-put-wedding-on-hold/articleshow/125530464.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-11-24T08:31:03+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "How can State PSCs be reformed? | Explained",
@@ -996,284 +1124,156 @@
       "sentiment": "negative"
     },
     {
-      "title": "HC CJ retired, escaped probe for NCLAT 'interference': CJI Gavai",
-      "url": "https://timesofindia.indiatimes.com/india/hc-cj-retired-escaped-probe-for-nclat-interference-cji-gavai/articleshow/125527251.cms",
-      "source": "Times of India",
+      "title": "Spirit of Tasmania boss says auditor-general insolvency argument 'absurd'",
+      "url": "https://www.abc.net.au/news/2025-11-24/spirit-of-tasmania-boss-says-auditor-general-insolvency-absurd/106044546",
+      "source": "Australian Broadcasting Corporation",
       "region": "Asia-Pacific",
-      "published": "2025-11-24T03:48:51+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Atletico edge Getafe with late own goal to secure fifth straight win",
-      "url": "https://www.channelnewsasia.com/sport/atletico-edge-getafe-late-own-goal-secure-fifth-straight-win-5485926",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-11-24T03:47:53+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Won't bring Chandigarh bill in winter session: MHA",
-      "url": "https://timesofindia.indiatimes.com/india/wont-bring-chandigarh-bill-in-winter-session-mha/articleshow/125526822.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-11-24T03:46:31+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "No double standards in global terror fight: PM Modi at G20",
-      "url": "https://timesofindia.indiatimes.com/india/no-double-standards-in-global-terror-fight-pm-modi-at-g20/articleshow/125525998.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-11-24T03:32:12+05:30",
+      "published": "2025-11-24T04:04:07+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "A long time coming, says Ferguson after ending goal drought in Roma win",
-      "url": "https://www.channelnewsasia.com/sport/long-time-coming-says-ferguson-after-ending-goal-drought-in-roma-win-5485916",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-11-24T03:31:53+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "We cancelled performance, says US aviator after Tejas crash, slams show organisers",
-      "url": "https://timesofindia.indiatimes.com/world/us/we-cancelled-performance-says-us-aviator-after-tejas-crash-slams-dubai-show-organisers/articleshow/125525917.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-11-24T03:25:07+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Leading risk factor for cancer revealed \u2013 and it\u2019s not smoking, alcohol or the sun",
-      "url": "https://www.independent.co.uk/life-style/health-and-families/cancer-cause-ageing-alcohol-smoking-hair-dye-b2870982.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-11-24T03:22:43+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Why China Can\u2019t Sort Out Its Property Market Mess",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-24/china-property-crisis-why-market-is-a-mess-what-stimulus-measures-are-planned",
-      "source": "Bloomberg",
-      "region": "North America",
-      "published": "2025-11-24T03:21:26+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Australia politics live: Sussan Ley takes aim at \u2018part-time minister, full-time president\u2019 Chris Bowen over Cop deal as question time returns",
+      "title": "Australia politics live: Marles says \u2018knives sharpening\u2019 in Coalition as opposition targets climate and energy policy in question time",
       "url": "https://www.theguardian.com/australia-news/live/2025/nov/24/australia-politics-live-sussan-ley-andrew-hastie-liberal-leadership-libspill-labor-environment-nature-law-senate-greens-coalition-climate-crisis-ntwnfb",
       "source": "The Guardian",
       "region": "North America",
-      "published": "2025-11-24T03:19:18+00:00",
+      "published": "2025-11-24T04:03:14+00:00",
       "sentiment": "positive"
     },
     {
-      "title": "Archaeologists finally lift lid on ancient sarcophagus hidden beneath capital city",
-      "url": "https://www.independent.co.uk/news/science/archaeology/roman-sarcophagus-budapest-hungary-obuda-discovery-b2870981.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-11-24T03:17:52+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Berrettini, Cobolli lead Italy past Spain for third straight Davis Cup title",
-      "url": "https://www.channelnewsasia.com/sport/berrettini-cobolli-lead-italy-past-spain-third-straight-davis-cup-title-5485911",
-      "source": "Channel News Asia",
-      "region": "Europe",
-      "published": "2025-11-24T03:16:38+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Asia-Pacific markets rebound on renewed hopes for a Fed rate cut",
-      "url": "https://www.cnbc.com/2025/11/24/asia-markets-today-monday-kospi-hang-seng-index-fed-rate-cut-tech-ai-trade.html",
-      "source": "CNBC",
-      "region": "North America",
-      "published": "2025-11-24T03:16:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Tributes flow after Australian Michelin star chef Skye Gyngell dies",
-      "url": "https://www.abc.net.au/news/2025-11-24/australian-chef-skye-gyngell-death/106045190",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-11-24T03:15:04+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Woman diagnosed with pancreatic cancer six days after falling ill on holiday",
-      "url": "https://www.independent.co.uk/life-style/health-and-families/pancreatic-cancer-symptoms-uk-suzanne-ford-france-b2870980.html",
+      "title": "Ukraine-Russia war latest: Rubio hails \u2018tremendous progress\u2019 but Europe demands changes to Trump\u2019s peace plan",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-trump-peace-plan-putin-zelensky-latest-news-b2870984.html",
       "source": "Independent",
       "region": "Europe",
-      "published": "2025-11-24T03:13:45+00:00",
-      "sentiment": "negative"
+      "published": "2025-11-24T04:02:59+00:00",
+      "sentiment": "positive"
     },
     {
-      "title": "We didn't fight, says Tottenham's Vicario, after derby drubbing",
-      "url": "https://www.channelnewsasia.com/sport/we-didnt-fight-says-tottenhams-vicario-after-derby-drubbing-5485906",
-      "source": "Channel News Asia",
+      "title": "Three Big Holes in Nvidia\u2019s Safety Net",
+      "url": "https://www.bloomberg.com/opinion/newsletters/2025-11-24/three-big-holes-in-nvidia-s-safety-net",
+      "source": "Bloomberg",
       "region": "Global",
-      "published": "2025-11-24T03:11:04+08:00",
+      "published": "2025-11-24T04:02:36+00:00",
       "sentiment": "positive"
     },
     {
-      "title": "Israel says it targeted Hezbollah militant in its first attack in Beirut in months",
-      "url": "https://www.independent.co.uk/news/world/middle-east/israel-beirut-attack-hezbollah-leader-death-b2870978.html",
-      "source": "Independent",
-      "region": "Middle East",
-      "published": "2025-11-24T03:08:25+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "\u2018Beautiful to look at and wonderful to live in\u2019: new pattern designs could be next art deco or red brick classics",
-      "url": "https://www.theguardian.com/artanddesign/2025/nov/24/australia-housing-nsw-council-new-architecture-pattern-books-art-deco-red-brick-classics",
-      "source": "The Guardian",
-      "region": "Asia-Pacific",
-      "published": "2025-11-24T03:07:25+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "\u2018Half of me has died\u2019: toxic mines threaten Southeast Asia\u2019s rivers",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3333884/southeast-asias-rivers-people-risk-amid-myanmar-mining-surge-study?utm_source=rss_feed",
+      "title": "As US-China rivalry redefines economic warfare, EU scrambles for its dictionary",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3333883/us-china-rivalry-redefines-economic-warfare-europe-scrambles-its-dictionary?utm_source=rss_feed",
       "source": "South China Morning Post",
       "region": "Asia-Pacific",
-      "published": "2025-11-24T03:06:43+00:00",
+      "published": "2025-11-24T04:00:17+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Hong Kong\u2019s Paul Chan to lead delegation to Italy to showcase tech, boost trade",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3333850/hong-kongs-paul-chan-lead-delegation-italy-showcase-tech-boost-trade?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Europe",
+      "published": "2025-11-24T04:00:12+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Nigeria: Tinubu Vows to Intensify Fight Against Insecurity",
+      "url": "https://allafrica.com/stories/202511240161.html",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "published": "2025-11-24T03:59:28+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Amid Bihar introspection calls, Congress focuses on 'vote chori'",
-      "url": "https://timesofindia.indiatimes.com/india/amid-bihar-introspection-calls-congress-focuses-on-vote-chori/articleshow/125525689.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-11-24T03:05:49+05:30",
+      "title": "Nigeria: Kebbi School Attack - DHQ Probes Alleged Troops Withdrawal From Facility",
+      "url": "https://allafrica.com/stories/202511240162.html",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "published": "2025-11-24T03:59:28+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Nigeria: Tinubu Orders Withdrawal of Police From VIP Escorts",
+      "url": "https://allafrica.com/stories/202511240159.html",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "published": "2025-11-24T03:59:27+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Nigeria: Kaduna Government Denies N1bn Payment to Bandits, Threatens Legal Action Against El-Rufai",
+      "url": "https://allafrica.com/stories/202511240160.html",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "published": "2025-11-24T03:59:27+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Kenya: SGR Extension From Naivasha to Kampala to Begin in Early 2026",
+      "url": "https://allafrica.com/stories/202511240157.html",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "published": "2025-11-24T03:59:26+00:00",
       "sentiment": "neutral"
     },
     {
-      "title": "Hamas meet Egypt\u2019s spy chief, says Israel\u2019s attacks on Gaza threaten truce",
-      "url": "https://www.aljazeera.com/news/2025/11/24/hamas-meet-egypts-spy-chief-says-israels-attacks-on-gaza-threaten-truce?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "region": "Middle East",
-      "published": "2025-11-24T03:03:50+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "India\u2019s submarine deficit persists as China bolsters Pakistan\u2019s undersea power",
-      "url": "https://www.scmp.com/week-asia/politics/article/3333802/indias-submarine-deficit-persists-china-bolsters-pakistans-undersea-power?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-11-24T03:01:07+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Traders Watch for RBI Presence After Rupee Enters Uncharted Zone",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-24/indian-traders-watch-for-rbi-presence-as-rupee-in-uncharted-zone",
-      "source": "Bloomberg",
-      "region": "Asia-Pacific",
-      "published": "2025-11-24T03:00:37+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "'Keep the faith,' McCullum urges fans as England plot Ashes comeback",
-      "url": "https://www.channelnewsasia.com/sport/keep-faith-mccullum-urges-fans-england-plot-ashes-comeback-5485886",
-      "source": "Channel News Asia",
-      "region": "Europe",
-      "published": "2025-11-24T03:00:21+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Hongkongers happy with their weight, stressed about finances and jobs: Cigna",
-      "url": "https://www.scmp.com/business/article/3333848/hongkongers-happy-their-weight-stressed-about-finances-and-jobs-cigna?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-11-24T03:00:14+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Reform breaks silence on \u2018treacherous\u2019 Nathan Gill over taking Russia bribes",
-      "url": "https://www.independent.co.uk/news/uk/politics/reform-nathan-gill-nigel-farage-zia-yusuf-russia-bribes-b2870975.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-11-24T02:59:14+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "\u2018We cannot remain silent\u2019: 400 Gush Etzion residents sign petition against settler violence",
-      "url": "https://www.timesofisrael.com/we-cannot-remain-silent-400-gush-etzion-residents-sign-petition-against-settler-violence/",
-      "source": "Times of Israel",
-      "region": "North America",
-      "published": "2025-11-24T02:57:03+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "South African police probe links between Zuma's daughter and Ukraine War",
-      "url": "https://www.dw.com/en/south-african-police-probe-links-between-zuma-s-daughter-and-ukraine-war/a-74856244?maca=en-rss-en-all-1573-xml-mrss",
-      "source": "Deutsche Welle",
+      "title": "Nigeria: 'Full Weight of the Law Awaits You', Tinubu Warns Bandits, Terrorists",
+      "url": "https://allafrica.com/stories/202511240158.html",
+      "source": "AllAfrica",
       "region": "Africa",
-      "published": "2025-11-24T02:55:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Dozens kidnapped from Catholic school in Nigeria escape captors",
-      "url": "https://www.scmp.com/news/world/africa/article/3333882/dozens-kidnapped-catholic-school-students-nigeria-escape-captors?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Africa",
-      "published": "2025-11-24T02:54:26+00:00",
+      "published": "2025-11-24T03:59:26+00:00",
       "sentiment": "positive"
     },
     {
-      "title": "\u2018Culture cringe\u2019: experts dismiss Coalition claims Chris Bowen cannot remain minister while leading Cop31 negotiations",
-      "url": "https://www.theguardian.com/environment/2025/nov/24/experts-dismiss-coalition-claims-bowen-cannot-remain-minister-cop31-negotiations",
-      "source": "The Guardian",
-      "region": "Asia-Pacific",
-      "published": "2025-11-24T02:53:47+00:00",
+      "title": "Ghana: Digital Drive - How Ghana Post Is Powering E-Commerce Across Ghana",
+      "url": "https://allafrica.com/stories/202511240156.html",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "published": "2025-11-24T03:59:25+00:00",
       "sentiment": "positive"
     },
     {
-      "title": "Guatemalan woman's body returned home after fatal shooting in Indiana",
-      "url": "https://www.independent.co.uk/news/united-states-indianapolis-guatemala-city-mayan-b2870974.html",
-      "source": "Independent",
-      "region": "Asia-Pacific",
-      "published": "2025-11-24T02:50:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Half tonne of cocaine retrieved from WA waters, as livestock vessel chief charged",
-      "url": "https://www.abc.net.au/news/2025-11-24/lancelin-cocaine-bust-livestock-ship-afp/106045080",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-11-24T02:46:18+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Key economic data and trends that will shape Rachel Reeves\u2019 Budget",
-      "url": "https://www.independent.co.uk/news/business/rachel-reeves-budget-office-for-budget-responsibility-office-for-national-statistics-covid-b2870973.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-11-24T02:45:18+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "50 children kidnapped from Nigerian Catholic school escape captivity",
-      "url": "https://www.channelnewsasia.com/world/50-children-kidnapped-nigerian-catholic-school-escape-captivity-5485851",
-      "source": "Channel News Asia",
+      "title": "Kenya: Kenya, Uganda Vow Cross Border Cooperation to Build Value Chains, Expand Regional Manufacturing Capacity",
+      "url": "https://allafrica.com/stories/202511240151.html",
+      "source": "AllAfrica",
       "region": "Africa",
-      "published": "2025-11-24T02:43:22+08:00",
-      "sentiment": "negative"
+      "published": "2025-11-24T03:59:22+00:00",
+      "sentiment": "positive"
     },
     {
-      "title": "Australia Notches a Win Amid Trump Tariffs on Gold, Beef Exports",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-24/australia-notches-a-win-amid-trump-tariffs-on-gold-beef-exports",
-      "source": "Bloomberg",
+      "title": "Botswana: Boko Applauds New Drone Initiative",
+      "url": "https://allafrica.com/stories/202511240147.html",
+      "source": "AllAfrica",
+      "region": "Global",
+      "published": "2025-11-24T03:59:21+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Namibia: Six Ex-Swapo Members Challenge Party's Kavango West Dominance As Independent Candidates",
+      "url": "https://allafrica.com/stories/202511240149.html",
+      "source": "AllAfrica",
+      "region": "Global",
+      "published": "2025-11-24T03:59:21+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Rwanda: Health Ministry in Ambitious Push to Train More Eye Specialists",
+      "url": "https://allafrica.com/stories/202511240145.html",
+      "source": "AllAfrica",
       "region": "North America",
-      "published": "2025-11-24T02:41:59+00:00",
+      "published": "2025-11-24T03:59:20+00:00",
       "sentiment": "positive"
     },
     {
-      "title": "Penny Wong says Ukraine\u2019s territorial integrity must be upheld amid global backlash to Trump plan",
-      "url": "https://www.theguardian.com/world/2025/nov/24/trump-ukraine-peace-plan-penny-wong-australia-territorial-integrity",
-      "source": "The Guardian",
+      "title": "Uganda: EU Reinforces Support for Uganda's Creative Sector Through Yo Voice Be Hard At Nyege Nyege Festival",
+      "url": "https://allafrica.com/stories/202511240144.html",
+      "source": "AllAfrica",
       "region": "Europe",
-      "published": "2025-11-24T02:40:39+00:00",
-      "sentiment": "negative"
+      "published": "2025-11-24T03:59:19+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Tanzania: Tanzania Fast-Tracks Completion of 65 New VETA Colleges By 2026",
+      "url": "https://allafrica.com/stories/202511240143.html",
+      "source": "AllAfrica",
+      "region": "North America",
+      "published": "2025-11-24T03:59:18+00:00",
+      "sentiment": "positive"
     }
   ]
 }
