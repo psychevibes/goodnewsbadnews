@@ -1,91 +1,99 @@
 {
-  "generated_at": "2025-11-28T04:46:37.078810+00:00",
+  "generated_at": "2025-11-28T05:21:34.214973+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 1159,
-    "neutral": 371,
-    "negative": 1343
+    "positive": 1169,
+    "neutral": 363,
+    "negative": 1344
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 238,
-      "neutral": 92,
+      "positive": 237,
+      "neutral": 91,
       "negative": 247,
-      "count": 577,
+      "count": 575,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 100,
-      "neutral": 71,
-      "negative": 110,
-      "count": 281,
-      "region": "Asia-Pacific"
+      "positive": 99,
+      "neutral": 70,
+      "negative": 109,
+      "count": 278,
+      "region": "Middle East"
     },
     {
       "source": "Times of India",
-      "positive": 59,
+      "positive": 57,
       "neutral": 12,
-      "negative": 84,
-      "count": 155,
+      "negative": 81,
+      "count": 150,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "The Guardian",
+      "positive": 52,
+      "neutral": 2,
+      "negative": 83,
+      "count": 137,
       "region": "Asia-Pacific"
     },
     {
       "source": "Australian Broadcasting Corporation",
       "positive": 40,
-      "neutral": 18,
+      "neutral": 15,
       "negative": 81,
-      "count": 139,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "The Guardian",
-      "positive": 56,
-      "neutral": 2,
-      "negative": 79,
-      "count": 137,
+      "count": 136,
       "region": "Asia-Pacific"
     },
     {
       "source": "Bloomberg",
-      "positive": 50,
-      "neutral": 11,
-      "negative": 39,
-      "count": 100,
+      "positive": 52,
+      "neutral": 10,
+      "negative": 43,
+      "count": 105,
       "region": "North America"
     },
     {
       "source": "Channel News Asia",
-      "positive": 41,
-      "neutral": 11,
+      "positive": 42,
+      "neutral": 12,
       "negative": 44,
-      "count": 96,
-      "region": "North America"
+      "count": 98,
+      "region": "Asia-Pacific"
     },
     {
       "source": "BBC News",
       "positive": 21,
-      "neutral": 16,
+      "neutral": 17,
       "negative": 53,
-      "count": 90,
+      "count": 91,
       "region": "Europe"
     },
     {
       "source": "South China Morning Post",
-      "positive": 25,
+      "positive": 26,
       "neutral": 2,
-      "negative": 62,
-      "count": 89,
-      "region": "Asia-Pacific"
+      "negative": 60,
+      "count": 88,
+      "region": "North America"
+    },
+    {
+      "source": "Fox News",
+      "positive": 54,
+      "neutral": 2,
+      "negative": 30,
+      "count": 86,
+      "region": "North America"
     },
     {
       "source": "Al Jazeera English",
-      "positive": 12,
+      "positive": 13,
       "neutral": 18,
-      "negative": 55,
-      "count": 85,
-      "region": "North America"
+      "negative": 52,
+      "count": 83,
+      "region": "Europe"
     },
     {
       "source": "Mashable",
@@ -97,9 +105,9 @@
     },
     {
       "source": "Euronews",
-      "positive": 34,
+      "positive": 35,
       "neutral": 5,
-      "negative": 38,
+      "negative": 37,
       "count": 77,
       "region": "Europe"
     },
@@ -110,14 +118,6 @@
       "negative": 52,
       "count": 72,
       "region": "South America"
-    },
-    {
-      "source": "Fox News",
-      "positive": 39,
-      "neutral": 2,
-      "negative": 31,
-      "count": 72,
-      "region": "North America"
     },
     {
       "source": "BBC Sport",
@@ -144,6 +144,14 @@
       "region": "Europe"
     },
     {
+      "source": "AllAfrica",
+      "positive": 10,
+      "neutral": 7,
+      "negative": 35,
+      "count": 52,
+      "region": "Global"
+    },
+    {
       "source": "ESPN",
       "positive": 26,
       "neutral": 10,
@@ -160,28 +168,12 @@
       "region": "Middle East"
     },
     {
-      "source": "AllAfrica",
-      "positive": 10,
-      "neutral": 7,
-      "negative": 32,
-      "count": 49,
-      "region": "Middle East"
-    },
-    {
       "source": "Times of Israel",
-      "positive": 15,
+      "positive": 14,
       "neutral": 6,
       "negative": 23,
-      "count": 44,
+      "count": 43,
       "region": "Middle East"
-    },
-    {
-      "source": "NBC News",
-      "positive": 10,
-      "neutral": 10,
-      "negative": 21,
-      "count": 41,
-      "region": "North America"
     },
     {
       "source": "Engadget",
@@ -192,19 +184,19 @@
       "region": "North America"
     },
     {
+      "source": "NBC News",
+      "positive": 10,
+      "neutral": 10,
+      "negative": 20,
+      "count": 40,
+      "region": "North America"
+    },
+    {
       "source": "Deutsche Welle",
       "positive": 11,
       "neutral": 0,
       "negative": 28,
       "count": 39,
-      "region": "North America"
-    },
-    {
-      "source": "Financial Times",
-      "positive": 16,
-      "neutral": 7,
-      "negative": 11,
-      "count": 34,
       "region": "North America"
     },
     {
@@ -219,16 +211,24 @@
       "source": "Straits Times",
       "positive": 8,
       "neutral": 6,
-      "negative": 16,
-      "count": 30,
+      "negative": 17,
+      "count": 31,
       "region": "North America"
     },
     {
       "source": "New York Times",
-      "positive": 7,
-      "neutral": 5,
+      "positive": 8,
+      "neutral": 4,
       "negative": 18,
       "count": 30,
+      "region": "Middle East"
+    },
+    {
+      "source": "Financial Times",
+      "positive": 13,
+      "neutral": 5,
+      "negative": 10,
+      "count": 28,
       "region": "North America"
     },
     {
@@ -237,7 +237,15 @@
       "neutral": 5,
       "negative": 2,
       "count": 25,
-      "region": "Asia-Pacific"
+      "region": "North America"
+    },
+    {
+      "source": "Sputnik News",
+      "positive": 11,
+      "neutral": 2,
+      "negative": 9,
+      "count": 22,
+      "region": "Europe"
     },
     {
       "source": "Wired",
@@ -245,14 +253,6 @@
       "neutral": 2,
       "negative": 0,
       "count": 22,
-      "region": "North America"
-    },
-    {
-      "source": "Sputnik News",
-      "positive": 11,
-      "neutral": 3,
-      "negative": 7,
-      "count": 21,
       "region": "North America"
     },
     {
@@ -347,45 +347,45 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 384,
-      "neutral": 96,
-      "negative": 534,
-      "count": 1014
+      "positive": 399,
+      "neutral": 92,
+      "negative": 530,
+      "count": 1021
     },
     {
       "region": "Europe",
-      "positive": 369,
-      "neutral": 115,
-      "negative": 351,
-      "count": 835
+      "positive": 368,
+      "neutral": 117,
+      "negative": 349,
+      "count": 834
     },
     {
       "region": "Asia-Pacific",
-      "positive": 207,
-      "neutral": 91,
-      "negative": 255,
-      "count": 553
+      "positive": 208,
+      "neutral": 86,
+      "negative": 257,
+      "count": 551
     },
     {
       "region": "Global",
-      "positive": 128,
-      "neutral": 27,
-      "negative": 52,
-      "count": 207
+      "positive": 126,
+      "neutral": 28,
+      "negative": 54,
+      "count": 208
     },
     {
       "region": "Middle East",
-      "positive": 51,
-      "neutral": 35,
-      "negative": 106,
-      "count": 192
+      "positive": 48,
+      "neutral": 33,
+      "negative": 107,
+      "count": 188
     },
     {
       "region": "Africa",
       "positive": 13,
       "neutral": 4,
-      "negative": 28,
-      "count": 45
+      "negative": 30,
+      "count": 47
     },
     {
       "region": "South America",
@@ -398,83 +398,131 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 330,
-      "neutral": 75,
-      "negative": 354,
-      "count": 759
+      "positive": 337,
+      "neutral": 76,
+      "negative": 356,
+      "count": 769
     },
     {
       "topic": "Other",
-      "positive": 200,
-      "neutral": 112,
-      "negative": 261,
-      "count": 573
+      "positive": 206,
+      "neutral": 110,
+      "negative": 254,
+      "count": 570
     },
     {
       "topic": "Politics",
-      "positive": 170,
-      "neutral": 57,
-      "negative": 251,
-      "count": 478
+      "positive": 164,
+      "neutral": 54,
+      "negative": 255,
+      "count": 473
     },
     {
       "topic": "World",
-      "positive": 121,
-      "neutral": 35,
-      "negative": 209,
-      "count": 365
+      "positive": 122,
+      "neutral": 34,
+      "negative": 207,
+      "count": 363
     },
     {
       "topic": "Sports",
-      "positive": 113,
+      "positive": 114,
       "neutral": 24,
-      "negative": 78,
-      "count": 215
+      "negative": 80,
+      "count": 218
     },
     {
       "topic": "Business",
-      "positive": 73,
-      "neutral": 19,
-      "negative": 44,
-      "count": 136
+      "positive": 75,
+      "neutral": 18,
+      "negative": 45,
+      "count": 138
     },
     {
       "topic": "Entertainment",
-      "positive": 74,
-      "neutral": 15,
-      "negative": 33,
-      "count": 122
+      "positive": 75,
+      "neutral": 14,
+      "negative": 34,
+      "count": 123
     },
     {
       "topic": "Health",
       "positive": 24,
       "neutral": 6,
-      "negative": 34,
-      "count": 64
+      "negative": 35,
+      "count": 65
     },
     {
       "topic": "Science",
-      "positive": 23,
+      "positive": 22,
       "neutral": 13,
-      "negative": 23,
+      "negative": 24,
       "count": 59
     },
     {
       "topic": "Local",
-      "positive": 20,
-      "neutral": 9,
-      "negative": 27,
-      "count": 56
+      "positive": 19,
+      "neutral": 8,
+      "negative": 28,
+      "count": 55
     },
     {
       "topic": "Regional",
       "positive": 11,
       "neutral": 6,
-      "negative": 29,
-      "count": 46
+      "negative": 26,
+      "count": 43
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Afghan women athletes rebuild their sporting careers in Australia after fleeing Taliban rule",
+      "url": "https://www.channelnewsasia.com/world/afghanistan-women-athletes-rebuild-careers-australia-after-fleeing-taliban-5495016",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-11-28T13:12:22+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Honor Magic8 Pro review: A low-light camera powerhouse with smart AI tools",
+      "url": "https://www.channelnewsasia.com/living/honor-magic8-pro-review-ai-camera-price-5492771",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2025-11-28T13:03:37+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Thai city morgue exceeds capacity after flooding: Medic",
+      "url": "https://www.channelnewsasia.com/asia/thailand-hat-yai-flood-morgue-exceed-capacity-5495086",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-11-28T13:00:21+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Workers' Party chief Pritam Singh's appeal verdict hearing fixed for Dec 4",
+      "url": "https://www.channelnewsasia.com/singapore/pritam-singh-appeal-verdict-dec-4-5495066",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2025-11-28T12:51:06+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Re-poll allowed for 4 HDB blocks that previously failed to get enough votes for HIP",
+      "url": "https://www.straitstimes.com/singapore/housing/re-poll-allowed-for-4-hdb-blocks-that-failed-to-get-enough-votes-for-hip",
+      "source": "Straits Times",
+      "region": "North America",
+      "published": "2025-11-28T12:51:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Atletico fined for 'racist' behaviour of fans during Arsenal game",
+      "url": "https://www.channelnewsasia.com/sport/atletico-fined-racist-behaviour-fans-during-arsenal-game-5495076",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-11-28T12:40:01+08:00",
+      "sentiment": "negative"
+    },
     {
       "title": "Driver who fled after fatal crash with cyclist charged with dangerous driving causing death",
       "url": "https://www.straitstimes.com/singapore/courts-crime/driver-who-fled-after-fatal-crash-with-cyclist-charged-with-dangerous-driving-causing-death",
@@ -564,12 +612,28 @@
       "sentiment": "negative"
     },
     {
+      "title": "Four Colombo-bound flights diverted to Thiruvananthapuram airport due to bad weather",
+      "url": "https://www.thehindu.com/news/national/kerala/four-colombo-bound-flights-diverted-to-thiruvananthapuram-airport-due-to-bad-weather/article70333428.ece",
+      "source": "The Hindu",
+      "region": "Middle East",
+      "published": "2025-11-28T10:25:11+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "SCDF frees man whose arm was trapped in drain pipe under kitchen sink in Jurong West",
       "url": "https://www.channelnewsasia.com/singapore/arm-stuck-drain-pipe-kitchen-sink-jurong-west-flat-scdf-rescue-5494866",
       "source": "Channel News Asia",
       "region": "North America",
       "published": "2025-11-28T10:23:42+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "How the Parakamani scam in Tirumala unfolded",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/how-the-parakamani-scam-in-tirumala-unfolded/article70331354.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-11-28T10:21:41+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Asian shares end tough November on firmer ground helped by Fed cut bets",
@@ -964,6 +1028,22 @@
       "sentiment": "positive"
     },
     {
+      "title": "'Where is mum?': Inside the search for Ukraine's missing",
+      "url": "http://www.euronews.com/2025/11/28/where-is-mum-inside-the-search-for-ukraines-missing",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-11-28T06:00:33+01:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "At least 94 killed in Hong Kong fire as authorities continue to search for hundreds missing",
+      "url": "http://www.euronews.com/2025/11/28/at-least-94-killed-in-hong-kong-fire-as-authorities-continue-to-search-for-hundreds-missin",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-11-28T06:00:01+01:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Commentary: Southeast Asia can\u2019t afford to sit out the \u2018killer robots\u2019 debate",
       "url": "https://www.channelnewsasia.com/commentary/killer-robots-lethal-autonomous-weapons-drones-ban-regulate-5493716",
       "source": "Channel News Asia",
@@ -1076,11 +1156,51 @@
       "sentiment": "negative"
     },
     {
+      "title": "Instagram users are scrolling out of habit not addiction, study finds",
+      "url": "https://www.independent.co.uk/news/health/instagram-addiction-scrolling-reels-b2874096.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-11-28T05:19:46+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Millennials are driving a sports tourism boom \u2014 and spending big to do it. Here's why",
+      "url": "https://www.cnbc.com/2025/11/28/millennials-are-driving-a-sports-tourism-boom-spending-big-to-do-it.html",
+      "source": "CNBC",
+      "region": "North America",
+      "published": "2025-11-28T05:18:24+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Death Toll in Hong Kong High-Rise Fire Reaches 94 - Reports",
+      "url": "https://sputnikglobe.com/20251128/death-toll-in-hong-kong-high-rise-fire-reaches-94---reports-1123187156.html",
+      "source": "Sputnik News",
+      "region": "Europe",
+      "published": "2025-11-28T05:17:53+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Asia in the AI Money Machine",
+      "url": "https://www.bloomberg.com/news/videos/2025-11-28/asia-in-the-ai-money-machine",
+      "source": "Bloomberg",
+      "region": "North America",
+      "published": "2025-11-28T05:17:36+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Swiss lawmakers seek probe into whether gifts to Trump by business leaders breached law",
       "url": "https://www.channelnewsasia.com/world/swiss-lawmakers-seek-probe-whether-gifts-trump-business-leaders-breached-law-5493991",
       "source": "Channel News Asia",
       "region": "North America",
       "published": "2025-11-28T05:17:01+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Hong Kong accuses construction firm of \u2018gross negligence\u2019 after deadliest fire in decades kills 94",
+      "url": "https://www.independent.co.uk/asia/china/hong-kong-fire-death-toll-arrests-tai-po-cause-b2874094.html",
+      "source": "Independent",
+      "region": "Asia-Pacific",
+      "published": "2025-11-28T05:14:42+00:00",
       "sentiment": "negative"
     },
     {
@@ -1092,6 +1212,30 @@
       "sentiment": "positive"
     },
     {
+      "title": "Trump Vows to Take Anti-Drug Fight 'By Land' Into Venezuela",
+      "url": "https://sputnikglobe.com/20251128/trump-vows-to-take-anti-drug-fight-by-land-into-venezuela-1123186734.html",
+      "source": "Sputnik News",
+      "region": "North America",
+      "published": "2025-11-28T05:10:21+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Man accused of student's murder acted in 'chillingly premeditated' way, court hears",
+      "url": "https://www.abc.net.au/news/2025-11-28/brendan-kantilla-murder-trial-darwin-hears-closing-submissions/106078336",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-11-28T05:08:29+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "How Russian drones targeting civilians are turning one Ukrainian city into a 'human safari'",
+      "url": "https://www.independent.co.uk/news/kherson-angelina-jolie-united-nations-people-telegram-b2874093.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-11-28T05:06:14+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Baikonur launch pad damaged after Russian Soyuz launch to International Space Station",
       "url": "https://www.channelnewsasia.com/business/baikonur-launch-pad-damaged-after-russian-soyuz-launch-international-space-station-5494681",
       "source": "Channel News Asia",
@@ -1100,179 +1244,35 @@
       "sentiment": "negative"
     },
     {
+      "title": "A crystal Faberg\u00e9 egg is expected to sell for more than $40 million",
+      "url": "https://www.abc.net.au/news/2025-11-28/crystal-faberg%C3%A9-egg-expected-to-sell-for-more-than-40-million/106078696",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-11-28T05:05:11+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Bird flu could risk pandemic \u2018worse than Covid\u2019 if it mutates",
+      "url": "https://www.scmp.com/news/world/europe/article/3334464/bird-flu-could-risk-pandemic-worse-covid-if-it-mutates?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "North America",
+      "published": "2025-11-28T05:03:34+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Australia news live: Monash University to repay thousands of casual staff underpaid over almost a decade",
+      "url": "https://www.theguardian.com/australia-news/live/2025/nov/28/australia-news-live-storms-hail-queensland-environment-laws-anthony-albanese-labor-greens-sussan-ley-coalition-ntwnfb",
+      "source": "The Guardian",
+      "region": "Asia-Pacific",
+      "published": "2025-11-28T05:03:18+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "SC to govt: Need to pre-screen social media content; warns of viral \u2018damage\u2019 risk",
       "url": "https://timesofindia.indiatimes.com/india/sc-need-to-pre-screen-social-media-content/articleshow/125626640.cms",
       "source": "Times of India",
       "region": "North America",
       "published": "2025-11-28T05:03:07+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Multi-layered problem: Why no Indians made Candidates 2026 via Goa WC",
-      "url": "https://timesofindia.indiatimes.com/sports/chess/a-multi-layered-problem-why-no-indians-qualified-for-2026-candidates-via-chess-world-cup-in-goa/articleshow/125610689.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-11-28T05:00:00+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Stalin virtually kick-starts work to build free rest halls, health facilities on Girivalam path",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-virtually-kick-starts-work-to-build-free-rest-halls-health-facilities-on-girivalam-path/article70331027.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-11-28T05:00:00+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Man held for cutting elderly woman\u2019s ear to steal gold earrings",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/man-held-for-cutting-elderly-womans-ear-to-steal-gold-earrings/article70331035.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-11-28T05:00:00+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Shops, two-wheelers destroyed in fire near\u00a0Arunachaleswarar temple",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/shops-two-wheelers-destroyed-in-fire-neararunachaleswarar-temple/article70331043.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-11-28T05:00:00+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Hong Kong high-rise blaze: Death toll climbs to 94 - latest developments",
-      "url": "https://timesofindia.indiatimes.com/world/china/hong-kong-high-rise-blaze-death-toll-climbs-to-94-as-firefighters-cite-major-hurdles-latest-developments/articleshow/125626635.cms",
-      "source": "Times of India",
-      "region": "Europe",
-      "published": "2025-11-28T04:58:40+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Army chief charts three-phase plan to build future-ready force by 2047",
-      "url": "https://www.thehindu.com/news/national/army-chief-charts-three-phase-plan-to-build-future-ready-force-by-2047/article70331613.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-11-28T04:54:00+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Alpine skiing-Switzerland's Odermatt triumphs in Copper Mountain Super-G",
-      "url": "https://www.channelnewsasia.com/sport/alpine-skiing-switzerlands-odermatt-triumphs-in-copper-mountain-super-g-5494671",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-11-28T04:46:51+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Roos coach sheds light on 'really difficult' AFLW grand final omission",
-      "url": "https://www.abc.net.au/news/2025-11-28/aflw-grand-final-darren-crocker-mia-king-kangaroos-selection/106078850",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-11-28T04:43:07+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The common problem reducing the benefits of your exercise",
-      "url": "https://www.independent.co.uk/news/health/exercise-benefits-air-pollution-b2874088.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-11-28T04:42:20+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Embattled Aboriginal corporation to oversee cultural services at Rottnest Island",
-      "url": "https://www.abc.net.au/news/2025-11-28/whadjuk-aboriginal-corporation-rottnest-cultural-services-/106078776",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-11-28T04:40:15+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The two Stranger Things characters who were almost killed off",
-      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/stranger-things-who-dies-season-5-max-hopper-b2874087.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-11-28T04:37:57+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Travel company embroiled in overcharging scandal worth more than $100m",
-      "url": "https://www.abc.net.au/news/2025-11-28/corporate-travel-management-overcharging-scandal-100-million/106077806",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-11-28T04:37:16+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Union Law Ministry defends simultaneous polls proposal; says curtailing tenure not against basic structure of Constitution",
-      "url": "https://www.thehindu.com/news/national/union-law-ministry-defends-simultaneous-polls-proposal-says-curtailing-tenure-not-against-basic-structure-of-constitution/article70330978.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-11-28T04:36:00+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Woman allegedly murdered by partner made emergency call around time of crash, police say",
-      "url": "https://www.abc.net.au/news/2025-11-28/doomadgee-alleged-murders-triple-zero-call-police/106078092",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-11-28T04:34:37+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Stranger Things season 5 viewers hail episode 4 ending \u2018wildest\u2019 in years",
-      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/stranger-things-season-5-volume-1-episode-4-ending-b2874086.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-11-28T04:34:03+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Circular AI Deals Fuel Bubble Debate | Bloomberg Tech: Asia 11/28/25",
-      "url": "https://www.bloomberg.com/news/videos/2025-11-28/bloomberg-tech-asia-11-28-25-video",
-      "source": "Bloomberg",
-      "region": "North America",
-      "published": "2025-11-28T04:32:51+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Sadie Sink hints fan speculation about Spider-Man casting may be wrong: \u2018Hair colour can change\u2019",
-      "url": "https://www.independent.co.uk/arts-entertainment/films/news/sadie-sink-spider-man-casting-hair-b2874085.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-11-28T04:31:41+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Khazanah\u2019s UEM Bids $68 Million to Privatize Asset Firm Edgenta",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-28/khazanah-s-uem-bids-68-million-to-privatize-asset-firm-edgenta",
-      "source": "Bloomberg",
-      "region": "Asia-Pacific",
-      "published": "2025-11-28T04:31:33+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Man dead and two under arrest after daylight shooting on suburban Sydney street",
-      "url": "https://www.theguardian.com/australia-news/2025/nov/28/sydney-blacktown-daylight-shooting-man-dead-ntwnfb",
-      "source": "The Guardian",
-      "region": "Asia-Pacific",
-      "published": "2025-11-28T04:30:48+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Fresh charge for Pheobe Bishop accused",
-      "url": "https://www.abc.net.au/news/2025-11-28/pheobe-bishop-accused-kieren-daniel-mittelheuser-fresh-charge/106076652",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-11-28T04:28:44+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "ICC judges to rule on provisional release of former Philippine President Rodrigo Duterte",
-      "url": "https://www.independent.co.uk/news/icc-rodrigo-duterte-netherlands-families-davao-b2874084.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-11-28T04:21:03+00:00",
       "sentiment": "negative"
     }
   ]
