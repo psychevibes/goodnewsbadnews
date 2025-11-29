@@ -1,67 +1,67 @@
 {
-  "generated_at": "2025-11-29T07:20:13.774589+00:00",
+  "generated_at": "2025-11-29T07:39:47.569228+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 1279,
-    "neutral": 346,
-    "negative": 1239
+    "positive": 1258,
+    "neutral": 345,
+    "negative": 1229
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 214,
+      "positive": 211,
       "neutral": 89,
-      "negative": 229,
-      "count": 532,
+      "negative": 225,
+      "count": 525,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 85,
-      "neutral": 74,
-      "negative": 117,
-      "count": 276,
-      "region": "North America"
+      "positive": 86,
+      "neutral": 76,
+      "negative": 118,
+      "count": 280,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Mashable",
-      "positive": 154,
-      "neutral": 10,
+      "positive": 143,
+      "neutral": 9,
       "negative": 5,
-      "count": 169,
+      "count": 157,
       "region": "Global"
     },
     {
       "source": "Times of India",
-      "positive": 73,
+      "positive": 70,
       "neutral": 7,
-      "negative": 45,
-      "count": 125,
+      "negative": 44,
+      "count": 121,
       "region": "North America"
     },
     {
       "source": "Bloomberg",
-      "positive": 65,
-      "neutral": 12,
+      "positive": 61,
+      "neutral": 11,
       "negative": 44,
-      "count": 121,
+      "count": 116,
       "region": "Africa"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 44,
+      "positive": 47,
       "neutral": 12,
-      "negative": 54,
-      "count": 110,
+      "negative": 49,
+      "count": 108,
       "region": "Asia-Pacific"
     },
     {
       "source": "Channel News Asia",
       "positive": 36,
       "neutral": 21,
-      "negative": 39,
-      "count": 96,
-      "region": "Asia-Pacific"
+      "negative": 40,
+      "count": 97,
+      "region": "Europe"
     },
     {
       "source": "Fox News",
@@ -73,10 +73,10 @@
     },
     {
       "source": "BBC News",
-      "positive": 28,
+      "positive": 29,
       "neutral": 11,
       "negative": 46,
-      "count": 85,
+      "count": 86,
       "region": "Europe"
     },
     {
@@ -88,14 +88,6 @@
       "region": "North America"
     },
     {
-      "source": "ESPN",
-      "positive": 45,
-      "neutral": 8,
-      "negative": 24,
-      "count": 77,
-      "region": "Global"
-    },
-    {
       "source": "South China Morning Post",
       "positive": 23,
       "neutral": 1,
@@ -104,18 +96,34 @@
       "region": "Asia-Pacific"
     },
     {
+      "source": "ESPN",
+      "positive": 42,
+      "neutral": 7,
+      "negative": 22,
+      "count": 71,
+      "region": "Global"
+    },
+    {
       "source": "The Verge",
-      "positive": 62,
+      "positive": 63,
       "neutral": 1,
       "negative": 4,
-      "count": 67,
-      "region": "Global"
+      "count": 68,
+      "region": "North America"
     },
     {
       "source": "Al Jazeera English",
       "positive": 8,
-      "neutral": 9,
-      "negative": 43,
+      "neutral": 8,
+      "negative": 45,
+      "count": 61,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "Euronews",
+      "positive": 28,
+      "neutral": 2,
+      "negative": 30,
       "count": 60,
       "region": "Europe"
     },
@@ -123,17 +131,17 @@
       "source": "France 24",
       "positive": 18,
       "neutral": 1,
-      "negative": 40,
-      "count": 59,
+      "negative": 41,
+      "count": 60,
       "region": "North America"
     },
     {
       "source": "BBC Sport",
-      "positive": 31,
+      "positive": 32,
       "neutral": 7,
-      "negative": 19,
-      "count": 57,
-      "region": "North America"
+      "negative": 17,
+      "count": 56,
+      "region": "Europe"
     },
     {
       "source": "CBS News",
@@ -149,14 +157,6 @@
       "neutral": 1,
       "negative": 1,
       "count": 55,
-      "region": "Europe"
-    },
-    {
-      "source": "Euronews",
-      "positive": 26,
-      "neutral": 1,
-      "negative": 27,
-      "count": 54,
       "region": "Europe"
     },
     {
@@ -184,19 +184,19 @@
       "region": "North America"
     },
     {
-      "source": "Middle East Eye",
-      "positive": 6,
-      "neutral": 1,
-      "negative": 37,
-      "count": 44,
-      "region": "Middle East"
-    },
-    {
       "source": "Times of Israel",
       "positive": 9,
       "neutral": 2,
-      "negative": 30,
-      "count": 41,
+      "negative": 31,
+      "count": 42,
+      "region": "Middle East"
+    },
+    {
+      "source": "Middle East Eye",
+      "positive": 6,
+      "neutral": 1,
+      "negative": 33,
+      "count": 40,
       "region": "Middle East"
     },
     {
@@ -232,6 +232,14 @@
       "region": "North America"
     },
     {
+      "source": "Sputnik News",
+      "positive": 8,
+      "neutral": 8,
+      "negative": 13,
+      "count": 29,
+      "region": "Europe"
+    },
+    {
       "source": "Financial Times",
       "positive": 7,
       "neutral": 3,
@@ -243,38 +251,30 @@
       "source": "New York Times",
       "positive": 7,
       "neutral": 2,
-      "negative": 19,
-      "count": 28,
-      "region": "North America"
-    },
-    {
-      "source": "Sputnik News",
-      "positive": 7,
-      "neutral": 8,
-      "negative": 12,
+      "negative": 18,
       "count": 27,
-      "region": "Europe"
+      "region": "North America"
     },
     {
       "source": "Deutsche Welle",
-      "positive": 9,
+      "positive": 7,
       "neutral": 2,
       "negative": 16,
-      "count": 27,
-      "region": "North America"
-    },
-    {
-      "source": "RT News",
-      "positive": 10,
-      "neutral": 5,
-      "negative": 9,
-      "count": 24,
+      "count": 25,
       "region": "North America"
     },
     {
       "source": "CNBC",
       "positive": 11,
       "neutral": 1,
+      "negative": 9,
+      "count": 21,
+      "region": "North America"
+    },
+    {
+      "source": "RT News",
+      "positive": 7,
+      "neutral": 5,
       "negative": 9,
       "count": 21,
       "region": "North America"
@@ -291,8 +291,8 @@
       "source": "Sky News",
       "positive": 0,
       "neutral": 0,
-      "negative": 16,
-      "count": 16,
+      "negative": 15,
+      "count": 15,
       "region": "South America"
     },
     {
@@ -304,20 +304,20 @@
       "region": "North America"
     },
     {
-      "source": "Telegraph",
-      "positive": 8,
-      "neutral": 1,
-      "negative": 1,
-      "count": 10,
-      "region": "Europe"
-    },
-    {
       "source": "Washington Post",
       "positive": 1,
       "neutral": 0,
       "negative": 9,
       "count": 10,
       "region": "North America"
+    },
+    {
+      "source": "Telegraph",
+      "positive": 6,
+      "neutral": 1,
+      "negative": 1,
+      "count": 8,
+      "region": "Europe"
     },
     {
       "source": "Ars Technica",
@@ -347,38 +347,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 477,
+      "positive": 472,
       "neutral": 100,
-      "negative": 471,
-      "count": 1048
+      "negative": 472,
+      "count": 1044
     },
     {
       "region": "Europe",
-      "positive": 329,
+      "positive": 321,
       "neutral": 118,
-      "negative": 315,
-      "count": 762
+      "negative": 314,
+      "count": 753
     },
     {
       "region": "Asia-Pacific",
-      "positive": 174,
-      "neutral": 84,
-      "negative": 222,
-      "count": 480
+      "positive": 177,
+      "neutral": 85,
+      "negative": 217,
+      "count": 479
     },
     {
       "region": "Global",
-      "positive": 256,
-      "neutral": 32,
-      "negative": 79,
-      "count": 367
+      "positive": 245,
+      "neutral": 30,
+      "negative": 77,
+      "count": 352
     },
     {
       "region": "Middle East",
       "positive": 22,
       "neutral": 5,
-      "negative": 111,
-      "count": 138
+      "negative": 108,
+      "count": 135
     },
     {
       "region": "Africa",
@@ -398,45 +398,45 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 435,
+      "positive": 426,
       "neutral": 69,
-      "negative": 366,
-      "count": 870
+      "negative": 367,
+      "count": 862
     },
     {
       "topic": "Other",
-      "positive": 231,
+      "positive": 228,
       "neutral": 100,
-      "negative": 196,
-      "count": 527
+      "negative": 189,
+      "count": 517
     },
     {
       "topic": "Politics",
-      "positive": 149,
-      "neutral": 53,
-      "negative": 272,
-      "count": 474
+      "positive": 147,
+      "neutral": 54,
+      "negative": 270,
+      "count": 471
     },
     {
       "topic": "World",
-      "positive": 115,
-      "neutral": 17,
-      "negative": 159,
-      "count": 291
+      "positive": 112,
+      "neutral": 16,
+      "negative": 160,
+      "count": 288
     },
     {
       "topic": "Sports",
-      "positive": 139,
-      "neutral": 31,
-      "negative": 79,
-      "count": 249
+      "positive": 137,
+      "neutral": 30,
+      "negative": 78,
+      "count": 245
     },
     {
       "topic": "Business",
-      "positive": 88,
-      "neutral": 20,
+      "positive": 86,
+      "neutral": 19,
       "negative": 49,
-      "count": 157
+      "count": 154
     },
     {
       "topic": "Entertainment",
@@ -447,10 +447,10 @@
     },
     {
       "topic": "Health",
-      "positive": 23,
+      "positive": 22,
       "neutral": 9,
-      "negative": 46,
-      "count": 78
+      "negative": 45,
+      "count": 76
     },
     {
       "topic": "Regional",
@@ -462,19 +462,27 @@
     {
       "topic": "Science",
       "positive": 16,
-      "neutral": 8,
+      "neutral": 9,
       "negative": 13,
-      "count": 37
+      "count": 38
     },
     {
       "topic": "Local",
-      "positive": 14,
+      "positive": 15,
       "neutral": 6,
-      "negative": 11,
+      "negative": 10,
       "count": 31
     }
   ],
   "sample_headlines": [
+    {
+      "title": "\u2018I have nothing left\u2019: How a fiery tragedy upended Wang Fuk Court\u2019s way of life",
+      "url": "https://www.channelnewsasia.com/east-asia/wang-fuk-court-tai-po-hong-kong-fire-5496961",
+      "source": "Channel News Asia",
+      "region": "Europe",
+      "published": "2025-11-29T15:25:19+08:00",
+      "sentiment": "negative"
+    },
     {
       "title": "How will the new requirements for Integrated Shield Plan riders affect you?",
       "url": "https://www.straitstimes.com/singapore/health/how-will-the-new-requirements-for-integrated-shield-plan-riders-affect-you",
@@ -506,6 +514,30 @@
       "region": "Asia-Pacific",
       "published": "2025-11-29T13:05:00+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Kerala SIR: 7.61 lakh enumeration forms in \u2018uncollectables\u2019 list",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-sir-761-lakh-enumeration-forms-in-uncollectables-list/article70337927.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-11-29T12:57:59+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Odisha's Supplementary Budget lacks any vision, claims Leader of Opposition Naveen Patnaik",
+      "url": "https://www.thehindu.com/news/national/odisha/odishas-supplementary-budget-lacks-any-vision-claims-leader-of-opposition-naveen-patnaik/article70337797.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-11-29T12:54:55+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Changes in flight schedule anticipated at Hyderabad airport after Airbus issues global advisory for A320 Fleet",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/changes-in-flight-schedule-anticipated-at-hyderabad-airport-after-airbus-issues-global-advisory-for-a320-fleet/article70337886.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-11-29T12:54:50+05:30",
+      "sentiment": "neutral"
     },
     {
       "title": "Congress, CPI(M) MLAs walk out of Assam Assembly as Speaker disallows discussion on Tezpur University",
@@ -700,6 +732,14 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Airbus A320 software fix LIVE: Asian travel disrupted as carriers scramble to patch\u00a0software",
+      "url": "https://www.thehindu.com/news/national/airbus-a320-recall-live-updates-flight-control-incident-november-29-2025/article70337714.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-11-29T11:19:58+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Family loses three children to fever within 48 hours in Uttar Pradesh",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/family-loses-three-children-to-fever-within-48-hours-in-uttar-pradesh/article70337646.ece",
       "source": "The Hindu",
@@ -736,6 +776,14 @@
       "url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-dks-breakfast-meet-updates/article70337638.ece",
       "source": "The Hindu",
       "region": "North America",
+      "published": "2025-11-29T11:03:05+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Karnataka leadership crisis: \u2018Will abide high command\u2019, Siddaramaiah, D.K. Shivakumar say after breakfast meet",
+      "url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-dks-breakfast-meet-updates/article70337638.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
       "published": "2025-11-29T11:03:05+05:30",
       "sentiment": "negative"
     },
@@ -1004,6 +1052,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "EU weighs Plan B for Ukraine as Belgium raises bar to unblock reparations loan",
+      "url": "http://www.euronews.com/my-europe/2025/11/29/eu-weighs-plan-b-for-ukraine-as-belgium-raises-bar-to-unblock-reparations-loan",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-11-29T08:30:01+01:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Cyclone Ditwah: Red alert for Nellore, Chittoor, Tirupati and Annamayya districts on November 30",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-ditwah-red-alert-for-nellore-chittoor-tirupati-and-annamayya-districts-on-november-30/article70336029.ece",
       "source": "The Hindu",
@@ -1036,12 +1092,52 @@
       "sentiment": "positive"
     },
     {
+      "title": "Who is Anok Yai - and why is she the most influential model of 2025?",
+      "url": "http://www.euronews.com/culture/2025/11/29/who-is-anok-yai-and-why-is-she-the-most-influential-model-of-2025",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-11-29T08:14:28+01:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Travel disruption: Thousands of Airbus planes grounded after faulty software detected",
+      "url": "http://www.euronews.com/2025/11/29/travel-disruption-thousands-of-airbus-planes-grounded-after-faulty-software-detected",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-11-29T08:13:31+01:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Maharashtra committee on three-language policy to submit final report on December 20",
       "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-committee-on-three-language-policy-to-submit-final-report-on-december-20/article70337479.ece",
       "source": "The Hindu",
       "region": "Asia-Pacific",
       "published": "2025-11-29T08:12:49+05:30",
       "sentiment": "neutral"
+    },
+    {
+      "title": "France blames climate change for \u2018deteriorating\u2019 wine industry. But is uprooting vines the solution?",
+      "url": "http://www.euronews.com/green/2025/11/29/france-blames-climate-change-for-deteriorating-wine-industry-but-is-uprooting-vines-the-so",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-11-29T08:00:39+01:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Is Vienna dull? Austria invites entire Scottish village to find out",
+      "url": "http://www.euronews.com/travel/2025/11/29/is-vienna-dull-austria-invites-entire-scottish-village-to-find-out",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-11-29T08:00:25+01:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Cold weather, Christmas trees, and dust: Why your allergies may flare up this Christmas",
+      "url": "http://www.euronews.com/health/2025/11/29/cold-weather-christmas-trees-and-dust-why-your-allergies-may-flare-up-this-christmas",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-11-29T08:00:12+01:00",
+      "sentiment": "negative"
     },
     {
       "title": "Used as 'mule': ED finds Rs 331cr in bike rider's account; money trail leads to viral Udaipur wedding",
@@ -1084,6 +1180,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Live: Kangaroos and Lions meet in blockbuster AFLW grand final trilogy",
+      "url": "https://www.abc.net.au/news/2025-11-29/aflw-grand-final-live-north-melbourne-kangaroos-brisbane-lions/106077430",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-11-29T07:33:35+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "MLB trade rumors: Blue Jays eye $79M Phillies star to strengthen middle order",
       "url": "https://timesofindia.indiatimes.com/sports/mlb/mlb-trade-rumors-toronto-blue-jays-predicted-to-bag-79-million-philadelphia-phillies-star-to-improve-middle-order-and-bolster-title-odds/articleshow/125649627.cms",
       "source": "Times of India",
@@ -1100,11 +1204,35 @@
       "sentiment": "negative"
     },
     {
+      "title": "If Wardley can win world title, why can't I? - Clarke",
+      "url": "https://www.bbc.com/sport/boxing/articles/ckgkx4plrr4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "Europe",
+      "published": "2025-11-29T07:26:25+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "If Wardley can win world title, why can't I? - Clarke",
+      "url": "https://www.bbc.com/sport/boxing/articles/ckgkx4plrr4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "region": "Europe",
+      "published": "2025-11-29T07:26:25+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Singapore re-elected to UN\u2019s International Maritime Organization council for 17th successive term",
       "url": "https://www.straitstimes.com/singapore/singapore-re-elected-to-uns-international-maritime-organization-council-for-17th-successive-term",
       "source": "Straits Times",
       "region": "Asia-Pacific",
       "published": "2025-11-29T07:24:56+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "'We all love you': Plea for missing man to return home",
+      "url": "https://www.abc.net.au/news/2025-11-29/missing-man-chris-thorne-police-search/106082178",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-11-29T07:24:55+00:00",
       "sentiment": "positive"
     },
     {
@@ -1116,163 +1244,35 @@
       "sentiment": "negative"
     },
     {
+      "title": "Ukrainian Terrorist Attack on Gas Pipeline in Moscow Region Thwarted",
+      "url": "https://sputnikglobe.com/20251129/ukrainian-terrorist-attack-on-gas-pipeline-in-moscow-region-thwarted-1123197690.html",
+      "source": "Sputnik News",
+      "region": "Europe",
+      "published": "2025-11-29T07:22:51+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Exclusive: The first proof of the use of chemical weapons in Sudan\u2019s civil war",
+      "url": "https://www.france24.com/en/tv-shows/the-observers/20251129-exclusive-first-proof-use-chemical-weapons-sudan-civil-war",
+      "source": "France 24",
+      "region": "North America",
+      "published": "2025-11-29T07:22:44+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "UK Walks Away From EU Defense Fund, Balks at Billions in Fees",
+      "url": "https://sputnikglobe.com/20251129/uk-walks-away-from-eu-defense-fund-balks-at-billions-in-fees-1123197055.html",
+      "source": "Sputnik News",
+      "region": "Europe",
+      "published": "2025-11-29T07:20:41+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Alpine skiing-US Olympic medal hope Macuga out for season with knee injury",
       "url": "https://www.channelnewsasia.com/sport/alpine-skiing-us-olympic-medal-hope-macuga-out-season-knee-injury-5496626",
       "source": "Channel News Asia",
       "region": "North America",
       "published": "2025-11-29T07:16:30+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Wales v South Africa negativity frustrates Kolisi",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/cr4d661wp2yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "region": "North America",
-      "published": "2025-11-29T07:10:19+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Why snooker's golden generation are still shining at 50",
-      "url": "https://www.bbc.com/sport/snooker/articles/cy07gex946eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "Europe",
-      "published": "2025-11-29T07:07:25+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Why snooker's golden generation are still shining at 50",
-      "url": "https://www.bbc.com/sport/snooker/articles/cy07gex946eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "region": "Europe",
-      "published": "2025-11-29T07:07:25+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Deadly Hong Kong Fire Is a Test of Beijing\u2019s Rule in the City",
-      "url": "https://www.nytimes.com/2025/11/29/world/asia/hong-kong-fire-beijing-john-lee.html",
-      "source": "New York Times",
-      "region": "North America",
-      "published": "2025-11-29T07:06:59+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Passengers face disruption as Airbus updates thousands of planes",
-      "url": "https://www.engadget.com/transportation/passengers-face-disruption-as-airbus-updates-thousands-of-planes-065955605.html?src=rss",
-      "source": "Engadget",
-      "region": "Asia-Pacific",
-      "published": "2025-11-29T07:05:43+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "China gives disputed Scarborough Shoal a clean bill of health",
-      "url": "https://www.scmp.com/news/china/science/article/3334611/stable-and-resilient-china-gives-disputed-scarborough-shoal-clean-bill-health?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-11-29T07:03:52+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Sygnia CEO Wierzycka on Unlocking Africa's Youth Potential",
-      "url": "https://www.bloomberg.com/news/videos/2025-11-29/sygnia-s-wierzycka-on-unlocking-africa-s-youth-potential-video",
-      "source": "Bloomberg",
-      "region": "Africa",
-      "published": "2025-11-29T07:03:38+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Giddey involved in heated row with NBA courtside spectator",
-      "url": "https://www.abc.net.au/news/2025-11-29/nba-josh-giddey-confronts-spectator-bulls-hornets/106082200",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-11-29T07:03:33+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Could the EU\u2019s frozen-assets plan really destabilise European bond markets?",
-      "url": "http://www.euronews.com/business/2025/11/29/could-the-eus-frozen-assets-plan-really-destabilise-european-bond-markets",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2025-11-29T07:00:38+01:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Latest news bulletin | November 29th, 2025 \u2013 Morning",
-      "url": "http://www.euronews.com/video/2025/11/29/latest-news-bulletin-november-29th-2025-morning",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2025-11-29T07:00:33+01:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "UK MPs push for extra aid and visas as Jamaica reels from Hurricane Melissa",
-      "url": "https://www.theguardian.com/world/2025/nov/29/uk-mps-extra-aid-humanitarian-visas-jamaica-hurricane-melissa-dawn-butler",
-      "source": "The Guardian",
-      "region": "North America",
-      "published": "2025-11-29T07:00:31+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Orb\u00e1n's visit to Putin 'a middle finger' to the EU and 'a hostile act' for Europeans",
-      "url": "http://www.euronews.com/my-europe/2025/11/29/orbans-visit-to-putin-a-middle-finger-to-the-eu-and-a-hostile-act-for-europeans",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2025-11-29T07:00:30+01:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "How did chlorine imported to Sudan for water purification end up being used as a poison gas?",
-      "url": "https://www.france24.com/en/africa/20251129-sudan-chlorine-imports-investigation-water",
-      "source": "France 24",
-      "region": "North America",
-      "published": "2025-11-29T07:00:11+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Wardley could defend world title against Joshua next year",
-      "url": "https://www.skysports.com/boxing/news/12040/13476692/fabio-wardley-could-defend-wbo-heavyweight-world-championship-against-anthony-joshua-next-year",
-      "source": "Sky Sports",
-      "region": "Europe",
-      "published": "2025-11-29T07:00:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Albanese and Haydon's ceremony will go down in Australian history",
-      "url": "https://www.abc.net.au/news/2025-11-29/albanese-haydon-marry-at-lodge-history/106078430",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-11-29T06:56:37+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Is it a bad idea to exercise before bed? Experts weigh in on how timing and intensity affect your sleep",
-      "url": "https://www.channelnewsasia.com/wellness/exercise-sleeping-5473041",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-11-29T06:56:05+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Cheap, good and super \u2018ulu\u2019: A JB local's guide to the best seafood eateries off the beaten path",
-      "url": "https://www.channelnewsasia.com/travel/best-seafood-restaurants-jb-johor-bahru-5474186",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-11-29T06:55:44+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Speaking backwards and a manager at 13 - the Solskjaer story",
-      "url": "https://www.bbc.com/sport/football/articles/cgex9v57q0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "North America",
-      "published": "2025-11-29T06:55:01+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Speaking backwards and a manager at 13 - the Solskjaer story",
-      "url": "https://www.bbc.com/sport/football/articles/cgex9v57q0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "region": "North America",
-      "published": "2025-11-29T06:55:01+00:00",
       "sentiment": "positive"
     }
   ]
