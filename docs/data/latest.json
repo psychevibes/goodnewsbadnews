@@ -1,42 +1,50 @@
 {
-  "generated_at": "2025-11-30T10:20:47.535978+00:00",
+  "generated_at": "2025-11-30T10:43:06.444501+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 927,
-    "neutral": 250,
-    "negative": 785
+    "positive": 924,
+    "neutral": 251,
+    "negative": 788
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 159,
-      "neutral": 42,
-      "negative": 116,
-      "count": 317,
-      "region": "North America"
+      "positive": 163,
+      "neutral": 43,
+      "negative": 117,
+      "count": 323,
+      "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 103,
+      "positive": 105,
       "neutral": 65,
       "negative": 92,
-      "count": 260,
-      "region": "North America"
+      "count": 262,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Mashable",
-      "positive": 123,
+      "positive": 117,
       "neutral": 10,
       "negative": 5,
-      "count": 138,
+      "count": 132,
       "region": "Europe"
     },
     {
       "source": "Times of India",
-      "positive": 58,
+      "positive": 57,
       "neutral": 8,
-      "negative": 46,
+      "negative": 47,
       "count": 112,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "Australian Broadcasting Corporation",
+      "positive": 33,
+      "neutral": 8,
+      "negative": 41,
+      "count": 82,
       "region": "Asia-Pacific"
     },
     {
@@ -56,14 +64,6 @@
       "region": "North America"
     },
     {
-      "source": "Australian Broadcasting Corporation",
-      "positive": 33,
-      "neutral": 8,
-      "negative": 39,
-      "count": 80,
-      "region": "Asia-Pacific"
-    },
-    {
       "source": "BBC Sport",
       "positive": 38,
       "neutral": 7,
@@ -80,20 +80,20 @@
       "region": "Asia-Pacific"
     },
     {
-      "source": "South China Morning Post",
-      "positive": 20,
-      "neutral": 1,
-      "negative": 40,
-      "count": 61,
-      "region": "North America"
-    },
-    {
       "source": "BBC News",
       "positive": 18,
       "neutral": 9,
       "negative": 34,
       "count": 61,
-      "region": "Africa"
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "South China Morning Post",
+      "positive": 20,
+      "neutral": 1,
+      "negative": 39,
+      "count": 60,
+      "region": "North America"
     },
     {
       "source": "The Guardian",
@@ -129,18 +129,18 @@
     },
     {
       "source": "Wired",
-      "positive": 36,
+      "positive": 35,
       "neutral": 1,
       "negative": 2,
-      "count": 39,
+      "count": 38,
       "region": "Global"
     },
     {
       "source": "Times of Israel",
       "positive": 12,
       "neutral": 2,
-      "negative": 17,
-      "count": 31,
+      "negative": 18,
+      "count": 32,
       "region": "Middle East"
     },
     {
@@ -171,17 +171,9 @@
       "source": "Deutsche Welle",
       "positive": 7,
       "neutral": 2,
-      "negative": 15,
-      "count": 24,
+      "negative": 14,
+      "count": 23,
       "region": "Europe"
-    },
-    {
-      "source": "Straits Times",
-      "positive": 10,
-      "neutral": 3,
-      "negative": 9,
-      "count": 22,
-      "region": "Global"
     },
     {
       "source": "Euronews",
@@ -190,6 +182,14 @@
       "negative": 7,
       "count": 21,
       "region": "Europe"
+    },
+    {
+      "source": "Straits Times",
+      "positive": 8,
+      "neutral": 3,
+      "negative": 9,
+      "count": 20,
+      "region": "Global"
     },
     {
       "source": "Middle East Eye",
@@ -272,6 +272,14 @@
       "region": "North America"
     },
     {
+      "source": "Sky News",
+      "positive": 3,
+      "neutral": 2,
+      "negative": 7,
+      "count": 12,
+      "region": "Middle East"
+    },
+    {
       "source": "Irish Times",
       "positive": 0,
       "neutral": 1,
@@ -294,14 +302,6 @@
       "negative": 8,
       "count": 11,
       "region": "North America"
-    },
-    {
-      "source": "Sky News",
-      "positive": 2,
-      "neutral": 2,
-      "negative": 7,
-      "count": 11,
-      "region": "Europe"
     },
     {
       "source": "NPR",
@@ -339,38 +339,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 269,
+      "positive": 272,
       "neutral": 83,
       "negative": 264,
-      "count": 616
+      "count": 619
     },
     {
       "region": "Europe",
-      "positive": 239,
-      "neutral": 54,
-      "negative": 173,
-      "count": 466
+      "positive": 241,
+      "neutral": 56,
+      "negative": 172,
+      "count": 469
     },
     {
       "region": "Asia-Pacific",
-      "positive": 176,
-      "neutral": 70,
-      "negative": 191,
+      "positive": 175,
+      "neutral": 69,
+      "negative": 193,
       "count": 437
     },
     {
       "region": "Global",
-      "positive": 199,
+      "positive": 191,
       "neutral": 18,
       "negative": 44,
-      "count": 261
+      "count": 253
     },
     {
       "region": "Middle East",
-      "positive": 28,
+      "positive": 29,
       "neutral": 13,
-      "negative": 66,
-      "count": 107
+      "negative": 68,
+      "count": 110
     },
     {
       "region": "Africa",
@@ -390,52 +390,52 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 324,
-      "neutral": 79,
-      "negative": 228,
-      "count": 631
+      "positive": 323,
+      "neutral": 78,
+      "negative": 227,
+      "count": 628
     },
     {
       "topic": "Other",
-      "positive": 172,
-      "neutral": 73,
-      "negative": 126,
+      "positive": 169,
+      "neutral": 75,
+      "negative": 127,
       "count": 371
     },
     {
       "topic": "Politics",
-      "positive": 112,
-      "neutral": 29,
-      "negative": 137,
+      "positive": 114,
+      "neutral": 28,
+      "negative": 136,
       "count": 278
     },
     {
       "topic": "World",
-      "positive": 69,
-      "neutral": 15,
-      "negative": 134,
-      "count": 218
+      "positive": 68,
+      "neutral": 16,
+      "negative": 135,
+      "count": 219
     },
     {
       "topic": "Sports",
       "positive": 117,
       "neutral": 26,
-      "negative": 64,
-      "count": 207
+      "negative": 66,
+      "count": 209
     },
     {
       "topic": "Entertainment",
-      "positive": 49,
+      "positive": 50,
       "neutral": 10,
-      "negative": 14,
-      "count": 73
+      "negative": 15,
+      "count": 75
     },
     {
       "topic": "Business",
-      "positive": 37,
+      "positive": 36,
       "neutral": 2,
       "negative": 15,
-      "count": 54
+      "count": 53
     },
     {
       "topic": "Health",
@@ -524,6 +524,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "37 Maoists surrender in Chhattisgarh\u2019s Dantewada; 27 of them carried \u20b965 lakh bounty",
+      "url": "https://www.thehindu.com/news/national/chhattisgarh/maoists-surrender-in-chhattisgarh/article70341601.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-11-30T16:06:44+05:30",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Russell retires from IPL, joins KKR's coaching department",
       "url": "https://www.channelnewsasia.com/sport/russell-retires-ipl-joins-kkrs-coaching-department-5498081",
       "source": "Channel News Asia",
@@ -532,8 +540,32 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Union Steel Minister H.D. Kumaraswamy visits VISP in Bhadravati, tells workers not to worry, assures them of plant\u2019s revival",
+      "url": "https://www.thehindu.com/news/national/karnataka/union-steel-minister-hd-kumaraswamy-visits-visp-in-bhadravati-tells-workers-not-to-worry-assures-them-of-plants-revival/article70339048.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-11-30T15:59:59+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Bihar poll debacle sparks blame-game between RJD, Congress",
+      "url": "https://www.thehindu.com/news/national/bihar/bihar-poll-debacle-sparks-blame-game-between-rjd-congress/article70341529.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-11-30T15:46:47+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "A.R. Rahman to inaugurate Music Academy\u2019s 99th annual festival",
       "url": "https://www.thehindu.com/news/cities/chennai/ar-rahman-to-inaugurate-music-academys-99th-annual-fest/article70341566.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-11-30T15:37:44+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "A.R. Rahman to inaugurate Music Academy\u2019s 99th annual festival",
+      "url": "https://www.thehindu.com/entertainment/music/ar-rahman-to-inaugurate-chennai-music-academy-99th-annual-festival-on-december-15-2025/article70341566.ece",
       "source": "The Hindu",
       "region": "North America",
       "published": "2025-11-30T15:37:44+05:30",
@@ -1108,12 +1140,60 @@
       "sentiment": "negative"
     },
     {
+      "title": "Death toll from Indonesia flooding rises to 417",
+      "url": "https://www.bbc.com/news/articles/c5y9ejley9do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "Asia-Pacific",
+      "published": "2025-11-30T10:38:54+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Death toll in Hong Kong blaze rises to 146 after more bodies found",
+      "url": "https://www.abc.net.au/news/2025-11-30/hong-kong-blaze-death-toll-rises-after-more-bodies-found/106084440",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-11-30T10:37:15+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Actor Umesh passes away at 80; Kannada cinema loses a beloved comic legend",
       "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/actor-umesh-passes-away-at-80-kannada-cinema-loses-a-beloved-comic-legend/articleshow/125668842.cms",
       "source": "Times of India",
       "region": "Asia-Pacific",
       "published": "2025-11-30T10:35:12+05:30",
       "sentiment": "positive"
+    },
+    {
+      "title": "Range Rover driver caught downing 11 pints on pub crawl with friends before killing teenage biker in crash",
+      "url": "https://www.independent.co.uk/tv/news/range-rover-drink-driver-danny-francis-shrewsbury-crash-video-b2875146.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-11-30T10:35:03+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Switzerland votes on whether women must do national service",
+      "url": "https://www.independent.co.uk/news/world/europe/switzerland-national-service-women-referendum-b2875104.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-11-30T10:33:49+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Palestinian in Louis Theroux documentary describes months of harassment by settlers and Israeli soldiers",
+      "url": "https://www.independent.co.uk/news/world/middle-east/louis-theroux-west-bank-palestine-settlers-israel-b2860843.html",
+      "source": "Independent",
+      "region": "Middle East",
+      "published": "2025-11-30T10:33:16+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Manny Pacquiao\u2019s son suffers setback on his professional boxing debut",
+      "url": "https://www.independent.co.uk/bulletin/sport/manny-pacquiao-son-setback-majority-draw-debut-b2875145.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-11-30T10:32:33+00:00",
+      "sentiment": "negative"
     },
     {
       "title": "India's population to stabilise by 2080 due to dip in fertility rate: IASP",
@@ -1124,6 +1204,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "Defiant Rachel Reeves says she will be Chancellor for years and pledges to \u2018defy her critics\u2019",
+      "url": "https://www.independent.co.uk/tv/news/rachel-reeves-budget-chancellor-job-labour-b2875143.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-11-30T10:31:50+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Egypt trains hundreds of Palestinians for future Gaza police force",
       "url": "https://www.channelnewsasia.com/world/egypt-trains-hundreds-palestinians-future-gaza-police-force-5497766",
       "source": "Channel News Asia",
@@ -1132,11 +1220,27 @@
       "sentiment": "neutral"
     },
     {
+      "title": "He fought alongside the British special forces in Afghanistan. This is the reality of trying to build a life in the UK",
+      "url": "https://www.independent.co.uk/news/uk/home-news/afghan-special-forces-refugee-housing-uk-migrants-resettlement-b2863641.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-11-30T10:28:32+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "California shooting: 4 dead, several hurt at family gathering in Stockton",
       "url": "https://timesofindia.indiatimes.com/world/us/california-shooting-4-dead-several-hurt-at-family-gathering-in-stockton-police-say-it-was-targeted/articleshow/125668782.cms",
       "source": "Times of India",
       "region": "Asia-Pacific",
       "published": "2025-11-30T10:28:30+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Ukraine Loses Up to 450 Soldiers in Battles With Russia's Tsentr Battlegroup",
+      "url": "https://sputnikglobe.com/20251130/ukraine-loses-up-to-450-soldiers-in-battles-with-russias-tsentr-battlegroup-1123201540.html",
+      "source": "Sputnik News",
+      "region": "Europe",
+      "published": "2025-11-30T10:26:22+00:00",
       "sentiment": "negative"
     },
     {
@@ -1156,116 +1260,12 @@
       "sentiment": "negative"
     },
     {
-      "title": "The US helped with the S\u2019pore \u2018miracle\u2019. Now, it\u2019s calling in the favour, says Trump\u2019s new envoy Anjani Sinha",
-      "url": "https://www.straitstimes.com/singapore/the-us-helped-with-the-spore-miracle-now-its-calling-in-the-favour-says-trumps-new-envoy-anjani",
-      "source": "Straits Times",
-      "region": "North America",
-      "published": "2025-11-30T10:22:00+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Black Friday deals\u00a0for 2025 \u2013\u00a0live: Best offers, recommended by our consumer experts",
-      "url": "https://www.independent.co.uk/extras/indybest/black-friday/best-black-friday-deals-2025-b2875133.html",
+      "title": "Furious Pedro Porro rows with Tottenham team-mate after latest home defeat",
+      "url": "https://www.independent.co.uk/sport/football/pedro-porro-lucas-bergvall-tottenham-premier-league-b2875144.html",
       "source": "Independent",
       "region": "North America",
-      "published": "2025-11-30T10:14:17+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "News in Frames: Threads of ancestry",
-      "url": "https://www.thehindu.com/news/national/telangana/news-in-frames-threads-of-ancestry/article70340996.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-11-30T10:13:50+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Ligue 1: PSG fall to Monaco (1-0) as Marseille fail to capitalise",
-      "url": "https://www.france24.com/en/tv-shows/sports/20251130-ligue-1-psg-fall-to-monaco-1-0-as-marseille-fail-to-capitalise",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2025-11-30T10:13:44+00:00",
+      "published": "2025-11-30T10:26:18+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Thomas Frank calls out Tottenham fans for turning on their own player in loss to Fulham",
-      "url": "https://www.independent.co.uk/bulletin/sport/thomas-frank-tottenham-fans-turn-on-guglielmo-vicario-b2875135.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-11-30T10:13:39+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Deadly Floods in Indonesia Leave Hundreds Missing",
-      "url": "https://www.nytimes.com/2025/11/30/world/asia/flooding-indonesia-thailand-southeast-asia.html",
-      "source": "New York Times",
-      "region": "Asia-Pacific",
-      "published": "2025-11-30T10:12:23+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "As a beauty writer, these are the Medik8 deals you can\u2019t miss",
-      "url": "https://www.independent.co.uk/extras/indybest/black-friday/medik8-black-friday-deal-b2875134.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-11-30T10:12:21+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Ukraine and US prepare for peace talks in Florida",
-      "url": "http://www.euronews.com/2025/11/30/ukraine-and-us-prepare-for-peace-talks-in-florida",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2025-11-30T10:11:26+01:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Giorgio Armani\u2019s foundation is perfect for mature skin \u2013 now it has 30% off for Black Friday",
-      "url": "https://www.independent.co.uk/extras/indybest/black-friday/giorgio-armani-foundation-black-friday-deal-b2875128.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-11-30T10:10:31+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Black Friday vs Boxing Day sales: when is the best time to shop?",
-      "url": "https://www.independent.co.uk/extras/indybest/black-friday/black-friday-vs-boxing-day-sales-cheapest-b2875131.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-11-30T10:10:07+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Pope Leo XIV celebrates Mass at the Volkswagen Arena in Turkey",
-      "url": "http://www.euronews.com/video/2025/11/30/pope-leo-xiv-celebrates-mass-at-the-volkswagen-arena-in-turkey",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2025-11-30T10:09:34+01:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Pope Leo XIV heads to Lebanon to try bring message of hope",
-      "url": "http://www.euronews.com/2025/11/30/pope-leo-xiv-heads-to-lebanon-to-try-bring-message-of-hope",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2025-11-30T10:09:26+01:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The Black Friday deals under \u00a350 on products that have our seal of approval",
-      "url": "https://www.independent.co.uk/extras/indybest/black-friday/budget-black-friday-deals-b2875129.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-11-30T10:07:32+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "AI-assisted shopping is the talk of the holiday shopping season",
-      "url": "https://www.independent.co.uk/news/google-amazon-chatgpt-walmart-target-b2875132.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-11-30T10:05:08+00:00",
-      "sentiment": "positive"
     }
   ]
 }
