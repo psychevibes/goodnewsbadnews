@@ -1,34 +1,42 @@
 {
-  "generated_at": "2025-12-07T09:20:27.236238+00:00",
+  "generated_at": "2025-12-07T09:41:08.745754+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 749,
-    "neutral": 263,
-    "negative": 854
+    "positive": 756,
+    "neutral": 262,
+    "negative": 852
   },
   "by_publication": [
     {
       "source": "Independent",
       "positive": 113,
-      "neutral": 43,
-      "negative": 151,
-      "count": 307,
+      "neutral": 44,
+      "negative": 145,
+      "count": 302,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 78,
-      "neutral": 73,
-      "negative": 93,
-      "count": 244,
+      "positive": 76,
+      "neutral": 70,
+      "negative": 94,
+      "count": 240,
       "region": "North America"
     },
     {
       "source": "Times of India",
-      "positive": 56,
+      "positive": 58,
       "neutral": 5,
-      "negative": 59,
-      "count": 120,
+      "negative": 60,
+      "count": 123,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "Australian Broadcasting Corporation",
+      "positive": 43,
+      "neutral": 3,
+      "negative": 47,
+      "count": 93,
       "region": "Asia-Pacific"
     },
     {
@@ -40,14 +48,6 @@
       "region": "North America"
     },
     {
-      "source": "Australian Broadcasting Corporation",
-      "positive": 42,
-      "neutral": 3,
-      "negative": 47,
-      "count": 92,
-      "region": "Asia-Pacific"
-    },
-    {
       "source": "Sky Sports",
       "positive": 38,
       "neutral": 32,
@@ -57,10 +57,10 @@
     },
     {
       "source": "BBC Sport",
-      "positive": 46,
+      "positive": 48,
       "neutral": 6,
-      "negative": 26,
-      "count": 78,
+      "negative": 27,
+      "count": 81,
       "region": "Europe"
     },
     {
@@ -73,35 +73,35 @@
     },
     {
       "source": "South China Morning Post",
-      "positive": 24,
+      "positive": 25,
       "neutral": 2,
       "negative": 41,
-      "count": 67,
+      "count": 68,
       "region": "Asia-Pacific"
     },
     {
       "source": "BBC News",
       "positive": 18,
       "neutral": 8,
-      "negative": 34,
-      "count": 60,
+      "negative": 33,
+      "count": 59,
       "region": "North America"
     },
     {
       "source": "The Guardian",
-      "positive": 21,
+      "positive": 22,
       "neutral": 0,
       "negative": 36,
-      "count": 57,
+      "count": 58,
       "region": "Europe"
     },
     {
-      "source": "ESPN",
-      "positive": 26,
-      "neutral": 9,
-      "negative": 19,
-      "count": 54,
-      "region": "Global"
+      "source": "Al Jazeera English",
+      "positive": 17,
+      "neutral": 8,
+      "negative": 32,
+      "count": 57,
+      "region": "North America"
     },
     {
       "source": "CBS News",
@@ -112,12 +112,20 @@
       "region": "North America"
     },
     {
-      "source": "Al Jazeera English",
-      "positive": 17,
-      "neutral": 7,
-      "negative": 29,
-      "count": 53,
-      "region": "Middle East"
+      "source": "ESPN",
+      "positive": 26,
+      "neutral": 8,
+      "negative": 18,
+      "count": 52,
+      "region": "Global"
+    },
+    {
+      "source": "France 24",
+      "positive": 12,
+      "neutral": 2,
+      "negative": 20,
+      "count": 34,
+      "region": "Europe"
     },
     {
       "source": "Times of Israel",
@@ -128,20 +136,20 @@
       "region": "Middle East"
     },
     {
-      "source": "France 24",
-      "positive": 12,
-      "neutral": 2,
-      "negative": 19,
-      "count": 33,
-      "region": "Europe"
-    },
-    {
       "source": "NBC News",
       "positive": 10,
       "neutral": 6,
       "negative": 15,
       "count": 31,
       "region": "North America"
+    },
+    {
+      "source": "Deutsche Welle",
+      "positive": 6,
+      "neutral": 0,
+      "negative": 18,
+      "count": 24,
+      "region": "Europe"
     },
     {
       "source": "Mashable",
@@ -160,14 +168,6 @@
       "region": "Middle East"
     },
     {
-      "source": "Deutsche Welle",
-      "positive": 5,
-      "neutral": 0,
-      "negative": 18,
-      "count": 23,
-      "region": "Europe"
-    },
-    {
       "source": "Euronews",
       "positive": 11,
       "neutral": 2,
@@ -184,20 +184,20 @@
       "region": "South America"
     },
     {
+      "source": "Straits Times",
+      "positive": 9,
+      "neutral": 3,
+      "negative": 7,
+      "count": 19,
+      "region": "Global"
+    },
+    {
       "source": "Bloomberg",
       "positive": 10,
       "neutral": 4,
-      "negative": 6,
-      "count": 20,
+      "negative": 5,
+      "count": 19,
       "region": "North America"
-    },
-    {
-      "source": "Straits Times",
-      "positive": 8,
-      "neutral": 3,
-      "negative": 7,
-      "count": 18,
-      "region": "Global"
     },
     {
       "source": "Irish Times",
@@ -208,20 +208,20 @@
       "region": "North America"
     },
     {
+      "source": "Sputnik News",
+      "positive": 10,
+      "neutral": 2,
+      "negative": 5,
+      "count": 17,
+      "region": "Europe"
+    },
+    {
       "source": "Daily News Egypt",
       "positive": 12,
       "neutral": 1,
       "negative": 4,
       "count": 17,
       "region": "Middle East"
-    },
-    {
-      "source": "Sputnik News",
-      "positive": 9,
-      "neutral": 2,
-      "negative": 5,
-      "count": 16,
-      "region": "Europe"
     },
     {
       "source": "Sky News",
@@ -241,11 +241,11 @@
     },
     {
       "source": "ABC News",
-      "positive": 7,
-      "neutral": 0,
+      "positive": 6,
+      "neutral": 1,
       "negative": 5,
       "count": 12,
-      "region": "Asia-Pacific"
+      "region": "North America"
     },
     {
       "source": "Financial Times",
@@ -339,45 +339,45 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 265,
-      "neutral": 55,
-      "negative": 297,
-      "count": 617
+      "positive": 266,
+      "neutral": 56,
+      "negative": 300,
+      "count": 622
     },
     {
       "region": "Europe",
-      "positive": 202,
-      "neutral": 85,
-      "negative": 209,
-      "count": 496
+      "positive": 204,
+      "neutral": 86,
+      "negative": 201,
+      "count": 491
     },
     {
       "region": "Asia-Pacific",
-      "positive": 170,
-      "neutral": 82,
-      "negative": 211,
-      "count": 463
+      "positive": 172,
+      "neutral": 79,
+      "negative": 214,
+      "count": 465
     },
     {
       "region": "Middle East",
-      "positive": 42,
-      "neutral": 7,
+      "positive": 43,
+      "neutral": 8,
       "negative": 85,
-      "count": 134
+      "count": 136
     },
     {
       "region": "Global",
-      "positive": 60,
-      "neutral": 27,
-      "negative": 30,
-      "count": 117
+      "positive": 61,
+      "neutral": 26,
+      "negative": 29,
+      "count": 116
     },
     {
       "region": "Africa",
       "positive": 4,
       "neutral": 4,
-      "negative": 19,
-      "count": 27
+      "negative": 20,
+      "count": 28
     },
     {
       "region": "South America",
@@ -390,38 +390,38 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 179,
-      "neutral": 53,
-      "negative": 222,
-      "count": 454
+      "positive": 184,
+      "neutral": 52,
+      "negative": 224,
+      "count": 460
     },
     {
       "topic": "Other",
-      "positive": 99,
-      "neutral": 80,
-      "negative": 143,
-      "count": 322
+      "positive": 101,
+      "neutral": 81,
+      "negative": 144,
+      "count": 326
     },
     {
       "topic": "Politics",
-      "positive": 115,
+      "positive": 114,
       "neutral": 38,
-      "negative": 155,
-      "count": 308
+      "negative": 153,
+      "count": 305
     },
     {
       "topic": "World",
-      "positive": 95,
+      "positive": 96,
       "neutral": 12,
-      "negative": 149,
-      "count": 256
+      "negative": 147,
+      "count": 255
     },
     {
       "topic": "Sports",
       "positive": 144,
-      "neutral": 51,
-      "negative": 56,
-      "count": 251
+      "neutral": 50,
+      "negative": 55,
+      "count": 249
     },
     {
       "topic": "Entertainment",
@@ -434,15 +434,15 @@
       "topic": "Business",
       "positive": 34,
       "neutral": 5,
-      "negative": 19,
-      "count": 58
+      "negative": 20,
+      "count": 59
     },
     {
       "topic": "Health",
       "positive": 11,
       "neutral": 3,
-      "negative": 34,
-      "count": 48
+      "negative": 33,
+      "count": 47
     },
     {
       "topic": "Local",
@@ -489,6 +489,14 @@
       "source": "BBC Sport",
       "region": "North America",
       "published": "2025-12-23T22:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "CDAC gives $400 e-vouchers to help 8,500 low-income families prepare for new school year",
+      "url": "https://www.straitstimes.com/singapore/cdac-gives-400-e-vouchers-to-help-8500-low-income-families-prepare-for-new-school-year",
+      "source": "Straits Times",
+      "region": "Global",
+      "published": "2025-12-07T17:20:00+08:00",
       "sentiment": "positive"
     },
     {
@@ -564,6 +572,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "'Have decided to move on': Palash Muchhal calls off wedding with Smriti Mandhana",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/palash-muchhal-calls-off-wedding-with-smriti-mandhana-threatens-legal-action-against-rumours/articleshow/125815032.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-07T14:23:00+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "Stokes, Jacks ensure Australia must bat again in second Ashes Test",
       "url": "https://www.channelnewsasia.com/sport/stokes-jacks-ensure-australia-must-bat-again-in-second-ashes-test-5566276",
       "source": "Channel News Asia",
@@ -586,6 +602,14 @@
       "region": "Global",
       "published": "2025-12-07T14:15:00+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "\u2018Democracy has crumbled\u2019: Tower of London attacked; custard thrown at crown jewels",
+      "url": "https://timesofindia.indiatimes.com/world/uk/democracy-has-crumbled-tower-of-london-attacked-custard-thrown-at-crown-jewels/articleshow/125814859.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-12-07T14:06:04+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Head Constable accused of stealing cash suspended  after FIR filed against him",
@@ -820,6 +844,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "IndiGo to operate 1,650 flights on December 7, cancels 650",
+      "url": "https://www.thehindu.com/news/national/indigo-flight-cancellations-on-december-7-2025/article70368322.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-07T12:21:15+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Tamil Nadu Government frames rules for sale, exchange, lease and mortgage of temple lands",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-frames-rules-for-sale-exchange-lease-and-mortgage-of-temple-lands/article70368097.ece",
       "source": "The Hindu",
@@ -1044,12 +1076,52 @@
       "sentiment": "neutral"
     },
     {
+      "title": "England 2-0 down in Ashes after Gabba hammering",
+      "url": "https://www.bbc.com/sport/cricket/articles/c4g9le7lnxeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "North America",
+      "published": "2025-12-07T09:38:39+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "England 2-0 down in Ashes after Gabba hammering",
+      "url": "https://www.bbc.com/sport/cricket/articles/c4g9le7lnxeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "region": "North America",
+      "published": "2025-12-07T09:38:39+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Wrexham 'capable of beating anybody' - McClean",
+      "url": "https://www.bbc.com/sport/football/articles/clydrrydnj0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "region": "North America",
+      "published": "2025-12-07T09:38:17+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Hegseth defends deadly strikes on alleged cartel boats in the Caribbean",
       "url": "http://www.euronews.com/2025/12/07/hegseth-defends-deadly-strikes-on-alleged-cartel-boats-in-the-caribbean",
       "source": "Euronews",
       "region": "Europe",
       "published": "2025-12-07T09:35:50+01:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "I\u2019m a Celeb 2025 live: Jack Osbourne shares heartwarming news after elimination",
+      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/im-a-celebrity-final-2025-live-shona-ginge-tom-b2879562.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-12-07T09:34:36+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Reform UK targets Scotland with new tartan",
+      "url": "https://www.independent.co.uk/bulletin/news/farage-reform-tartan-scotland-b2879576.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-12-07T09:31:29+00:00",
+      "sentiment": "neutral"
     },
     {
       "title": "Bill Gates' daughter gets $30M for AI app: Gates says won't invest; works helpdesk",
@@ -1068,6 +1140,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Amendments in US's New Security Doctrine Largely Align With Russia's Vision - Kremlin",
+      "url": "https://sputnikglobe.com/20251207/amendments-in-uss-new-security-doctrine-largely-align-with-russias-vision---kremlin-1123249235.html",
+      "source": "Sputnik News",
+      "region": "Europe",
+      "published": "2025-12-07T09:29:44+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Tokyo says China military aircraft locked radar onto Japan fighters",
       "url": "https://www.channelnewsasia.com/east-asia/japan-china-military-fighter-jets-radar-5566031",
       "source": "Channel News Asia",
@@ -1084,12 +1164,52 @@
       "sentiment": "positive"
     },
     {
+      "title": "China accused of targeting Japanese jets in \u2018deeply concerning\u2019 incident",
+      "url": "https://www.independent.co.uk/asia/china/china-japan-radar-locking-okinawa-miyako-island-b2879550.html",
+      "source": "Independent",
+      "region": "Asia-Pacific",
+      "published": "2025-12-07T09:23:31+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Mohamed Salah claims he has been \u2018thrown under the bus\u2019 by Liverpool",
+      "url": "https://www.aljazeera.com/sports/2025/12/7/mohamed-salah-claims-he-has-been-thrown-under-the-bus-by-liverpool?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "region": "North America",
+      "published": "2025-12-07T09:23:04+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "'It's an honour' - Harden into NBA top 10 scorers",
+      "url": "https://www.bbc.com/sport/basketball/articles/c87leyg3dwvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "region": "Europe",
+      "published": "2025-12-07T09:21:41+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "25 killed in Goa nightclub: PM Modi announces Rs 2 lakh ex-gratia for kin of deceased",
       "url": "https://timesofindia.indiatimes.com/india/25-killed-in-goa-nightclub-blaze-pm-modi-expresses-grief-announces-rs-2-lakh-ex-gratia-for-kin-of-deceased/articleshow/125812909.cms",
       "source": "Times of India",
       "region": "North America",
       "published": "2025-12-07T09:21:04+05:30",
       "sentiment": "negative"
+    },
+    {
+      "title": "Hong Kong blaze may have started on scaffolding between first and second floor",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3335505/hong-kong-blaze-may-have-started-scaffolding-between-first-and-second-floor?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Asia-Pacific",
+      "published": "2025-12-07T09:20:14+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Is the religious right on the rise in UK politics?",
+      "url": "https://www.theguardian.com/politics/2025/dec/07/is-the-religious-right-on-the-rise-in-uk-politics",
+      "source": "The Guardian",
+      "region": "Europe",
+      "published": "2025-12-07T09:19:23+00:00",
+      "sentiment": "positive"
     },
     {
       "title": "F1 Abu Dhabi GP live: Race start time before tantalising title decider with Verstappen on pole ahead of Norris",
@@ -1146,126 +1266,6 @@
       "region": "Europe",
       "published": "2025-12-07T09:10:44+00:00",
       "sentiment": "positive"
-    },
-    {
-      "title": "Senior Saudi diplomat: It\u2019s Israel, not PA , that most needs reform to secure peace",
-      "url": "https://www.timesofisrael.com/senior-saudi-diplomat-its-israel-not-pa-that-most-needs-reform-to-secure-peace/",
-      "source": "Times of Israel",
-      "region": "Middle East",
-      "published": "2025-12-07T09:09:07+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "618 dead in Sri Lanka landslides as rains batter South, Southeast Asia",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3335503/618-dead-sri-lanka-landslides-rains-batter-south-southeast-asia?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-12-07T09:05:59+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "25 dead after fire ravages nightclub in popular Indian tourism spot",
-      "url": "https://www.washingtonpost.com/world/2025/12/07/goa-nightclub-fire-deaths/",
-      "source": "Washington Post",
-      "region": "Asia-Pacific",
-      "published": "2025-12-07T09:04:54+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Another West African government overthrown by soldiers in apparent coup",
-      "url": "https://www.independent.co.uk/news/world/africa/benin-coup-president-patrice-talon-b2879570.html",
-      "source": "Independent",
-      "region": "Africa",
-      "published": "2025-12-07T09:01:17+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Goa nightclub tragedy: Fire erupted on dance floor, says eyewitness",
-      "url": "https://www.thehindu.com/news/national/goa/goa-nightclub-tragedy-fire-erupted-on-dance-floor-says-eyewitness/article70368065.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-07T09:00:36+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Nightclub fire kills at least 25 in India's Goa state",
-      "url": "https://www.abc.net.au/news/2025-12-07/fire-goa-nightclub-kills-25/106112514",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-12-07T09:00:18+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Hostile powers sending spies to west\u2019s universities, says former security chief",
-      "url": "https://www.theguardian.com/world/2025/dec/07/hostile-powers-spying-universities-canada-former-security-chief",
-      "source": "The Guardian",
-      "region": "North America",
-      "published": "2025-12-07T09:00:17+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "C of E to challenge Tommy Robinson \u2018put Christ back into Christmas\u2019 message",
-      "url": "https://www.theguardian.com/world/2025/dec/07/church-of-england-campaign-challenging-tommy-robinson-put-christ-back-into-christmas-message",
-      "source": "The Guardian",
-      "region": "North America",
-      "published": "2025-12-07T09:00:17+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Hong Kong scaffolding net sample ignites in test despite passing safety standards",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3335498/post-test-finds-hong-kong-scaffold-net-sample-igniting-despite-passing-safety-standards?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "North America",
-      "published": "2025-12-07T09:00:10+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Watch: Match of the Day",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "Europe",
-      "published": "2025-12-07T09:00:00+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Watch: Match of the Day",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "region": "Europe",
-      "published": "2025-12-07T09:00:00+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Trump no longer pushing back when White House insiders say Hegseth is not up for the job as he tires of controversies: report",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-hegseth-controversies-white-house-b2879509.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-12-07T08:58:06+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "'Resistance over' - Stokes out as England head for defeat",
-      "url": "https://www.bbc.com/sport/cricket/videos/czrk6pmer30o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "region": "Europe",
-      "published": "2025-12-07T08:55:11+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "IndiGo flight disruptions: Hyderabad airport sees 115 cancellations on Dec. 7, taking five-day total over 500",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/indigo-flight-disruptions-hyderabad-airport-rgia-december-7/article70368057.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-07T08:50:48+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Mohamed Salah claims Liverpool threw him \u2018under the bus\u2019",
-      "url": "https://www.independent.co.uk/bulletin/sport/mohamed-salah-liverpool-arne-slot-b2879569.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-12-07T08:50:29+00:00",
-      "sentiment": "neutral"
     }
   ]
 }
