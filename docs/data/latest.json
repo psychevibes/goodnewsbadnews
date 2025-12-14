@@ -1,19 +1,19 @@
 {
-  "generated_at": "2025-12-14T23:20:29.941800+00:00",
+  "generated_at": "2025-12-14T23:41:01.951976+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 720,
-    "neutral": 252,
-    "negative": 996
+    "positive": 726,
+    "neutral": 253,
+    "negative": 999
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 85,
-      "neutral": 26,
-      "negative": 146,
-      "count": 257,
-      "region": "Asia-Pacific"
+      "positive": 84,
+      "neutral": 25,
+      "negative": 145,
+      "count": 254,
+      "region": "Europe"
     },
     {
       "source": "The Hindu",
@@ -33,27 +33,27 @@
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 32,
+      "positive": 31,
       "neutral": 6,
       "negative": 53,
-      "count": 91,
+      "count": 90,
       "region": "Asia-Pacific"
     },
     {
       "source": "The Guardian",
       "positive": 20,
       "neutral": 4,
-      "negative": 64,
-      "count": 88,
+      "negative": 65,
+      "count": 89,
       "region": "North America"
     },
     {
-      "source": "Channel News Asia",
-      "positive": 38,
+      "source": "Sky Sports",
+      "positive": 39,
       "neutral": 15,
       "negative": 26,
-      "count": 79,
-      "region": "North America"
+      "count": 80,
+      "region": "Europe"
     },
     {
       "source": "CBS News",
@@ -64,12 +64,20 @@
       "region": "North America"
     },
     {
-      "source": "Sky Sports",
-      "positive": 34,
+      "source": "Channel News Asia",
+      "positive": 37,
       "neutral": 15,
-      "negative": 25,
+      "negative": 26,
+      "count": 78,
+      "region": "North America"
+    },
+    {
+      "source": "Fox News",
+      "positive": 28,
+      "neutral": 5,
+      "negative": 41,
       "count": 74,
-      "region": "Europe"
+      "region": "North America"
     },
     {
       "source": "BBC News",
@@ -80,36 +88,28 @@
       "region": "North America"
     },
     {
-      "source": "Fox News",
-      "positive": 27,
-      "neutral": 5,
-      "negative": 40,
-      "count": 72,
-      "region": "North America"
-    },
-    {
       "source": "South China Morning Post",
-      "positive": 31,
+      "positive": 32,
       "neutral": 0,
       "negative": 38,
-      "count": 69,
-      "region": "Asia-Pacific"
+      "count": 70,
+      "region": "North America"
     },
     {
       "source": "BBC Sport",
       "positive": 46,
-      "neutral": 8,
-      "negative": 11,
-      "count": 65,
+      "neutral": 7,
+      "negative": 10,
+      "count": 63,
       "region": "Europe"
     },
     {
       "source": "Al Jazeera English",
-      "positive": 11,
-      "neutral": 8,
+      "positive": 12,
+      "neutral": 9,
       "negative": 38,
-      "count": 57,
-      "region": "South America"
+      "count": 59,
+      "region": "Europe"
     },
     {
       "source": "NBC News",
@@ -131,17 +131,25 @@
       "source": "France 24",
       "positive": 10,
       "neutral": 3,
-      "negative": 32,
-      "count": 45,
-      "region": "South America"
+      "negative": 33,
+      "count": 46,
+      "region": "North America"
     },
     {
       "source": "New York Times",
       "positive": 9,
-      "neutral": 2,
+      "neutral": 3,
       "negative": 30,
-      "count": 41,
-      "region": "South America"
+      "count": 42,
+      "region": "North America"
+    },
+    {
+      "source": "ESPN",
+      "positive": 17,
+      "neutral": 10,
+      "negative": 11,
+      "count": 38,
+      "region": "Global"
     },
     {
       "source": "Washington Post",
@@ -150,14 +158,6 @@
       "negative": 27,
       "count": 37,
       "region": "Asia-Pacific"
-    },
-    {
-      "source": "ESPN",
-      "positive": 16,
-      "neutral": 10,
-      "negative": 11,
-      "count": 37,
-      "region": "North America"
     },
     {
       "source": "Straits Times",
@@ -171,8 +171,8 @@
       "source": "Euronews",
       "positive": 9,
       "neutral": 0,
-      "negative": 23,
-      "count": 32,
+      "negative": 24,
+      "count": 33,
       "region": "Europe"
     },
     {
@@ -193,10 +193,10 @@
     },
     {
       "source": "Bloomberg",
-      "positive": 13,
+      "positive": 14,
       "neutral": 4,
       "negative": 9,
-      "count": 26,
+      "count": 27,
       "region": "Asia-Pacific"
     },
     {
@@ -208,18 +208,10 @@
       "region": "Africa"
     },
     {
-      "source": "ABC News",
-      "positive": 4,
-      "neutral": 4,
-      "negative": 14,
-      "count": 22,
-      "region": "North America"
-    },
-    {
       "source": "Deutsche Welle",
-      "positive": 5,
+      "positive": 6,
       "neutral": 0,
-      "negative": 16,
+      "negative": 15,
       "count": 21,
       "region": "South America"
     },
@@ -232,11 +224,19 @@
       "region": "Middle East"
     },
     {
-      "source": "RT News",
+      "source": "ABC News",
       "positive": 3,
+      "neutral": 4,
+      "negative": 13,
+      "count": 20,
+      "region": "North America"
+    },
+    {
+      "source": "RT News",
+      "positive": 2,
       "neutral": 3,
       "negative": 11,
-      "count": 17,
+      "count": 16,
       "region": "Europe"
     },
     {
@@ -246,6 +246,14 @@
       "negative": 7,
       "count": 16,
       "region": "Europe"
+    },
+    {
+      "source": "NPR",
+      "positive": 7,
+      "neutral": 1,
+      "negative": 6,
+      "count": 14,
+      "region": "North America"
     },
     {
       "source": "Sky News",
@@ -264,12 +272,12 @@
       "region": "North America"
     },
     {
-      "source": "NPR",
-      "positive": 7,
-      "neutral": 1,
-      "negative": 5,
-      "count": 13,
-      "region": "Asia-Pacific"
+      "source": "Irish Times",
+      "positive": 1,
+      "neutral": 2,
+      "negative": 7,
+      "count": 10,
+      "region": "Global"
     },
     {
       "source": "Wired",
@@ -277,14 +285,6 @@
       "neutral": 2,
       "negative": 0,
       "count": 10,
-      "region": "Global"
-    },
-    {
-      "source": "Irish Times",
-      "positive": 1,
-      "neutral": 2,
-      "negative": 6,
-      "count": 9,
       "region": "Global"
     },
     {
@@ -306,9 +306,9 @@
     {
       "source": "MarketWatch",
       "positive": 4,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 1,
-      "count": 5,
+      "count": 6,
       "region": "Global"
     },
     {
@@ -331,31 +331,31 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 217,
-      "neutral": 83,
+      "positive": 218,
+      "neutral": 84,
       "negative": 333,
-      "count": 633
+      "count": 635
     },
     {
       "region": "Asia-Pacific",
-      "positive": 181,
+      "positive": 182,
       "neutral": 76,
-      "negative": 337,
-      "count": 594
+      "negative": 339,
+      "count": 597
     },
     {
       "region": "Europe",
-      "positive": 195,
-      "neutral": 55,
+      "positive": 197,
+      "neutral": 54,
       "negative": 191,
-      "count": 441
+      "count": 442
     },
     {
       "region": "Global",
-      "positive": 59,
-      "neutral": 26,
-      "negative": 35,
-      "count": 120
+      "positive": 60,
+      "neutral": 27,
+      "negative": 36,
+      "count": 123
     },
     {
       "region": "Middle East",
@@ -373,82 +373,82 @@
     },
     {
       "region": "South America",
-      "positive": 24,
+      "positive": 25,
       "neutral": 3,
       "negative": 5,
-      "count": 32
+      "count": 33
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
       "positive": 178,
-      "neutral": 51,
-      "negative": 255,
+      "neutral": 52,
+      "negative": 254,
       "count": 484
     },
     {
       "topic": "Politics",
-      "positive": 152,
+      "positive": 154,
       "neutral": 38,
-      "negative": 183,
-      "count": 373
+      "negative": 184,
+      "count": 376
     },
     {
       "topic": "Other",
-      "positive": 94,
-      "neutral": 79,
+      "positive": 93,
+      "neutral": 78,
       "negative": 200,
-      "count": 373
+      "count": 371
     },
     {
       "topic": "Sports",
-      "positive": 95,
+      "positive": 101,
       "neutral": 33,
       "negative": 62,
-      "count": 190
+      "count": 196
     },
     {
       "topic": "World",
-      "positive": 68,
+      "positive": 67,
       "neutral": 9,
       "negative": 109,
-      "count": 186
+      "count": 185
     },
     {
       "topic": "Local",
       "positive": 18,
       "neutral": 5,
-      "negative": 60,
-      "count": 83
+      "negative": 61,
+      "count": 84
     },
     {
       "topic": "Business",
-      "positive": 43,
-      "neutral": 12,
+      "positive": 44,
+      "neutral": 13,
       "negative": 25,
-      "count": 80
+      "count": 82
     },
     {
       "topic": "Entertainment",
-      "positive": 39,
+      "positive": 38,
       "neutral": 11,
       "negative": 29,
-      "count": 79
+      "count": 78
     },
     {
       "topic": "Health",
       "positive": 13,
       "neutral": 4,
-      "negative": 51,
-      "count": 68
+      "negative": 52,
+      "count": 69
     },
     {
       "topic": "Regional",
       "positive": 11,
       "neutral": 5,
-      "negative": 18,
-      "count": 34
+      "negative": 19,
+      "count": 35
     },
     {
       "topic": "Science",
@@ -1052,6 +1052,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Canucks injury update: Marco Rossi activated as Elias Pettersson lands on IR",
+      "url": "https://timesofindia.indiatimes.com/sports/nhl/news/nhl-injury-update-vancouver-canucks-activate-marco-rossi-as-they-put-forward-elias-petterson-on-injured-reserve/articleshow/125965237.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T00:19:00+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Bondi Beach shooting: S\u2019pore strongly condemns act of terrorism, says PM Wong in letter to Australian PM",
       "url": "https://www.straitstimes.com/singapore/bondi-beach-shooting-spore-strongly-condemns-act-of-terrorism-says-pm-wong-in-letter-to-australian",
       "source": "Straits Times",
@@ -1172,92 +1180,84 @@
       "sentiment": "positive"
     },
     {
-      "title": "Conservative hardliner wins Chile\u2019s presidential election\u00a0in landslide",
-      "url": "https://www.ft.com/content/16d4709c-f0f8-44c6-b1fd-91b4ff6e8279",
-      "source": "Financial Times",
-      "region": "South America",
-      "published": "2025-12-14T23:16:43+00:00",
+      "title": "U.S. Military Plane and JetBlue Flight Nearly Collided Over Caribbean, Radio Traffic Shows",
+      "url": "https://www.nytimes.com/2025/12/14/world/americas/jetblue-venezuela-midair-collision-us-air-force.html",
+      "source": "New York Times",
+      "region": "North America",
+      "published": "2025-12-14T23:34:16+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "New entrants steady Hong Kong retail property sector in absence of luxury giants",
+      "url": "https://www.scmp.com/business/article/3336285/new-entrants-steady-hong-kong-retail-property-sector-absence-luxury-giants?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "North America",
+      "published": "2025-12-14T23:30:11+00:00",
       "sentiment": "positive"
     },
     {
-      "title": "Indian School of Nature wins Climate Guardian Award at TOFT 2025",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/indian-school-of-nature-wins-climate-guardian-award-at-toft-2025/article70395554.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-14T23:14:21+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "How gunmen killed 15 on Bondi beach in Australia\u2019s worst mass shooting in three decades",
-      "url": "https://www.independent.co.uk/news/world/australasia/bondi-beach-shooting-killed-attack-b2884161.html",
+      "title": "Strictly finalists revealed as EastEnders star is eliminated",
+      "url": "https://www.independent.co.uk/bulletin/culture/strictly-balvinder-sopal-elimination-finalists-b2884354.html",
       "source": "Independent",
-      "region": "Asia-Pacific",
-      "published": "2025-12-14T23:13:49+00:00",
+      "region": "Europe",
+      "published": "2025-12-14T23:28:43+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Deadly flash floods in Moroccan coastal town of Safi after heavy rainfall",
+      "url": "https://www.france24.com/en/africa/20251214-deadly-flash-floods-in-moroccan-coastal-town-of-safi-after-heavy-rainfall",
+      "source": "France 24",
+      "region": "North America",
+      "published": "2025-12-14T23:28:14+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Tokyo Gas Eyes US Investments to Drive Growth",
-      "url": "https://www.bloomberg.com/news/videos/2025-12-14/tokyo-gas-eyes-us-investments-to-drive-growth-video",
+      "title": "Bondi beach shooting live updates: federal cabinet meeting to discuss terror attack; antisemitism envoy says calling out hate is \u2018not enough\u2019",
+      "url": "https://www.theguardian.com/australia-news/live/2025/dec/14/bondi-beach-shooting-live-updates-victims-terror-attack-jewish-festival-hanukah",
+      "source": "The Guardian",
+      "region": "North America",
+      "published": "2025-12-14T23:22:32+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Trump honors deadly attack victims and rants about venomous snakes",
+      "url": "https://www.independent.co.uk/bulletin/news/trump-speech-brown-shooting-bondi-beach-syria-b2884340.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-12-14T23:21:31+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Highlights: Bunting survives huge scare in match of the tournament so far",
+      "url": "https://www.skysports.com/watch/video/13483507/world-darts-championship-stephen-bunting-vs-sebastian-bialecki-highlights",
+      "source": "Sky Sports",
+      "region": "Europe",
+      "published": "2025-12-14T23:21:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Man (20s) in hospital after shooting in Ballymun, north Dublin",
+      "url": "https://www.irishtimes.com/crime-law/2025/12/14/man-20s-in-hospital-after-shooting-in-ballymun-north-dublin/",
+      "source": "Irish Times",
+      "region": "Global",
+      "published": "2025-12-14T23:19:20+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Fortescue Expands Into Copper by Buying Peru-Focused Explorer",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-14/fortescue-expands-into-copper-by-buying-peru-focused-explorer",
       "source": "Bloomberg",
       "region": "Asia-Pacific",
-      "published": "2025-12-14T23:13:34+00:00",
+      "published": "2025-12-14T23:18:17+00:00",
       "sentiment": "positive"
     },
     {
-      "title": "Nainar Nagenthran calls on Amit Shah in New Delhi",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/nainar-nagenthran-calls-on-amit-shah-in-new-delhi/article70396633.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-12-14T23:13:22+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Neither Amit Shah nor Sangh army can succeed in Tamil Nadu, says Chief Minister Stalin",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/neither-amit-shah-nor-sangh-army-can-succeed-in-tamil-nadu-says-chief-minister-stalin/article70396308.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-12-14T23:11:27+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Shamanur: Senior-most MLA, Lingayat leader, industrialist and more",
-      "url": "https://www.thehindu.com/news/national/karnataka/shamanur-senior-most-mla-lingayat-leader-industrialist-and-more/article70396322.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-14T23:09:08+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Chabad rabbis, Ukrainian Holocaust survivor among those killed in Sydney Hanukkah attack",
-      "url": "https://www.timesofisrael.com/chabad-rabbis-ukrainian-holocaust-survivor-among-those-killed-in-sydney-hanukkah-attack/",
-      "source": "Times of Israel",
-      "region": "North America",
-      "published": "2025-12-14T23:08:35+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Chiefs to miss NFL play-offs for first time in 11 years",
-      "url": "https://www.bbc.com/sport/american-football/articles/c5yj27zv47zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "Europe",
-      "published": "2025-12-14T23:07:46+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Chiefs to miss NFL play-offs for first time in 11 years",
-      "url": "https://www.bbc.com/sport/american-football/articles/c5yj27zv47zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "region": "Europe",
-      "published": "2025-12-14T23:07:46+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Book documenting the long journey of the Saurashtras from Gujarat to T.N. launched",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/book-documenting-the-long-journey-of-the-saurashtras-from-gujarat-to-tn-launched/article70396292.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-14T23:07:01+05:30",
-      "sentiment": "positive"
+      "title": "U.S. stock futures little changed ahead of year\u2019s last full week of trading",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-ahead-of-years-last-full-week-of-trading-58783137?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "region": "Global",
+      "published": "2025-12-14T23:18:00+00:00",
+      "sentiment": "neutral"
     }
   ]
 }
