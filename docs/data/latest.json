@@ -1,51 +1,43 @@
 {
-  "generated_at": "2025-12-14T05:21:25.109880+00:00",
+  "generated_at": "2025-12-14T05:44:51.248862+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 748,
-    "neutral": 220,
-    "negative": 840
+    "positive": 747,
+    "neutral": 223,
+    "negative": 845
   },
   "by_publication": [
-    {
-      "source": "The Hindu",
-      "positive": 132,
-      "neutral": 50,
-      "negative": 99,
-      "count": 281,
-      "region": "Europe"
-    },
     {
       "source": "Independent",
       "positive": 108,
       "neutral": 43,
-      "negative": 129,
-      "count": 280,
-      "region": "Europe"
+      "negative": 133,
+      "count": 284,
+      "region": "North America"
+    },
+    {
+      "source": "The Hindu",
+      "positive": 129,
+      "neutral": 51,
+      "negative": 98,
+      "count": 278,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
-      "positive": 38,
+      "positive": 37,
       "neutral": 7,
-      "negative": 69,
-      "count": 114,
-      "region": "Asia-Pacific"
+      "negative": 66,
+      "count": 110,
+      "region": "North America"
     },
     {
       "source": "Fox News",
       "positive": 30,
       "neutral": 4,
-      "negative": 56,
-      "count": 90,
-      "region": "North America"
-    },
-    {
-      "source": "Australian Broadcasting Corporation",
-      "positive": 33,
-      "neutral": 8,
-      "negative": 38,
-      "count": 79,
-      "region": "Asia-Pacific"
+      "negative": 57,
+      "count": 91,
+      "region": "Middle East"
     },
     {
       "source": "Sky Sports",
@@ -56,11 +48,19 @@
       "region": "Europe"
     },
     {
+      "source": "Australian Broadcasting Corporation",
+      "positive": 33,
+      "neutral": 8,
+      "negative": 37,
+      "count": 78,
+      "region": "Asia-Pacific"
+    },
+    {
       "source": "South China Morning Post",
       "positive": 36,
       "neutral": 2,
-      "negative": 34,
-      "count": 72,
+      "negative": 35,
+      "count": 73,
       "region": "Asia-Pacific"
     },
     {
@@ -83,17 +83,9 @@
       "source": "CBS News",
       "positive": 20,
       "neutral": 5,
-      "negative": 29,
-      "count": 54,
+      "negative": 30,
+      "count": 55,
       "region": "North America"
-    },
-    {
-      "source": "Al Jazeera English",
-      "positive": 6,
-      "neutral": 7,
-      "negative": 39,
-      "count": 52,
-      "region": "Asia-Pacific"
     },
     {
       "source": "BBC News",
@@ -112,19 +104,27 @@
       "region": "North America"
     },
     {
+      "source": "Al Jazeera English",
+      "positive": 6,
+      "neutral": 6,
+      "negative": 39,
+      "count": 51,
+      "region": "Asia-Pacific"
+    },
+    {
       "source": "ESPN",
       "positive": 25,
       "neutral": 10,
-      "negative": 11,
-      "count": 46,
+      "negative": 12,
+      "count": 47,
       "region": "Global"
     },
     {
       "source": "NBC News",
       "positive": 7,
-      "neutral": 4,
+      "neutral": 5,
       "negative": 26,
-      "count": 37,
+      "count": 38,
       "region": "North America"
     },
     {
@@ -195,8 +195,8 @@
       "source": "Straits Times",
       "positive": 9,
       "neutral": 0,
-      "negative": 9,
-      "count": 18,
+      "negative": 8,
+      "count": 17,
       "region": "North America"
     },
     {
@@ -213,6 +213,14 @@
       "neutral": 1,
       "negative": 8,
       "count": 17,
+      "region": "North America"
+    },
+    {
+      "source": "Financial Times",
+      "positive": 7,
+      "neutral": 3,
+      "negative": 5,
+      "count": 15,
       "region": "North America"
     },
     {
@@ -288,14 +296,6 @@
       "region": "Middle East"
     },
     {
-      "source": "Financial Times",
-      "positive": 4,
-      "neutral": 1,
-      "negative": 2,
-      "count": 7,
-      "region": "Middle East"
-    },
-    {
       "source": "The Verge",
       "positive": 5,
       "neutral": 0,
@@ -332,36 +332,36 @@
     {
       "region": "North America",
       "positive": 260,
-      "neutral": 57,
-      "negative": 308,
-      "count": 625
+      "neutral": 58,
+      "negative": 311,
+      "count": 629
     },
     {
       "region": "Asia-Pacific",
-      "positive": 194,
-      "neutral": 64,
-      "negative": 208,
-      "count": 466
+      "positive": 192,
+      "neutral": 66,
+      "negative": 207,
+      "count": 465
     },
     {
       "region": "Europe",
       "positive": 197,
       "neutral": 64,
-      "negative": 151,
-      "count": 412
+      "negative": 154,
+      "count": 415
     },
     {
       "region": "Middle East",
       "positive": 22,
       "neutral": 10,
-      "negative": 136,
-      "count": 168
+      "negative": 137,
+      "count": 169
     },
     {
       "region": "Global",
-      "positive": 60,
+      "positive": 61,
       "neutral": 21,
-      "negative": 29,
+      "negative": 28,
       "count": 110
     },
     {
@@ -383,65 +383,65 @@
     {
       "topic": "Tech",
       "positive": 182,
-      "neutral": 41,
-      "negative": 245,
-      "count": 468
+      "neutral": 42,
+      "negative": 247,
+      "count": 471
     },
     {
       "topic": "Other",
       "positive": 119,
-      "neutral": 73,
-      "negative": 124,
-      "count": 316
+      "neutral": 74,
+      "negative": 126,
+      "count": 319
     },
     {
       "topic": "Politics",
-      "positive": 122,
+      "positive": 119,
       "neutral": 21,
-      "negative": 136,
-      "count": 279
+      "negative": 133,
+      "count": 273
     },
     {
       "topic": "World",
       "positive": 70,
       "neutral": 14,
-      "negative": 133,
-      "count": 217
+      "negative": 137,
+      "count": 221
     },
     {
       "topic": "Sports",
       "positive": 102,
       "neutral": 40,
-      "negative": 72,
-      "count": 214
+      "negative": 73,
+      "count": 215
     },
     {
       "topic": "Entertainment",
       "positive": 44,
       "neutral": 9,
-      "negative": 20,
-      "count": 73
+      "negative": 19,
+      "count": 72
     },
     {
       "topic": "Health",
       "positive": 22,
       "neutral": 1,
-      "negative": 47,
-      "count": 70
+      "negative": 46,
+      "count": 69
     },
     {
       "topic": "Business",
-      "positive": 35,
-      "neutral": 6,
+      "positive": 37,
+      "neutral": 7,
       "negative": 20,
-      "count": 61
+      "count": 64
     },
     {
       "topic": "Local",
       "positive": 29,
       "neutral": 9,
-      "negative": 14,
-      "count": 52
+      "negative": 15,
+      "count": 53
     },
     {
       "topic": "Regional",
@@ -493,6 +493,14 @@
     },
     {
       "title": "Passengers injured after accident involving two buses in Jurong West",
+      "url": "https://www.straitstimes.com/singapore/passengers-injured-after-accident-involving-two-buses-in-jurong-west",
+      "source": "Straits Times",
+      "region": "North America",
+      "published": "2025-12-14T13:11:15+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Passengers injured in accident involving two buses in Jurong West",
       "url": "https://www.straitstimes.com/singapore/passengers-injured-after-accident-involving-two-buses-in-jurong-west",
       "source": "Straits Times",
       "region": "North America",
@@ -554,6 +562,38 @@
       "region": "Asia-Pacific",
       "published": "2025-12-14T11:10:23+08:00",
       "sentiment": "neutral"
+    },
+    {
+      "title": "Brown University shooting: 1st visuals surface showing gunman; massive manhunt launched",
+      "url": "https://timesofindia.indiatimes.com/world/us/brown-university-shooting-first-visuals-surface-showing-the-gunman-massive-manhunt-launched/articleshow/125957809.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-12-14T10:58:50+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "HPV vaccination camp held for children of police personnel",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/hpv-vaccination-camp-held-for-children-of-police-personnel/article70393592.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-14T10:57:55+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Air quality worsens in Delhi, AQI settles in \u2018severe\u2019 zone",
+      "url": "https://www.thehindu.com/news/cities/Delhi/air-quality-index-new-delhi-on-december-14-2025-severe-category/article70394968.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-14T10:49:06+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "GOAT India Tour: The story of Lionel Messi's signed jersey in Kolkata \u2014 exclusive",
+      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/goat-india-tour-the-story-of-lionel-messis-signed-jersey-in-kolkata-exclusive/articleshow/125957829.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-12-14T10:44:29+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "Wildfire rages in famed Dzukou Valley for third day, aerial operations likely to be conducted",
@@ -964,6 +1004,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "Hong Kong\u2019s John Lee to visit Beijing this week for annual duty visit",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3336366/hong-kongs-john-lee-visit-beijing-week-annual-duty-visit?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Asia-Pacific",
+      "published": "2025-12-14T05:40:01+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Alpine skiing-Toughest race of my life, says Gisin's partner De Aliprandini",
       "url": "https://www.channelnewsasia.com/sport/alpine-skiing-toughest-race-my-life-says-gisins-partner-de-aliprandini-5580926",
       "source": "Channel News Asia",
@@ -993,6 +1041,38 @@
       "source": "Channel News Asia",
       "region": "Global",
       "published": "2025-12-14T05:27:17+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Brown University shooting: Two people dead and multiple people shot as police search for suspect",
+      "url": "https://www.independent.co.uk/news/world/americas/crime/brown-university-shooting-rhode-island-two-dead-suspect-b2884090.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-12-14T05:23:28+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Takeaways from AP report on sexual violence in Mali",
+      "url": "https://www.independent.co.uk/news/takeaways-mauritania-men-aid-workers-wagner-b2884095.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-12-14T05:22:20+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "PHOTO ESSAY: Refugees flee Mali as region is the world's deadliest for extremism",
+      "url": "https://www.independent.co.uk/news/mali-refugees-mauritania-sahel-associated-press-b2884094.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-12-14T05:22:02+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Women fleeing Mali's conflict say they were sexually assaulted but silence hides many more",
+      "url": "https://www.independent.co.uk/news/mali-mauritania-wagner-congo-men-b2884093.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-12-14T05:18:45+00:00",
       "sentiment": "negative"
     },
     {
@@ -1036,6 +1116,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "Video of possible Brown University shooter released",
+      "url": "https://www.nbcnews.com/video/shorts/video-of-possible-brown-university-shooter-released-254376517841",
+      "source": "NBC News",
+      "region": "North America",
+      "published": "2025-12-14T05:01:44+00:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "In Rome, the King of Paparazzi Is a Star in His Own Right",
       "url": "https://www.nytimes.com/2025/12/14/world/europe/rome-italy-celebrity-paparazzi-rino-barillari.html",
       "source": "New York Times",
@@ -1050,6 +1138,54 @@
       "region": "North America",
       "published": "2025-12-14T05:01:06+00:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "It makes sense to look smart when flying",
+      "url": "https://www.ft.com/content/011bea6d-d468-4804-be3e-b5e11789ee2b",
+      "source": "Financial Times",
+      "region": "North America",
+      "published": "2025-12-14T05:00:16+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "VW gears up for first production closure in Germany in its 88-year history",
+      "url": "https://www.ft.com/content/d7d0fbc8-2e92-49c5-be38-1412d8392fa9",
+      "source": "Financial Times",
+      "region": "Europe",
+      "published": "2025-12-14T05:00:16+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Hedge funds pile into commodities searching fresh source of returns",
+      "url": "https://www.ft.com/content/598c3bfc-008c-438f-837c-f7ec73a993f6",
+      "source": "Financial Times",
+      "region": "Global",
+      "published": "2025-12-14T05:00:08+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Swiss dealmaking surges to record highs despite strong franc",
+      "url": "https://www.ft.com/content/13bb7aca-b46e-4460-aab7-24d81410bb62",
+      "source": "Financial Times",
+      "region": "North America",
+      "published": "2025-12-14T05:00:08+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Japan\u2019s $2.4bn banking IPO signals potential consolidation",
+      "url": "https://www.ft.com/content/47bdd495-849d-42a6-bf13-8472c992788a",
+      "source": "Financial Times",
+      "region": "North America",
+      "published": "2025-12-14T05:00:08+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Keir Starmer risks losing ally at top of Britain\u2019s biggest union",
+      "url": "https://www.ft.com/content/cfa24458-0afb-481d-a99b-2f14bd69bdcc",
+      "source": "Financial Times",
+      "region": "Europe",
+      "published": "2025-12-14T05:00:08+00:00",
+      "sentiment": "negative"
     },
     {
       "title": "Sir Thomas Hughes-Hallett backs The Independent\u2019s SafeCall campaign with major donation",
@@ -1122,142 +1258,6 @@
       "region": "North America",
       "published": "2025-12-14T04:27:57+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Brown University victims believed to be students, school president says",
-      "url": "https://www.nbcnews.com/video/shorts/brown-university-confirms-two-students-among-those-killed-254376517785",
-      "source": "NBC News",
-      "region": "North America",
-      "published": "2025-12-14T04:20:59+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Gunfire at Brown University: Multiple people shot; search for suspect under way",
-      "url": "https://timesofindia.indiatimes.com/world/us/shooting-at-brown-university-multiple-people-shot-suspect-in-custody/articleshow/125956296.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-12-14T04:19:45+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Shooting at Brown University: Two dead, multiple injured; suspect hunt underway",
-      "url": "https://timesofindia.indiatimes.com/world/us/shooting-at-brown-university-multiple-people-shot-suspect-in-custody/articleshow/125956296.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-12-14T04:19:45+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Shooting at Brown University: Two dead, eight 'critical'; suspect hunt underway",
-      "url": "https://timesofindia.indiatimes.com/world/us/shooting-at-brown-university-multiple-people-shot-suspect-in-custody/articleshow/125956296.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-12-14T04:19:45+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "\u2018Shooter dressed in black\u2019 still on run: Deadly shooting at Brown University \u2014 how events unfolded",
-      "url": "https://timesofindia.indiatimes.com/world/us/shooting-at-brown-university-multiple-people-shot-suspect-in-custody/articleshow/125956296.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-12-14T04:19:45+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "We asked Mormons what they really think about The Secret Lives of Mormon Wives",
-      "url": "https://www.bbc.com/news/articles/c6230p2l88vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "Europe",
-      "published": "2025-12-14T04:13:32+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "PSG move top with nervy 3-2 win at bottom club Metz",
-      "url": "https://www.channelnewsasia.com/sport/psg-move-top-nervy-3-2-win-bottom-club-metz-5580901",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-12-14T04:08:46+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Raj Thackeray criticises CM Fadnavis over rise in child abduction cases in Maharashtra",
-      "url": "https://www.thehindu.com/news/cities/mumbai/raj-thackeray-criticises-cm-fadnavis-over-rise-in-child-abduction-cases-in-maharashtra/article70393009.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-14T04:04:29+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Jimmy Lai, former pro-democracy newspaper founder, to hear verdict in national security case",
-      "url": "https://www.independent.co.uk/news/hong-kong-beijing-national-security-law-chinese-united-states-b2884088.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-14T04:00:26+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Is the US pushing South Korea to the fore in deterring a war over Taiwan?",
-      "url": "https://www.scmp.com/news/china/military/article/3336351/us-pushing-south-korea-fore-deterring-war-over-taiwan?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-12-14T04:00:22+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Vote to disband Hong Kong\u2019s Democratic Party looms as members weigh \u2018rough ride\u2019",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3336333/vote-disband-hong-kongs-democratic-party-looms-members-weigh-rough-ride?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "North America",
-      "published": "2025-12-14T04:00:18+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Southeast Asia barely features in America\u2019s new security strategy",
-      "url": "https://www.scmp.com/week-asia/politics/article/3336256/southeast-asia-barely-features-americas-new-security-strategy?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "North America",
-      "published": "2025-12-14T04:00:10+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "IndiGo fiasco fallout: Air India eyes 275 extra December flights, seeks long-term plan",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/ai-eyes-275-extra-december-flights-seeks-long-term-plan/articleshow/125955963.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-12-14T03:59:44+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Video shows dozens of shots fired in 'outrageous' Sydney shooting",
-      "url": "https://www.abc.net.au/news/2025-12-14/hunt-street-guildford-shooting-video/106141186",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-12-14T03:55:19+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Terrier's backheel magic helps Leverkusen to 2-0 win over Cologne",
-      "url": "https://www.channelnewsasia.com/sport/terriers-backheel-magic-helps-leverkusen-2-0-win-over-cologne-5580891",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-12-14T03:54:23+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Tasmania Police to join renewed search for missing tourist Celine Cremer",
-      "url": "https://www.abc.net.au/news/2025-12-14/tasmania-police-to-join-celine-cremer-search/106141072",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-12-14T03:45:28+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "\u2018These are the hands of a soldier\u2019: Called \u2018fauji\u2019 by Kalam at 3, becomes Lieutenant at 22",
-      "url": "https://timesofindia.indiatimes.com/city/dehradun/called-fauji-by-kalam-at-3-lieutenant-at-22/articleshow/125954712.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-12-14T03:44:09+05:30",
-      "sentiment": "neutral"
     }
   ]
 }
