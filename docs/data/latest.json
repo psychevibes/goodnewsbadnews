@@ -1,75 +1,75 @@
 {
-  "generated_at": "2025-12-15T03:44:01.106074+00:00",
+  "generated_at": "2025-12-15T04:42:57.934380+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 764,
-    "neutral": 264,
-    "negative": 1062
+    "positive": 766,
+    "neutral": 268,
+    "negative": 1097
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 90,
-      "neutral": 28,
-      "negative": 146,
-      "count": 264,
-      "region": "Europe"
-    },
-    {
-      "source": "The Hindu",
-      "positive": 85,
-      "neutral": 56,
-      "negative": 72,
-      "count": 213,
+      "positive": 92,
+      "neutral": 29,
+      "negative": 154,
+      "count": 275,
       "region": "North America"
     },
     {
+      "source": "The Hindu",
+      "positive": 83,
+      "neutral": 56,
+      "negative": 72,
+      "count": 211,
+      "region": "Asia-Pacific"
+    },
+    {
       "source": "Times of India",
-      "positive": 50,
+      "positive": 51,
       "neutral": 8,
-      "negative": 70,
-      "count": 128,
+      "negative": 72,
+      "count": 131,
       "region": "Asia-Pacific"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 26,
+      "positive": 27,
       "neutral": 7,
-      "negative": 69,
-      "count": 102,
+      "negative": 77,
+      "count": 111,
       "region": "Asia-Pacific"
     },
     {
       "source": "The Guardian",
       "positive": 22,
       "neutral": 4,
-      "negative": 69,
-      "count": 95,
+      "negative": 72,
+      "count": 98,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "Channel News Asia",
+      "positive": 42,
+      "neutral": 18,
+      "negative": 34,
+      "count": 94,
       "region": "Asia-Pacific"
     },
     {
       "source": "CBS News",
-      "positive": 43,
+      "positive": 42,
       "neutral": 10,
       "negative": 39,
-      "count": 92,
+      "count": 91,
       "region": "North America"
-    },
-    {
-      "source": "Channel News Asia",
-      "positive": 41,
-      "neutral": 17,
-      "negative": 30,
-      "count": 88,
-      "region": "Global"
     },
     {
       "source": "Fox News",
       "positive": 29,
       "neutral": 7,
-      "negative": 47,
-      "count": 83,
-      "region": "North America"
+      "negative": 48,
+      "count": 84,
+      "region": "Middle East"
     },
     {
       "source": "Sky Sports",
@@ -81,10 +81,10 @@
     },
     {
       "source": "South China Morning Post",
-      "positive": 36,
+      "positive": 34,
       "neutral": 1,
-      "negative": 43,
-      "count": 80,
+      "negative": 44,
+      "count": 79,
       "region": "Asia-Pacific"
     },
     {
@@ -114,8 +114,24 @@
     {
       "source": "Bloomberg",
       "positive": 25,
-      "neutral": 5,
-      "negative": 19,
+      "neutral": 6,
+      "negative": 22,
+      "count": 53,
+      "region": "North America"
+    },
+    {
+      "source": "ESPN",
+      "positive": 24,
+      "neutral": 10,
+      "negative": 16,
+      "count": 50,
+      "region": "Global"
+    },
+    {
+      "source": "New York Times",
+      "positive": 11,
+      "neutral": 6,
+      "negative": 32,
       "count": 49,
       "region": "North America"
     },
@@ -128,28 +144,12 @@
       "region": "North America"
     },
     {
-      "source": "New York Times",
-      "positive": 11,
-      "neutral": 5,
-      "negative": 32,
-      "count": 48,
-      "region": "Asia-Pacific"
-    },
-    {
       "source": "NBC News",
       "positive": 11,
       "neutral": 10,
       "negative": 27,
       "count": 48,
       "region": "North America"
-    },
-    {
-      "source": "ESPN",
-      "positive": 23,
-      "neutral": 10,
-      "negative": 14,
-      "count": 47,
-      "region": "Europe"
     },
     {
       "source": "Washington Post",
@@ -163,25 +163,17 @@
       "source": "Straits Times",
       "positive": 12,
       "neutral": 9,
-      "negative": 18,
-      "count": 39,
+      "negative": 19,
+      "count": 40,
       "region": "Global"
     },
     {
       "source": "Times of Israel",
-      "positive": 4,
+      "positive": 5,
       "neutral": 1,
-      "negative": 30,
-      "count": 35,
-      "region": "Europe"
-    },
-    {
-      "source": "Euronews",
-      "positive": 9,
-      "neutral": 0,
-      "negative": 24,
-      "count": 33,
-      "region": "Europe"
+      "negative": 32,
+      "count": 38,
+      "region": "South America"
     },
     {
       "source": "Financial Times",
@@ -200,6 +192,14 @@
       "region": "North America"
     },
     {
+      "source": "Euronews",
+      "positive": 8,
+      "neutral": 0,
+      "negative": 24,
+      "count": 32,
+      "region": "Europe"
+    },
+    {
       "source": "Daily News Egypt",
       "positive": 18,
       "neutral": 5,
@@ -209,11 +209,19 @@
     },
     {
       "source": "ABC News",
-      "positive": 3,
+      "positive": 4,
       "neutral": 4,
-      "negative": 14,
+      "negative": 13,
       "count": 21,
       "region": "North America"
+    },
+    {
+      "source": "Deutsche Welle",
+      "positive": 6,
+      "neutral": 0,
+      "negative": 14,
+      "count": 20,
+      "region": "Africa"
     },
     {
       "source": "Middle East Eye",
@@ -222,14 +230,6 @@
       "negative": 20,
       "count": 20,
       "region": "Middle East"
-    },
-    {
-      "source": "Deutsche Welle",
-      "positive": 6,
-      "neutral": 0,
-      "negative": 13,
-      "count": 19,
-      "region": "Asia-Pacific"
     },
     {
       "source": "NPR",
@@ -331,131 +331,131 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 235,
-      "neutral": 90,
-      "negative": 342,
-      "count": 667
+      "positive": 231,
+      "neutral": 92,
+      "negative": 346,
+      "count": 669
     },
     {
       "region": "Asia-Pacific",
-      "positive": 183,
+      "positive": 187,
       "neutral": 75,
-      "negative": 379,
-      "count": 637
+      "negative": 397,
+      "count": 659
     },
     {
       "region": "Europe",
       "positive": 201,
-      "neutral": 59,
-      "negative": 204,
-      "count": 464
+      "neutral": 60,
+      "negative": 208,
+      "count": 469
     },
     {
       "region": "Global",
-      "positive": 68,
-      "neutral": 28,
-      "negative": 39,
-      "count": 135
+      "positive": 69,
+      "neutral": 29,
+      "negative": 44,
+      "count": 142
     },
     {
       "region": "Middle East",
       "positive": 19,
       "neutral": 4,
-      "negative": 87,
-      "count": 110
+      "negative": 90,
+      "count": 113
     },
     {
       "region": "South America",
-      "positive": 33,
+      "positive": 34,
       "neutral": 3,
       "negative": 5,
-      "count": 41
+      "count": 42
     },
     {
       "region": "Africa",
       "positive": 25,
       "neutral": 5,
-      "negative": 6,
-      "count": 36
+      "negative": 7,
+      "count": 37
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 197,
+      "positive": 194,
       "neutral": 55,
-      "negative": 254,
-      "count": 506
+      "negative": 260,
+      "count": 509
     },
     {
       "topic": "Politics",
-      "positive": 159,
-      "neutral": 37,
-      "negative": 205,
-      "count": 401
+      "positive": 161,
+      "neutral": 39,
+      "negative": 210,
+      "count": 410
     },
     {
       "topic": "Other",
-      "positive": 95,
+      "positive": 96,
       "neutral": 77,
-      "negative": 219,
-      "count": 391
+      "negative": 225,
+      "count": 398
     },
     {
       "topic": "Sports",
       "positive": 108,
       "neutral": 36,
-      "negative": 63,
-      "count": 207
+      "negative": 65,
+      "count": 209
     },
     {
       "topic": "World",
       "positive": 67,
-      "neutral": 11,
-      "negative": 114,
-      "count": 192
+      "neutral": 12,
+      "negative": 119,
+      "count": 198
     },
     {
       "topic": "Business",
       "positive": 54,
-      "neutral": 15,
-      "negative": 31,
-      "count": 100
+      "neutral": 16,
+      "negative": 36,
+      "count": 106
+    },
+    {
+      "topic": "Entertainment",
+      "positive": 37,
+      "neutral": 12,
+      "negative": 39,
+      "count": 88
     },
     {
       "topic": "Local",
-      "positive": 16,
-      "neutral": 5,
+      "positive": 17,
+      "neutral": 4,
       "negative": 62,
       "count": 83
     },
     {
-      "topic": "Entertainment",
-      "positive": 35,
-      "neutral": 12,
-      "negative": 35,
-      "count": 82
-    },
-    {
       "topic": "Health",
-      "positive": 13,
-      "neutral": 5,
-      "negative": 56,
-      "count": 74
+      "positive": 14,
+      "neutral": 6,
+      "negative": 58,
+      "count": 78
     },
     {
       "topic": "Regional",
-      "positive": 11,
+      "positive": 10,
       "neutral": 6,
       "negative": 18,
-      "count": 35
+      "count": 34
     },
     {
       "topic": "Science",
-      "positive": 9,
+      "positive": 8,
       "neutral": 5,
       "negative": 5,
-      "count": 19
+      "count": 18
     }
   ],
   "sample_headlines": [
@@ -481,6 +481,54 @@
       "source": "BBC Sport",
       "region": "North America",
       "published": "2025-12-23T22:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Japan's only two pandas to be sent back to China: Reports",
+      "url": "https://www.channelnewsasia.com/east-asia/japan-two-pandas-sent-back-china-lei-xiao-diplomacy-5582526",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T12:19:00+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Man to be charged after allegedly tampering with NParks crow trap in Toa Payoh",
+      "url": "https://www.straitstimes.com/singapore/man-to-be-charged-after-allegedly-tampering-with-nparks-crow-trap-in-toa-payoh",
+      "source": "Straits Times",
+      "region": "Global",
+      "published": "2025-12-15T12:15:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Man Utd boss Amorim accepts criticism from former players",
+      "url": "https://www.channelnewsasia.com/sport/man-utd-boss-amorim-accepts-criticism-former-players-5582556",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-12-15T12:08:48+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Australian PM proposes tougher gun laws after Bondi mass shooting",
+      "url": "https://www.channelnewsasia.com/world/bondi-beach-mass-shooting-australian-pm-anthony-albanese-proposes-tougher-gun-laws-terrorism-5582531",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T12:07:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Man to be charged for disrupting NParks crow trapping in Toa Payoh",
+      "url": "https://www.channelnewsasia.com/singapore/man-77-disrupt-nparks-crow-trapping-toa-payoh-be-charged-5582436",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-12-15T11:47:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "HSBC's $13.6 billion buyout proposal wins Hang Seng Bank board committee's nod",
+      "url": "https://www.channelnewsasia.com/business/hsbcs-136-billion-buyout-proposal-wins-hang-seng-bank-board-committees-nod-5582496",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-12-15T11:45:57+08:00",
       "sentiment": "positive"
     },
     {
@@ -532,6 +580,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Hong Kong court finds tycoon Jimmy Lai guilty of foreign collusion, sedition in national security trial",
+      "url": "https://www.channelnewsasia.com/east-asia/hong-kong-jimmy-lai-found-guilty-foreign-collusion-publishing-seditious-publications-5582331",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2025-12-15T10:43:00+08:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Taufik Batisah and wife give a tour of their newly renovated home inspired by Bali",
       "url": "https://www.channelnewsasia.com/living/taufik-batisah-bali-inspired-home-renovation-5582191",
       "source": "Channel News Asia",
@@ -544,6 +600,14 @@
       "url": "https://www.straitstimes.com/singapore/one-person-dies-in-traffic-accident-in-yishun-four-others-injured",
       "source": "Straits Times",
       "region": "Global",
+      "published": "2025-12-15T10:42:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Motorcyclist, 20, dies in accident in Yishun, another taken to hospital; driver arrested",
+      "url": "https://www.straitstimes.com/singapore/one-person-dies-in-traffic-accident-in-yishun-four-others-injured",
+      "source": "Straits Times",
+      "region": "North America",
       "published": "2025-12-15T10:42:00+08:00",
       "sentiment": "negative"
     },
@@ -580,11 +644,43 @@
       "sentiment": "negative"
     },
     {
+      "title": "2025 ICTP Prize awarded to Titas Chanda, Sthitadhi Roy",
+      "url": "https://www.thehindu.com/sci-tech/science/2025-ictp-prize-awarded-to-titas-chanda-sthitadhi-roy/article70397778.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T10:00:57+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "With its world-first under-16 ban, a grand social media experiment begins in Australia",
       "url": "https://www.straitstimes.com/singapore/parenting-education/a-grand-social-media-experiment-begins-in-australia",
       "source": "Straits Times",
       "region": "Asia-Pacific",
       "published": "2025-12-15T10:00:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "'Safety our top priority': Govt issues 'heavy fog alert' across Northern India'; flyers cautioned",
+      "url": "https://timesofindia.indiatimes.com/india/safety-our-top-priority-civil-aviation-ministry-issues-heavy-fog-alert-in-northern-india-flyers-cautioned/articleshow/125970272.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T09:48:02+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Haryana IPS officer's death: Shatrujeet Kapur relieved from DGP charge",
+      "url": "https://www.thehindu.com/news/national/haryana/haryana-ips-officers-death-shatrujeet-kapur-relieved-from-dgp-charge/article70397723.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T09:46:57+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Rupee tumbles down to all time low of 90.58 against US dollar",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-continues-to-slide-currency-tumbles-down-to-all-time-low-reaches-90-58-against-us-dollar/articleshow/125970033.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T09:40:12+05:30",
       "sentiment": "negative"
     },
     {
@@ -596,12 +692,44 @@
       "sentiment": "negative"
     },
     {
+      "title": "Rob Reiner, wife found dead at Los Angeles home; stabbing suspected \u2014 what we know",
+      "url": "https://timesofindia.indiatimes.com/world/us/film-director-rob-reiner-wife-michele-singer-found-dead-at-los-angeles-home-stabbing-suspected-what-we-know/articleshow/125969879.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-12-15T09:38:12+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "PM Modi embarks on three-nation visit beginning with Jordan",
+      "url": "https://www.thehindu.com/news/national/pm-modi-embarks-on-three-nation-visit-beginning-with-jordan/article70397710.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-12-15T09:34:26+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Top stocks to buy: Stock recommendations for this week - check list",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-december-15-2025-week-sbi-life-rbl-bank-stocks-to-buy-today/articleshow/125970109.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T09:31:40+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "Hong Kong court to deliver verdicts on media mogul Jimmy Lai",
       "url": "https://www.channelnewsasia.com/east-asia/hong-kong-jimmy-lai-verdict-court-pro-democracy-5582231",
       "source": "Channel News Asia",
       "region": "Global",
       "published": "2025-12-15T09:27:27+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Stock market today: Nifty50 opens near 26,000; BSE Sensex down over 250 points",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-december-15-2025-dalal-street-indian-equities-global-markets/articleshow/125969964.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T09:23:11+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Volunteers patrol Thai villages as artillery rains at Cambodia border",
@@ -633,6 +761,14 @@
       "source": "The Hindu",
       "region": "North America",
       "published": "2025-12-15T08:37:00+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "IND vs SA: Tilak Varma breaks Virat Kohli's record - India's new run-chase hero emerges",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-south-africa/tilak-varma-breaks-chasemaster-virat-kohlis-record-indias-new-run-chase-hero-emerges/articleshow/125969456.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T08:34:16+05:30",
       "sentiment": "positive"
     },
     {
@@ -1020,243 +1156,107 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Brown University shooting latest: \u2018Person of interest\u2019 released and manhunt continues for suspect in attack that killed 2",
+      "url": "https://www.independent.co.uk/news/world/americas/brown-university-shooting-suspect-benjamin-erickson-rhode-island-live-updates-b2884401.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-12-15T04:41:05+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "What is Nato and will Ukraine become a member?",
+      "url": "https://www.independent.co.uk/news/world/europe/nato-ukraine-member-russia-zelensky-peace-talks-b2884421.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-12-15T04:41:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Ukraine-Russia war latest: MI6 chief to issue Putin warning after Zelensky offers to drop Nato ambitions",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-putin-trump-zelensky-nato-peace-talks-live-b2884408.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-12-15T04:40:09+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Three independent directors of the Walkely Foundation resign over reform stoush",
+      "url": "https://www.abc.net.au/news/2025-12-15/adele-ferguson-board-directors-resign-from-walkley-foundation/106143900",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T04:36:37+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "NSW inquest told how exploding lithium-ion batteries turned deadly",
+      "url": "https://www.abc.net.au/news/2025-12-15/lithium-battery-fire-inquest/106143100",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T04:36:32+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Far-right Kast wins landslide election in Chile against communist opponent",
+      "url": "https://www.timesofisrael.com/far-right-kast-wins-landslide-election-in-chile-against-communist-opponent/",
+      "source": "Times of Israel",
+      "region": "South America",
+      "published": "2025-12-15T04:34:14+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "No heightened risk in WA after Bondi Beach terror attack, premier says",
+      "url": "https://www.abc.net.au/news/2025-12-15/wa-government-meets-with-jewish-leaders-after-bondi-attack/106143968",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T04:32:32+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "China-US AI gap narrows, South Koreans snub K-pop: 5 weekend reads you missed",
+      "url": "https://www.scmp.com/news/world/article/3336431/china-us-ai-gap-narrows-south-koreans-snub-k-pop-5-weekend-reads-you-missed?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T04:30:10+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Bondi beach shooting live updates: Albanese says national cabinet to discuss tougher gun laws today; butchered pig heads found at Muslim cemetery in Sydney",
+      "url": "https://www.theguardian.com/australia-news/live/2025/dec/14/bondi-beach-shooting-live-updates-victims-terror-attack-jewish-festival-hanukah",
+      "source": "The Guardian",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T04:28:29+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Super flu or a cold? Here are the symptoms to look out for",
+      "url": "https://www.independent.co.uk/news/health/superflu-cold-difference-symptoms-cause-signs-vaccine-b2884420.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-12-15T04:28:27+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "\u2018Horror and heroism at Bondi\u2019: what the papers say about the Sydney terrorist attack",
+      "url": "https://www.theguardian.com/australia-news/2025/dec/15/bondi-terror-attack-shooting-coverage-papers",
+      "source": "The Guardian",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T04:28:15+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "LA police investigate 'apparent homicide' at Rob Reiner's home",
+      "url": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "Europe",
+      "published": "2025-12-15T04:26:43+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Defence boost: Army to get 3 Apache attack copters; Navy to induct Seahawks",
       "url": "https://timesofindia.indiatimes.com/india/army-to-get-3-apache-attack-copters-navy-to-induct-seahawks/articleshow/125968313.cms",
       "source": "Times of India",
       "region": "Asia-Pacific",
       "published": "2025-12-15T04:24:47+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Temple horror in east Delhi: Priest\u2019s wife stabbed to death inside shrine; suspect detained",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/woman-killed-in-temple-cops-probe-enmity-towards-family/articleshow/125964820.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-12-15T04:06:26+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Calvert-Lewin one of England's best strikers, says Leeds boss Farke",
-      "url": "https://www.channelnewsasia.com/sport/calvert-lewin-one-englands-best-strikers-says-leeds-boss-farke-5581876",
-      "source": "Channel News Asia",
-      "region": "Europe",
-      "published": "2025-12-15T04:01:42+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "A 10-inch screen that fits in your pocket: Samsung\u2019s new foldable ends the portability vs size debate",
-      "url": "https://www.straitstimes.com/tech/10-inch-screen-in-your-pocket-samsung-galaxy-z-trifold-phone",
-      "source": "Straits Times",
-      "region": "Global",
-      "published": "2025-12-15T04:00:00+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "St Mirren stun Celtic 3-1 to win Scottish League Cup",
-      "url": "https://www.channelnewsasia.com/sport/st-mirren-stun-celtic-3-1-win-scottish-league-cup-5581871",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-12-15T03:57:29+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Brown University shooting: Suspect identified as 24-year-old Benjamin Erickson \u2014 who is he?",
-      "url": "https://timesofindia.indiatimes.com/world/us/brown-university-shooting-suspect-identified-as-24-year-old-benjamin-erickson-who-is-he/articleshow/125966678.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-12-15T03:44:08+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "US military plane nearly collides with passenger jet near Venezuela \u2013 media",
-      "url": "https://www.rt.com/news/629451-us-air-tanker-collision/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "source": "RT News",
-      "region": "North America",
-      "published": "2025-12-15T03:40:22+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Live Updates: Police Say They Plan to Charge Suspect in Hanukkah Shooting in Sydney",
-      "url": "https://www.nytimes.com/live/2025/12/14/world/sydney-bondi-beach-shooting",
-      "source": "New York Times",
-      "region": "Asia-Pacific",
-      "published": "2025-12-15T03:37:08+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Bondi beach shooting live updates: PM says national cabinet to discuss tougher gun laws today; police find additional firearm and IED at crime scene",
-      "url": "https://www.theguardian.com/australia-news/live/2025/dec/14/bondi-beach-shooting-live-updates-victims-terror-attack-jewish-festival-hanukah",
-      "source": "The Guardian",
-      "region": "Asia-Pacific",
-      "published": "2025-12-15T03:33:23+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Jimmy Lai verdict: Hong Kong court finds pro-democracy figure guilty of all charges \u2013 live",
-      "url": "https://www.theguardian.com/world/live/2025/dec/15/jimmy-lai-verdict-hong-kong-court-national-security-charges-live",
-      "source": "The Guardian",
-      "region": "Europe",
-      "published": "2025-12-15T03:33:18+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Hong Kong convicts Jimmy Lai in national security trial",
-      "url": "https://www.ft.com/content/0aecbfaf-80b8-43c3-bcf0-de6cbffdbf24",
-      "source": "Financial Times",
-      "region": "North America",
-      "published": "2025-12-15T03:32:06+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Brown University shooting latest: Police say \u2018person of interest\u2019 detained after two dead and nine injured in attack",
-      "url": "https://www.independent.co.uk/news/world/americas/brown-university-shooting-suspect-benjamin-erickson-rhode-island-live-updates-b2884401.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-15T03:31:53+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Hong Kong court finds pro-democracy activist Jimmy Lai guilty of sedition and collusion with foreign forces",
-      "url": "https://www.cnbc.com/2025/12/15/hong-kong-court-finds-pro-democracy-activist-jimmy-lai-guilty-of-collusion-with-foreign-forces.html",
-      "source": "CNBC",
-      "region": "North America",
-      "published": "2025-12-15T03:30:26+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "South Korean police raid Unification Church \u2018palace\u2019 in bribery sweep",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3336428/south-korean-police-raid-unification-church-palace-bribery-sweep?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-12-15T03:29:59+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Two people found dead inside director and actor Rob Reiner's home",
-      "url": "https://www.abc.net.au/news/2025-12-15/two-found-dead-at-rob-reiners-home-brentwood/106145062",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-12-15T03:28:47+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Here\u2019s the latest.",
-      "url": "https://www.nytimes.com/live/2025/12/15/world/hong-kong-jimmy-lai/heres-the-latest",
-      "source": "New York Times",
-      "region": "North America",
-      "published": "2025-12-15T03:23:44+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Korea Zinc Shares Jump on Report of $6.8 Billion US Smelter",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-15/korea-zinc-shares-jump-on-report-of-6-8-billion-us-smelter",
-      "source": "Bloomberg",
-      "region": "North America",
-      "published": "2025-12-15T03:23:05+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "2 people found dead in home owned by Rob Reiner, AP source says",
-      "url": "https://www.independent.co.uk/news/rob-reiner-los-angeles-los-angeles-fire-department-hollywood-brentwood-b2884406.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-12-15T03:22:01+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "2 people found dead in Los Angeles home of director Rob Reiner",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3336427/2-people-found-dead-los-angeles-home-director-rob-reiner?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "North America",
-      "published": "2025-12-15T03:21:17+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Police urge unity, caution against \u2018retribution\u2019 in wake of shooting",
-      "url": "https://www.washingtonpost.com",
-      "source": "Washington Post",
-      "region": "North America",
-      "published": "2025-12-15T03:20:03+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Cold wave alert for four Telangana districts on December 15",
-      "url": "https://www.thehindu.com/news/national/telangana/cold-wave-alert-for-four-telangana-districts-on-december-15/article70395552.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-15T03:20:00+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Attack took place at world-famous Sydney beach",
-      "url": "https://www.washingtonpost.com",
-      "source": "Washington Post",
-      "region": "North America",
-      "published": "2025-12-15T03:17:07+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Hong Kong media mogul Jimmy Lai found guilty of sedition and collusion",
-      "url": "https://www.abc.net.au/news/2025-12-15/hong-kong-media-mogul-jimmy-lai-guilty-sedition-collusion/106143206",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-12-15T03:16:22+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Morgan Stanley's Xing on China Data",
-      "url": "https://www.bloomberg.com/news/videos/2025-12-15/morgan-stanley-s-xing-on-china-data-video",
-      "source": "Bloomberg",
-      "region": "North America",
-      "published": "2025-12-15T03:16:03+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Inter edge Genoa to claim Serie A top spot",
-      "url": "https://www.channelnewsasia.com/sport/inter-edge-genoa-claim-serie-top-spot-5581846",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-12-15T03:14:49+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "6 remain critically injured, 27 in hospital following Sydney terror attack",
-      "url": "https://www.timesofisrael.com/liveblog-december-15-2025/",
-      "source": "Times of Israel",
-      "region": "Europe",
-      "published": "2025-12-15T03:14:43+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Japan\u2019s retreat from global health funding hands China diplomatic opening",
-      "url": "https://www.scmp.com/week-asia/politics/article/3336378/japans-retreat-global-health-funding-hands-china-diplomatic-opening?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-12-15T03:14:05+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Two people found dead inside Rob Reiner\u2019s home in Los Angeles",
-      "url": "https://www.independent.co.uk/news/world/americas/crime/rob-reiner-los-angeles-dead-homicide-investigation-b2884397.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-12-15T03:13:01+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Emergency Responders Recount Horror of Sydney Shooting",
-      "url": "https://www.nytimes.com/2025/12/14/world/australia/emergency-responders-sydney-shooting-recount-horror.html",
-      "source": "New York Times",
-      "region": "Europe",
-      "published": "2025-12-15T03:11:03+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Maternity leave turns costly for PG doctors; doctors\u2019 body seeks waiver of rejoining fee",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/maternity-leave-turns-costly-for-pg-doctors-doctors-body-seeks-waiver-of-rejoining-fee/article70395725.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-12-15T03:10:00+05:30",
       "sentiment": "negative"
     }
   ]
