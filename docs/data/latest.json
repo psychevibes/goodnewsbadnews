@@ -1,75 +1,83 @@
 {
-  "generated_at": "2025-12-15T04:42:57.934380+00:00",
+  "generated_at": "2025-12-15T05:27:39.466629+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 766,
-    "neutral": 268,
-    "negative": 1097
+    "positive": 784,
+    "neutral": 273,
+    "negative": 1120
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 92,
-      "neutral": 29,
+      "positive": 94,
+      "neutral": 31,
       "negative": 154,
-      "count": 275,
+      "count": 279,
       "region": "North America"
     },
     {
       "source": "The Hindu",
       "positive": 83,
-      "neutral": 56,
-      "negative": 72,
-      "count": 211,
+      "neutral": 57,
+      "negative": 70,
+      "count": 210,
       "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
-      "positive": 51,
+      "positive": 53,
       "neutral": 8,
-      "negative": 72,
-      "count": 131,
+      "negative": 73,
+      "count": 134,
       "region": "Asia-Pacific"
     },
     {
       "source": "Australian Broadcasting Corporation",
       "positive": 27,
-      "neutral": 7,
-      "negative": 77,
-      "count": 111,
+      "neutral": 8,
+      "negative": 82,
+      "count": 117,
       "region": "Asia-Pacific"
     },
     {
       "source": "The Guardian",
       "positive": 22,
       "neutral": 4,
-      "negative": 72,
-      "count": 98,
-      "region": "Asia-Pacific"
+      "negative": 76,
+      "count": 102,
+      "region": "Europe"
     },
     {
       "source": "Channel News Asia",
       "positive": 42,
-      "neutral": 18,
+      "neutral": 19,
       "negative": 34,
-      "count": 94,
-      "region": "Asia-Pacific"
+      "count": 95,
+      "region": "Global"
     },
     {
       "source": "CBS News",
       "positive": 42,
       "neutral": 10,
-      "negative": 39,
-      "count": 91,
+      "negative": 40,
+      "count": 92,
       "region": "North America"
     },
     {
       "source": "Fox News",
-      "positive": 29,
+      "positive": 30,
       "neutral": 7,
-      "negative": 48,
+      "negative": 47,
       "count": 84,
-      "region": "Middle East"
+      "region": "North America"
+    },
+    {
+      "source": "South China Morning Post",
+      "positive": 36,
+      "neutral": 1,
+      "negative": 46,
+      "count": 83,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Sky Sports",
@@ -80,28 +88,28 @@
       "region": "Europe"
     },
     {
-      "source": "South China Morning Post",
-      "positive": 34,
-      "neutral": 1,
-      "negative": 44,
-      "count": 79,
-      "region": "Asia-Pacific"
-    },
-    {
       "source": "BBC News",
       "positive": 22,
-      "neutral": 9,
+      "neutral": 10,
       "negative": 44,
-      "count": 75,
+      "count": 76,
       "region": "North America"
     },
     {
       "source": "BBC Sport",
-      "positive": 48,
+      "positive": 49,
       "neutral": 7,
       "negative": 11,
-      "count": 66,
+      "count": 67,
       "region": "Europe"
+    },
+    {
+      "source": "Bloomberg",
+      "positive": 26,
+      "neutral": 8,
+      "negative": 23,
+      "count": 57,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Al Jazeera English",
@@ -109,15 +117,15 @@
       "neutral": 9,
       "negative": 36,
       "count": 57,
-      "region": "Europe"
+      "region": "Middle East"
     },
     {
-      "source": "Bloomberg",
-      "positive": 25,
-      "neutral": 6,
-      "negative": 22,
-      "count": 53,
-      "region": "North America"
+      "source": "AllAfrica",
+      "positive": 27,
+      "neutral": 3,
+      "negative": 20,
+      "count": 50,
+      "region": "Europe"
     },
     {
       "source": "ESPN",
@@ -129,9 +137,17 @@
     },
     {
       "source": "New York Times",
-      "positive": 11,
-      "neutral": 6,
-      "negative": 32,
+      "positive": 10,
+      "neutral": 5,
+      "negative": 34,
+      "count": 49,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "NBC News",
+      "positive": 13,
+      "neutral": 8,
+      "negative": 28,
       "count": 49,
       "region": "North America"
     },
@@ -144,60 +160,44 @@
       "region": "North America"
     },
     {
-      "source": "NBC News",
-      "positive": 11,
-      "neutral": 10,
-      "negative": 27,
-      "count": 48,
-      "region": "North America"
+      "source": "Washington Post",
+      "positive": 6,
+      "neutral": 9,
+      "negative": 30,
+      "count": 45,
+      "region": "Europe"
     },
     {
-      "source": "Washington Post",
-      "positive": 5,
-      "neutral": 9,
-      "negative": 29,
-      "count": 43,
-      "region": "North America"
+      "source": "Times of Israel",
+      "positive": 6,
+      "neutral": 2,
+      "negative": 32,
+      "count": 40,
+      "region": "Middle East"
     },
     {
       "source": "Straits Times",
       "positive": 12,
       "neutral": 9,
-      "negative": 19,
-      "count": 40,
+      "negative": 15,
+      "count": 36,
       "region": "Global"
-    },
-    {
-      "source": "Times of Israel",
-      "positive": 5,
-      "neutral": 1,
-      "negative": 32,
-      "count": 38,
-      "region": "South America"
-    },
-    {
-      "source": "Financial Times",
-      "positive": 9,
-      "neutral": 5,
-      "negative": 18,
-      "count": 32,
-      "region": "North America"
-    },
-    {
-      "source": "AllAfrica",
-      "positive": 20,
-      "neutral": 2,
-      "negative": 10,
-      "count": 32,
-      "region": "North America"
     },
     {
       "source": "Euronews",
       "positive": 8,
       "neutral": 0,
-      "negative": 24,
-      "count": 32,
-      "region": "Europe"
+      "negative": 25,
+      "count": 33,
+      "region": "Middle East"
+    },
+    {
+      "source": "Financial Times",
+      "positive": 7,
+      "neutral": 3,
+      "negative": 16,
+      "count": 26,
+      "region": "Global"
     },
     {
       "source": "Daily News Egypt",
@@ -208,20 +208,20 @@
       "region": "Africa"
     },
     {
+      "source": "Deutsche Welle",
+      "positive": 6,
+      "neutral": 0,
+      "negative": 16,
+      "count": 22,
+      "region": "North America"
+    },
+    {
       "source": "ABC News",
       "positive": 4,
       "neutral": 4,
       "negative": 13,
       "count": 21,
       "region": "North America"
-    },
-    {
-      "source": "Deutsche Welle",
-      "positive": 6,
-      "neutral": 0,
-      "negative": 14,
-      "count": 20,
-      "region": "Africa"
     },
     {
       "source": "Middle East Eye",
@@ -248,6 +248,14 @@
       "region": "North America"
     },
     {
+      "source": "Mashable",
+      "positive": 12,
+      "neutral": 2,
+      "negative": 1,
+      "count": 15,
+      "region": "Global"
+    },
+    {
       "source": "Sky News",
       "positive": 1,
       "neutral": 0,
@@ -262,14 +270,6 @@
       "negative": 7,
       "count": 15,
       "region": "Europe"
-    },
-    {
-      "source": "Mashable",
-      "positive": 11,
-      "neutral": 2,
-      "negative": 0,
-      "count": 13,
-      "region": "North America"
     },
     {
       "source": "CNBC",
@@ -330,39 +330,46 @@
   ],
   "by_region": [
     {
-      "region": "North America",
-      "positive": 231,
-      "neutral": 92,
-      "negative": 346,
-      "count": 669
+      "region": "Asia-Pacific",
+      "positive": 192,
+      "neutral": 79,
+      "negative": 409,
+      "count": 680
     },
     {
-      "region": "Asia-Pacific",
-      "positive": 187,
-      "neutral": 75,
-      "negative": 397,
-      "count": 659
+      "region": "North America",
+      "positive": 238,
+      "neutral": 88,
+      "negative": 347,
+      "count": 673
     },
     {
       "region": "Europe",
-      "positive": 201,
-      "neutral": 60,
+      "positive": 205,
+      "neutral": 62,
       "negative": 208,
-      "count": 469
+      "count": 475
     },
     {
       "region": "Global",
-      "positive": 69,
-      "neutral": 29,
-      "negative": 44,
-      "count": 142
+      "positive": 68,
+      "neutral": 30,
+      "negative": 49,
+      "count": 147
     },
     {
       "region": "Middle East",
       "positive": 19,
-      "neutral": 4,
-      "negative": 90,
-      "count": 113
+      "neutral": 5,
+      "negative": 91,
+      "count": 115
+    },
+    {
+      "region": "Africa",
+      "positive": 28,
+      "neutral": 6,
+      "negative": 11,
+      "count": 45
     },
     {
       "region": "South America",
@@ -370,85 +377,78 @@
       "neutral": 3,
       "negative": 5,
       "count": 42
-    },
-    {
-      "region": "Africa",
-      "positive": 25,
-      "neutral": 5,
-      "negative": 7,
-      "count": 37
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 194,
+      "positive": 197,
       "neutral": 55,
       "negative": 260,
-      "count": 509
+      "count": 512
     },
     {
       "topic": "Politics",
-      "positive": 161,
-      "neutral": 39,
-      "negative": 210,
-      "count": 410
+      "positive": 165,
+      "neutral": 41,
+      "negative": 220,
+      "count": 426
     },
     {
       "topic": "Other",
-      "positive": 96,
-      "neutral": 77,
-      "negative": 225,
-      "count": 398
+      "positive": 99,
+      "neutral": 79,
+      "negative": 230,
+      "count": 408
     },
     {
       "topic": "Sports",
-      "positive": 108,
+      "positive": 112,
       "neutral": 36,
-      "negative": 65,
-      "count": 209
+      "negative": 66,
+      "count": 214
     },
     {
       "topic": "World",
-      "positive": 67,
-      "neutral": 12,
-      "negative": 119,
-      "count": 198
+      "positive": 69,
+      "neutral": 13,
+      "negative": 117,
+      "count": 199
     },
     {
       "topic": "Business",
       "positive": 54,
       "neutral": 16,
-      "negative": 36,
-      "count": 106
+      "negative": 37,
+      "count": 107
     },
     {
       "topic": "Entertainment",
-      "positive": 37,
-      "neutral": 12,
-      "negative": 39,
-      "count": 88
+      "positive": 38,
+      "neutral": 11,
+      "negative": 47,
+      "count": 96
     },
     {
       "topic": "Local",
-      "positive": 17,
+      "positive": 20,
       "neutral": 4,
       "negative": 62,
-      "count": 83
+      "count": 86
     },
     {
       "topic": "Health",
-      "positive": 14,
+      "positive": 13,
       "neutral": 6,
-      "negative": 58,
-      "count": 78
+      "negative": 57,
+      "count": 76
     },
     {
       "topic": "Regional",
-      "positive": 10,
-      "neutral": 6,
-      "negative": 18,
-      "count": 34
+      "positive": 9,
+      "neutral": 7,
+      "negative": 19,
+      "count": 35
     },
     {
       "topic": "Science",
@@ -481,6 +481,46 @@
       "source": "BBC Sport",
       "region": "North America",
       "published": "2025-12-23T22:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "IP rider changes meant to address growing shift from private to public healthcare: Ong Ye Kung",
+      "url": "https://www.channelnewsasia.com/singapore/integrated-shield-plan-rider-private-hospital-insurance-premium-ong-ye-kung-5582561",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-12-15T13:05:18+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Analysis:Old meets new economy: AI boom to supercharge European banks' rally",
+      "url": "https://www.channelnewsasia.com/business/analysisold-meets-new-economy-ai-boom-supercharge-european-banks-rally-5582621",
+      "source": "Channel News Asia",
+      "region": "Europe",
+      "published": "2025-12-15T13:02:14+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Veteran Singapore Chinese singer Ling Xiao dies aged 75",
+      "url": "https://www.channelnewsasia.com/entertainment/ling-xiao-veteran-singapore-chinese-singer-dies-75-5582396",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T12:58:02+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Man charged with molesting his 9-year-old son while boy was asleep",
+      "url": "https://www.straitstimes.com/singapore/courts-crime/man-charged-with-molesting-his-9-year-old-son-while-boy-was-asleep",
+      "source": "Straits Times",
+      "region": "Global",
+      "published": "2025-12-15T12:50:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Changi Airport to hold free exhibition in early 2026 on how T5 will be built; public sign-ups now open",
+      "url": "https://www.straitstimes.com/singapore/transport/changi-airport-to-hold-free-exhibition-in-early-2026-on-how-t5-will-be-built-public-sign-ups-now",
+      "source": "Straits Times",
+      "region": "Global",
+      "published": "2025-12-15T12:42:00+08:00",
       "sentiment": "positive"
     },
     {
@@ -548,6 +588,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Director-actor Rob Reiner and his wife found dead with stab wounds in Los Angeles home: Source",
+      "url": "https://www.channelnewsasia.com/world/rob-reiner-us-california-mansion-people-found-dead-5582456",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2025-12-15T11:32:00+08:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Taylor Swift gave millions in bonuses to Eras Tour staff, fans speculate dancers got US$750,000 each",
       "url": "https://www.channelnewsasia.com/entertainment/taylor-swift-bonus-eras-tour-dancers-how-much-5582216",
       "source": "Channel News Asia",
@@ -569,6 +617,14 @@
       "source": "Channel News Asia",
       "region": "Global",
       "published": "2025-12-15T10:54:00+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Parliament Winter session Day 11 LIVE: Lok Sabha to take up Grants and Appropriation Bill",
+      "url": "https://www.thehindu.com/news/national/parliament-winter-session-lok-sabha-rajya-sabha-day-11-live-updates-december-15-2025/article70397841.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T10:45:17+05:30",
       "sentiment": "positive"
     },
     {
@@ -612,12 +668,36 @@
       "sentiment": "negative"
     },
     {
+      "title": "'NDA never talked of killing anyone': Rijiju slams Rahul over anti-PM slogans at rally",
+      "url": "https://timesofindia.indiatimes.com/india/nda-never-talked-of-killing-anyone-kiren-rijiju-slams-rahul-gandhi-over-anti-pm-modi-slogans-at-congress-rally-seeks-apology/articleshow/125970640.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T10:33:17+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Squash World Cup: India claim maiden title, blank Hong Kong 3-0 in final",
+      "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/squash-world-cup-india-claim-maiden-title-blank-hong-kong-3-0-in-final/articleshow/125970950.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T10:29:52+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "CPF Basic Healthcare Sum to rise to $79,000 for those under 65 from Jan 1",
       "url": "https://www.straitstimes.com/singapore/cpf-basic-healthcare-sum-to-rise-to-79000-for-those-under-65-from-jan-1",
       "source": "Straits Times",
       "region": "North America",
       "published": "2025-12-15T10:24:47+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "EC appoints 5 nodal officers for EVM first-level checking ahead of 2026 Bengal Assembly polls",
+      "url": "https://www.thehindu.com/news/national/west-bengal/ec-appoints-5-nodal-officers-for-evm-first-level-checking-ahead-of-2026-bengal-assembly-polls/article70397762.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T10:15:49+05:30",
+      "sentiment": "neutral"
     },
     {
       "title": "Lady Gaga pauses Sydney concert after dancer falls off stage",
@@ -660,12 +740,28 @@
       "sentiment": "negative"
     },
     {
+      "title": "Lionel Messi's Delhi itinerary: Timings, events and tickets for GOAT India tour finale",
+      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/lionel-messis-delhi-itinerary-timings-events-and-tickets-for-goat-india-tour-finale/articleshow/125970163.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T09:52:32+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "'Safety our top priority': Govt issues 'heavy fog alert' across Northern India'; flyers cautioned",
       "url": "https://timesofindia.indiatimes.com/india/safety-our-top-priority-civil-aviation-ministry-issues-heavy-fog-alert-in-northern-india-flyers-cautioned/articleshow/125970272.cms",
       "source": "Times of India",
       "region": "Asia-Pacific",
       "published": "2025-12-15T09:48:02+05:30",
       "sentiment": "positive"
+    },
+    {
+      "title": "'Poor visibility, potential flight disruptions': 'Heavy fog alert' across northern India; advisory issued",
+      "url": "https://timesofindia.indiatimes.com/india/safety-our-top-priority-civil-aviation-ministry-issues-heavy-fog-alert-in-northern-india-flyers-cautioned/articleshow/125970272.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T09:48:02+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Haryana IPS officer's death: Shatrujeet Kapur relieved from DGP charge",
@@ -700,6 +796,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Rob Reiner, wife found dead at Los Angeles home; son under suspicion \u2014 what we know",
+      "url": "https://timesofindia.indiatimes.com/world/us/film-director-rob-reiner-wife-michele-singer-found-dead-at-los-angeles-home-stabbing-suspected-what-we-know/articleshow/125969879.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-12-15T09:38:12+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "PM Modi embarks on three-nation visit beginning with Jordan",
       "url": "https://www.thehindu.com/news/national/pm-modi-embarks-on-three-nation-visit-beginning-with-jordan/article70397710.ece",
       "source": "The Hindu",
@@ -722,6 +826,14 @@
       "region": "Global",
       "published": "2025-12-15T09:27:27+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Bondi beach mass shooting: From a Holocaust survivor to a 10-yr-old child \u2014 who the victims were",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/bondi-beach-mass-shooting-from-a-holocaust-survivor-to-a-10-yr-old-child-who-the-victims-were/articleshow/125969935.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T09:23:39+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Stock market today: Nifty50 opens near 26,000; BSE Sensex down over 250 points",
@@ -773,6 +885,14 @@
     },
     {
       "title": "NIA to file chargesheet in Pahalgam terror attack case on December 15",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/nia-charge-sheet-in-pahalgam-terror-attack-case-on-december-15/article70397656.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T08:32:16+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "NIA to file charge sheet in Pahalgam terror attack case on December 15",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/nia-charge-sheet-in-pahalgam-terror-attack-case-on-december-15/article70397656.ece",
       "source": "The Hindu",
       "region": "Asia-Pacific",
@@ -988,11 +1108,91 @@
       "sentiment": "positive"
     },
     {
+      "title": "Hamas confirms killing of top commander in Israeli strike on Gaza",
+      "url": "http://www.euronews.com/2025/12/15/hamas-confirms-killing-of-top-commander-in-israeli-strike-on-gaza",
+      "source": "Euronews",
+      "region": "Middle East",
+      "published": "2025-12-15T05:48:37+01:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Don\u2019t breathe in Delhi: 3 stations hit max AQI of 500 as toxicity hits the roof; city gasps",
       "url": "https://timesofindia.indiatimes.com/city/delhi/dont-breathe-3-stns-max-out-as-toxicity-hits-roof/articleshow/125964623.cms",
       "source": "Times of India",
       "region": "Asia-Pacific",
       "published": "2025-12-15T05:29:56+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Welsh squads dig deep for Challenge Cup hat-trick",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/c36z8312w49o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "region": "Europe",
+      "published": "2025-12-15T05:22:19+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "China\u2019s home prices slide further in November as authorities vow to stabilise sector",
+      "url": "https://www.scmp.com/business/article/3336438/chinas-home-prices-slide-further-november-authorities-vow-stabilise-sector?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T05:19:54+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Rob Reiner and wife found dead at their home in Los Angeles",
+      "url": "https://www.independent.co.uk/news/world/americas/crime/rob-reiner-los-angeles-dead-homicide-investigation-b2884397.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-12-15T05:18:27+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "How gunmen killed 15 on Bondi beach in Australia\u2019s worst mass shooting in three decades",
+      "url": "https://www.independent.co.uk/news/world/australasia/bondi-beach-mass-shooting-shooters-victims-attack-b2884429.html",
+      "source": "Independent",
+      "region": "Asia-Pacific",
+      "published": "2025-12-15T05:16:12+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "How a Nvidia exec came to be a leader in the October 7 hostage advocacy movement",
+      "url": "https://www.timesofisrael.com/how-a-nvidia-exec-came-to-be-a-leader-in-the-october-7-hostage-advocacy-movement/",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "published": "2025-12-15T05:14:18+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Israeli military raids in Syria raise tensions as they carve out a buffer zone",
+      "url": "https://www.independent.co.uk/news/syria-israeli-beirut-donald-trump-bashar-assad-b2884433.html",
+      "source": "Independent",
+      "region": "Middle East",
+      "published": "2025-12-15T05:14:14+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Somalia: Somaliland, France Move to Deepen Ties As Heritage Project Launched",
+      "url": "https://allafrica.com/stories/202512150040.html",
+      "source": "AllAfrica",
+      "region": "Europe",
+      "published": "2025-12-15T05:13:40+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Somalia: Somaliland President Visits Borama Unrest Victims Hospital",
+      "url": "https://allafrica.com/stories/202512150041.html",
+      "source": "AllAfrica",
+      "region": "Global",
+      "published": "2025-12-15T05:13:40+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Kenya: Why the Nakuru-Naivasha Highway Remains One of Kenya's Deadliest Roads",
+      "url": "https://allafrica.com/stories/202512150028.html",
+      "source": "AllAfrica",
+      "region": "North America",
+      "published": "2025-12-15T05:13:33+00:00",
       "sentiment": "negative"
     },
     {
@@ -1004,259 +1204,59 @@
       "sentiment": "negative"
     },
     {
-      "title": "Canada: Two Punjabi youths ambushed in car after party; one shot dead, other dies of heart attack",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/2-from-mansa-gunned-down-in-canada-unidentifed-assailants-fire-shots-as-they-step-out-for-dinner-in-2-cars/articleshow/125964285.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-12-15T05:00:45+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "How to pick the right secondary school for your child",
-      "url": "https://www.straitstimes.com/singapore/parenting-education/not-sure-how-to-pick-the-right-secondary-school",
-      "source": "Straits Times",
-      "region": "Global",
-      "published": "2025-12-15T05:00:00+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "50 things I will always be grateful for",
-      "url": "https://www.straitstimes.com/singapore/parenting-education/50-things-i-will-always-be-grateful-for",
-      "source": "Straits Times",
-      "region": "Global",
-      "published": "2025-12-15T05:00:00+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "ST to launch PSLE Companion to help parents support their kids with exam preparation",
-      "url": "https://www.straitstimes.com/singapore/parenting-education/st-to-launch-psle-companion-to-help-parents-support-their-kids-in-preparing-for-the-examination",
-      "source": "Straits Times",
-      "region": "Global",
-      "published": "2025-12-15T05:00:00+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Get full access to PSLE companion",
-      "url": "https://www.straitstimes.com/singapore/get-full-access-to-psle-companion",
-      "source": "Straits Times",
-      "region": "Global",
-      "published": "2025-12-15T05:00:00+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "What can you do in the final stretch of PSLE revision?",
-      "url": "https://www.straitstimes.com/singapore/what-can-you-do-in-the-final-stretch-of-revision",
-      "source": "Straits Times",
-      "region": "Global",
-      "published": "2025-12-15T05:00:00+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Wondering how to support your child in his or her PSLE prep?",
-      "url": "https://www.straitstimes.com/singapore/wondering-how-to-support-your-child-in-his-or-her-prep",
-      "source": "Straits Times",
-      "region": "Global",
-      "published": "2025-12-15T05:00:00+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "2025 News Roundup: 10 local stories that got everyone talking this year",
-      "url": "https://www.straitstimes.com/singapore/2025-news-roundup-10-local-stories-that-got-everyone-talking-this-year",
-      "source": "Straits Times",
-      "region": "North America",
-      "published": "2025-12-15T05:00:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "How to appeal the secondary school posting results",
-      "url": "https://www.straitstimes.com/singapore/parenting-education/ask-sandra-how-to-appeal-the-secondary-school-posting-results",
-      "source": "Straits Times",
-      "region": "Global",
-      "published": "2025-12-15T05:00:00+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Is PSLE stress already getting to you?",
-      "url": "https://www.straitstimes.com/singapore/parenting-education/is-psle-stress-already-hitting-you",
-      "source": "Straits Times",
-      "region": "Global",
-      "published": "2025-12-15T05:00:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "How to help your child ace the transition to Secondary 1",
-      "url": "https://www.straitstimes.com/singapore/parenting-education/how-to-help-your-child-ace-the-transition-to-secondary-1",
-      "source": "Straits Times",
-      "region": "Global",
-      "published": "2025-12-15T05:00:00+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Successful gene therapy on child with rare Parkinson\u2019s disease offers hope for other patients",
-      "url": "https://www.straitstimes.com/singapore/health/successful-gene-therapy-on-child-with-rare-parkinsons-disease-offers-hope-for-other-patients",
-      "source": "Straits Times",
-      "region": "North America",
-      "published": "2025-12-15T05:00:00+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "US approves oral drug for adults with rare type of lung cancer after early clinical trials globally",
-      "url": "https://www.straitstimes.com/singapore/health/fda-gives-nod-to-oral-drug-for-rare-type-of-non-small-cell-lung-cancer",
-      "source": "Straits Times",
-      "region": "North America",
-      "published": "2025-12-15T05:00:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Australian police say father-son duo allegedly behind Sydney mass shooting",
-      "url": "https://www.channelnewsasia.com/world/australia-police-say-father-son-duo-allegedly-behind-sydney-mass-shooting-5581916",
-      "source": "Channel News Asia",
+      "title": "The China Show 12/15/2025 (Video)",
+      "url": "https://www.bloomberg.com/news/videos/2025-12-15/the-china-show-12-15-2025-video",
+      "source": "Bloomberg",
       "region": "Asia-Pacific",
-      "published": "2025-12-15T05:00:00+08:00",
+      "published": "2025-12-15T05:11:16+00:00",
       "sentiment": "neutral"
     },
     {
-      "title": "Father and son behind Bondi mass shooting, Australia police say",
-      "url": "https://www.channelnewsasia.com/world/bondi-beach-shooting-australia-police-say-father-son-duo-allegedly-behind-attack-5581916",
-      "source": "Channel News Asia",
+      "title": "US: Director Rob Reiner, wife found dead in LA mansion",
+      "url": "https://www.dw.com/en/us-director-rob-reiner-wife-found-dead-in-la-mansion/a-75155567?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
       "region": "North America",
-      "published": "2025-12-15T05:00:00+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Father and son behind Bondi mass shooting, Australia police say",
-      "url": "https://www.channelnewsasia.com/world/bondi-beach-mass-shooting-australia-police-say-father-son-duo-behind-attack-5581916",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-12-15T05:00:00+08:00",
+      "published": "2025-12-15T05:11:00+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "2025 news round-up: 10 local stories that got everyone talking this year",
-      "url": "https://www.straitstimes.com/singapore/2025-news-roundup-10-local-stories-that-got-everyone-talking-this-year",
-      "source": "Straits Times",
-      "region": "North America",
-      "published": "2025-12-15T05:00:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Messi in Mumbai: CM Fadnavis, Ajay Devgn &amp; Tiger Shroff booed by crowd - Watch",
-      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/lionel-messi-goat-india-tour-goes-wrong-cm-devendra-fadnavis-ajay-devgn-and-tiger-shroff-booed-by-crowd-watch/articleshow/125964585.cms",
-      "source": "Times of India",
+      "title": "Police Plan to Charge Suspect",
+      "url": "https://www.nytimes.com/live/2025/12/14/world/sydney-bondi-beach-shooting",
+      "source": "New York Times",
       "region": "Asia-Pacific",
-      "published": "2025-12-15T05:00:00+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Stanford AI Vibrancy Index: India climbs to third globally \u2014 what it means",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/india-ranks-3rd-in-stanford-ai-vibrancy-index/articleshow/125968330.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-12-15T04:44:57+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Brown University shooting latest: \u2018Person of interest\u2019 released and manhunt continues for suspect in attack that killed 2",
-      "url": "https://www.independent.co.uk/news/world/americas/brown-university-shooting-suspect-benjamin-erickson-rhode-island-live-updates-b2884401.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-12-15T04:41:05+00:00",
+      "published": "2025-12-15T05:08:27+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "What is Nato and will Ukraine become a member?",
-      "url": "https://www.independent.co.uk/news/world/europe/nato-ukraine-member-russia-zelensky-peace-talks-b2884421.html",
+      "title": "Militant groups are experimenting with AI, and the risks are expected to grow",
+      "url": "https://www.independent.co.uk/news/washington-one-site-intelligence-group-hackers-chatgpt-b2884431.html",
       "source": "Independent",
       "region": "Europe",
-      "published": "2025-12-15T04:41:00+00:00",
+      "published": "2025-12-15T05:07:02+00:00",
       "sentiment": "positive"
     },
     {
-      "title": "Ukraine-Russia war latest: MI6 chief to issue Putin warning after Zelensky offers to drop Nato ambitions",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-putin-trump-zelensky-nato-peace-talks-live-b2884408.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-15T04:40:09+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Three independent directors of the Walkely Foundation resign over reform stoush",
-      "url": "https://www.abc.net.au/news/2025-12-15/adele-ferguson-board-directors-resign-from-walkley-foundation/106143900",
+      "title": "Brook to rein batting in after 'shocking' dismissals",
+      "url": "https://www.abc.net.au/news/2025-12-15/harry-brook-adelaide-test-cricket-bazball/106145512",
       "source": "Australian Broadcasting Corporation",
       "region": "Asia-Pacific",
-      "published": "2025-12-15T04:36:37+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "NSW inquest told how exploding lithium-ion batteries turned deadly",
-      "url": "https://www.abc.net.au/news/2025-12-15/lithium-battery-fire-inquest/106143100",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-12-15T04:36:32+00:00",
+      "published": "2025-12-15T05:04:39+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Far-right Kast wins landslide election in Chile against communist opponent",
-      "url": "https://www.timesofisrael.com/far-right-kast-wins-landslide-election-in-chile-against-communist-opponent/",
-      "source": "Times of Israel",
-      "region": "South America",
-      "published": "2025-12-15T04:34:14+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "No heightened risk in WA after Bondi Beach terror attack, premier says",
-      "url": "https://www.abc.net.au/news/2025-12-15/wa-government-meets-with-jewish-leaders-after-bondi-attack/106143968",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-12-15T04:32:32+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "China-US AI gap narrows, South Koreans snub K-pop: 5 weekend reads you missed",
-      "url": "https://www.scmp.com/news/world/article/3336431/china-us-ai-gap-narrows-south-koreans-snub-k-pop-5-weekend-reads-you-missed?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-12-15T04:30:10+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Bondi beach shooting live updates: Albanese says national cabinet to discuss tougher gun laws today; butchered pig heads found at Muslim cemetery in Sydney",
-      "url": "https://www.theguardian.com/australia-news/live/2025/dec/14/bondi-beach-shooting-live-updates-victims-terror-attack-jewish-festival-hanukah",
-      "source": "The Guardian",
-      "region": "Asia-Pacific",
-      "published": "2025-12-15T04:28:29+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Super flu or a cold? Here are the symptoms to look out for",
-      "url": "https://www.independent.co.uk/news/health/superflu-cold-difference-symptoms-cause-signs-vaccine-b2884420.html",
+      "title": "Louvre faces fresh test as staff weigh strike after jewel heist and June shutdown",
+      "url": "https://www.independent.co.uk/news/louvre-paris-employees-france-visitors-b2884430.html",
       "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-15T04:28:27+00:00",
-      "sentiment": "negative"
+      "region": "North America",
+      "published": "2025-12-15T05:03:56+00:00",
+      "sentiment": "positive"
     },
     {
-      "title": "\u2018Horror and heroism at Bondi\u2019: what the papers say about the Sydney terrorist attack",
-      "url": "https://www.theguardian.com/australia-news/2025/dec/15/bondi-terror-attack-shooting-coverage-papers",
-      "source": "The Guardian",
+      "title": "ANU stabbing victim tells court she's 'riddled with flashbacks'",
+      "url": "https://www.abc.net.au/news/2025-12-15/act-alex-ophel-attempted-murder-two-women-anu-trial-begins/106144496",
+      "source": "Australian Broadcasting Corporation",
       "region": "Asia-Pacific",
-      "published": "2025-12-15T04:28:15+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "LA police investigate 'apparent homicide' at Rob Reiner's home",
-      "url": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "Europe",
-      "published": "2025-12-15T04:26:43+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Defence boost: Army to get 3 Apache attack copters; Navy to induct Seahawks",
-      "url": "https://timesofindia.indiatimes.com/india/army-to-get-3-apache-attack-copters-navy-to-induct-seahawks/articleshow/125968313.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-12-15T04:24:47+05:30",
+      "published": "2025-12-15T05:03:09+00:00",
       "sentiment": "negative"
     }
   ]
