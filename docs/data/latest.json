@@ -1,57 +1,57 @@
 {
-  "generated_at": "2025-12-20T21:18:45.289323+00:00",
+  "generated_at": "2025-12-20T21:40:01.349009+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 758,
-    "neutral": 227,
-    "negative": 828
+    "positive": 744,
+    "neutral": 225,
+    "negative": 827
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 110,
-      "neutral": 39,
+      "positive": 112,
+      "neutral": 38,
       "negative": 143,
-      "count": 292,
+      "count": 293,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
       "positive": 95,
       "neutral": 56,
-      "negative": 77,
-      "count": 228,
-      "region": "North America"
+      "negative": 80,
+      "count": 231,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
-      "positive": 57,
+      "positive": 56,
       "neutral": 8,
-      "negative": 76,
-      "count": 141,
+      "negative": 75,
+      "count": 139,
       "region": "Asia-Pacific"
     },
     {
       "source": "Fox News",
-      "positive": 34,
-      "neutral": 5,
+      "positive": 32,
+      "neutral": 3,
       "negative": 60,
-      "count": 99,
+      "count": 95,
       "region": "North America"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 41,
+      "positive": 43,
       "neutral": 5,
       "negative": 37,
-      "count": 83,
+      "count": 85,
       "region": "Asia-Pacific"
     },
     {
       "source": "CBS News",
       "positive": 38,
-      "neutral": 5,
-      "negative": 36,
+      "neutral": 6,
+      "negative": 35,
       "count": 79,
       "region": "North America"
     },
@@ -72,36 +72,36 @@
       "region": "Europe"
     },
     {
-      "source": "Channel News Asia",
-      "positive": 32,
-      "neutral": 9,
-      "negative": 22,
-      "count": 63,
-      "region": "Global"
-    },
-    {
       "source": "South China Morning Post",
-      "positive": 33,
+      "positive": 32,
       "neutral": 2,
       "negative": 27,
-      "count": 62,
+      "count": 61,
       "region": "North America"
     },
     {
       "source": "Sky Sports",
-      "positive": 30,
+      "positive": 28,
       "neutral": 15,
       "negative": 17,
-      "count": 62,
+      "count": 60,
       "region": "Europe"
     },
     {
+      "source": "Channel News Asia",
+      "positive": 28,
+      "neutral": 9,
+      "negative": 20,
+      "count": 57,
+      "region": "Middle East"
+    },
+    {
       "source": "The Guardian",
-      "positive": 26,
+      "positive": 25,
       "neutral": 2,
-      "negative": 23,
+      "negative": 24,
       "count": 51,
-      "region": "Asia-Pacific"
+      "region": "North America"
     },
     {
       "source": "Al Jazeera English",
@@ -115,9 +115,9 @@
       "source": "ESPN",
       "positive": 22,
       "neutral": 9,
-      "negative": 13,
-      "count": 44,
-      "region": "North America"
+      "negative": 14,
+      "count": 45,
+      "region": "Global"
     },
     {
       "source": "Times of Israel",
@@ -131,24 +131,24 @@
       "source": "France 24",
       "positive": 7,
       "neutral": 0,
-      "negative": 28,
-      "count": 35,
+      "negative": 27,
+      "count": 34,
       "region": "North America"
     },
     {
       "source": "NBC News",
-      "positive": 13,
-      "neutral": 10,
+      "positive": 11,
+      "neutral": 8,
       "negative": 12,
-      "count": 35,
+      "count": 31,
       "region": "North America"
     },
     {
       "source": "Middle East Eye",
       "positive": 6,
       "neutral": 0,
-      "negative": 21,
-      "count": 27,
+      "negative": 20,
+      "count": 26,
       "region": "Middle East"
     },
     {
@@ -193,11 +193,19 @@
     },
     {
       "source": "Wired",
-      "positive": 13,
+      "positive": 11,
       "neutral": 3,
       "negative": 2,
-      "count": 18,
+      "count": 16,
       "region": "Global"
+    },
+    {
+      "source": "Deutsche Welle",
+      "positive": 1,
+      "neutral": 5,
+      "negative": 9,
+      "count": 15,
+      "region": "North America"
     },
     {
       "source": "Daily News Egypt",
@@ -208,36 +216,12 @@
       "region": "North America"
     },
     {
-      "source": "New York Times",
-      "positive": 3,
-      "neutral": 1,
-      "negative": 11,
-      "count": 15,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "The Verge",
-      "positive": 12,
-      "neutral": 1,
-      "negative": 2,
-      "count": 15,
-      "region": "Global"
-    },
-    {
       "source": "RT News",
-      "positive": 7,
-      "neutral": 1,
+      "positive": 6,
+      "neutral": 2,
       "negative": 6,
       "count": 14,
-      "region": "Europe"
-    },
-    {
-      "source": "Deutsche Welle",
-      "positive": 1,
-      "neutral": 4,
-      "negative": 9,
-      "count": 14,
-      "region": "South America"
+      "region": "North America"
     },
     {
       "source": "Irish Times",
@@ -248,10 +232,26 @@
       "region": "Global"
     },
     {
+      "source": "New York Times",
+      "positive": 2,
+      "neutral": 1,
+      "negative": 11,
+      "count": 14,
+      "region": "Asia-Pacific"
+    },
+    {
       "source": "Financial Times",
       "positive": 6,
       "neutral": 2,
       "negative": 6,
+      "count": 14,
+      "region": "Global"
+    },
+    {
+      "source": "The Verge",
+      "positive": 11,
+      "neutral": 1,
+      "negative": 2,
       "count": 14,
       "region": "Global"
     },
@@ -299,8 +299,8 @@
       "source": "Sky News",
       "positive": 0,
       "neutral": 2,
-      "negative": 4,
-      "count": 6,
+      "negative": 5,
+      "count": 7,
       "region": "North America"
     },
     {
@@ -315,8 +315,8 @@
       "source": "Ars Technica",
       "positive": 1,
       "neutral": 1,
-      "negative": 2,
-      "count": 4,
+      "negative": 1,
+      "count": 3,
       "region": "Europe"
     },
     {
@@ -331,38 +331,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 318,
-      "neutral": 78,
-      "negative": 334,
-      "count": 730
+      "positive": 305,
+      "neutral": 77,
+      "negative": 331,
+      "count": 713
     },
     {
       "region": "Asia-Pacific",
       "positive": 176,
       "neutral": 60,
-      "negative": 157,
-      "count": 393
+      "negative": 159,
+      "count": 395
     },
     {
       "region": "Europe",
-      "positive": 164,
-      "neutral": 55,
-      "negative": 172,
-      "count": 391
+      "positive": 163,
+      "neutral": 54,
+      "negative": 173,
+      "count": 390
     },
     {
       "region": "Middle East",
-      "positive": 24,
+      "positive": 25,
       "neutral": 13,
       "negative": 111,
-      "count": 148
+      "count": 149
     },
     {
       "region": "Global",
-      "positive": 63,
+      "positive": 62,
       "neutral": 17,
-      "negative": 42,
-      "count": 122
+      "negative": 41,
+      "count": 120
     },
     {
       "region": "South America",
@@ -382,73 +382,73 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 187,
-      "neutral": 53,
-      "negative": 241,
-      "count": 481
+      "positive": 185,
+      "neutral": 54,
+      "negative": 240,
+      "count": 479
     },
     {
       "topic": "Other",
       "positive": 133,
-      "neutral": 70,
-      "negative": 141,
-      "count": 344
+      "neutral": 69,
+      "negative": 139,
+      "count": 341
     },
     {
       "topic": "Politics",
-      "positive": 127,
-      "neutral": 35,
-      "negative": 157,
-      "count": 319
+      "positive": 120,
+      "neutral": 36,
+      "negative": 159,
+      "count": 315
     },
     {
       "topic": "Sports",
-      "positive": 109,
-      "neutral": 28,
-      "negative": 68,
-      "count": 205
+      "positive": 107,
+      "neutral": 27,
+      "negative": 69,
+      "count": 203
     },
     {
       "topic": "World",
-      "positive": 49,
+      "positive": 48,
       "neutral": 16,
-      "negative": 121,
-      "count": 186
+      "negative": 119,
+      "count": 183
     },
     {
       "topic": "Entertainment",
-      "positive": 49,
+      "positive": 50,
       "neutral": 6,
       "negative": 23,
-      "count": 78
+      "count": 79
     },
     {
       "topic": "Business",
-      "positive": 44,
+      "positive": 41,
       "neutral": 4,
       "negative": 14,
-      "count": 62
+      "count": 59
     },
     {
       "topic": "Health",
       "positive": 17,
-      "neutral": 3,
-      "negative": 28,
+      "neutral": 2,
+      "negative": 29,
       "count": 48
     },
     {
       "topic": "Local",
       "positive": 22,
       "neutral": 5,
-      "negative": 10,
-      "count": 37
+      "negative": 11,
+      "count": 38
     },
     {
       "topic": "Regional",
       "positive": 10,
-      "neutral": 3,
-      "negative": 16,
-      "count": 29
+      "neutral": 2,
+      "negative": 15,
+      "count": 27
     },
     {
       "topic": "Science",
@@ -481,6 +481,14 @@
       "source": "BBC Sport",
       "region": "North America",
       "published": "2025-12-23T22:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "US, Qatar, Egypt and Turkey urge restraint, push next phase of Gaza peace plan",
+      "url": "https://www.channelnewsasia.com/world/us-qatar-egypt-and-turkey-urge-restraint-push-next-phase-gaza-peace-plan-5653941",
+      "source": "Channel News Asia",
+      "region": "Middle East",
+      "published": "2025-12-21T05:29:00+08:00",
       "sentiment": "positive"
     },
     {
@@ -554,6 +562,14 @@
       "region": "Global",
       "published": "2025-12-21T02:50:55+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Where does India stand on child marriage? | Explained",
+      "url": "https://www.thehindu.com/news/national/where-does-india-stand-on-child-marriage-explained/article70420642.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-21T02:50:00+05:30",
+      "sentiment": "neutral"
     },
     {
       "title": "4th elephant death on rail tracks this year, toll rises to 94 since 2019",
@@ -1028,6 +1044,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Weighed down by grief: How Maharashtra residents are trying to fight malnutrition and lack of medical infrastructure",
+      "url": "https://www.thehindu.com/news/national/maharashtra/weighed-down-by-grief/article70407706.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T21:45:51+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "KCR will soon lead people\u2019s movement, says KTR",
       "url": "https://www.thehindu.com/news/national/telangana/kcr-will-soon-lead-peoples-movement-says-ktr/article70420394.ece",
       "source": "The Hindu",
@@ -1052,6 +1076,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "US seizes another oil tanker off Venezuela (VIDEO)",
+      "url": "https://www.rt.com/news/629828-us-seizes-venezuela-oil-tanker/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "source": "RT News",
+      "region": "North America",
+      "published": "2025-12-20T21:37:40+00:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Court grants anticipatory bail to director Kunju Muhammad in molestation case",
       "url": "https://www.thehindu.com/news/national/kerala/court-grants-anticipatory-bail-to-director-kunju-muhammad-in-molestation-case/article70420542.ece",
       "source": "The Hindu",
@@ -1066,6 +1098,38 @@
       "region": "Asia-Pacific",
       "published": "2025-12-20T21:35:35+05:30",
       "sentiment": "negative"
+    },
+    {
+      "title": "Everton vs Arsenal live: Gunners hit post twice in bid to extend lead in Premier League clash",
+      "url": "https://www.independent.co.uk/sport/football/everton-arsenal-score-result-live-stream-premier-league-b2888393.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-12-20T21:34:54+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "After a million kilometres, stock agent retires LandCruiser 4WD",
+      "url": "https://www.abc.net.au/news/2025-12-21/toyota-landcruiser-4wd-clocks-up-one-million-kilometres/106072806",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T21:32:55+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Strictly\u2019s Tess Daly and Claudia Winkleman receive special farewell message from Royalty",
+      "url": "https://www.independent.co.uk/tv/culture/strictly-tess-daly-claudia-winkleman-royalty-b2888408.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-12-20T21:32:05+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "US seizes another oil tanker off Venezuela",
+      "url": "https://www.dw.com/en/us-seizes-another-oil-tanker-off-venezuela/a-75255467?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "region": "North America",
+      "published": "2025-12-20T21:32:00+00:00",
+      "sentiment": "neutral"
     },
     {
       "title": "Hijab row: Doctor whose naqab was pulled by Nitish Kumar fails to join duty",
@@ -1132,11 +1196,27 @@
       "sentiment": "positive"
     },
     {
+      "title": "Bill Clinton spokesperson says White House is using him as scapegoat after Epstein files release",
+      "url": "https://www.theguardian.com/us-news/2025/dec/20/bill-clinton-white-house-epstein-files",
+      "source": "The Guardian",
+      "region": "North America",
+      "published": "2025-12-20T21:24:22+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Andhra Pradesh notifies sweeping amendments to building rules",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-notifies-sweeping-amendments-to-building-rules/article70420380.ece",
       "source": "The Hindu",
       "region": "North America",
       "published": "2025-12-20T21:24:00+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "The new Gungahlin cricket club growing at an 'exponential rate'",
+      "url": "https://www.abc.net.au/news/2025-12-21/the-new-gungahlin-cricket-club-growing-at-an-exponential-rate-/106166592",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T21:23:42+00:00",
       "sentiment": "positive"
     },
     {
@@ -1156,6 +1236,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Live: Day of Reflection begins as council plans to clear sea of tributes",
+      "url": "https://www.abc.net.au/news/2025-12-21/bondi-beach-shooting-national-day-of-reflection-live-blog/106166856",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T21:19:56+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Health Department directs district officials to step up preparedness to tackle anticipated rise in seasonal influenza cases",
       "url": "https://www.thehindu.com/news/national/karnataka/health-department-directs-district-officials-to-step-up-preparedness-to-tackle-anticipated-rise-in-seasonal-influenza-cases/article70420167.ece",
       "source": "The Hindu",
@@ -1164,99 +1252,11 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Strictly Come Dancing winner revealed after emotional final",
-      "url": "https://www.independent.co.uk/bulletin/culture/strictly-come-dancing-winners-karen-carney-carlos-gu-b2888401.html",
+      "title": "Thomas Frank unhappy with referee as nine-man Tottenham lose out to Liverpool",
+      "url": "https://www.independent.co.uk/sport/football/liverpool-alexander-isak-cristian-romero-xavi-simons-thomas-frank-b2888405.html",
       "source": "Independent",
       "region": "Europe",
-      "published": "2025-12-20T21:15:45+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Strictly Come Dancing final live: Winner announced as Tess Daly and Claudia Winkleman present their final show",
-      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/strictly-come-dancing-final-2025-time-tonight-live-updates-b2888307.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-20T21:15:37+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "CPI(M) to hold convention today after Statewide outreach campaign",
-      "url": "https://www.thehindu.com/news/national/karnataka/cpim-to-hold-convention-today-after-statewide-outreach-campaign/article70419985.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-20T21:14:45+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "'Dead zones' prompt tour operator to fund marine study",
-      "url": "https://www.abc.net.au/news/2025-12-21/dentrecasteaux-channel-imas-study-pennicott-tours/106097994",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-12-20T21:14:14+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Epstein victims angry over gaps and censorship in long-awaited file release",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3337204/epstein-victims-angry-over-gaps-and-censorship-long-awaited-file-release?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "North America",
-      "published": "2025-12-20T21:12:34+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Congress pushing Karnataka towards \u2018undeclared Emergency\u2019: Shobha Karandlaje",
-      "url": "https://www.thehindu.com/news/national/karnataka/congress-pushing-karnataka-towards-undeclared-emergency-shobha-karandlaje/article70419935.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-12-20T21:12:25+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "EU loan to Ukraine pushing bloc \u2018into war\u2019 with Russia \u2013 Orban",
-      "url": "https://www.rt.com/news/629827-eu-loan-ukraine-war-orban/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "source": "RT News",
-      "region": "Europe",
-      "published": "2025-12-20T21:10:51+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Strictly Come Dancing announces winner for 2025 series as Tess Daly and Claudia Winkleman say farewell",
-      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/strictly-come-dancing-winner-2025-b2888299.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-20T21:09:57+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Two from West Bengal held with  37 kg of suspected ganja",
-      "url": "https://www.thehindu.com/news/national/kerala/two-from-west-bengal-held-with-37-kg-of-suspected-ganja/article70420186.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-12-20T21:09:40+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Bondi terror attack updates: Australia marks day of mourning one week on from shooting",
-      "url": "https://www.theguardian.com/australia-news/live/2025/dec/21/bondi-beach-terror-attack-one-week-anniversary-day-of-reflection-reactions-sydney-vigil-memorial-nsw-protest-laws-police-powers-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
-      "source": "The Guardian",
-      "region": "Asia-Pacific",
-      "published": "2025-12-20T21:07:30+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Unrest back home unsettles Bangladeshi visitors in Kolkata; businesses hit",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/anxiety-spills-across-border-unrest-back-home-unsettles-bangla-visitors-in-kolkata/articleshow/126082339.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-12-20T21:06:47+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Alpine skiing-Von Allmen denies Odermatt in Val Gardena classic downhill",
-      "url": "https://www.channelnewsasia.com/sport/alpine-skiing-von-allmen-denies-odermatt-in-val-gardena-classic-downhill-5653666",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-12-20T21:06:43+08:00",
+      "published": "2025-12-20T21:15:55+00:00",
       "sentiment": "negative"
     }
   ]
