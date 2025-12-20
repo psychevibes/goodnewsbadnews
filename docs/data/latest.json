@@ -1,35 +1,27 @@
 {
-  "generated_at": "2025-12-20T05:46:19.065165+00:00",
+  "generated_at": "2025-12-20T06:32:25.667116+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 1194,
-    "neutral": 380,
-    "negative": 1233
+    "positive": 1192,
+    "neutral": 372,
+    "negative": 1224
   },
   "by_publication": [
     {
       "source": "Independent",
       "positive": 187,
-      "neutral": 104,
+      "neutral": 102,
       "negative": 250,
-      "count": 541,
-      "region": "Europe"
+      "count": 539,
+      "region": "North America"
     },
     {
       "source": "The Hindu",
-      "positive": 106,
-      "neutral": 79,
-      "negative": 90,
-      "count": 275,
-      "region": "North America"
-    },
-    {
-      "source": "Bloomberg",
-      "positive": 78,
-      "neutral": 15,
-      "negative": 51,
-      "count": 144,
-      "region": "North America"
+      "positive": 107,
+      "neutral": 78,
+      "negative": 86,
+      "count": 271,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
@@ -40,10 +32,18 @@
       "region": "Asia-Pacific"
     },
     {
+      "source": "Bloomberg",
+      "positive": 77,
+      "neutral": 14,
+      "negative": 47,
+      "count": 138,
+      "region": "North America"
+    },
+    {
       "source": "Fox News",
-      "positive": 43,
+      "positive": 44,
       "neutral": 9,
-      "negative": 69,
+      "negative": 68,
       "count": 121,
       "region": "North America"
     },
@@ -58,96 +58,104 @@
     {
       "source": "Channel News Asia",
       "positive": 34,
-      "neutral": 33,
-      "negative": 37,
-      "count": 104,
-      "region": "North America"
-    },
-    {
-      "source": "The Guardian",
-      "positive": 34,
-      "neutral": 5,
-      "negative": 65,
-      "count": 104,
-      "region": "North America"
+      "neutral": 30,
+      "negative": 35,
+      "count": 99,
+      "region": "Global"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 40,
+      "positive": 43,
       "neutral": 5,
-      "negative": 48,
-      "count": 93,
+      "negative": 47,
+      "count": 95,
       "region": "Asia-Pacific"
+    },
+    {
+      "source": "The Guardian",
+      "positive": 29,
+      "neutral": 5,
+      "negative": 61,
+      "count": 95,
+      "region": "North America"
     },
     {
       "source": "South China Morning Post",
-      "positive": 48,
+      "positive": 46,
       "neutral": 1,
-      "negative": 36,
+      "negative": 38,
       "count": 85,
-      "region": "Asia-Pacific"
+      "region": "North America"
     },
     {
       "source": "BBC Sport",
-      "positive": 51,
-      "neutral": 11,
-      "negative": 21,
+      "positive": 50,
+      "neutral": 10,
+      "negative": 23,
       "count": 83,
       "region": "Europe"
     },
     {
       "source": "BBC News",
-      "positive": 30,
-      "neutral": 11,
-      "negative": 39,
-      "count": 80,
+      "positive": 31,
+      "neutral": 10,
+      "negative": 40,
+      "count": 81,
       "region": "North America"
     },
     {
       "source": "Al Jazeera English",
       "positive": 20,
-      "neutral": 7,
-      "negative": 48,
+      "neutral": 8,
+      "negative": 47,
       "count": 75,
-      "region": "North America"
+      "region": "Middle East"
     },
     {
       "source": "AllAfrica",
       "positive": 29,
-      "neutral": 9,
+      "neutral": 7,
       "negative": 31,
-      "count": 69,
+      "count": 67,
       "region": "Africa"
     },
     {
       "source": "ESPN",
-      "positive": 31,
-      "neutral": 11,
-      "negative": 18,
-      "count": 60,
+      "positive": 32,
+      "neutral": 12,
+      "negative": 19,
+      "count": 63,
       "region": "Global"
-    },
-    {
-      "source": "Sky Sports",
-      "positive": 39,
-      "neutral": 6,
-      "negative": 8,
-      "count": 53,
-      "region": "Europe"
     },
     {
       "source": "France 24",
       "positive": 22,
       "neutral": 1,
-      "negative": 29,
+      "negative": 30,
+      "count": 53,
+      "region": "North America"
+    },
+    {
+      "source": "Sky Sports",
+      "positive": 38,
+      "neutral": 6,
+      "negative": 8,
       "count": 52,
-      "region": "Middle East"
+      "region": "Europe"
     },
     {
       "source": "Mashable",
-      "positive": 31,
-      "neutral": 6,
+      "positive": 32,
+      "neutral": 7,
       "negative": 10,
+      "count": 49,
+      "region": "Global"
+    },
+    {
+      "source": "Times of Israel",
+      "positive": 20,
+      "neutral": 0,
+      "negative": 27,
       "count": 47,
       "region": "North America"
     },
@@ -160,17 +168,9 @@
       "region": "North America"
     },
     {
-      "source": "Times of Israel",
-      "positive": 19,
-      "neutral": 0,
-      "negative": 25,
-      "count": 44,
-      "region": "Middle East"
-    },
-    {
       "source": "Euronews",
-      "positive": 20,
-      "neutral": 2,
+      "positive": 21,
+      "neutral": 1,
       "negative": 22,
       "count": 44,
       "region": "Europe"
@@ -195,41 +195,57 @@
       "source": "Irish Times",
       "positive": 7,
       "neutral": 3,
-      "negative": 22,
-      "count": 32,
+      "negative": 20,
+      "count": 30,
       "region": "Global"
-    },
-    {
-      "source": "Deutsche Welle",
-      "positive": 15,
-      "neutral": 1,
-      "negative": 13,
-      "count": 29,
-      "region": "Middle East"
     },
     {
       "source": "Middle East Eye",
       "positive": 5,
       "neutral": 0,
-      "negative": 24,
-      "count": 29,
+      "negative": 23,
+      "count": 28,
       "region": "Middle East"
     },
     {
       "source": "Straits Times",
       "positive": 9,
       "neutral": 4,
-      "negative": 15,
-      "count": 28,
+      "negative": 14,
+      "count": 27,
       "region": "Global"
     },
     {
+      "source": "Deutsche Welle",
+      "positive": 14,
+      "neutral": 1,
+      "negative": 12,
+      "count": 27,
+      "region": "Middle East"
+    },
+    {
       "source": "Wired",
-      "positive": 20,
+      "positive": 21,
       "neutral": 3,
       "negative": 2,
+      "count": 26,
+      "region": "Global"
+    },
+    {
+      "source": "Financial Times",
+      "positive": 9,
+      "neutral": 2,
+      "negative": 14,
       "count": 25,
       "region": "North America"
+    },
+    {
+      "source": "RT News",
+      "positive": 8,
+      "neutral": 1,
+      "negative": 16,
+      "count": 25,
+      "region": "Middle East"
     },
     {
       "source": "NPR",
@@ -237,22 +253,6 @@
       "neutral": 0,
       "negative": 12,
       "count": 25,
-      "region": "Middle East"
-    },
-    {
-      "source": "New York Times",
-      "positive": 5,
-      "neutral": 2,
-      "negative": 17,
-      "count": 24,
-      "region": "North America"
-    },
-    {
-      "source": "RT News",
-      "positive": 8,
-      "neutral": 1,
-      "negative": 15,
-      "count": 24,
       "region": "Middle East"
     },
     {
@@ -264,11 +264,11 @@
       "region": "North America"
     },
     {
-      "source": "Financial Times",
-      "positive": 10,
-      "neutral": 1,
-      "negative": 11,
-      "count": 22,
+      "source": "New York Times",
+      "positive": 5,
+      "neutral": 2,
+      "negative": 16,
+      "count": 23,
       "region": "North America"
     },
     {
@@ -313,11 +313,11 @@
     },
     {
       "source": "Telegraph",
-      "positive": 6,
+      "positive": 5,
       "neutral": 0,
-      "negative": 4,
+      "negative": 5,
       "count": 10,
-      "region": "North America"
+      "region": "Europe"
     },
     {
       "source": "Sky News",
@@ -339,37 +339,37 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 520,
-      "neutral": 118,
-      "negative": 534,
-      "count": 1172
+      "positive": 514,
+      "neutral": 116,
+      "negative": 530,
+      "count": 1160
     },
     {
       "region": "Europe",
-      "positive": 285,
-      "neutral": 107,
+      "positive": 283,
+      "neutral": 105,
       "negative": 258,
-      "count": 650
+      "count": 646
     },
     {
       "region": "Asia-Pacific",
-      "positive": 211,
-      "neutral": 85,
-      "negative": 205,
-      "count": 501
+      "positive": 216,
+      "neutral": 82,
+      "negative": 199,
+      "count": 497
     },
     {
       "region": "Global",
-      "positive": 110,
-      "neutral": 45,
-      "negative": 88,
-      "count": 243
+      "positive": 112,
+      "neutral": 44,
+      "negative": 89,
+      "count": 245
     },
     {
       "region": "Middle East",
-      "positive": 26,
+      "positive": 25,
       "neutral": 11,
-      "negative": 112,
+      "negative": 113,
       "count": 149
     },
     {
@@ -383,87 +383,87 @@
       "region": "South America",
       "positive": 9,
       "neutral": 6,
-      "negative": 18,
-      "count": 33
+      "negative": 17,
+      "count": 32
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
       "positive": 281,
-      "neutral": 86,
-      "negative": 329,
-      "count": 696
+      "neutral": 84,
+      "negative": 325,
+      "count": 690
     },
     {
       "topic": "Politics",
-      "positive": 237,
+      "positive": 234,
       "neutral": 74,
-      "negative": 250,
-      "count": 561
+      "negative": 242,
+      "count": 550
     },
     {
       "topic": "Other",
-      "positive": 169,
-      "neutral": 87,
-      "negative": 200,
-      "count": 456
+      "positive": 170,
+      "neutral": 83,
+      "negative": 201,
+      "count": 454
     },
     {
       "topic": "World",
-      "positive": 113,
-      "neutral": 18,
-      "negative": 204,
-      "count": 335
+      "positive": 112,
+      "neutral": 15,
+      "negative": 201,
+      "count": 328
     },
     {
       "topic": "Sports",
-      "positive": 148,
-      "neutral": 34,
-      "negative": 63,
-      "count": 245
+      "positive": 149,
+      "neutral": 35,
+      "negative": 69,
+      "count": 253
     },
     {
       "topic": "Business",
-      "positive": 112,
+      "positive": 111,
       "neutral": 26,
-      "negative": 41,
-      "count": 179
+      "negative": 39,
+      "count": 176
     },
     {
       "topic": "Entertainment",
-      "positive": 64,
+      "positive": 63,
       "neutral": 15,
-      "negative": 41,
-      "count": 120
+      "negative": 43,
+      "count": 121
     },
     {
       "topic": "Health",
-      "positive": 24,
-      "neutral": 12,
+      "positive": 23,
+      "neutral": 11,
       "negative": 46,
-      "count": 82
+      "count": 80
     },
     {
       "topic": "Local",
-      "positive": 21,
-      "neutral": 9,
-      "negative": 22,
-      "count": 52
+      "positive": 24,
+      "neutral": 10,
+      "negative": 23,
+      "count": 57
     },
     {
       "topic": "Regional",
       "positive": 10,
       "neutral": 11,
-      "negative": 22,
-      "count": 43
+      "negative": 21,
+      "count": 42
     },
     {
       "topic": "Science",
       "positive": 15,
       "neutral": 8,
-      "negative": 15,
-      "count": 38
+      "negative": 14,
+      "count": 37
     }
   ],
   "sample_headlines": [
@@ -489,6 +489,14 @@
       "source": "BBC Sport",
       "region": "North America",
       "published": "2025-12-23T22:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Hodge hundred helps West Indies avoid follow-on against NZ",
+      "url": "https://www.channelnewsasia.com/sport/hodge-hundred-helps-west-indies-avoid-follow-against-nz-5653431",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-12-20T13:56:09+08:00",
       "sentiment": "positive"
     },
     {
@@ -540,12 +548,44 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Goa nightclub fire: Police initiate process for Blue Corner Notice against Khosla who fled to U.K.",
+      "url": "https://www.thehindu.com/news/national/goa/goa-nightclub-fire-police-initiate-process-for-blue-corner-notice-against-khosla-who-fled-to-uk/article70418874.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T11:52:15+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "\u2018Sreenivasan gave me my best characters,\u2019 Urvashi reminisces",
+      "url": "https://www.thehindu.com/entertainment/movies/sreenivasan-gave-me-my-best-characters-urvashi-reminisces/article70418818.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T11:36:30+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "Key takeaways from release of Epstein files",
       "url": "https://www.channelnewsasia.com/world/epstein-files-department-justice-5653101",
       "source": "Channel News Asia",
       "region": "North America",
       "published": "2025-12-20T11:30:44+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Dense fog in Delhi: Over 100 flights cancelled at IGI Airport",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/over-100-flights-cancelled-at-delhi-airport-due-to-dense-fog/articleshow/126089280.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T11:29:30+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Take strict action against travel agents cheating people on pretext of sending them abroad: U.P. CM",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/take-strict-action-against-travel-agents-cheating-people-on-pretext-of-sending-them-abroad-up-cm/article70418779.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T11:24:01+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Google warns staff with US visas against international travel due to embassy delays, Business Insider says",
@@ -556,12 +596,44 @@
       "sentiment": "negative"
     },
     {
+      "title": "\u2018We shared a strong bond\u2019: Filmmaker Sathyan Anthikad remembers his longtime friend and collaborator Sreenivasan",
+      "url": "https://www.thehindu.com/news/national/kerala/sreenivasan-actor-death-and-sathyan-anthikad/article70418765.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T11:23:14+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Sreenivasan, a Thalassery legend, becomes part of history",
+      "url": "https://www.thehindu.com/entertainment/movies/sreenivasan-a-thalassery-legend-becomes-part-of-history/article70418800.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T11:19:50+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "As EV charging expands, start-up comes up with software to fix charger failures",
+      "url": "https://www.thehindu.com/news/national/karnataka/as-ev-charging-expands-start-up-comes-up-with-software-to-fix-charger-failures/article70415568.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-12-20T11:16:56+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Arsenal's Arteta says he has to earn the right to get contract extension",
       "url": "https://www.channelnewsasia.com/sport/arsenals-arteta-says-he-has-earn-right-get-contract-extension-5653316",
       "source": "Channel News Asia",
       "region": "Global",
       "published": "2025-12-20T11:07:25+08:00",
       "sentiment": "neutral"
+    },
+    {
+      "title": "Delaware top court restores Elon Musk's record $55bn Tesla pay package",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/big-win-for-elon-musk-delaware-top-court-restores-record-55-billion-tesla-pay-package-overturns-2024-ruling/articleshow/126089078.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-12-20T11:07:16+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "About 200 volunteers hit the streets of Singapore on Dec 20 to raise funds for residents of Gaza",
@@ -577,6 +649,14 @@
       "source": "The Hindu",
       "region": "North America",
       "published": "2025-12-20T11:03:31+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Anthony Joshua knocked out Jake Paul in round six to claim a hard-earned victory",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/anthony-joshua-knocked-out-jake-paul-in-round-six-to-claim-a-hard-earned-victory/articleshow/126088946.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T10:59:47+05:30",
       "sentiment": "positive"
     },
     {
@@ -618,6 +698,14 @@
       "region": "Asia-Pacific",
       "published": "2025-12-20T10:39:02+05:30",
       "sentiment": "negative"
+    },
+    {
+      "title": "SC gives protection to Bulandshahr girl and her mother",
+      "url": "https://timesofindia.indiatimes.com/india/sc-gives-protection-to-bulandshahr-girl-and-her-mother/articleshow/126088749.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T10:38:58+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "PM to address 1st rally in Bengal on Saturday after draft roll release amid SIR concerns of Matuas",
@@ -876,6 +964,14 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Polling underway for 23 municipal councils and nagar panchayats in Maharashtra",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-municipal-councils-nagar-panchayats-election-voting-begins/article70418569.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T08:35:33+05:30",
+      "sentiment": "neutral"
+    },
+    {
       "title": "7-Eleven Inc says CEO Jeo DePinto to retire",
       "url": "https://www.channelnewsasia.com/business/7-eleven-inc-says-ceo-jeo-depinto-retire-5653171",
       "source": "Channel News Asia",
@@ -924,6 +1020,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "South Delhi bizman shot 69 times: Another businessman\u2019s family suspected behind killing",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/canada-link-to-murder-of-citybizman-who-was-shot-69-times/articleshow/126082112.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T07:37:46+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "'I feel distracted when kids play': Ex-gym trainer assaults multiple children in Bengaluru",
       "url": "https://timesofindia.indiatimes.com/city/bengaluru/i-feel-distracted-when-kids-play-on-road-ex-gym-trainer-assaults-multiple-children-in-bengaluru-arrested-released-on-station-bail/articleshow/126087225.cms",
       "source": "Times of India",
@@ -940,11 +1044,35 @@
       "sentiment": "neutral"
     },
     {
+      "title": "AI data centres could have a carbon footprint that matches small European country, new study finds",
+      "url": "http://www.euronews.com/next/2025/12/20/ai-data-centres-could-have-a-carbon-footprint-that-matches-small-european-country-new-stud",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-12-20T07:01:18+01:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Gajar Halwa, Gajak on autopilot? Put heart health first this winter, warns physician",
       "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/gajar-halwa-and-gajak-on-autopilot-its-time-to-pause-and-put-heart-health-back-at-the-centre-of-winter-eating-warns-physician/articleshow/126087163.cms",
       "source": "Times of India",
       "region": "North America",
       "published": "2025-12-20T07:01:11+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Pension income across Europe: Which countries offer the highest pensions?",
+      "url": "http://www.euronews.com/business/2025/12/20/pension-income-across-europe-which-countries-offer-the-highest-pensions",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-12-20T07:00:52+01:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Latest news bulletin | December 20th, 2025 \u2013 Morning",
+      "url": "http://www.euronews.com/video/2025/12/20/latest-news-bulletin-december-20th-2025-morning",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2025-12-20T07:00:33+01:00",
       "sentiment": "positive"
     },
     {
@@ -956,11 +1084,51 @@
       "sentiment": "negative"
     },
     {
+      "title": "Bengaluru horror: Doctor molested while returning home at midnight after duty",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/doctor-molested-in-bengaluru-while-returning-home-at-midnight-after-duty/articleshow/126082593.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-12-20T06:51:56+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Trump Vs Nicolas: US imposes sanctions on family members: Who are they?",
       "url": "https://timesofindia.indiatimes.com/world/us/us-escalates-pressure-on-nicols-maduro-imposes-sanctions-on-family-members-who-are-they/articleshow/126087046.cms",
       "source": "Times of India",
       "region": "North America",
       "published": "2025-12-20T06:44:52+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "So far the only person seriously implicated in the files is Epstein himself",
+      "url": "https://www.abc.net.au/news/2025-12-20/white-house-pointing-at-clinton-after-epstein-files-release/106166576",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T06:29:37+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "'Oh no, what's he done?' - Brook bowled after reverse sweep attempt",
+      "url": "https://www.bbc.com/sport/cricket/videos/c4g5vg26jpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "Europe",
+      "published": "2025-12-20T06:25:17+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "'Oh no, what's he done?' - Brook bowled after reverse sweep attempt",
+      "url": "https://www.bbc.com/sport/cricket/videos/c4g5vg26jpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "region": "Europe",
+      "published": "2025-12-20T06:25:17+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "\u2018No leniency\u2019: Hong Kong minister vows tougher building safety laws after Tai Po fire",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3337166/no-leniency-hong-kong-minister-vows-tougher-building-safety-laws-after-tai-po-fire?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "North America",
+      "published": "2025-12-20T06:23:15+00:00",
       "sentiment": "negative"
     },
     {
@@ -972,12 +1140,68 @@
       "sentiment": "positive"
     },
     {
+      "title": "Anthony Joshua accused of \u2018shameful\u2019 performance against Joshua Paul to taint \u2018legacy\u2019",
+      "url": "https://www.independent.co.uk/sport/boxing/anthony-joshua-jake-paul-performance-highlights-six-rounds-b2888187.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-12-20T06:19:03+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Epstein files contain new photo of former prince Andrew Mountbatten-Windsor",
+      "url": "https://www.abc.net.au/news/2025-12-20/new-photo-former-prince-andrew-mountbatten-windsor-epstein-files/106166672",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T06:18:43+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Anthony Joshua knocks out Jake Paul but takes six embarrassing rounds to do it",
+      "url": "https://www.telegraph.co.uk/boxing/2025/12/20/jake-paul-vs-anthony-joshua-live-latest-boxing-updates/",
+      "source": "Telegraph",
+      "region": "Europe",
+      "published": "2025-12-20T06:17:02+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Conviction overturned in murder of rap star Jam Master Jay, Run-DMC member",
+      "url": "https://www.aljazeera.com/news/2025/12/20/conviction-overturned-in-murder-of-rap-star-jam-master-jay-run-dmc-member?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "region": "Middle East",
+      "published": "2025-12-20T06:16:01+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Kennedy Center gets new signage with Trump\u2019s name before JFK\u2019s after board vote",
+      "url": "https://www.timesofisrael.com/kennedy-center-gets-new-signage-with-trumps-name-before-jfks-after-board-vote/",
+      "source": "Times of Israel",
+      "region": "North America",
+      "published": "2025-12-20T06:14:41+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Brown University shooting: How a Reddit post helped police track the shooter",
       "url": "https://timesofindia.indiatimes.com/world/us/brown-university-shooting-how-a-reddit-post-helped-police-track-the-shooter/articleshow/126086882.cms",
       "source": "Times of India",
       "region": "North America",
       "published": "2025-12-20T06:00:58+05:30",
       "sentiment": "negative"
+    },
+    {
+      "title": "Bearly any time left for Japan\u2019s panda lovers? Row with China threatens loan programme",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3337150/bearly-any-time-left-japans-panda-lovers-row-china-threatens-loan-programme?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Asia-Pacific",
+      "published": "2025-12-20T06:00:14+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Turkish court rules man liking women\u2019s posts could undermine marital trust, prompts debate",
+      "url": "https://www.scmp.com/news/people-culture/article/3336648/turkish-court-rules-man-liking-womens-posts-could-undermine-marital-trust-prompts-debate?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "North America",
+      "published": "2025-12-20T06:00:09+00:00",
+      "sentiment": "positive"
     },
     {
       "title": "SEA Games 2025: The best of the action through the lens of our visual journalist",
@@ -1004,267 +1228,43 @@
       "sentiment": "positive"
     },
     {
-      "title": "\u2018Dhurandhar\u2019 box office day 15: Ranveer Singh\u2013Akshaye Khanna starrer continues to reign",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-15-ranveer-singh-akshaye-khanna-starrer-continues-its-reign-despite-competition-from-james-camerons-avatar-fire-and-ash-mints-over-rs-730-crore-globally/articleshow/126086926.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-12-20T05:58:09+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Rural indebtedness rising due to unregulated microfinance institutions: Brinda Karat",
-      "url": "https://www.thehindu.com/news/national/odisha/rural-indebtedness-rising-due-to-unregulated-microfinance-institutions-brinda-karat/article70416201.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-20T05:53:26+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Anthony Joshua takes six rounds to overcome Youtuber turned boxer Jake Paul",
-      "url": "https://www.independent.co.uk/sport/jake-paul-anthony-joshua-tyson-fury-riyadh-miami-b2888185.html",
+      "title": "How to eat for immunity for superflu season",
+      "url": "https://www.independent.co.uk/life-style/immunity-boosting-foods-superflu-cold-b2886914.html",
       "source": "Independent",
       "region": "Europe",
-      "published": "2025-12-20T05:36:04+00:00",
+      "published": "2025-12-20T06:00:00+00:00",
       "sentiment": "positive"
     },
     {
-      "title": "Justice Department releases thousands of records in Epstein case",
-      "url": "https://www.channelnewsasia.com/world/epstein-files-trump-justice-department-5652896",
-      "source": "Channel News Asia",
+      "title": "JADE, Brandi Carlile, Perfume Genius, PinkPantheress, Turnstile and McKinley Dixon on their cultural highlights of 2025",
+      "url": "https://www.independent.co.uk/arts-entertainment/music/features/best-music-tv-film-of-2025-b2884738.html",
+      "source": "Independent",
       "region": "North America",
-      "published": "2025-12-20T05:32:00+08:00",
+      "published": "2025-12-20T06:00:00+00:00",
       "sentiment": "positive"
     },
     {
-      "title": "Trump administration begins release of Epstein files",
-      "url": "https://www.channelnewsasia.com/world/epstein-files-trump-justice-department-5652896",
-      "source": "Channel News Asia",
+      "title": "What Brooklyn Beckham needs to know about the reality of family estrangement at Christmas",
+      "url": "https://www.independent.co.uk/life-style/family-estrangement-christmas-brooklyn-beckham-b2887226.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-12-20T06:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Seven Unesco sites in Europe that are worth the hype",
+      "url": "https://www.independent.co.uk/travel/europe/europe-unesco-world-heritage-sites-best-list-b2883284.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-12-20T06:00:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Man found dead in Phoenix Park was unidentified for a year, despite ID in pocket",
+      "url": "https://www.irishtimes.com/ireland/2025/12/20/man-found-dead-in-phoenix-park-was-unidentified-for-a-year-despite-id-in-pocket/",
+      "source": "Irish Times",
       "region": "Global",
-      "published": "2025-12-20T05:32:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Epstein files opened: Famous faces, many blacked-out pages",
-      "url": "https://www.channelnewsasia.com/world/epstein-files-trump-justice-department-5652896",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-12-20T05:32:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Bologna edge Inter on penalties to reach Italian Super Cup final",
-      "url": "https://www.channelnewsasia.com/sport/bologna-edge-inter-penalties-reach-italian-super-cup-final-5652951",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-12-20T05:30:43+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Mexico\u2019s 50% tariff shock shuts Asia\u2019s North American trade bypass",
-      "url": "https://www.scmp.com/week-asia/economics/article/3337107/mexicos-50-tariff-shock-shuts-asias-north-american-trade-bypass?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-12-20T05:30:09+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "SRMIST signs MoU with NIFTEM",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/srmist-signs-mou-with-niftem/article70416982.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-20T05:30:00+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Musk wins appeal and restores 2018 Tesla pay deal worth $56 billion",
-      "url": "https://www.channelnewsasia.com/business/musk-wins-appeal-and-restores-2018-tesla-pay-deal-worth-56-billion-5652936",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-12-20T05:27:08+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Musk wins appeal that restores 2018 Tesla pay deal now worth about $155 billion",
-      "url": "https://www.channelnewsasia.com/business/musk-wins-appeal-restores-2018-tesla-pay-deal-now-worth-about-155-billion-5652936",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-12-20T05:27:08+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Musk wins appeal that restores 2018 Tesla pay deal now worth about $139 billion",
-      "url": "https://www.channelnewsasia.com/business/musk-wins-appeal-restores-2018-tesla-pay-deal-now-worth-about-139-billion-5652936",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-12-20T05:27:08+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Four biscuit recipes that are easy to make and perfect for gifting",
-      "url": "https://www.abc.net.au/news/2025-12-20/easy-last-minute-baked-gifts-biscuits/106121496",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-12-20T05:24:23+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Vanuatu turns 'grief into purpose' as it remembers earthquake dead",
-      "url": "https://www.abc.net.au/news/2025-12-20/vanuatu-marks-one-year-since-devastating-earthquake/106148676",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-12-20T05:22:56+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "How onetime rising star Eli Zeira\u2019s successive miscalculations cost his country and career",
-      "url": "https://www.timesofisrael.com/how-onetime-rising-star-eli-zeiras-successive-miscalculations-cost-his-country-and-career/",
-      "source": "Times of Israel",
-      "region": "Middle East",
-      "published": "2025-12-20T05:20:20+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Joshua stops Paul in six rounds in Miami mismatch",
-      "url": "https://www.bbc.com/sport/boxing/articles/cy8j2zvxzy1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "region": "North America",
-      "published": "2025-12-20T05:18:52+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Jake Paul vs Anthony Joshua LIVE result: AJ delivers knockout after controversial start in chaotic Netflix fight",
-      "url": "https://www.independent.co.uk/sport/boxing/jake-paul-anthony-joshua-live-fight-updates-results-b2888168.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-12-20T05:18:49+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Taiwan attacker planned assault that killed 3 and injured 11, authorities say",
-      "url": "https://www.independent.co.uk/news/taiwan-taipei-b2888183.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-12-20T05:18:03+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Anthony Joshua knocks out Jake Paul after dropping YouTuber multiple times in controversial boxing match",
-      "url": "https://www.independent.co.uk/sport/boxing/jake-paul-anthony-joshua-result-ko-score-highlights-b2887111.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-20T05:17:57+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Trump fails to put Epstein behind him with partial release of files",
-      "url": "https://www.ft.com/content/d45702ed-ea92-40e1-958c-777d33779567",
-      "source": "Financial Times",
-      "region": "North America",
-      "published": "2025-12-20T05:17:17+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Lithium battery fire on truck shuts down Hume Highway in NSW due to health risk",
-      "url": "https://www.theguardian.com/australia-news/2025/dec/20/lithium-battery-fire-on-truck-shuts-down-hume-highway-in-nsw-due-to-health-risk",
-      "source": "The Guardian",
-      "region": "North America",
-      "published": "2025-12-20T05:15:51+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Prisoners freed by Belarus say their passports are taken away in a final 'dirty trick' by officials",
-      "url": "https://www.independent.co.uk/news/belarus-alexander-lukashenko-ukraine-prisoners-sviatlana-tsikhanouskaya-b2888181.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-12-20T05:15:16+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "'Cutting the queue': AI Express grounds pilot over assault on passenger; probe on",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/cutting-the-queue-ai-express-grounds-pilot-over-assault-on-passenger-at-delhi-airport/articleshow/126086830.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-12-20T05:10:13+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "'Cutting the queue': AI Express grounds pilot over assault on passenger",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/cutting-the-queue-ai-express-grounds-pilot-over-assault-on-passenger-at-delhi-airport/articleshow/126086830.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-12-20T05:10:13+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Winter\u200b\u200d\u200b\u200c\u200d\u200b\u200d\u200c\u200b\u200d\u200b\u200c\u200d\u200b\u200d\u200c immunity-boosting foods: What to eat to stay well when temperature drops",
-      "url": "https://timesofindia.indiatimes.com/life-style/food-news/winter-immunity-boosting-foods-what-to-eat-to-stay-well-when-temperatures-drop/articleshow/126080288.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-12-20T05:10:00+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Christmas spirit returns to Bethlehem after ceasefire in Gaza",
-      "url": "https://www.independent.co.uk/news/bethlehem-west-bank-christians-palestinians-jesus-christ-b2888179.html",
-      "source": "Independent",
-      "region": "Middle East",
-      "published": "2025-12-20T05:07:30+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "How surveillance technology and the 'Reddit Detective Agency' helped search for a killer",
-      "url": "https://www.independent.co.uk/news/john-reddit-providence-kash-patel-new-hampshire-b2888178.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-12-20T05:07:06+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Gurgaon horror: Auto driver rapes minor, kidnaps 2 girls; jumps off flyover to evade arrest",
-      "url": "https://timesofindia.indiatimes.com/city/gurgaon/auto-driver-kidnaps-2-sisters-rapes-one-jumps-from-flyover-to-flee-cops/articleshow/126084175.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-12-20T05:07:05+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Anthony Joshua knocks out Jake Paul in the sixth round",
-      "url": "https://www.nbcnews.com/sports/boxing/anthony-joshua-knocks-out-jake-paul-boxing-rcna250188",
-      "source": "NBC News",
-      "region": "North America",
-      "published": "2025-12-20T05:05:02+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Malaysia allows halal hotels, eateries to deck halls with Christmas decor",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3337159/malaysia-allows-halal-hotels-eateries-deck-halls-christmas-decor?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-12-20T05:04:47+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "PHOTO ESSAY: Under watch by Chinese tech, the Tibetan community in Nepal is slowly suffocating",
-      "url": "https://www.independent.co.uk/news/nepal-chinese-kathmandu-men-beijing-b2888177.html",
-      "source": "Independent",
-      "region": "Asia-Pacific",
-      "published": "2025-12-20T05:04:19+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Trump slams \u2018highly neurotic\u2019 Marjorie \u2018Traitor\u2019 Greene as she pushes DOJ to release complete Epstein files",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-marjorie-taylor-greene-traitor-neurotic-epstein-files-b2888174.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-12-20T05:03:29+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Artist's battlefield collection captures the lived experience of Ukraine's resistance to invasion",
-      "url": "https://www.independent.co.uk/news/ukraine-artist-kyiv-russia-styrofoam-b2888176.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-20T05:03:23+00:00",
+      "published": "2025-12-20T06:00:00+00:00",
       "sentiment": "negative"
     }
   ]
