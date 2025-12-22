@@ -1,19 +1,19 @@
 {
-  "generated_at": "2025-12-22T05:26:24.688379+00:00",
+  "generated_at": "2025-12-22T05:48:59.871469+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 765,
+    "positive": 775,
     "neutral": 238,
-    "negative": 753
+    "negative": 761
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 88,
+      "positive": 93,
       "neutral": 38,
-      "negative": 101,
-      "count": 227,
-      "region": "Europe"
+      "negative": 102,
+      "count": 233,
+      "region": "North America"
     },
     {
       "source": "The Hindu",
@@ -25,26 +25,34 @@
     },
     {
       "source": "Times of India",
-      "positive": 58,
+      "positive": 59,
       "neutral": 9,
-      "negative": 52,
+      "negative": 51,
       "count": 119,
       "region": "Asia-Pacific"
     },
     {
       "source": "CBS News",
-      "positive": 42,
+      "positive": 43,
       "neutral": 20,
       "negative": 22,
-      "count": 84,
+      "count": 85,
       "region": "North America"
     },
     {
       "source": "Australian Broadcasting Corporation",
       "positive": 30,
       "neutral": 3,
-      "negative": 48,
-      "count": 81,
+      "negative": 49,
+      "count": 82,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "Channel News Asia",
+      "positive": 34,
+      "neutral": 12,
+      "negative": 34,
+      "count": 80,
       "region": "Asia-Pacific"
     },
     {
@@ -56,28 +64,12 @@
       "region": "Europe"
     },
     {
-      "source": "Channel News Asia",
-      "positive": 34,
-      "neutral": 12,
-      "negative": 32,
-      "count": 78,
-      "region": "North America"
-    },
-    {
       "source": "South China Morning Post",
-      "positive": 32,
+      "positive": 33,
       "neutral": 2,
       "negative": 37,
-      "count": 71,
+      "count": 72,
       "region": "North America"
-    },
-    {
-      "source": "Sky Sports",
-      "positive": 37,
-      "neutral": 10,
-      "negative": 24,
-      "count": 71,
-      "region": "Europe"
     },
     {
       "source": "ESPN",
@@ -86,6 +78,14 @@
       "negative": 24,
       "count": 69,
       "region": "Global"
+    },
+    {
+      "source": "Sky Sports",
+      "positive": 37,
+      "neutral": 10,
+      "negative": 21,
+      "count": 68,
+      "region": "Europe"
     },
     {
       "source": "The Guardian",
@@ -99,25 +99,33 @@
       "source": "BBC News",
       "positive": 21,
       "neutral": 8,
-      "negative": 25,
-      "count": 54,
+      "negative": 27,
+      "count": 56,
       "region": "North America"
     },
     {
       "source": "BBC Sport",
-      "positive": 35,
+      "positive": 34,
       "neutral": 6,
-      "negative": 11,
-      "count": 52,
+      "negative": 10,
+      "count": 50,
       "region": "Europe"
     },
     {
       "source": "Al Jazeera English",
-      "positive": 14,
+      "positive": 13,
       "neutral": 6,
-      "negative": 31,
-      "count": 51,
+      "negative": 30,
+      "count": 49,
       "region": "Europe"
+    },
+    {
+      "source": "AllAfrica",
+      "positive": 16,
+      "neutral": 2,
+      "negative": 23,
+      "count": 41,
+      "region": "Global"
     },
     {
       "source": "France 24",
@@ -128,19 +136,11 @@
       "region": "North America"
     },
     {
-      "source": "AllAfrica",
-      "positive": 15,
-      "neutral": 2,
-      "negative": 19,
-      "count": 36,
-      "region": "Africa"
-    },
-    {
       "source": "Bloomberg",
-      "positive": 21,
+      "positive": 22,
       "neutral": 1,
       "negative": 14,
-      "count": 36,
+      "count": 37,
       "region": "Asia-Pacific"
     },
     {
@@ -171,17 +171,9 @@
       "source": "Middle East Eye",
       "positive": 5,
       "neutral": 2,
-      "negative": 18,
-      "count": 25,
+      "negative": 19,
+      "count": 26,
       "region": "Middle East"
-    },
-    {
-      "source": "Straits Times",
-      "positive": 10,
-      "neutral": 3,
-      "negative": 9,
-      "count": 22,
-      "region": "North America"
     },
     {
       "source": "Mashable",
@@ -189,6 +181,14 @@
       "neutral": 3,
       "negative": 3,
       "count": 21,
+      "region": "North America"
+    },
+    {
+      "source": "Straits Times",
+      "positive": 8,
+      "neutral": 3,
+      "negative": 9,
+      "count": 20,
       "region": "North America"
     },
     {
@@ -214,6 +214,14 @@
       "negative": 10,
       "count": 18,
       "region": "Asia-Pacific"
+    },
+    {
+      "source": "Financial Times",
+      "positive": 4,
+      "neutral": 3,
+      "negative": 8,
+      "count": 15,
+      "region": "Europe"
     },
     {
       "source": "Sky News",
@@ -272,14 +280,6 @@
       "region": "Global"
     },
     {
-      "source": "Financial Times",
-      "positive": 1,
-      "neutral": 3,
-      "negative": 5,
-      "count": 9,
-      "region": "Asia-Pacific"
-    },
-    {
       "source": "Telegraph",
       "positive": 5,
       "neutral": 0,
@@ -305,10 +305,10 @@
     },
     {
       "source": "Wired",
-      "positive": 3,
+      "positive": 4,
       "neutral": 1,
       "negative": 0,
-      "count": 4,
+      "count": 5,
       "region": "Global"
     },
     {
@@ -331,45 +331,45 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 281,
+      "positive": 287,
       "neutral": 87,
-      "negative": 273,
-      "count": 641
+      "negative": 275,
+      "count": 649
     },
     {
       "region": "Asia-Pacific",
-      "positive": 160,
+      "positive": 162,
       "neutral": 76,
-      "negative": 192,
-      "count": 428
+      "negative": 193,
+      "count": 431
     },
     {
       "region": "Europe",
-      "positive": 176,
+      "positive": 179,
       "neutral": 50,
-      "negative": 145,
-      "count": 371
+      "negative": 147,
+      "count": 376
     },
     {
       "region": "Global",
       "positive": 72,
       "neutral": 11,
-      "negative": 36,
-      "count": 119
+      "negative": 38,
+      "count": 121
     },
     {
       "region": "Middle East",
-      "positive": 39,
+      "positive": 38,
       "neutral": 6,
-      "negative": 57,
-      "count": 102
+      "negative": 59,
+      "count": 103
     },
     {
       "region": "Africa",
       "positive": 32,
       "neutral": 5,
-      "negative": 44,
-      "count": 81
+      "negative": 43,
+      "count": 80
     },
     {
       "region": "South America",
@@ -382,80 +382,80 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 185,
+      "positive": 184,
       "neutral": 42,
-      "negative": 196,
-      "count": 423
+      "negative": 201,
+      "count": 427
     },
     {
       "topic": "Politics",
-      "positive": 136,
+      "positive": 137,
       "neutral": 45,
       "negative": 169,
-      "count": 350
+      "count": 351
     },
     {
       "topic": "Other",
-      "positive": 114,
+      "positive": 116,
       "neutral": 71,
-      "negative": 106,
-      "count": 291
+      "negative": 107,
+      "count": 294
     },
     {
       "topic": "World",
-      "positive": 75,
+      "positive": 76,
       "neutral": 11,
-      "negative": 105,
-      "count": 191
+      "negative": 107,
+      "count": 194
     },
     {
       "topic": "Sports",
       "positive": 110,
       "neutral": 24,
-      "negative": 56,
-      "count": 190
+      "negative": 55,
+      "count": 189
     },
     {
       "topic": "Entertainment",
-      "positive": 46,
+      "positive": 47,
       "neutral": 15,
       "negative": 32,
-      "count": 93
+      "count": 94
     },
     {
       "topic": "Business",
-      "positive": 50,
+      "positive": 54,
       "neutral": 4,
-      "negative": 21,
-      "count": 75
+      "negative": 22,
+      "count": 80
     },
     {
       "topic": "Health",
       "positive": 21,
       "neutral": 7,
-      "negative": 22,
-      "count": 50
+      "negative": 23,
+      "count": 51
     },
     {
       "topic": "Local",
       "positive": 12,
       "neutral": 12,
-      "negative": 23,
-      "count": 47
+      "negative": 22,
+      "count": 46
     },
     {
       "topic": "Regional",
-      "positive": 10,
+      "positive": 11,
       "neutral": 3,
       "negative": 16,
-      "count": 29
+      "count": 30
     },
     {
       "topic": "Science",
-      "positive": 6,
+      "positive": 7,
       "neutral": 4,
       "negative": 7,
-      "count": 17
+      "count": 18
     }
   ],
   "sample_headlines": [
@@ -482,6 +482,22 @@
       "region": "North America",
       "published": "2025-12-23T22:00:00+00:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "HSA appeals for blood donors amid seasonal drop in collection during year-end period",
+      "url": "https://www.channelnewsasia.com/singapore/hsa-appeal-blood-donors-seasonal-drop-donation-collection-year-end-festive-period-ong-ye-kung-5666251",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-12-22T13:40:35+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Swiss court to hear landmark climate case by Indonesian island residents against cement giant",
+      "url": "https://www.channelnewsasia.com/sustainability/geneva-court-landmark-climate-case-cement-giant-holcim-pari-island-indonesia-5666001",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-12-22T13:26:00+08:00",
+      "sentiment": "negative"
     },
     {
       "title": "Over 6,000 households to receive special year-end MUIS payout",
@@ -665,6 +681,14 @@
       "source": "Straits Times",
       "region": "North America",
       "published": "2025-12-22T10:19:14+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "GRAP Stage-IV in Gurugram explained: Timings changed, WFH pushed for offices",
+      "url": "https://timesofindia.indiatimes.com/education/news/grap-stage-iv-in-gurugram-explained-timings-changed-and-work-from-home-pushed-for-offices-what-you-need-to-know/articleshow/126114545.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-22T10:17:22+05:30",
       "sentiment": "positive"
     },
     {
@@ -1100,11 +1124,107 @@
       "sentiment": "neutral"
     },
     {
+      "title": "\u2018God bless us, every one!\u2019 The five best film versions of Dickens\u2019 A Christmas Carol",
+      "url": "https://www.independent.co.uk/arts-entertainment/films/features/christmas-carol-dickens-movies-scrooge-muppets-b2888733.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-12-22T05:45:43+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Ukraine is showing fighting spirit, and its allies must respond",
+      "url": "https://www.independent.co.uk/voices/editorials/russia-ukraine-war-vladimir-putin-europe-peace-deal-b2888736.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-12-22T05:44:40+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Israeli foreign minister urges Jews abroad to move to Israel after Sydney attack",
       "url": "https://www.channelnewsasia.com/world/israeli-foreign-minister-urges-jews-abroad-move-israel-after-sydney-attack-5654831",
       "source": "Channel News Asia",
       "region": "Middle East",
       "published": "2025-12-22T05:44:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "More signs being installed in new section of Hong Kong\u2019s Central Kowloon Bypass",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3337279/more-signs-being-installed-new-section-hong-kongs-central-kowloon-bypass?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "North America",
+      "published": "2025-12-22T05:42:26+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Morning update",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-484",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "published": "2025-12-22T05:41:53+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Uganda: Muntu Warns Election Violence Threatens Peaceful Transition As 2026 Race Heats Up",
+      "url": "https://allafrica.com/stories/202512220137.html",
+      "source": "AllAfrica",
+      "region": "Global",
+      "published": "2025-12-22T05:40:25+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "South Africa: After 40 Years, Justice and Dignity Remain Elusive for South Africa Activists Murdered By Apartheid Hit Squad",
+      "url": "https://allafrica.com/stories/202512220136.html",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "published": "2025-12-22T05:40:24+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "WSJ's parent firm on trial in Hong Kong, accused of dismissing reporter over union role",
+      "url": "https://www.independent.co.uk/news/hong-kong-wsj-stand-news-british-chinese-b2888735.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-12-22T05:39:56+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Asian shares advance, yen slips after AI stocks push higher on Wall Street",
+      "url": "https://www.independent.co.uk/news/wall-street-bank-of-japan-nvidia-oracle-asian-b2888734.html",
+      "source": "Independent",
+      "region": "Asia-Pacific",
+      "published": "2025-12-22T05:37:21+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "South Africa: Several G20 Members Privately Objected to the U.S. Excluding South Africa From the G20",
+      "url": "https://allafrica.com/stories/202512220117.html",
+      "source": "AllAfrica",
+      "region": "North America",
+      "published": "2025-12-22T05:36:49+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Best books to gift (and gift again) at Christmas: The Independent newsroom make their picks",
+      "url": "https://www.independent.co.uk/arts-entertainment/books/features/best-books-christmas-gifts-snow-leopard-heartburn-b2888732.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-12-22T05:33:55+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Should I pour leftover liquids or foods down the sink?",
+      "url": "https://www.abc.net.au/news/2025-12-22/should-i-pour-leftover-liquids-or-foods-down-the-sink/106170720",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-12-22T05:32:53+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Doctors return to work in England after five-day strike",
+      "url": "https://www.bbc.com/news/articles/c36zdpng7gro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "Europe",
+      "published": "2025-12-22T05:31:50+00:00",
       "sentiment": "negative"
     },
     {
@@ -1138,126 +1258,6 @@
       "region": "Asia-Pacific",
       "published": "2025-12-22T05:30:00+05:30",
       "sentiment": "neutral"
-    },
-    {
-      "title": "Four arrested, over 500 kg gutkha seized in Vellore and Ranipet",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/four-arrested-over-500-kg-gutkha-seized-in-vellore-and-ranipet/article70422790.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-12-22T05:30:00+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "SP flags off marathon against drugs in Vellore",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/sp-flags-off-marathon-against-drugs-in-vellore/article70422784.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-22T05:30:00+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "US pursuing third oil tanker in international waters near Venezuela",
-      "url": "http://www.euronews.com/2025/12/22/us-pursuing-third-oil-tanker-in-international-waters-near-venezuela",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2025-12-22T05:27:24+01:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Nigeria: Dissecting President Tinubu's Budget Speech - Discipline As Doctrine, Boldness As Signal, Security As Core",
-      "url": "https://allafrica.com/stories/202512220097.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2025-12-22T05:21:07+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Nigeria: How the COAS Conference Reassessed Nigerian Army's Fight Against Terrorism, Insurgency",
-      "url": "https://allafrica.com/stories/202512220095.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2025-12-22T05:21:03+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Nigeria: NCS Faults FIRS-France MOU, Insists On National Data Sovereignty Policy",
-      "url": "https://allafrica.com/stories/202512220094.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2025-12-22T05:21:02+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Africa: Oil Refiners - Africa's Crude Demand to Jump From 1.8m Bpd to 4.5m Bpd By 2050",
-      "url": "https://allafrica.com/stories/202512220093.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2025-12-22T05:21:01+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Nigeria: Govt Gives Priority to Health Sector, Says 12 Million Girls Have Received HPV Vaccine - Pate",
-      "url": "https://allafrica.com/stories/202512220092.html",
-      "source": "AllAfrica",
-      "region": "North America",
-      "published": "2025-12-22T05:21:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Nigeria: I Won't Sign Central Gaming Bill, It's Exclusively States' Affair - Tinubu",
-      "url": "https://allafrica.com/stories/202512220091.html",
-      "source": "AllAfrica",
-      "region": "North America",
-      "published": "2025-12-22T05:20:57+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Nigeria: Govt Secures Release of Remaining 130 Abducted Schoolgirls, Teachers in Niger",
-      "url": "https://allafrica.com/stories/202512220090.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2025-12-22T05:20:55+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Central Africa: Govt Seeks Investor for $30m Five-Star Lake Kivu Hotel",
-      "url": "https://allafrica.com/stories/202512220089.html",
-      "source": "AllAfrica",
-      "region": "Global",
-      "published": "2025-12-22T05:20:12+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Kenya: Christmas On a Budget - How Kenyan Families Plan to Celebrate Amid Harsh Economic Times",
-      "url": "https://allafrica.com/stories/202512220088.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2025-12-22T05:19:51+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Kenya: Online Uproar After Kibwana Says Tattoo Restrictions in Military Violate Constitution",
-      "url": "https://allafrica.com/stories/202512220087.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2025-12-22T05:19:50+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Mozambique: EDM in Zambezia Suffers Losses of Four Million Meticais Due to Sabotahe",
-      "url": "https://allafrica.com/stories/202512220084.html",
-      "source": "AllAfrica",
-      "region": "North America",
-      "published": "2025-12-22T05:19:49+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Mozambique: Describes Mozambican Diaspora As 'Strategic Reserve'.",
-      "url": "https://allafrica.com/stories/202512220085.html",
-      "source": "AllAfrica",
-      "region": "Global",
-      "published": "2025-12-22T05:19:49+00:00",
-      "sentiment": "positive"
     }
   ]
 }
