@@ -1,59 +1,51 @@
 {
-  "generated_at": "2025-12-24T23:21:19.902308+00:00",
+  "generated_at": "2025-12-24T23:42:22.896855+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 928,
+    "positive": 919,
     "neutral": 321,
-    "negative": 899
+    "negative": 895
   },
   "by_publication": [
     {
       "source": "Independent",
       "positive": 144,
-      "neutral": 64,
-      "negative": 148,
-      "count": 356,
+      "neutral": 63,
+      "negative": 147,
+      "count": 354,
       "region": "North America"
     },
     {
       "source": "The Hindu",
-      "positive": 99,
+      "positive": 98,
       "neutral": 72,
       "negative": 113,
-      "count": 284,
+      "count": 283,
       "region": "North America"
     },
     {
       "source": "Times of India",
-      "positive": 70,
+      "positive": 72,
       "neutral": 6,
       "negative": 61,
-      "count": 137,
+      "count": 139,
       "region": "Asia-Pacific"
     },
     {
       "source": "Fox News",
       "positive": 37,
       "neutral": 8,
-      "negative": 55,
-      "count": 100,
+      "negative": 54,
+      "count": 99,
       "region": "Africa"
     },
     {
       "source": "Channel News Asia",
-      "positive": 31,
+      "positive": 32,
       "neutral": 29,
-      "negative": 27,
+      "negative": 26,
       "count": 87,
       "region": "North America"
-    },
-    {
-      "source": "Bloomberg",
-      "positive": 56,
-      "neutral": 12,
-      "negative": 17,
-      "count": 85,
-      "region": "Asia-Pacific"
     },
     {
       "source": "South China Morning Post",
@@ -73,34 +65,42 @@
     },
     {
       "source": "BBC News",
-      "positive": 29,
+      "positive": 28,
       "neutral": 9,
-      "negative": 37,
-      "count": 75,
+      "negative": 39,
+      "count": 76,
       "region": "Europe"
     },
     {
+      "source": "Bloomberg",
+      "positive": 50,
+      "neutral": 11,
+      "negative": 13,
+      "count": 74,
+      "region": "Asia-Pacific"
+    },
+    {
       "source": "Australian Broadcasting Corporation",
-      "positive": 30,
-      "neutral": 7,
-      "negative": 31,
-      "count": 68,
+      "positive": 28,
+      "neutral": 8,
+      "negative": 29,
+      "count": 65,
       "region": "Asia-Pacific"
     },
     {
       "source": "The Guardian",
-      "positive": 21,
+      "positive": 20,
       "neutral": 2,
       "negative": 43,
-      "count": 66,
+      "count": 65,
       "region": "North America"
     },
     {
       "source": "Middle East Eye",
       "positive": 14,
       "neutral": 3,
-      "negative": 35,
-      "count": 52,
+      "negative": 36,
+      "count": 53,
       "region": "Middle East"
     },
     {
@@ -153,10 +153,10 @@
     },
     {
       "source": "BBC Sport",
-      "positive": 23,
+      "positive": 22,
       "neutral": 6,
       "negative": 9,
-      "count": 38,
+      "count": 37,
       "region": "Europe"
     },
     {
@@ -208,20 +208,20 @@
       "region": "North America"
     },
     {
+      "source": "Deutsche Welle",
+      "positive": 6,
+      "neutral": 0,
+      "negative": 14,
+      "count": 20,
+      "region": "Global"
+    },
+    {
       "source": "ABC News",
       "positive": 8,
       "neutral": 6,
       "negative": 6,
       "count": 20,
       "region": "South America"
-    },
-    {
-      "source": "Deutsche Welle",
-      "positive": 6,
-      "neutral": 0,
-      "negative": 13,
-      "count": 19,
-      "region": "Global"
     },
     {
       "source": "RT News",
@@ -256,19 +256,19 @@
       "region": "Middle East"
     },
     {
+      "source": "Engadget",
+      "positive": 10,
+      "neutral": 1,
+      "negative": 2,
+      "count": 13,
+      "region": "North America"
+    },
+    {
       "source": "Irish Times",
       "positive": 5,
       "neutral": 4,
       "negative": 4,
       "count": 13,
-      "region": "North America"
-    },
-    {
-      "source": "Engadget",
-      "positive": 10,
-      "neutral": 0,
-      "negative": 2,
-      "count": 12,
       "region": "North America"
     },
     {
@@ -280,20 +280,20 @@
       "region": "North America"
     },
     {
+      "source": "Washington Post",
+      "positive": 4,
+      "neutral": 0,
+      "negative": 6,
+      "count": 10,
+      "region": "North America"
+    },
+    {
       "source": "Wired",
       "positive": 8,
       "neutral": 1,
       "negative": 1,
       "count": 10,
       "region": "Global"
-    },
-    {
-      "source": "Washington Post",
-      "positive": 4,
-      "neutral": 0,
-      "negative": 5,
-      "count": 9,
-      "region": "North America"
     },
     {
       "source": "Sky News",
@@ -339,38 +339,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 349,
+      "positive": 345,
       "neutral": 93,
-      "negative": 367,
-      "count": 809
+      "negative": 363,
+      "count": 801
     },
     {
       "region": "Europe",
-      "positive": 224,
-      "neutral": 75,
-      "negative": 200,
-      "count": 499
+      "positive": 222,
+      "neutral": 74,
+      "negative": 202,
+      "count": 498
     },
     {
       "region": "Asia-Pacific",
-      "positive": 199,
-      "neutral": 80,
-      "negative": 180,
-      "count": 459
+      "positive": 198,
+      "neutral": 81,
+      "negative": 178,
+      "count": 457
     },
     {
       "region": "Global",
-      "positive": 83,
+      "positive": 81,
       "neutral": 47,
-      "negative": 35,
-      "count": 165
+      "negative": 33,
+      "count": 161
     },
     {
       "region": "Middle East",
       "positive": 43,
       "neutral": 16,
-      "negative": 95,
-      "count": 154
+      "negative": 97,
+      "count": 156
     },
     {
       "region": "Africa",
@@ -390,24 +390,24 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 189,
+      "positive": 188,
       "neutral": 60,
-      "negative": 263,
-      "count": 512
+      "negative": 261,
+      "count": 509
     },
     {
       "topic": "Other",
-      "positive": 176,
-      "neutral": 104,
+      "positive": 174,
+      "neutral": 103,
       "negative": 162,
-      "count": 442
+      "count": 439
     },
     {
       "topic": "Politics",
-      "positive": 172,
+      "positive": 167,
       "neutral": 38,
       "negative": 149,
-      "count": 359
+      "count": 354
     },
     {
       "topic": "World",
@@ -419,16 +419,16 @@
     {
       "topic": "Sports",
       "positive": 83,
-      "neutral": 30,
+      "neutral": 31,
       "negative": 45,
-      "count": 158
+      "count": 159
     },
     {
       "topic": "Business",
-      "positive": 83,
-      "neutral": 24,
-      "negative": 22,
-      "count": 129
+      "positive": 81,
+      "neutral": 23,
+      "negative": 21,
+      "count": 125
     },
     {
       "topic": "Entertainment",
@@ -439,16 +439,16 @@
     },
     {
       "topic": "Health",
-      "positive": 14,
+      "positive": 15,
       "neutral": 8,
       "negative": 33,
-      "count": 55
+      "count": 56
     },
     {
       "topic": "Regional",
       "positive": 19,
-      "neutral": 10,
-      "negative": 26,
+      "neutral": 11,
+      "negative": 25,
       "count": 55
     },
     {
@@ -473,6 +473,22 @@
       "source": "BBC Sport",
       "region": "Europe",
       "published": "2025-12-25T15:35:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Kim Jong Un tours nuclear sub plant, slams US-South Korea 'threat': Report",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-nuclear-submarine-test-firing-missiles-5708611",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2025-12-25T07:38:50+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Martin Yan at 77: The TV cooking legend still doing push-ups, cracking jokes and inspiring people",
+      "url": "https://www.channelnewsasia.com/entertainment/martin-yan-can-cook-tv-chef-5654421",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-12-25T07:33:23+08:00",
       "sentiment": "positive"
     },
     {
@@ -628,11 +644,27 @@
       "sentiment": "negative"
     },
     {
+      "title": "Navi Mumbai airport opens today with 30 domestic flights",
+      "url": "https://timesofindia.indiatimes.com/business/infrastructure/navi-mumbai-airport-opens-today-with-30-domestic-flights/articleshow/126168731.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-25T04:43:41+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "Vaishnaw credits Make-in-India push for Bengaluru plant after Rahul Gandhi touts Karnataka ecosystem",
       "url": "https://www.thehindu.com/news/national/vaishnaw-credits-make-in-india-push-for-bengaluru-plant-after-rahul-gandhi-touts-karnataka-ecosystem/article70434140.ece",
       "source": "The Hindu",
       "region": "North America",
       "published": "2025-12-25T04:40:00+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "India logs steep decline in TB, malaria and maternal deaths",
+      "url": "https://timesofindia.indiatimes.com/india/result-of-institutional-strength-india-logs-steep-decline-in-tb-malaria-and-maternal-deaths-nadda-hails-peoples-participation/articleshow/126168716.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-12-25T04:31:49+05:30",
       "sentiment": "positive"
     },
     {
@@ -817,6 +849,14 @@
       "source": "Times of India",
       "region": "Asia-Pacific",
       "published": "2025-12-25T01:58:17+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Jaxson Dart vs Travis Hunter net worth 2025: Who is richer?",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/jaxson-dart-vs-travis-hunter-net-worth-in-2025-who-is-richer-nil-deals-early-fame-and-more/articleshow/126166417.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-25T01:55:47+05:30",
       "sentiment": "positive"
     },
     {
@@ -1092,6 +1132,38 @@
       "sentiment": "negative"
     },
     {
+      "title": "Evening recap",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-596",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "published": "2025-12-24T23:40:46+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Israel investing more than $100 billion into independent arms industry, Netanyahu reveals",
+      "url": "https://www.timesofisrael.com/israel-investing-more-than-100-billion-into-independent-arms-industry-netanyahu-reveals/",
+      "source": "Times of Israel",
+      "region": "Middle East",
+      "published": "2025-12-24T23:33:01+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "2025 Christmas Day NFL games: How to watch, full streaming schedule and more",
+      "url": "https://www.engadget.com/entertainment/streaming/2025-christmas-day-nfl-games-how-to-watch-full-streaming-schedule-and-more-233022362.html?src=rss",
+      "source": "Engadget",
+      "region": "North America",
+      "published": "2025-12-24T23:30:22+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Sean 'Diddy' Combs files appeal asking for immediate prison release",
+      "url": "https://www.bbc.com/news/articles/c5yqe4j15lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "Europe",
+      "published": "2025-12-24T23:30:09+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Thick mist in Vellore and nearby districts puts motorists on arterial stretches at risk",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/thick-mist-in-vellore-and-nearby-districts-puts-motorists-on-arterial-stretches-at-risk/article70433919.ece",
       "source": "The Hindu",
@@ -1105,6 +1177,14 @@
       "source": "The Hindu",
       "region": "North America",
       "published": "2025-12-24T23:25:41+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "White Christmas in Tasmania as heat climbs in other states",
+      "url": "https://www.abc.net.au/news/2025-12-25/christmas-day-weather-snow-in-tasmania-heat-across-australia/106178338",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-12-24T23:23:39+00:00",
       "sentiment": "neutral"
     },
     {
@@ -1185,86 +1265,6 @@
       "source": "Independent",
       "region": "North America",
       "published": "2025-12-24T22:59:48+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Stoppage-time comeback gives Burkina Faso victory in opener",
-      "url": "https://www.channelnewsasia.com/sport/stoppage-time-comeback-gives-burkina-faso-victory-in-opener-5708306",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-12-24T22:59:14+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Woman, 20s, dies in horror crash on M2 motorway on Christmas Eve",
-      "url": "https://www.independent.co.uk/news/uk/home-news/m2-motorway-crash-death-b2890315.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-24T22:56:33+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "CAT-2025: One candidate from Karnataka secures 100 percentile",
-      "url": "https://www.thehindu.com/news/national/karnataka/cat-2025-one-candidate-from-karnataka-secures-100-percentile/article70434098.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-24T22:55:44+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "BJP accuses Bengal police of using excessive force on protesters",
-      "url": "https://www.thehindu.com/news/national/west-bengal/bjp-accuses-bengal-police-of-using-excessive-force-on-protesters/article70434804.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-12-24T22:50:17+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Surprise inspection leads to seizure of prohibited items at Parappana Agrahara",
-      "url": "https://www.thehindu.com/news/national/karnataka/surprise-inspection-leads-to-seizure-of-prohibited-items-at-parappana-agrahara/article70434650.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-24T22:49:59+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Two hospitalized after ICE agents shot at person who tried to \u2018run them over\u2019 in Maryland neighborhood",
-      "url": "https://www.independent.co.uk/news/world/americas/crime/ice-shooting-maryland-anne-arundel-b2890305.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-24T22:44:14+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Protests held at land ports along Bangladesh border in West Bengal",
-      "url": "https://www.thehindu.com/news/national/west-bengal/protests-held-at-land-ports-along-bangladesh-border-in-west-bengal/article70434550.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-12-24T22:41:11+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Protest continues in Bengal against lynching in Bangladesh",
-      "url": "https://www.thehindu.com/news/national/west-bengal/protests-held-at-land-ports-along-bangladesh-border-in-west-bengal/article70434550.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-12-24T22:41:11+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "'Bogus attempt at damage control': Congress slams Centre's new order on Aravalli",
-      "url": "https://timesofindia.indiatimes.com/india/bogus-attempt-at-damage-control-congress-slams-centres-new-order-on-aravalli-attacks-100m-hill-definition/articleshow/126163734.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-12-24T22:40:35+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Nebraska man dies after \u2018freak accident\u2019 in a McDonald\u2019s drive-thru",
-      "url": "https://www.independent.co.uk/bulletin/news/mcdonalds-drive-thru-nebraska-man-dies-b2890313.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-24T22:40:08+00:00",
       "sentiment": "neutral"
     }
   ]
