@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-12-25T23:21:03.593419+00:00",
+  "generated_at": "2025-12-25T23:42:41.859246+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 552,
-    "neutral": 146,
-    "negative": 580
+    "positive": 551,
+    "neutral": 148,
+    "negative": 586
   },
   "by_publication": [
     {
@@ -25,26 +25,26 @@
     },
     {
       "source": "Times of India",
-      "positive": 63,
+      "positive": 62,
       "neutral": 8,
-      "negative": 57,
-      "count": 128,
-      "region": "North America"
+      "negative": 56,
+      "count": 126,
+      "region": "Asia-Pacific"
     },
     {
       "source": "South China Morning Post",
       "positive": 34,
       "neutral": 1,
-      "negative": 31,
-      "count": 66,
-      "region": "Asia-Pacific"
+      "negative": 32,
+      "count": 67,
+      "region": "Africa"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 26,
+      "positive": 27,
       "neutral": 4,
-      "negative": 23,
-      "count": 53,
+      "negative": 24,
+      "count": 55,
       "region": "Asia-Pacific"
     },
     {
@@ -64,14 +64,6 @@
       "region": "Africa"
     },
     {
-      "source": "BBC News",
-      "positive": 21,
-      "neutral": 5,
-      "negative": 18,
-      "count": 44,
-      "region": "Europe"
-    },
-    {
       "source": "Middle East Eye",
       "positive": 13,
       "neutral": 4,
@@ -80,17 +72,25 @@
       "region": "Middle East"
     },
     {
+      "source": "BBC News",
+      "positive": 21,
+      "neutral": 5,
+      "negative": 18,
+      "count": 44,
+      "region": "Asia-Pacific"
+    },
+    {
       "source": "Times of Israel",
       "positive": 11,
       "neutral": 1,
-      "negative": 31,
-      "count": 43,
+      "negative": 30,
+      "count": 42,
       "region": "Middle East"
     },
     {
       "source": "Channel News Asia",
-      "positive": 11,
-      "neutral": 11,
+      "positive": 10,
+      "neutral": 12,
       "negative": 16,
       "count": 38,
       "region": "North America"
@@ -104,20 +104,20 @@
       "region": "Europe"
     },
     {
-      "source": "The Guardian",
-      "positive": 13,
-      "neutral": 1,
-      "negative": 20,
-      "count": 34,
-      "region": "North America"
-    },
-    {
       "source": "CBS News",
       "positive": 15,
       "neutral": 5,
-      "negative": 14,
-      "count": 34,
-      "region": "Asia-Pacific"
+      "negative": 15,
+      "count": 35,
+      "region": "Africa"
+    },
+    {
+      "source": "The Guardian",
+      "positive": 12,
+      "neutral": 1,
+      "negative": 20,
+      "count": 33,
+      "region": "North America"
     },
     {
       "source": "France 24",
@@ -126,6 +126,14 @@
       "negative": 12,
       "count": 26,
       "region": "Europe"
+    },
+    {
+      "source": "ESPN",
+      "positive": 17,
+      "neutral": 6,
+      "negative": 3,
+      "count": 26,
+      "region": "Global"
     },
     {
       "source": "Deutsche Welle",
@@ -142,14 +150,6 @@
       "negative": 5,
       "count": 23,
       "region": "North America"
-    },
-    {
-      "source": "ESPN",
-      "positive": 15,
-      "neutral": 6,
-      "negative": 2,
-      "count": 23,
-      "region": "Global"
     },
     {
       "source": "New York Times",
@@ -173,6 +173,14 @@
       "neutral": 3,
       "negative": 2,
       "count": 17,
+      "region": "Global"
+    },
+    {
+      "source": "Bloomberg",
+      "positive": 4,
+      "neutral": 2,
+      "negative": 10,
+      "count": 16,
       "region": "Global"
     },
     {
@@ -200,12 +208,12 @@
       "region": "Europe"
     },
     {
-      "source": "Bloomberg",
+      "source": "Sky Sports",
       "positive": 4,
-      "neutral": 2,
-      "negative": 6,
-      "count": 12,
-      "region": "Asia-Pacific"
+      "neutral": 4,
+      "negative": 1,
+      "count": 9,
+      "region": "North America"
     },
     {
       "source": "NPR",
@@ -224,22 +232,6 @@
       "region": "North America"
     },
     {
-      "source": "Financial Times",
-      "positive": 5,
-      "neutral": 1,
-      "negative": 2,
-      "count": 8,
-      "region": "North America"
-    },
-    {
-      "source": "Sky Sports",
-      "positive": 4,
-      "neutral": 2,
-      "negative": 1,
-      "count": 7,
-      "region": "Europe"
-    },
-    {
       "source": "Wired",
       "positive": 5,
       "neutral": 0,
@@ -248,11 +240,19 @@
       "region": "North America"
     },
     {
+      "source": "Financial Times",
+      "positive": 4,
+      "neutral": 1,
+      "negative": 2,
+      "count": 7,
+      "region": "North America"
+    },
+    {
       "source": "Engadget",
       "positive": 5,
-      "neutral": 2,
+      "neutral": 1,
       "negative": 0,
-      "count": 7,
+      "count": 6,
       "region": "North America"
     },
     {
@@ -315,45 +315,45 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 199,
-      "neutral": 44,
-      "negative": 197,
-      "count": 440
+      "positive": 198,
+      "neutral": 45,
+      "negative": 195,
+      "count": 438
     },
     {
       "region": "Asia-Pacific",
-      "positive": 149,
-      "neutral": 47,
-      "negative": 149,
-      "count": 345
+      "positive": 148,
+      "neutral": 48,
+      "negative": 154,
+      "count": 350
     },
     {
       "region": "Europe",
-      "positive": 122,
+      "positive": 123,
       "neutral": 29,
-      "negative": 102,
+      "negative": 101,
       "count": 253
     },
     {
       "region": "Middle East",
       "positive": 30,
       "neutral": 9,
-      "negative": 96,
-      "count": 135
+      "negative": 95,
+      "count": 134
     },
     {
       "region": "Global",
       "positive": 32,
       "neutral": 14,
-      "negative": 13,
-      "count": 59
+      "negative": 15,
+      "count": 61
     },
     {
       "region": "Africa",
       "positive": 16,
       "neutral": 1,
-      "negative": 14,
-      "count": 31
+      "negative": 17,
+      "count": 34
     },
     {
       "region": "South America",
@@ -366,36 +366,36 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 133,
+      "positive": 130,
       "neutral": 26,
-      "negative": 160,
-      "count": 319
+      "negative": 162,
+      "count": 318
     },
     {
       "topic": "Politics",
       "positive": 112,
       "neutral": 26,
-      "negative": 107,
-      "count": 245
+      "negative": 108,
+      "count": 246
     },
     {
       "topic": "Other",
-      "positive": 72,
-      "neutral": 47,
+      "positive": 73,
+      "neutral": 50,
       "negative": 104,
-      "count": 223
+      "count": 227
     },
     {
       "topic": "World",
       "positive": 56,
       "neutral": 11,
-      "negative": 107,
-      "count": 174
+      "negative": 109,
+      "count": 176
     },
     {
       "topic": "Sports",
-      "positive": 62,
-      "neutral": 10,
+      "positive": 63,
+      "neutral": 9,
       "negative": 15,
       "count": 87
     },
@@ -416,16 +416,16 @@
     {
       "topic": "Health",
       "positive": 18,
-      "neutral": 4,
+      "neutral": 5,
       "negative": 15,
-      "count": 37
+      "count": 38
     },
     {
       "topic": "Regional",
       "positive": 12,
-      "neutral": 2,
+      "neutral": 1,
       "negative": 19,
-      "count": 33
+      "count": 32
     },
     {
       "topic": "Local",
@@ -438,13 +438,29 @@
       "topic": "Science",
       "positive": 10,
       "neutral": 1,
-      "negative": 8,
-      "count": 19
+      "negative": 9,
+      "count": 20
     }
   ],
   "sample_headlines": [
     {
+      "title": "England to field in fourth Ashes test, Australia pick Richardson",
+      "url": "https://www.channelnewsasia.com/sport/england-field-in-fourth-ashes-test-australia-pick-richardson-5709321",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2025-12-26T07:15:44+08:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Why do our feet change size \u2013 and suffer bunions, flat arches and aches \u2013 from baby to middle age?",
+      "url": "https://www.channelnewsasia.com/wellness/foot-changes-age-bunions-flat-feet-hammertoes-5522076",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2025-12-26T07:05:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Why do our feet change size \u2013 and suffer from flat feet, bunions and aches \u2013 from baby to middle age?",
       "url": "https://www.channelnewsasia.com/wellness/foot-changes-age-bunions-flat-feet-hammertoes-5522076",
       "source": "Channel News Asia",
       "region": "North America",
@@ -506,6 +522,14 @@
       "region": "South America",
       "published": "2025-12-26T05:26:00+08:00",
       "sentiment": "neutral"
+    },
+    {
+      "title": "PM Modi: Freed country from tendency to link all good works with one family",
+      "url": "https://timesofindia.indiatimes.com/india/pm-modi-freed-country-from-tendency-to-link-all-good-works-with-one-family/articleshow/126180744.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-26T04:37:52+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "Newspaper reading now a must for students in UP government schools",
@@ -732,6 +756,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Vanessa Bryant tightens security amid new threat tied to Kobe Bryant\u2019s legacy",
+      "url": "https://timesofindia.indiatimes.com/sports/nba/top-stories/kobe-bryants-wife-vanessa-bryant-faces-a-tragic-new-concern-tied-to-the-nba-legends-legacy-as-she-amps-up-security/articleshow/126175716.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-26T00:40:06+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "J&amp;K: Authorities ban all VPNs for two months in Kathua; order cites security concerns",
       "url": "https://timesofindia.indiatimes.com/india/jk-after-rajouri-and-poonch-now-kathua-district-administration-suspends-vpn-services-for-two-months/articleshow/126178162.cms",
       "source": "Times of India",
@@ -868,12 +900,28 @@
       "sentiment": "positive"
     },
     {
+      "title": "US launches strikes against Isis in Nigeria, Trump says",
+      "url": "https://www.scmp.com/news/world/africa/article/3337749/us-launches-strikes-against-isis-nigeria-trump-says?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Africa",
+      "published": "2025-12-25T23:37:30+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "UPSC ESE 2025 results: IIT grad overcomes cerebral palsy; secures AIR 112 in first attempt",
       "url": "https://timesofindia.indiatimes.com/city/meerut/from-learning-to-hold-pencil-to-cracking-upsc-iit-grad-with-cerebral-palsy-bags-air-112/articleshow/126176974.cms",
       "source": "Times of India",
       "region": "Asia-Pacific",
       "published": "2025-12-25T23:36:00+05:30",
       "sentiment": "positive"
+    },
+    {
+      "title": "Israelis kill two additional Palestinians crossing the 'Yellow Line' on Christmas Day",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israelis-kill-two-additional-palestinians-crossing-yellow-line-christmas",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "published": "2025-12-25T23:33:09+00:00",
+      "sentiment": "negative"
     },
     {
       "title": "U.P. CM Yogi signals shift toward \u2018fearless business\u2019 and \u2018trust of doing business\u2019 in Assembly speech",
@@ -884,11 +932,67 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Neighbours shut down street to settle who makes the best lasagne",
+      "url": "https://www.abc.net.au/news/2025-12-26/lasagne-competition-in-south-fremantle-resumes-italy-taste/106155364",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-12-25T23:31:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Silver Rises to Record, Gold Near All-Time High as Risks Persist",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-25/silver-rises-to-record-gold-near-all-time-high-as-risks-persist",
+      "source": "Bloomberg",
+      "region": "Global",
+      "published": "2025-12-25T23:29:51+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Oil Heads for Weekly Advance as US Piles Pressure on Venezuela",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-25/latest-oil-market-news-and-analysis-for-dec-26",
+      "source": "Bloomberg",
+      "region": "North America",
+      "published": "2025-12-25T23:29:08+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Work on construction of High Court building begins in Amaravati",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/work-on-construction-of-high-court-building-begins-in-amaravati/article70437447.ece",
       "source": "The Hindu",
       "region": "North America",
       "published": "2025-12-25T23:28:07+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Ball-by-ball updates: England face Australia in fourth Ashes Test at MCG",
+      "url": "https://www.skysports.com/cricket/australia-v-england/commentary/fe02e167-7f01-579e-aea6-511c9478a970",
+      "source": "Sky Sports",
+      "region": "North America",
+      "published": "2025-12-25T23:25:00+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Scorecard: Australia vs England, fourth Ashes Test, Melbourne",
+      "url": "https://www.skysports.com/cricket/australia-v-england/scorecard/fe02e167-7f01-579e-aea6-511c9478a970",
+      "source": "Sky Sports",
+      "region": "Asia-Pacific",
+      "published": "2025-12-25T23:25:00+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Putin critic and pro-war activist jailed by Russian court",
+      "url": "https://www.abc.net.au/news/2025-12-26/russian-court-sentences-war-activist-and-putin-critic-to-prison/106179590",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-12-25T23:24:36+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Christmas Day roadside breath test ends in pedestrian hit-and-run",
+      "url": "https://www.abc.net.au/news/2025-12-26/pedestrian-tasmanian-hit-and-run-after-police-breath-test/106179584",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-12-25T23:22:40+00:00",
       "sentiment": "neutral"
     },
     {
@@ -913,6 +1017,22 @@
       "source": "The Hindu",
       "region": "North America",
       "published": "2025-12-25T23:12:09+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "India's solar boom faces a hidden waste problem",
+      "url": "https://www.bbc.com/news/articles/cd6x75x4j02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "Asia-Pacific",
+      "published": "2025-12-25T23:11:20+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Indonesians raise white flags as anger grows over slow flood aid",
+      "url": "https://www.bbc.com/news/articles/ckgzwqjpzp4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "Asia-Pacific",
+      "published": "2025-12-25T23:09:41+00:00",
       "sentiment": "negative"
     },
     {
@@ -945,6 +1065,22 @@
       "source": "Australian Broadcasting Corporation",
       "region": "Asia-Pacific",
       "published": "2025-12-25T23:00:42+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Japan\u2019s Small IPOs Fall to 12-Year Low Amid Market Reforms",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-25/japan-s-small-ipos-fall-to-12-year-low-amid-market-reforms",
+      "source": "Bloomberg",
+      "region": "Asia-Pacific",
+      "published": "2025-12-25T23:00:15+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Afreximbank and Ghana Settle Dispute Over $750 Million Loan",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-25/afreximbank-and-ghana-settle-dispute-over-750-million-loan",
+      "source": "Bloomberg",
+      "region": "Africa",
+      "published": "2025-12-25T22:58:57+00:00",
       "sentiment": "negative"
     },
     {
@@ -1106,142 +1242,6 @@
       "region": "Europe",
       "published": "2025-12-25T22:30:00+00:00",
       "sentiment": "positive"
-    },
-    {
-      "title": "Amit Shah to inaugurate anti-terror conference on December 26",
-      "url": "https://www.thehindu.com/news/national/amit-shah-to-inaugurate-anti-terror-conference-on-december-26/article70437679.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-25T22:27:27+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "James Ransone remembered for heroically saving woman from sexual assault",
-      "url": "https://www.independent.co.uk/bulletin/culture/james-ransone-death-sexual-assault-b2890533.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-25T22:26:10+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Venezuela frees dozens detained during protests against Maduro",
-      "url": "https://www.aljazeera.com/news/2025/12/25/venezuela-frees-dozens-detained-during-protests-against-maduro?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "region": "South America",
-      "published": "2025-12-25T22:19:52+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Carrying the red flag into the next century",
-      "url": "https://www.thehindu.com/news/national/carrying-the-red-flag-into-the-next-century/article70437256.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-12-25T22:18:31+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Gujarat Assembly Deputy Speaker Jethabhai Bharwad resigns",
-      "url": "https://www.thehindu.com/news/national/gujarat/gujarat-assembly-deputy-speaker-jethabhai-bharwad-resigns/article70437091.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-25T22:18:03+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Nigeria: Catholic Church Confirms All Pupils, Staff Abducted From Niger School Have Regained Freedom",
-      "url": "https://allafrica.com/stories/202512250170.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2025-12-25T22:16:23+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Nigeria: Gbajabiamila Remains Tinubu's Chief of Staff - Presidency",
-      "url": "https://allafrica.com/stories/202512250169.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2025-12-25T22:15:40+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "One killed, four injured as gas cylinder explodes near Mysuru palace gate",
-      "url": "https://www.thehindu.com/news/national/karnataka/one-killed-four-injured-as-gas-cylinder-explodes-near-mysuru-palace-gate/article70437695.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-25T22:15:26+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Africa: Afcon 2025 Day 4 Roundup - Zidane Watches Algeria Cruise As C&#xf4;te d'Ivoire, Cameroon Secure Vital Wins",
-      "url": "https://allafrica.com/stories/202512250168.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2025-12-25T22:13:17+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Israeli military court gives attorney general's office three days to respond to request to drop Sde Teimen indictment",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-court-gives-attorney-generals-office-three-days-respond",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "published": "2025-12-25T22:10:37+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "What Jimmy Kimmel said about Trump in scathing Christmas message",
-      "url": "https://www.independent.co.uk/bulletin/news/jimmy-kimmel-christmas-message-trump-b2890531.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-25T22:08:55+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Emerging virtual fencing tech could help save cattle trapped in bushfires",
-      "url": "https://www.abc.net.au/news/2025-12-26/virtual-fencing-could-help-in-bushfire-response/106170506",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-12-25T22:00:24+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Yen Bearish Voices Build for 2026 on Cautious BOJ Policy Path",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-25/yen-bearish-voices-build-for-2026-on-cautious-boj-policy-path",
-      "source": "Bloomberg",
-      "region": "North America",
-      "published": "2025-12-25T22:00:24+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "\u2018Golden Fleet\u2019: will Trump\u2019s battleship plan deter China or is it just a pipe dream?",
-      "url": "https://www.scmp.com/news/china/military/article/3337739/golden-fleet-will-trumps-battleship-plan-deter-china-or-it-just-pipe-dream?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "North America",
-      "published": "2025-12-25T22:00:16+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Takaichi, AI, Corporate Reform Pave Way for Japan Stocks in 2026",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-25/takaichi-ai-corporate-reform-pave-way-for-japan-stocks-in-2026",
-      "source": "Bloomberg",
-      "region": "Asia-Pacific",
-      "published": "2025-12-25T22:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "915 villages in Maharashtra stop ill treatment of widows",
-      "url": "https://www.thehindu.com/news/national/maharashtra/villages-in-maharashtra-vow-to-stop-humiliation-of-widows/article70437563.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-25T21:57:02+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "915 Maharashtra villages back dignified life for widows",
-      "url": "https://www.thehindu.com/news/national/maharashtra/villages-in-maharashtra-vow-to-stop-humiliation-of-widows/article70437563.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-25T21:57:02+05:30",
-      "sentiment": "negative"
     }
   ]
 }
