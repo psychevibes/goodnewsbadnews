@@ -1,75 +1,83 @@
 {
-  "generated_at": "2025-12-25T16:28:02.208724+00:00",
+  "generated_at": "2025-12-25T16:51:48.021399+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 663,
-    "neutral": 183,
-    "negative": 615
+    "positive": 656,
+    "neutral": 176,
+    "negative": 609
   },
   "by_publication": [
     {
       "source": "The Hindu",
       "positive": 79,
-      "neutral": 46,
-      "negative": 102,
-      "count": 227,
+      "neutral": 45,
+      "negative": 101,
+      "count": 225,
       "region": "Asia-Pacific"
     },
     {
       "source": "Independent",
-      "positive": 76,
-      "neutral": 33,
-      "negative": 98,
-      "count": 207,
+      "positive": 75,
+      "neutral": 30,
+      "negative": 95,
+      "count": 200,
       "region": "Europe"
     },
     {
       "source": "Times of India",
-      "positive": 71,
+      "positive": 70,
       "neutral": 7,
       "negative": 59,
-      "count": 137,
+      "count": 136,
       "region": "Asia-Pacific"
     },
     {
       "source": "South China Morning Post",
-      "positive": 37,
+      "positive": 36,
       "neutral": 2,
       "negative": 32,
-      "count": 71,
+      "count": 70,
       "region": "Europe"
     },
     {
       "source": "Fox News",
-      "positive": 23,
+      "positive": 24,
       "neutral": 6,
-      "negative": 31,
+      "negative": 30,
       "count": 60,
-      "region": "North America"
-    },
-    {
-      "source": "CBS News",
-      "positive": 28,
-      "neutral": 6,
-      "negative": 23,
-      "count": 57,
-      "region": "South America"
+      "region": "Europe"
     },
     {
       "source": "Al Jazeera English",
       "positive": 14,
-      "neutral": 9,
+      "neutral": 8,
       "negative": 33,
-      "count": 56,
+      "count": 55,
       "region": "Middle East"
     },
     {
+      "source": "CBS News",
+      "positive": 24,
+      "neutral": 6,
+      "negative": 22,
+      "count": 52,
+      "region": "South America"
+    },
+    {
       "source": "Middle East Eye",
-      "positive": 14,
+      "positive": 15,
       "neutral": 6,
       "negative": 29,
-      "count": 49,
+      "count": 50,
       "region": "Middle East"
+    },
+    {
+      "source": "BBC News",
+      "positive": 21,
+      "neutral": 6,
+      "negative": 22,
+      "count": 49,
+      "region": "North America"
     },
     {
       "source": "Channel News Asia",
@@ -78,14 +86,6 @@
       "negative": 17,
       "count": 48,
       "region": "Global"
-    },
-    {
-      "source": "BBC News",
-      "positive": 20,
-      "neutral": 6,
-      "negative": 22,
-      "count": 48,
-      "region": "North America"
     },
     {
       "source": "Australian Broadcasting Corporation",
@@ -99,8 +99,8 @@
       "source": "Times of Israel",
       "positive": 9,
       "neutral": 2,
-      "negative": 29,
-      "count": 40,
+      "negative": 28,
+      "count": 39,
       "region": "Middle East"
     },
     {
@@ -122,18 +122,18 @@
     {
       "source": "NBC News",
       "positive": 19,
-      "neutral": 7,
+      "neutral": 6,
       "negative": 4,
-      "count": 30,
+      "count": 29,
       "region": "North America"
     },
     {
       "source": "France 24",
-      "positive": 12,
+      "positive": 14,
       "neutral": 0,
-      "negative": 15,
-      "count": 27,
-      "region": "Europe"
+      "negative": 14,
+      "count": 28,
+      "region": "North America"
     },
     {
       "source": "ESPN",
@@ -154,18 +154,10 @@
     {
       "source": "Mashable",
       "positive": 16,
-      "neutral": 4,
+      "neutral": 3,
       "negative": 1,
-      "count": 21,
+      "count": 20,
       "region": "Global"
-    },
-    {
-      "source": "Bloomberg",
-      "positive": 9,
-      "neutral": 2,
-      "negative": 8,
-      "count": 19,
-      "region": "Middle East"
     },
     {
       "source": "ABC News",
@@ -174,6 +166,14 @@
       "negative": 7,
       "count": 19,
       "region": "North America"
+    },
+    {
+      "source": "Bloomberg",
+      "positive": 8,
+      "neutral": 2,
+      "negative": 8,
+      "count": 18,
+      "region": "Middle East"
     },
     {
       "source": "New York Times",
@@ -192,20 +192,20 @@
       "region": "Europe"
     },
     {
-      "source": "Daily News Egypt",
-      "positive": 15,
-      "neutral": 0,
-      "negative": 1,
-      "count": 16,
-      "region": "Middle East"
-    },
-    {
       "source": "AllAfrica",
       "positive": 12,
       "neutral": 0,
-      "negative": 2,
+      "negative": 4,
+      "count": 16,
+      "region": "Africa"
+    },
+    {
+      "source": "Daily News Egypt",
+      "positive": 13,
+      "neutral": 0,
+      "negative": 1,
       "count": 14,
-      "region": "Global"
+      "region": "Middle East"
     },
     {
       "source": "CNBC",
@@ -220,14 +220,6 @@
       "positive": 9,
       "neutral": 2,
       "negative": 0,
-      "count": 11,
-      "region": "North America"
-    },
-    {
-      "source": "MarketWatch",
-      "positive": 8,
-      "neutral": 1,
-      "negative": 2,
       "count": 11,
       "region": "North America"
     },
@@ -254,6 +246,14 @@
       "negative": 3,
       "count": 9,
       "region": "Europe"
+    },
+    {
+      "source": "MarketWatch",
+      "positive": 6,
+      "neutral": 1,
+      "negative": 2,
+      "count": 9,
+      "region": "North America"
     },
     {
       "source": "Irish Times",
@@ -317,51 +317,51 @@
       "neutral": 0,
       "negative": 1,
       "count": 2,
-      "region": "North America"
+      "region": "South America"
     }
   ],
   "by_region": [
     {
       "region": "North America",
-      "positive": 258,
-      "neutral": 59,
-      "negative": 232,
-      "count": 549
+      "positive": 253,
+      "neutral": 58,
+      "negative": 228,
+      "count": 539
     },
     {
       "region": "Asia-Pacific",
-      "positive": 171,
-      "neutral": 52,
-      "negative": 141,
-      "count": 364
+      "positive": 170,
+      "neutral": 51,
+      "negative": 139,
+      "count": 360
     },
     {
       "region": "Europe",
-      "positive": 126,
-      "neutral": 36,
+      "positive": 127,
+      "neutral": 33,
       "negative": 107,
-      "count": 269
+      "count": 267
     },
     {
       "region": "Middle East",
       "positive": 41,
-      "neutral": 14,
-      "negative": 96,
-      "count": 151
+      "neutral": 13,
+      "negative": 95,
+      "count": 149
     },
     {
       "region": "Global",
-      "positive": 41,
-      "neutral": 16,
-      "negative": 12,
-      "count": 69
+      "positive": 40,
+      "neutral": 15,
+      "negative": 13,
+      "count": 68
     },
     {
       "region": "Africa",
-      "positive": 25,
+      "positive": 24,
       "neutral": 2,
       "negative": 19,
-      "count": 46
+      "count": 45
     },
     {
       "region": "South America",
@@ -374,45 +374,45 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 159,
-      "neutral": 26,
-      "negative": 169,
-      "count": 354
+      "positive": 156,
+      "neutral": 25,
+      "negative": 170,
+      "count": 351
     },
     {
       "topic": "Politics",
-      "positive": 144,
-      "neutral": 27,
-      "negative": 129,
-      "count": 300
+      "positive": 141,
+      "neutral": 28,
+      "negative": 126,
+      "count": 295
     },
     {
       "topic": "Other",
       "positive": 102,
-      "neutral": 71,
-      "negative": 105,
-      "count": 278
+      "neutral": 66,
+      "negative": 101,
+      "count": 269
     },
     {
       "topic": "World",
-      "positive": 66,
+      "positive": 67,
       "neutral": 10,
-      "negative": 102,
-      "count": 178
+      "negative": 103,
+      "count": 180
     },
     {
       "topic": "Sports",
-      "positive": 65,
-      "neutral": 11,
+      "positive": 64,
+      "neutral": 9,
       "negative": 19,
-      "count": 95
+      "count": 92
     },
     {
       "topic": "Business",
-      "positive": 41,
+      "positive": 40,
       "neutral": 9,
-      "negative": 16,
-      "count": 66
+      "negative": 15,
+      "count": 64
     },
     {
       "topic": "Entertainment",
@@ -425,15 +425,15 @@
       "topic": "Health",
       "positive": 19,
       "neutral": 6,
-      "negative": 14,
-      "count": 39
+      "negative": 15,
+      "count": 40
     },
     {
       "topic": "Regional",
       "positive": 16,
       "neutral": 3,
-      "negative": 16,
-      "count": 35
+      "negative": 15,
+      "count": 34
     },
     {
       "topic": "Local",
@@ -451,6 +451,30 @@
     }
   ],
   "sample_headlines": [
+    {
+      "title": "One killed, four injured as gas cylinder explodes near Mysuru palace gate",
+      "url": "https://www.thehindu.com/news/national/karnataka/one-killed-four-injured-as-gas-cylinder-explodes-near-mysuru-palace-gate/article70437695.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-25T22:15:26+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "915 villages in Maharashtra stop ill treatment of widows",
+      "url": "https://www.thehindu.com/news/national/maharashtra/villages-in-maharashtra-vow-to-stop-humiliation-of-widows/article70437563.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-25T21:57:02+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Aravalli row: Yadav, Ramesh trade charges over mining and forest data",
+      "url": "https://www.thehindu.com/news/national/aravalli-row-yadav-ramesh-trade-charges-over-mining-and-forest-data/article70437557.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-25T21:54:37+05:30",
+      "sentiment": "negative"
+    },
     {
       "title": "Vajpayee practised value-based politics: BJP",
       "url": "https://www.thehindu.com/news/national/telangana/vajpayee-practised-value-based-politics-bjp/article70437604.ece",
@@ -509,6 +533,14 @@
     },
     {
       "title": "Labourer shot dead in U.P.\u2019s Farrukhabad village",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/labourer-shot-dead-in-ups-farrukhabad-village/article70437539.ece",
+      "source": "The Hindu",
+      "region": "Europe",
+      "published": "2025-12-25T21:14:37+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Labourer shot dead in U.P.\u2019s Farrukhabad",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/labourer-shot-dead-in-ups-farrukhabad-village/article70437539.ece",
       "source": "The Hindu",
       "region": "Europe",
@@ -1218,38 +1250,6 @@
       "region": "North America",
       "published": "2025-12-25T18:23:05+05:30",
       "sentiment": "negative"
-    },
-    {
-      "title": "Here are the big stories from Karnataka today",
-      "url": "https://www.thehindu.com/newsletter/karnataka-today/here-are-the-big-stories-from-karnataka-today/article70436814.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-25T18:22:05+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Newly-wed woman found dead; family alleges foul play",
-      "url": "https://www.thehindu.com/news/national/karnataka/newly-wed-woman-found-dead-family-alleges-foul-play/article70436651.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-25T18:21:29+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "No fly zone declared in Tiruvannamalai on December 26-27 for Chief Minister\u2019s visit",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/no-fly-zone-declared-in-tiruvannamalai-on-december-26-27-for-chief-ministers-visit/article70436829.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-25T18:18:10+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Chief Minister Stalin to inaugurate 280 free houses for Sri Lankan Tamils in Tiruvannamalai on December 27",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-stalin-to-inaugurate-280-free-houses-for-sri-lankan-tamils-in-tiruvannamalai-on-december-27/article70436826.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-12-25T18:17:09+05:30",
-      "sentiment": "positive"
     }
   ]
 }
