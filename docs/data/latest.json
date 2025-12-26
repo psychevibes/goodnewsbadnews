@@ -1,19 +1,19 @@
 {
-  "generated_at": "2025-12-26T21:20:07.367406+00:00",
+  "generated_at": "2025-12-26T21:41:28.879335+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 773,
-    "neutral": 255,
-    "negative": 926
+    "positive": 779,
+    "neutral": 258,
+    "negative": 932
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 115,
+      "positive": 118,
       "neutral": 35,
-      "negative": 116,
-      "count": 266,
-      "region": "Europe"
+      "negative": 115,
+      "count": 268,
+      "region": "Middle East"
     },
     {
       "source": "The Hindu",
@@ -21,15 +21,23 @@
       "neutral": 67,
       "negative": 121,
       "count": 260,
-      "region": "Asia-Pacific"
+      "region": "North America"
     },
     {
       "source": "Times of India",
-      "positive": 61,
+      "positive": 62,
       "neutral": 8,
-      "negative": 77,
+      "negative": 76,
       "count": 146,
-      "region": "North America"
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "Channel News Asia",
+      "positive": 33,
+      "neutral": 17,
+      "negative": 42,
+      "count": 92,
+      "region": "South America"
     },
     {
       "source": "AllAfrica",
@@ -40,28 +48,12 @@
       "region": "Africa"
     },
     {
-      "source": "Channel News Asia",
-      "positive": 32,
-      "neutral": 17,
-      "negative": 42,
-      "count": 91,
-      "region": "Global"
-    },
-    {
       "source": "Fox News",
-      "positive": 37,
-      "neutral": 6,
-      "negative": 36,
-      "count": 79,
+      "positive": 38,
+      "neutral": 8,
+      "negative": 37,
+      "count": 83,
       "region": "North America"
-    },
-    {
-      "source": "Australian Broadcasting Corporation",
-      "positive": 30,
-      "neutral": 4,
-      "negative": 40,
-      "count": 74,
-      "region": "Asia-Pacific"
     },
     {
       "source": "South China Morning Post",
@@ -72,18 +64,26 @@
       "region": "North America"
     },
     {
-      "source": "BBC News",
-      "positive": 17,
-      "neutral": 5,
-      "negative": 38,
-      "count": 60,
-      "region": "North America"
+      "source": "Australian Broadcasting Corporation",
+      "positive": 28,
+      "neutral": 4,
+      "negative": 40,
+      "count": 72,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Al Jazeera English",
       "positive": 14,
       "neutral": 10,
-      "negative": 36,
+      "negative": 39,
+      "count": 63,
+      "region": "Middle East"
+    },
+    {
+      "source": "Bloomberg",
+      "positive": 34,
+      "neutral": 2,
+      "negative": 24,
       "count": 60,
       "region": "North America"
     },
@@ -96,36 +96,36 @@
       "region": "North America"
     },
     {
+      "source": "BBC News",
+      "positive": 16,
+      "neutral": 5,
+      "negative": 38,
+      "count": 59,
+      "region": "North America"
+    },
+    {
       "source": "Sky Sports",
       "positive": 28,
-      "neutral": 16,
+      "neutral": 17,
       "negative": 14,
-      "count": 58,
+      "count": 59,
       "region": "Europe"
-    },
-    {
-      "source": "Bloomberg",
-      "positive": 33,
-      "neutral": 2,
-      "negative": 22,
-      "count": 57,
-      "region": "South America"
-    },
-    {
-      "source": "CBS News",
-      "positive": 21,
-      "neutral": 7,
-      "negative": 27,
-      "count": 55,
-      "region": "North America"
     },
     {
       "source": "Middle East Eye",
       "positive": 7,
       "neutral": 1,
-      "negative": 46,
-      "count": 54,
+      "negative": 48,
+      "count": 56,
       "region": "Middle East"
+    },
+    {
+      "source": "CBS News",
+      "positive": 20,
+      "neutral": 7,
+      "negative": 27,
+      "count": 54,
+      "region": "North America"
     },
     {
       "source": "France 24",
@@ -139,9 +139,9 @@
       "source": "ESPN",
       "positive": 21,
       "neutral": 10,
-      "negative": 12,
-      "count": 43,
-      "region": "North America"
+      "negative": 13,
+      "count": 44,
+      "region": "Global"
     },
     {
       "source": "Euronews",
@@ -163,31 +163,31 @@
       "source": "Times of Israel",
       "positive": 6,
       "neutral": 1,
-      "negative": 22,
-      "count": 29,
+      "negative": 20,
+      "count": 27,
       "region": "Middle East"
+    },
+    {
+      "source": "NBC News",
+      "positive": 7,
+      "neutral": 7,
+      "negative": 12,
+      "count": 26,
+      "region": "North America"
+    },
+    {
+      "source": "Mashable",
+      "positive": 16,
+      "neutral": 6,
+      "negative": 2,
+      "count": 24,
+      "region": "North America"
     },
     {
       "source": "CNBC",
       "positive": 11,
       "neutral": 4,
-      "negative": 9,
-      "count": 24,
-      "region": "North America"
-    },
-    {
-      "source": "NBC News",
-      "positive": 6,
-      "neutral": 7,
-      "negative": 11,
-      "count": 24,
-      "region": "North America"
-    },
-    {
-      "source": "Mashable",
-      "positive": 15,
-      "neutral": 6,
-      "negative": 2,
+      "negative": 8,
       "count": 23,
       "region": "North America"
     },
@@ -198,6 +198,14 @@
       "negative": 13,
       "count": 21,
       "region": "Middle East"
+    },
+    {
+      "source": "ABC News",
+      "positive": 3,
+      "neutral": 5,
+      "negative": 12,
+      "count": 20,
+      "region": "North America"
     },
     {
       "source": "Straits Times",
@@ -212,14 +220,6 @@
       "positive": 2,
       "neutral": 4,
       "negative": 13,
-      "count": 19,
-      "region": "North America"
-    },
-    {
-      "source": "ABC News",
-      "positive": 3,
-      "neutral": 5,
-      "negative": 11,
       "count": 19,
       "region": "North America"
     },
@@ -304,20 +304,20 @@
       "region": "Africa"
     },
     {
+      "source": "Buenos Aires Herald",
+      "positive": 3,
+      "neutral": 0,
+      "negative": 0,
+      "count": 3,
+      "region": "Asia-Pacific"
+    },
+    {
       "source": "Ars Technica",
       "positive": 3,
       "neutral": 0,
       "negative": 0,
       "count": 3,
       "region": "Global"
-    },
-    {
-      "source": "Buenos Aires Herald",
-      "positive": 2,
-      "neutral": 0,
-      "negative": 0,
-      "count": 2,
-      "region": "North America"
     },
     {
       "source": "Telegraph",
@@ -331,45 +331,45 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 276,
-      "neutral": 72,
-      "negative": 313,
-      "count": 661
+      "positive": 281,
+      "neutral": 73,
+      "negative": 319,
+      "count": 673
     },
     {
       "region": "Asia-Pacific",
-      "positive": 162,
+      "positive": 159,
       "neutral": 79,
-      "negative": 247,
-      "count": 488
+      "negative": 246,
+      "count": 484
     },
     {
       "region": "Europe",
-      "positive": 174,
-      "neutral": 59,
-      "negative": 132,
-      "count": 365
+      "positive": 176,
+      "neutral": 60,
+      "negative": 130,
+      "count": 366
     },
     {
       "region": "Middle East",
-      "positive": 28,
-      "neutral": 9,
-      "negative": 126,
-      "count": 163
+      "positive": 29,
+      "neutral": 10,
+      "negative": 127,
+      "count": 166
     },
     {
       "region": "Global",
-      "positive": 83,
+      "positive": 84,
       "neutral": 24,
-      "negative": 32,
-      "count": 139
+      "negative": 33,
+      "count": 141
     },
     {
       "region": "Africa",
       "positive": 46,
       "neutral": 10,
-      "negative": 73,
-      "count": 129
+      "negative": 74,
+      "count": 130
     },
     {
       "region": "South America",
@@ -382,51 +382,51 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 212,
+      "positive": 214,
       "neutral": 63,
-      "negative": 238,
+      "negative": 236,
       "count": 513
     },
     {
       "topic": "Politics",
-      "positive": 104,
-      "neutral": 32,
-      "negative": 213,
-      "count": 349
+      "positive": 105,
+      "neutral": 31,
+      "negative": 215,
+      "count": 351
     },
     {
       "topic": "Other",
-      "positive": 118,
-      "neutral": 74,
-      "negative": 135,
-      "count": 327
+      "positive": 119,
+      "neutral": 76,
+      "negative": 136,
+      "count": 331
     },
     {
       "topic": "World",
-      "positive": 71,
-      "neutral": 16,
-      "negative": 144,
-      "count": 231
+      "positive": 74,
+      "neutral": 17,
+      "negative": 145,
+      "count": 236
     },
     {
       "topic": "Sports",
-      "positive": 88,
+      "positive": 87,
       "neutral": 22,
-      "negative": 40,
+      "negative": 41,
       "count": 150
     },
     {
       "topic": "Business",
       "positive": 67,
       "neutral": 15,
-      "negative": 19,
-      "count": 101
+      "negative": 21,
+      "count": 103
     },
     {
       "topic": "Entertainment",
       "positive": 44,
-      "neutral": 7,
-      "negative": 35,
+      "neutral": 8,
+      "negative": 34,
       "count": 86
     },
     {
@@ -447,8 +447,8 @@
       "topic": "Health",
       "positive": 17,
       "neutral": 2,
-      "negative": 29,
-      "count": 48
+      "negative": 31,
+      "count": 50
     },
     {
       "topic": "Science",
@@ -459,6 +459,22 @@
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Japan schedules sanitary audit on Brazilian beef for March 2026, Brazil says",
+      "url": "https://www.channelnewsasia.com/business/japan-schedules-sanitary-audit-brazilian-beef-march-2026-brazil-says-5724191",
+      "source": "Channel News Asia",
+      "region": "South America",
+      "published": "2025-12-27T05:27:16+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "More rain expected in drenched California before drier weekend",
+      "url": "https://www.channelnewsasia.com/world/more-rain-expected-in-drenched-california-drier-weekend-5724176",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-12-27T05:27:07+08:00",
+      "sentiment": "positive"
+    },
     {
       "title": "\u2018Friends are the best alcohol\u2019: The party\u2019s bumpin\u2019, and everyone is drinking matcha",
       "url": "https://www.straitstimes.com/singapore/friends-are-the-best-alcohol-the-partys-bumpin-and-everyone-is-drinking-matcha",
@@ -490,6 +506,22 @@
       "region": "Middle East",
       "published": "2025-12-27T03:36:44+08:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "J&K HC court order on PIL related to undertrials surprising, unfortunate: Mehbooba",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-hc-court-order-on-pil-related-to-undertrials-surprising-unfortunate-mehbooba/article70440782.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-12-27T02:53:00+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Saudi Arabia, not the US, deported the highest number of Indians in \u201925",
+      "url": "https://timesofindia.indiatimes.com/india/saudi-not-the-us-deported-highest-no-of-indians-in-2025/articleshow/126196011.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-27T02:44:15+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "Disintegration talk is rumour-mongering, BJD will survive for generations: Naveen Patnaik",
@@ -1226,38 +1258,6 @@
       "region": "Global",
       "published": "2025-12-26T22:00:00+08:00",
       "sentiment": "neutral"
-    },
-    {
-      "title": "Sales of all but 2 IP riders now will cease come April 2026",
-      "url": "https://www.straitstimes.com/singapore/health/almost-all-current-ip-riders-to-cease-sales-by-april-2026",
-      "source": "Straits Times",
-      "region": "Global",
-      "published": "2025-12-26T22:00:00+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Revanth in New Delhi today for CWC meeting",
-      "url": "https://www.thehindu.com/news/national/telangana/revanth-in-new-delhi-today-for-cwc-meeting/article70441069.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-26T21:56:03+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "State launches new campaign for good health",
-      "url": "https://www.thehindu.com/news/national/kerala/state-launches-new-campaign-for-good-health/article70440932.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-26T21:51:30+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "CPI(M) rebel P. Nirmala elected chairperson in Shoranur",
-      "url": "https://www.thehindu.com/news/national/kerala/cpim-rebel-p-nirmala-elected-chairperson-in-shoranur/article70441066.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-26T21:51:12+05:30",
-      "sentiment": "negative"
     }
   ]
 }
