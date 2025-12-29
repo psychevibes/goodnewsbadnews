@@ -1,35 +1,35 @@
 {
-  "generated_at": "2025-12-29T17:20:36.981266+00:00",
+  "generated_at": "2025-12-29T17:44:56.512620+00:00",
   "window_hours": 24,
   "totals": {
     "positive": 965,
-    "neutral": 255,
-    "negative": 1020
+    "neutral": 262,
+    "negative": 1036
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 145,
-      "neutral": 40,
-      "negative": 168,
-      "count": 353,
+      "positive": 144,
+      "neutral": 42,
+      "negative": 172,
+      "count": 358,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
       "positive": 88,
-      "neutral": 50,
-      "negative": 94,
-      "count": 232,
-      "region": "Asia-Pacific"
+      "neutral": 51,
+      "negative": 96,
+      "count": 235,
+      "region": "North America"
     },
     {
       "source": "Times of India",
-      "positive": 87,
+      "positive": 89,
       "neutral": 11,
-      "negative": 75,
-      "count": 173,
-      "region": "North America"
+      "negative": 76,
+      "count": 176,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Channel News Asia",
@@ -41,18 +41,18 @@
     },
     {
       "source": "Bloomberg",
-      "positive": 51,
+      "positive": 53,
       "neutral": 10,
       "negative": 22,
-      "count": 83,
+      "count": 85,
       "region": "North America"
     },
     {
       "source": "Fox News",
-      "positive": 28,
+      "positive": 26,
       "neutral": 8,
-      "negative": 46,
-      "count": 82,
+      "negative": 50,
+      "count": 84,
       "region": "North America"
     },
     {
@@ -61,7 +61,7 @@
       "neutral": 3,
       "negative": 58,
       "count": 78,
-      "region": "North America"
+      "region": "Europe"
     },
     {
       "source": "Australian Broadcasting Corporation",
@@ -72,34 +72,34 @@
       "region": "Asia-Pacific"
     },
     {
+      "source": "BBC News",
+      "positive": 36,
+      "neutral": 9,
+      "negative": 32,
+      "count": 77,
+      "region": "North America"
+    },
+    {
       "source": "South China Morning Post",
       "positive": 36,
       "neutral": 2,
-      "negative": 36,
-      "count": 74,
-      "region": "Europe"
-    },
-    {
-      "source": "BBC News",
-      "positive": 35,
-      "neutral": 9,
-      "negative": 29,
-      "count": 73,
-      "region": "Europe"
+      "negative": 37,
+      "count": 75,
+      "region": "Middle East"
     },
     {
       "source": "CBS News",
       "positive": 32,
-      "neutral": 1,
-      "negative": 40,
-      "count": 73,
+      "neutral": 0,
+      "negative": 42,
+      "count": 74,
       "region": "North America"
     },
     {
       "source": "ESPN",
       "positive": 40,
-      "neutral": 6,
-      "negative": 21,
+      "neutral": 7,
+      "negative": 20,
       "count": 67,
       "region": "North America"
     },
@@ -107,9 +107,25 @@
       "source": "Al Jazeera English",
       "positive": 18,
       "neutral": 9,
-      "negative": 30,
-      "count": 57,
-      "region": "Africa"
+      "negative": 31,
+      "count": 58,
+      "region": "Middle East"
+    },
+    {
+      "source": "Sky Sports",
+      "positive": 33,
+      "neutral": 7,
+      "negative": 16,
+      "count": 56,
+      "region": "Europe"
+    },
+    {
+      "source": "BBC Sport",
+      "positive": 28,
+      "neutral": 7,
+      "negative": 20,
+      "count": 55,
+      "region": "North America"
     },
     {
       "source": "Middle East Eye",
@@ -117,29 +133,13 @@
       "neutral": 0,
       "negative": 44,
       "count": 55,
-      "region": "Europe"
-    },
-    {
-      "source": "Sky Sports",
-      "positive": 32,
-      "neutral": 6,
-      "negative": 16,
-      "count": 54,
-      "region": "Europe"
+      "region": "Middle East"
     },
     {
       "source": "France 24",
       "positive": 26,
       "neutral": 4,
       "negative": 23,
-      "count": 53,
-      "region": "Europe"
-    },
-    {
-      "source": "BBC Sport",
-      "positive": 27,
-      "neutral": 7,
-      "negative": 19,
       "count": 53,
       "region": "Europe"
     },
@@ -153,10 +153,10 @@
     },
     {
       "source": "Euronews",
-      "positive": 27,
-      "neutral": 3,
+      "positive": 24,
+      "neutral": 5,
       "negative": 15,
-      "count": 45,
+      "count": 44,
       "region": "Europe"
     },
     {
@@ -184,20 +184,28 @@
       "region": "Asia-Pacific"
     },
     {
-      "source": "Deutsche Welle",
-      "positive": 11,
-      "neutral": 2,
-      "negative": 15,
-      "count": 28,
-      "region": "North America"
-    },
-    {
       "source": "MarketWatch",
       "positive": 20,
       "neutral": 3,
       "negative": 5,
       "count": 28,
       "region": "Global"
+    },
+    {
+      "source": "Deutsche Welle",
+      "positive": 11,
+      "neutral": 2,
+      "negative": 14,
+      "count": 27,
+      "region": "North America"
+    },
+    {
+      "source": "CNBC",
+      "positive": 14,
+      "neutral": 5,
+      "negative": 6,
+      "count": 25,
+      "region": "North America"
     },
     {
       "source": "Mashable",
@@ -208,44 +216,36 @@
       "region": "North America"
     },
     {
-      "source": "CNBC",
-      "positive": 13,
-      "neutral": 5,
-      "negative": 6,
-      "count": 24,
-      "region": "North America"
-    },
-    {
-      "source": "Daily News Egypt",
-      "positive": 19,
-      "neutral": 2,
-      "negative": 2,
-      "count": 23,
-      "region": "North America"
-    },
-    {
       "source": "RT News",
       "positive": 8,
-      "neutral": 6,
+      "neutral": 7,
       "negative": 7,
-      "count": 21,
+      "count": 22,
       "region": "Europe"
     },
     {
       "source": "Financial Times",
-      "positive": 6,
+      "positive": 7,
       "neutral": 4,
       "negative": 10,
-      "count": 20,
+      "count": 21,
       "region": "Europe"
     },
     {
       "source": "ABC News",
-      "positive": 7,
+      "positive": 8,
       "neutral": 1,
       "negative": 11,
-      "count": 19,
-      "region": "Africa"
+      "count": 20,
+      "region": "North America"
+    },
+    {
+      "source": "Daily News Egypt",
+      "positive": 15,
+      "neutral": 1,
+      "negative": 2,
+      "count": 18,
+      "region": "North America"
     },
     {
       "source": "New York Times",
@@ -264,14 +264,6 @@
       "region": "North America"
     },
     {
-      "source": "Sky News",
-      "positive": 4,
-      "neutral": 0,
-      "negative": 11,
-      "count": 15,
-      "region": "Africa"
-    },
-    {
       "source": "Irish Times",
       "positive": 6,
       "neutral": 1,
@@ -280,19 +272,27 @@
       "region": "Global"
     },
     {
+      "source": "Sky News",
+      "positive": 4,
+      "neutral": 0,
+      "negative": 10,
+      "count": 14,
+      "region": "Africa"
+    },
+    {
       "source": "Telegraph",
-      "positive": 10,
+      "positive": 9,
       "neutral": 0,
       "negative": 3,
-      "count": 13,
+      "count": 12,
       "region": "Europe"
     },
     {
       "source": "The Verge",
-      "positive": 7,
+      "positive": 8,
       "neutral": 1,
       "negative": 3,
-      "count": 11,
+      "count": 12,
       "region": "North America"
     },
     {
@@ -330,40 +330,40 @@
     {
       "source": "Buenos Aires Herald",
       "positive": 1,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0,
-      "count": 1,
-      "region": "North America"
+      "count": 2,
+      "region": "South America"
     }
   ],
   "by_region": [
     {
       "region": "North America",
-      "positive": 282,
-      "neutral": 67,
-      "negative": 322,
-      "count": 671
+      "positive": 289,
+      "neutral": 66,
+      "negative": 330,
+      "count": 685
     },
     {
       "region": "Europe",
-      "positive": 306,
-      "neutral": 66,
-      "negative": 212,
-      "count": 584
+      "positive": 305,
+      "neutral": 72,
+      "negative": 216,
+      "count": 593
     },
     {
       "region": "Asia-Pacific",
-      "positive": 203,
-      "neutral": 68,
-      "negative": 244,
-      "count": 515
+      "positive": 201,
+      "neutral": 69,
+      "negative": 247,
+      "count": 517
     },
     {
       "region": "Middle East",
       "positive": 45,
       "neutral": 16,
-      "negative": 122,
-      "count": 183
+      "negative": 123,
+      "count": 184
     },
     {
       "region": "Global",
@@ -374,15 +374,15 @@
     },
     {
       "region": "Africa",
-      "positive": 32,
+      "positive": 29,
       "neutral": 11,
       "negative": 62,
-      "count": 105
+      "count": 102
     },
     {
       "region": "South America",
-      "positive": 3,
-      "neutral": 0,
+      "positive": 2,
+      "neutral": 1,
       "negative": 7,
       "count": 10
     }
@@ -391,50 +391,50 @@
     {
       "topic": "Tech",
       "positive": 222,
-      "neutral": 58,
+      "neutral": 61,
       "negative": 284,
-      "count": 564
+      "count": 567
     },
     {
       "topic": "Other",
-      "positive": 150,
-      "neutral": 59,
-      "negative": 153,
-      "count": 362
+      "positive": 149,
+      "neutral": 61,
+      "negative": 158,
+      "count": 368
     },
     {
       "topic": "Politics",
-      "positive": 143,
+      "positive": 145,
       "neutral": 41,
-      "negative": 159,
-      "count": 343
+      "negative": 162,
+      "count": 348
     },
     {
       "topic": "World",
-      "positive": 142,
+      "positive": 139,
       "neutral": 21,
       "negative": 170,
-      "count": 333
+      "count": 330
     },
     {
       "topic": "Sports",
-      "positive": 104,
-      "neutral": 18,
-      "negative": 71,
-      "count": 193
+      "positive": 106,
+      "neutral": 19,
+      "negative": 74,
+      "count": 199
     },
     {
       "topic": "Business",
-      "positive": 94,
+      "positive": 96,
       "neutral": 21,
-      "negative": 38,
-      "count": 153
+      "negative": 41,
+      "count": 158
     },
     {
       "topic": "Entertainment",
-      "positive": 42,
-      "neutral": 18,
-      "negative": 32,
+      "positive": 40,
+      "neutral": 19,
+      "negative": 33,
       "count": 92
     },
     {
@@ -446,16 +446,16 @@
     },
     {
       "topic": "Regional",
-      "positive": 21,
+      "positive": 22,
       "neutral": 7,
       "negative": 33,
-      "count": 61
+      "count": 62
     },
     {
       "topic": "Local",
-      "positive": 16,
+      "positive": 15,
       "neutral": 5,
-      "negative": 20,
+      "negative": 21,
       "count": 41
     },
     {
@@ -514,6 +514,62 @@
       "region": "Asia-Pacific",
       "published": "2025-12-29T23:16:00+08:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "Vice-President C.P. Radhakrishnan highlights role of festivals in strengthening unity and inclusive growth",
+      "url": "https://www.thehindu.com/news/national/kerala/vice-president-cp-radhakrishnan-highlights-role-of-festivals-in-strengthening-unity-and-inclusive-growth/article70450689.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-12-29T23:07:03+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Japanese tourists harassed, forced to apologise over attire and \u2018disrespect\u2019 to the Ganga at Varanasi",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/japanese-tourists-harassed-forced-to-apologise-over-attire-and-disrespect-to-the-ganga-at-varanasi/article70450053.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-29T23:05:46+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Hyderabad region gets fourth Police Commissionerate, officials transferred",
+      "url": "https://www.thehindu.com/news/national/telangana/hyderabad-region-gets-fourth-police-commissionerate-officials-transferred/article70450755.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-29T23:04:51+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Chandrababu Naidu calls for volunteer system in all temples, improved public services",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/chandrababu-naidu-calls-for-volunteer-system-in-all-temples-improved-public-services/article70450606.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-29T23:03:34+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Personal laws a major challenge for Muslim women, says Dr. Mumtaz",
+      "url": "https://www.thehindu.com/news/national/kerala/personal-laws-a-major-challenge-for-muslim-women-says-dr-mumtaz/article70450632.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-12-29T22:57:39+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "IndiGo chaos aftermath: Airline to increase pilot allowances to boost staff morale",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/indigo-chaos-aftermath-airline-to-increase-pilot-allowances-aim-to-boost-staff-morale/articleshow/126236317.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-29T22:42:19+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "\u2018Dravidian Model\u2019 govt 2.0 will implement improved schemes for women: CM Stalin",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/dravidian-model-govt-20-will-implement-improved-schemes-for-women-cm-stalin/article70450360.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-29T22:34:14+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "Captain Fernandes cannot wait to return from injury, Amorim says",
@@ -604,6 +660,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Confrontation near madrasa in J&K leads to stone pelting, injuries; one man arrested",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/confrontation-near-madrassa-in-jk-leads-to-stone-pelting-injuries-one-man-arrested/article70450488.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-29T22:03:31+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Alternative housing in Baiyyappanahalli for eligible families displaced from Kogilu Layout: CM",
       "url": "https://www.thehindu.com/news/national/karnataka/alternative-housing-in-baiyyappanahalli-for-eligible-families-displaced-from-kogilu-layout-cm/article70450562.ece",
       "source": "The Hindu",
@@ -676,6 +740,14 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Shah unveils new Guwahati Police Commissionerate building, seeks five more years for lotus in Assam",
+      "url": "https://www.thehindu.com/shorts/shah-unveils-new-guwahati-police-commissionerate-building-seeks-five-more-years-for-lotus-in-assam/article70450586.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-12-29T21:45:00+05:30",
+      "sentiment": "neutral"
+    },
+    {
       "title": "\u2018My hero\u2019: Bryce Dunlap\u2019s liver donation sparks rare Browns captain moment",
       "url": "https://timesofindia.indiatimes.com/sports/nfl/news/my-hero-how-bryce-dunlaps-liver-donation-led-to-browns-most-personal-powerful-and-the-rarest-dawg-pound-captain-moment-in-cleveland/articleshow/126235586.cms",
       "source": "Times of India",
@@ -716,6 +788,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "Who was Erica Fox? Missing swimmer identified after body found off California coast",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/who-was-erica-fox-family-identifies-missing-swimmer-after-body-recovered-off-california-coast-amid-shark-sighting-reports/articleshow/126235484.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-29T21:32:46+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Turf war brews in health sector over \u2018parallel workforce\u2019",
       "url": "https://www.thehindu.com/news/national/kerala/turf-war-brews-in-health-sector-over-parallel-workforce/article70450214.ece",
       "source": "The Hindu",
@@ -749,6 +829,14 @@
     },
     {
       "title": "Disaster Waste Management Protocol notifief by Kerala govt.",
+      "url": "https://www.thehindu.com/news/national/kerala/disaster-waste-management-protocol-notifief-by-kerala-govt/article70450098.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-29T21:22:00+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Disaster Waste Management Protocol notified by Kerala govt.",
       "url": "https://www.thehindu.com/news/national/kerala/disaster-waste-management-protocol-notifief-by-kerala-govt/article70450098.ece",
       "source": "The Hindu",
       "region": "Asia-Pacific",
@@ -1178,94 +1266,6 @@
       "region": "Asia-Pacific",
       "published": "2025-12-29T20:14:07+05:30",
       "sentiment": "positive"
-    },
-    {
-      "title": "Unnao rape case: SC warns against political motives; adds judges 'not sitting in ivory towers\u2019",
-      "url": "https://timesofindia.indiatimes.com/india/unnao-rape-case-sc-warns-against-political-motives-adds-judges-not-sitting-in-ivory-towers/articleshow/126234465.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-12-29T20:12:59+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Arogyam Anandam: reception for awareness procession",
-      "url": "https://www.thehindu.com/news/national/kerala/arogyam-anandam-reception-for-awareness-procession/article70450095.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-29T20:08:59+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "38th edition of Hyderabad Book Fair concludes, draws 16 lakh visitors",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/38th-edition-of-hyderabad-book-fair-concludes-draws-16-lakh-visitors/article70450012.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-29T20:08:57+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Iranna Kadadi meets Om Birla on behalf of Belagavi administration",
-      "url": "https://www.thehindu.com/news/national/karnataka/iranna-kadadi-meets-om-birla-on-behalf-of-belagavi-administration/article70449550.ece",
-      "source": "The Hindu",
-      "region": "Middle East",
-      "published": "2025-12-29T20:07:16+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "CM Siddaramaiah orders stringent security measures for New Year celebrations in Bengaluru",
-      "url": "https://www.thehindu.com/news/national/karnataka/cm-siddaramaiah-orders-stringent-security-measures-for-new-year-celebrations-in-bengaluru/article70449254.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-29T20:06:47+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Free sparsha darshan for Chenchus on Vaikunta Ekadasi in Srisailam",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/free-sparsha-darshan-for-chenchus-on-vaikunta-ekadasi-in-srisailam/article70449978.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-12-29T20:05:19+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Dating apps under scanner after spike in digital crimes",
-      "url": "https://www.thehindu.com/news/national/kerala/dating-apps-under-scanner-after-spike-in-digital-crimes/article70449348.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-29T20:01:38+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Police investigating hit-and-run accident involving two cars and a lorry",
-      "url": "https://www.straitstimes.com/singapore/police-investigating-hit-and-run-accident-involving-two-cars-and-a-lorry",
-      "source": "Straits Times",
-      "region": "Global",
-      "published": "2025-12-29T20:01:33+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "DGP calls for greater awareness among public to prevent cybercrimes like digital arrest",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/dgp-calls-for-greater-awareness-among-public-to-prevent-cybercrimes-like-digital-arrest/article70449776.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-29T20:01:02+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Police to release photos of crowds at Marina Bay and Kallang 2026 countdown celebrations",
-      "url": "https://www.channelnewsasia.com/singapore/countdown-marina-bay-kallang-photos-crowd-levels-websites-5753226",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2025-12-29T19:59:00+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Tamil Nadu government has failed on several fronts: Tamilisai",
-      "url": "https://www.thehindu.com/news/cities/Coimbatore/tamil-nadu-government-has-failed-on-several-fronts-tamilisai/article70449724.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-29T19:54:28+05:30",
-      "sentiment": "negative"
     }
   ]
 }
