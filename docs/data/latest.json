@@ -1,59 +1,51 @@
 {
-  "generated_at": "2025-12-30T20:25:20.554462+00:00",
+  "generated_at": "2025-12-30T20:46:49.455438+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 975,
-    "neutral": 333,
-    "negative": 1257
+    "positive": 980,
+    "neutral": 338,
+    "negative": 1261
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 183,
+      "positive": 186,
       "neutral": 71,
-      "negative": 246,
-      "count": 500,
+      "negative": 247,
+      "count": 504,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
       "positive": 75,
       "neutral": 82,
-      "negative": 117,
-      "count": 274,
-      "region": "Asia-Pacific"
+      "negative": 118,
+      "count": 275,
+      "region": "North America"
     },
     {
       "source": "Times of India",
-      "positive": 51,
-      "neutral": 5,
-      "negative": 72,
-      "count": 128,
+      "positive": 48,
+      "neutral": 4,
+      "negative": 73,
+      "count": 125,
       "region": "Asia-Pacific"
     },
     {
       "source": "CBS News",
-      "positive": 37,
-      "neutral": 10,
-      "negative": 63,
-      "count": 110,
+      "positive": 41,
+      "neutral": 14,
+      "negative": 70,
+      "count": 125,
       "region": "North America"
     },
     {
       "source": "Fox News",
       "positive": 33,
       "neutral": 6,
-      "negative": 70,
-      "count": 109,
+      "negative": 68,
+      "count": 107,
       "region": "North America"
-    },
-    {
-      "source": "Channel News Asia",
-      "positive": 29,
-      "neutral": 30,
-      "negative": 39,
-      "count": 98,
-      "region": "Europe"
     },
     {
       "source": "Bloomberg",
@@ -61,38 +53,46 @@
       "neutral": 7,
       "negative": 27,
       "count": 97,
-      "region": "Global"
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "Channel News Asia",
+      "positive": 29,
+      "neutral": 29,
+      "negative": 37,
+      "count": 95,
+      "region": "Europe"
+    },
+    {
+      "source": "South China Morning Post",
+      "positive": 44,
+      "neutral": 0,
+      "negative": 51,
+      "count": 95,
+      "region": "Europe"
     },
     {
       "source": "Australian Broadcasting Corporation",
       "positive": 27,
       "neutral": 13,
-      "negative": 55,
-      "count": 95,
+      "negative": 50,
+      "count": 90,
       "region": "Asia-Pacific"
-    },
-    {
-      "source": "South China Morning Post",
-      "positive": 43,
-      "neutral": 0,
-      "negative": 51,
-      "count": 94,
-      "region": "Europe"
     },
     {
       "source": "The Guardian",
       "positive": 30,
       "neutral": 2,
-      "negative": 51,
-      "count": 83,
+      "negative": 52,
+      "count": 84,
       "region": "North America"
     },
     {
       "source": "BBC News",
-      "positive": 32,
+      "positive": 30,
       "neutral": 5,
       "negative": 40,
-      "count": 77,
+      "count": 75,
       "region": "Europe"
     },
     {
@@ -106,10 +106,18 @@
     {
       "source": "France 24",
       "positive": 9,
-      "neutral": 3,
+      "neutral": 4,
       "negative": 47,
-      "count": 59,
-      "region": "North America"
+      "count": 60,
+      "region": "Europe"
+    },
+    {
+      "source": "Sky Sports",
+      "positive": 24,
+      "neutral": 16,
+      "negative": 11,
+      "count": 51,
+      "region": "Europe"
     },
     {
       "source": "BBC Sport",
@@ -120,11 +128,11 @@
       "region": "Europe"
     },
     {
-      "source": "AllAfrica",
-      "positive": 17,
-      "neutral": 3,
-      "negative": 29,
-      "count": 49,
+      "source": "ESPN",
+      "positive": 28,
+      "neutral": 9,
+      "negative": 13,
+      "count": 50,
       "region": "Global"
     },
     {
@@ -144,20 +152,12 @@
       "region": "Middle East"
     },
     {
-      "source": "ESPN",
-      "positive": 27,
-      "neutral": 8,
-      "negative": 13,
+      "source": "AllAfrica",
+      "positive": 17,
+      "neutral": 3,
+      "negative": 28,
       "count": 48,
       "region": "Global"
-    },
-    {
-      "source": "Sky Sports",
-      "positive": 22,
-      "neutral": 15,
-      "negative": 10,
-      "count": 47,
-      "region": "Europe"
     },
     {
       "source": "Times of Israel",
@@ -171,9 +171,9 @@
       "source": "Mashable",
       "positive": 26,
       "neutral": 3,
-      "negative": 8,
-      "count": 37,
-      "region": "North America"
+      "negative": 9,
+      "count": 38,
+      "region": "Global"
     },
     {
       "source": "Telegraph",
@@ -182,6 +182,14 @@
       "negative": 1,
       "count": 37,
       "region": "Europe"
+    },
+    {
+      "source": "NBC News",
+      "positive": 11,
+      "neutral": 4,
+      "negative": 21,
+      "count": 36,
+      "region": "North America"
     },
     {
       "source": "New York Times",
@@ -193,18 +201,10 @@
     },
     {
       "source": "MarketWatch",
-      "positive": 21,
+      "positive": 20,
       "neutral": 4,
       "negative": 10,
-      "count": 35,
-      "region": "North America"
-    },
-    {
-      "source": "NBC News",
-      "positive": 11,
-      "neutral": 4,
-      "negative": 20,
-      "count": 35,
+      "count": 34,
       "region": "North America"
     },
     {
@@ -258,9 +258,9 @@
     {
       "source": "RT News",
       "positive": 2,
-      "neutral": 3,
-      "negative": 12,
-      "count": 17,
+      "neutral": 2,
+      "negative": 11,
+      "count": 15,
       "region": "Middle East"
     },
     {
@@ -314,10 +314,10 @@
     {
       "source": "Ars Technica",
       "positive": 4,
-      "neutral": 1,
-      "negative": 1,
-      "count": 6,
-      "region": "Global"
+      "neutral": 2,
+      "negative": 2,
+      "count": 8,
+      "region": "North America"
     },
     {
       "source": "Wired",
@@ -339,45 +339,45 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 333,
-      "neutral": 90,
-      "negative": 424,
-      "count": 847
+      "positive": 336,
+      "neutral": 93,
+      "negative": 430,
+      "count": 859
     },
     {
       "region": "Europe",
-      "positive": 265,
+      "positive": 269,
       "neutral": 90,
-      "negative": 288,
-      "count": 643
+      "negative": 292,
+      "count": 651
     },
     {
       "region": "Asia-Pacific",
-      "positive": 200,
-      "neutral": 98,
-      "negative": 259,
-      "count": 557
+      "positive": 199,
+      "neutral": 97,
+      "negative": 256,
+      "count": 552
     },
     {
       "region": "Middle East",
       "positive": 55,
-      "neutral": 19,
+      "neutral": 20,
       "negative": 166,
-      "count": 240
+      "count": 241
     },
     {
       "region": "Global",
       "positive": 82,
-      "neutral": 28,
-      "negative": 55,
-      "count": 165
+      "neutral": 30,
+      "negative": 54,
+      "count": 166
     },
     {
       "region": "Africa",
-      "positive": 31,
+      "positive": 30,
       "neutral": 4,
-      "negative": 54,
-      "count": 89
+      "negative": 52,
+      "count": 86
     },
     {
       "region": "South America",
@@ -390,80 +390,80 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 230,
+      "positive": 231,
       "neutral": 74,
-      "negative": 320,
-      "count": 624
+      "negative": 322,
+      "count": 627
     },
     {
       "topic": "Other",
-      "positive": 156,
-      "neutral": 103,
+      "positive": 158,
+      "neutral": 104,
       "negative": 184,
-      "count": 443
+      "count": 446
     },
     {
       "topic": "Politics",
       "positive": 147,
-      "neutral": 56,
-      "negative": 237,
-      "count": 440
+      "neutral": 58,
+      "negative": 236,
+      "count": 441
     },
     {
       "topic": "World",
       "positive": 92,
-      "neutral": 27,
+      "neutral": 26,
       "negative": 226,
-      "count": 345
+      "count": 344
     },
     {
       "topic": "Sports",
-      "positive": 108,
-      "neutral": 27,
-      "negative": 62,
-      "count": 197
+      "positive": 109,
+      "neutral": 28,
+      "negative": 63,
+      "count": 200
     },
     {
       "topic": "Business",
-      "positive": 92,
+      "positive": 93,
       "neutral": 15,
-      "negative": 51,
-      "count": 158
+      "negative": 49,
+      "count": 157
     },
     {
       "topic": "Entertainment",
       "positive": 61,
-      "neutral": 10,
-      "negative": 46,
-      "count": 117
+      "neutral": 11,
+      "negative": 49,
+      "count": 121
     },
     {
       "topic": "Health",
       "positive": 27,
       "neutral": 4,
-      "negative": 42,
-      "count": 73
-    },
-    {
-      "topic": "Local",
-      "positive": 20,
-      "neutral": 7,
-      "negative": 33,
-      "count": 60
+      "negative": 45,
+      "count": 76
     },
     {
       "topic": "Regional",
       "positive": 16,
       "neutral": 7,
-      "negative": 36,
+      "negative": 37,
+      "count": 60
+    },
+    {
+      "topic": "Local",
+      "positive": 20,
+      "neutral": 8,
+      "negative": 31,
       "count": 59
     },
     {
       "topic": "Science",
       "positive": 26,
       "neutral": 3,
-      "negative": 20,
-      "count": 49
+      "negative": 19,
+      "count": 48
     }
   ],
   "sample_headlines": [
@@ -538,6 +538,14 @@
       "region": "Africa",
       "published": "2025-12-31T02:09:35+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "The Hemant Soren government is offering \u201clollipops\u201d to tribals in the name of PESA: Raghubar Das",
+      "url": "https://www.thehindu.com/news/national/jharkhand/the-hemant-soren-government-is-offering-lollipops-to-tribals-in-the-name-of-pesa-raghubar-das/article70453655.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2025-12-31T01:57:00+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "French ban on 'forever chemicals' in cosmetics, clothing to enter force",
@@ -1257,14 +1265,6 @@
       "source": "The Hindu",
       "region": "North America",
       "published": "2025-12-30T21:00:17+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Kerala govt to launch citizen response programme field study on Jan. 1",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-govt-to-launch-citizen-response-programme-field-study-on-jan-1/article70453942.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-30T20:59:00+05:30",
       "sentiment": "neutral"
     }
   ]
