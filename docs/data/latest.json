@@ -1,16 +1,16 @@
 {
-  "generated_at": "2025-12-30T05:31:18.943261+00:00",
+  "generated_at": "2025-12-30T05:50:57.872771+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 1010,
+    "positive": 1009,
     "neutral": 283,
-    "negative": 1148
+    "negative": 1155
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 175,
-      "neutral": 46,
+      "positive": 176,
+      "neutral": 45,
       "negative": 225,
       "count": 446,
       "region": "Europe"
@@ -19,17 +19,17 @@
       "source": "The Hindu",
       "positive": 96,
       "neutral": 52,
-      "negative": 100,
-      "count": 248,
+      "negative": 102,
+      "count": 250,
       "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
-      "positive": 64,
+      "positive": 63,
       "neutral": 10,
-      "negative": 77,
-      "count": 151,
-      "region": "North America"
+      "negative": 79,
+      "count": 152,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Fox News",
@@ -43,8 +43,8 @@
       "source": "Australian Broadcasting Corporation",
       "positive": 32,
       "neutral": 6,
-      "negative": 61,
-      "count": 99,
+      "negative": 64,
+      "count": 102,
       "region": "Asia-Pacific"
     },
     {
@@ -53,7 +53,7 @@
       "neutral": 25,
       "negative": 41,
       "count": 96,
-      "region": "Asia-Pacific"
+      "region": "North America"
     },
     {
       "source": "CBS News",
@@ -89,10 +89,10 @@
     },
     {
       "source": "BBC News",
-      "positive": 33,
+      "positive": 31,
       "neutral": 8,
-      "negative": 37,
-      "count": 78,
+      "negative": 36,
+      "count": 75,
       "region": "North America"
     },
     {
@@ -106,8 +106,8 @@
     {
       "source": "Middle East Eye",
       "positive": 14,
-      "neutral": 1,
-      "negative": 45,
+      "neutral": 2,
+      "negative": 44,
       "count": 60,
       "region": "Middle East"
     },
@@ -118,6 +118,14 @@
       "negative": 17,
       "count": 60,
       "region": "Europe"
+    },
+    {
+      "source": "AllAfrica",
+      "positive": 25,
+      "neutral": 7,
+      "negative": 27,
+      "count": 59,
+      "region": "Middle East"
     },
     {
       "source": "France 24",
@@ -136,14 +144,6 @@
       "region": "Global"
     },
     {
-      "source": "AllAfrica",
-      "positive": 25,
-      "neutral": 7,
-      "negative": 24,
-      "count": 56,
-      "region": "North America"
-    },
-    {
       "source": "BBC Sport",
       "positive": 30,
       "neutral": 4,
@@ -155,8 +155,8 @@
       "source": "Euronews",
       "positive": 22,
       "neutral": 5,
-      "negative": 16,
-      "count": 43,
+      "negative": 15,
+      "count": 42,
       "region": "Europe"
     },
     {
@@ -208,20 +208,20 @@
       "region": "Europe"
     },
     {
+      "source": "Financial Times",
+      "positive": 12,
+      "neutral": 2,
+      "negative": 9,
+      "count": 23,
+      "region": "North America"
+    },
+    {
       "source": "Straits Times",
       "positive": 6,
       "neutral": 7,
       "negative": 9,
       "count": 22,
       "region": "Asia-Pacific"
-    },
-    {
-      "source": "Financial Times",
-      "positive": 11,
-      "neutral": 2,
-      "negative": 9,
-      "count": 22,
-      "region": "North America"
     },
     {
       "source": "ABC News",
@@ -339,45 +339,45 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 321,
+      "positive": 323,
       "neutral": 76,
       "negative": 390,
-      "count": 787
+      "count": 789
     },
     {
       "region": "Europe",
-      "positive": 281,
-      "neutral": 78,
+      "positive": 279,
+      "neutral": 77,
       "negative": 222,
-      "count": 581
+      "count": 578
     },
     {
       "region": "Asia-Pacific",
       "positive": 212,
-      "neutral": 71,
-      "negative": 253,
-      "count": 536
+      "neutral": 70,
+      "negative": 257,
+      "count": 539
     },
     {
       "region": "Middle East",
       "positive": 70,
-      "neutral": 24,
+      "neutral": 25,
       "negative": 141,
-      "count": 235
+      "count": 236
     },
     {
       "region": "Global",
-      "positive": 96,
-      "neutral": 22,
-      "negative": 44,
-      "count": 162
+      "positive": 95,
+      "neutral": 23,
+      "negative": 45,
+      "count": 163
     },
     {
       "region": "Africa",
       "positive": 27,
       "neutral": 10,
-      "negative": 85,
-      "count": 122
+      "negative": 87,
+      "count": 124
     },
     {
       "region": "South America",
@@ -391,23 +391,23 @@
     {
       "topic": "Tech",
       "positive": 225,
-      "neutral": 50,
-      "negative": 279,
-      "count": 554
+      "neutral": 49,
+      "negative": 285,
+      "count": 559
     },
     {
       "topic": "Other",
-      "positive": 164,
+      "positive": 161,
       "neutral": 68,
-      "negative": 201,
-      "count": 433
+      "negative": 200,
+      "count": 429
     },
     {
       "topic": "Politics",
-      "positive": 160,
-      "neutral": 53,
-      "negative": 193,
-      "count": 406
+      "positive": 161,
+      "neutral": 54,
+      "negative": 196,
+      "count": 411
     },
     {
       "topic": "World",
@@ -418,9 +418,9 @@
     },
     {
       "topic": "Sports",
-      "positive": 105,
+      "positive": 106,
       "neutral": 22,
-      "negative": 67,
+      "negative": 66,
       "count": 194
     },
     {
@@ -467,6 +467,14 @@
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Japan footballer 'King Kazu' signs for new team at 58",
+      "url": "https://www.channelnewsasia.com/sport/japan-footballer-king-kazu-signs-new-team-58-5764506",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2025-12-30T13:43:07+08:00",
+      "sentiment": "positive"
+    },
     {
       "title": "More than 950,000 Singaporean households to get U-Save, S&CC rebates in January 2026",
       "url": "https://www.channelnewsasia.com/singapore/usave-scc-service-and-conservancy-rebates-hdb-flats-cost-living-5763286",
@@ -521,6 +529,14 @@
       "source": "Channel News Asia",
       "region": "Global",
       "published": "2025-12-30T12:22:52+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Construction of new Brickland MRT station on North-South Line to begin in 2026",
+      "url": "https://www.channelnewsasia.com/singapore/brickland-ns3a-new-mrt-station-north-south-line-construction-begin-next-year-5754176",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-12-30T12:22:00+08:00",
       "sentiment": "neutral"
     },
     {
@@ -604,6 +620,22 @@
       "sentiment": "negative"
     },
     {
+      "title": "Three fishermen from Rameswaram arrested by Sri Lankan Navy; trawler impounded",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/three-fishermen-from-rameswaram-arrested-by-sri-lankan-navy-trawler-impounded/article70451866.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2025-12-30T11:06:00+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Meals, refunds, baggage help: Over 100 flights hit as dense fog blankets Delhi; govt issues advisory",
+      "url": "https://timesofindia.indiatimes.com/india/meals-refunds-baggage-help-over-100-flights-hit-as-dense-fog-blankets-delhi-govt-issues-advisory/articleshow/126244688.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-30T10:54:39+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Construction of Brickland MRT station on North-South Line to start in first half of 2026",
       "url": "https://www.straitstimes.com/singapore/transport/construction-of-brickland-mrt-station-on-north-south-line-to-start-in-first-half-of-2026",
       "source": "Straits Times",
@@ -644,12 +676,28 @@
       "sentiment": "negative"
     },
     {
+      "title": "Scary! Anthony Joshua stable after car crash that killed two; Nigeria President rings him",
+      "url": "https://timesofindia.indiatimes.com/sports/boxing/anthony-joshua-stable-after-car-crash-that-killed-two-close-associates/articleshow/126244421.cms",
+      "source": "Times of India",
+      "region": "Africa",
+      "published": "2025-12-30T10:33:52+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Kerala Congress leader and former MLA P.M. Mathew passes away",
       "url": "https://www.thehindu.com/news/national/kerala/kerala-congress-leader-and-former-mla-pm-mathew-passes-away/article70451932.ece",
       "source": "The Hindu",
       "region": "Asia-Pacific",
       "published": "2025-12-30T10:33:11+05:30",
       "sentiment": "neutral"
+    },
+    {
+      "title": "At least 6 dead in Almora: Bus falls into gorge; rescue teams battle difficult terrain",
+      "url": "https://timesofindia.indiatimes.com/city/dehradun/uttarakhand-road-mishap-6-dead-several-injured-as-bus-falls-into-gorge-in-almora/articleshow/126244033.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-12-30T10:29:49+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Singer JJ Lin goes public with romantic relationship in surprise family photo",
@@ -1068,6 +1116,46 @@
       "sentiment": "positive"
     },
     {
+      "title": "Khalida Zia death: Bangladesh\u2019s first woman prime minister dies aged 80",
+      "url": "https://www.independent.co.uk/asia/south-asia/khalida-zia-death-bangladesh-prime-minister-bnp-age-cause-b2891906.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-12-30T05:48:39+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Ukrainian POWs \u2018being systematically executed\u2019 by Russia, says top commander",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-pow-prisoner-of-war-russia-putin-execution-b2891941.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2025-12-30T05:46:40+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Morning update",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-490",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "published": "2025-12-30T05:45:04+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Somalia: Hundreds Protest in Mogadishu Against Israel's Recognition of Somaliland",
+      "url": "https://allafrica.com/stories/202512300056.html",
+      "source": "AllAfrica",
+      "region": "Middle East",
+      "published": "2025-12-30T05:44:36+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Police given extra search powers at all Adelaide public transport sites",
+      "url": "https://www.abc.net.au/news/2025-12-30/adelaide-public-transport-join-list-of-declared-public-precincts/106187762",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2025-12-30T05:42:39+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "'Where are the captains?': AI, IndiGo in dogfight for pilots; joining bonus up to Rs 50 lakh",
       "url": "https://timesofindia.indiatimes.com/city/delhi/where-do-we-get-captains-from-ai-indigo-locked-in-dogfight-for-pilots-amid-fdtl-fallout-joining-bonus-up-to-rs-50-lakh/articleshow/126241900.cms",
       "source": "Times of India",
@@ -1092,6 +1180,22 @@
       "sentiment": "positive"
     },
     {
+      "title": "Nigeria: Keeping Noma Under Control - Why Nigeria Must Not Lose Momentum",
+      "url": "https://allafrica.com/stories/202512300051.html",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "published": "2025-12-30T05:38:58+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Uganda: Besigye Denied Bail for Fourth Time",
+      "url": "https://allafrica.com/stories/202512300045.html",
+      "source": "AllAfrica",
+      "region": "Global",
+      "published": "2025-12-30T05:34:27+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Cynthia Erivo details weird habits she does to preserve her voice",
       "url": "https://www.independent.co.uk/life-style/cythia-erivo-voice-weird-habits-wicked-coachella-b2891937.html",
       "source": "Independent",
@@ -1105,6 +1209,14 @@
       "source": "The Hindu",
       "region": "Asia-Pacific",
       "published": "2025-12-30T05:24:00+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "As a property slump drags on, China's economy looks more resilient than it feels",
+      "url": "https://www.independent.co.uk/news/china-beijing-donald-trump-capital-economics-xi-jinping-b2891938.html",
+      "source": "Independent",
+      "region": "Asia-Pacific",
+      "published": "2025-12-30T05:21:54+00:00",
       "sentiment": "positive"
     },
     {
@@ -1154,118 +1266,6 @@
       "region": "North America",
       "published": "2025-12-30T05:08:44+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Your guide to New Year's Eve fireworks in south-east Queensland",
-      "url": "https://www.abc.net.au/news/2025-12-30/brisbane-fireworks-guide-nye-gold-coast-sunshine-coast-/106184840",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-12-30T05:08:36+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Mozambique: EU Mission Trained 800 Mozambican Soldiers in 2025",
-      "url": "https://allafrica.com/stories/202512300024.html",
-      "source": "AllAfrica",
-      "region": "Europe",
-      "published": "2025-12-30T05:08:09+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "New year, new mayor for New York City",
-      "url": "https://www.channelnewsasia.com/world/zohran-mamdani-mayor-new-york-inauguration-5753801",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2025-12-30T05:08:00+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "East Africa: 5 Dead, 3 Missing As Fishing Boat Overturns On Lake Victoria",
-      "url": "https://allafrica.com/stories/202512300018.html",
-      "source": "AllAfrica",
-      "region": "North America",
-      "published": "2025-12-30T05:06:37+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "New York teachers stunned to learn some students can\u2019t read time on old clocks after phone ban comes into play",
-      "url": "https://www.independent.co.uk/news/world/americas/new-york-phone-ban-clock-time-b2891919.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-12-30T05:06:34+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Six important ways Australian laws changed in 2025",
-      "url": "https://www.abc.net.au/news/2025-12-30/australian-laws-change-ubereats-pets-sovereign-citizens/106187302",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-12-30T05:06:19+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Trump says US hit 'big facility' linked to alleged Venezuelan drug boats",
-      "url": "https://www.bbc.com/news/articles/cp8484p7ggmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "North America",
-      "published": "2025-12-30T05:06:08+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "What's inside Mexico's Popocat\u00e9petl volcano? Scientists obtain first 3D images",
-      "url": "https://www.independent.co.uk/news/popocatepetl-mexico-scientists-ash-pompeii-b2891933.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-12-30T05:05:58+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Christmas is over, but what to do with the tree? Here's some alternatives to the landfill",
-      "url": "https://www.independent.co.uk/news/john-christmas-tree-b2891932.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-30T05:05:34+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "SIR chaos: Hearings continue in Bengal; elderly deaths, distress reported",
-      "url": "https://timesofindia.indiatimes.com/india/elderly-deaths-distress-reported-amid-sir-hearings-across-bengal/articleshow/126241763.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-12-30T05:05:12+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Avatar: Fire and Ash continues to dominate box office as Marty Supreme and The Housemaid make decent showings",
-      "url": "https://www.independent.co.uk/arts-entertainment/films/news/avatar-fire-ash-box-office-marty-supreme-housemaid-b2891929.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-12-30T05:03:50+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Southeast Asia\u2019s Peranakan Chinese, Malaysian ex-PM jailed in 1MDB saga: 7 Asia highlights",
-      "url": "https://www.scmp.com/news/asia/article/3338111/southeast-asias-peranakan-chinese-malaysian-ex-pm-jailed-1mdb-saga-7-asia-highlights?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2025-12-30T05:02:38+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "'Is it jury duty? I don't have time for that': Bobby Seagull on receiving MBE letter",
-      "url": "https://www.bbc.com/news/videos/c9w7w2e5xv7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "Europe",
-      "published": "2025-12-30T05:02:32+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Kate Hudson shares truth about her Home Alone 2 cameo",
-      "url": "https://www.independent.co.uk/arts-entertainment/films/news/kate-hudson-home-alone-2-cameo-b2891928.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-30T05:01:44+00:00",
-      "sentiment": "positive"
     }
   ]
 }
