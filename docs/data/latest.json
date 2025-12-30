@@ -1,90 +1,98 @@
 {
-  "generated_at": "2025-12-30T23:21:38.337175+00:00",
+  "generated_at": "2025-12-30T23:41:54.693651+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 958,
-    "neutral": 370,
-    "negative": 1291
+    "positive": 953,
+    "neutral": 373,
+    "negative": 1289
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 177,
+      "positive": 176,
       "neutral": 74,
-      "negative": 243,
-      "count": 494,
-      "region": "North America"
+      "negative": 242,
+      "count": 492,
+      "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 80,
+      "positive": 79,
       "neutral": 80,
       "negative": 118,
-      "count": 278,
+      "count": 277,
       "region": "Asia-Pacific"
     },
     {
       "source": "CBS News",
-      "positive": 50,
+      "positive": 51,
       "neutral": 27,
       "negative": 95,
-      "count": 172,
+      "count": 173,
       "region": "North America"
     },
     {
       "source": "Times of India",
-      "positive": 50,
+      "positive": 49,
       "neutral": 4,
       "negative": 75,
-      "count": 129,
-      "region": "Asia-Pacific"
+      "count": 128,
+      "region": "North America"
     },
     {
       "source": "Fox News",
       "positive": 32,
       "neutral": 7,
-      "negative": 74,
-      "count": 113,
+      "negative": 72,
+      "count": 111,
       "region": "North America"
     },
     {
       "source": "Channel News Asia",
-      "positive": 29,
-      "neutral": 30,
-      "negative": 39,
-      "count": 98,
+      "positive": 30,
+      "neutral": 32,
+      "negative": 38,
+      "count": 100,
       "region": "Global"
     },
     {
-      "source": "South China Morning Post",
-      "positive": 44,
-      "neutral": 0,
-      "negative": 50,
+      "source": "Australian Broadcasting Corporation",
+      "positive": 25,
+      "neutral": 18,
+      "negative": 51,
       "count": 94,
       "region": "Asia-Pacific"
     },
     {
-      "source": "Australian Broadcasting Corporation",
-      "positive": 24,
-      "neutral": 18,
-      "negative": 50,
-      "count": 92,
+      "source": "South China Morning Post",
+      "positive": 43,
+      "neutral": 0,
+      "negative": 48,
+      "count": 91,
       "region": "Asia-Pacific"
     },
     {
-      "source": "Bloomberg",
-      "positive": 50,
-      "neutral": 4,
-      "negative": 24,
-      "count": 78,
+      "source": "The Guardian",
+      "positive": 22,
+      "neutral": 2,
+      "negative": 50,
+      "count": 74,
       "region": "North America"
     },
     {
-      "source": "The Guardian",
-      "positive": 23,
-      "neutral": 2,
-      "negative": 50,
-      "count": 75,
+      "source": "Bloomberg",
+      "positive": 46,
+      "neutral": 4,
+      "negative": 21,
+      "count": 71,
+      "region": "North America"
+    },
+    {
+      "source": "Al Jazeera English",
+      "positive": 16,
+      "neutral": 11,
+      "negative": 43,
+      "count": 70,
       "region": "North America"
     },
     {
@@ -104,28 +112,20 @@
       "region": "Europe"
     },
     {
-      "source": "Al Jazeera English",
-      "positive": 15,
-      "neutral": 10,
-      "negative": 42,
-      "count": 67,
-      "region": "Middle East"
-    },
-    {
       "source": "BBC Sport",
       "positive": 30,
-      "neutral": 11,
+      "neutral": 12,
       "negative": 16,
-      "count": 57,
+      "count": 58,
       "region": "Europe"
     },
     {
       "source": "France 24",
       "positive": 10,
       "neutral": 2,
-      "negative": 45,
-      "count": 57,
-      "region": "Europe"
+      "negative": 46,
+      "count": 58,
+      "region": "Middle East"
     },
     {
       "source": "Euronews",
@@ -144,14 +144,6 @@
       "region": "Global"
     },
     {
-      "source": "Middle East Eye",
-      "positive": 4,
-      "neutral": 2,
-      "negative": 40,
-      "count": 46,
-      "region": "Middle East"
-    },
-    {
       "source": "AllAfrica",
       "positive": 17,
       "neutral": 3,
@@ -160,12 +152,12 @@
       "region": "Global"
     },
     {
-      "source": "Telegraph",
-      "positive": 35,
-      "neutral": 4,
-      "negative": 0,
-      "count": 39,
-      "region": "Europe"
+      "source": "Middle East Eye",
+      "positive": 4,
+      "neutral": 2,
+      "negative": 39,
+      "count": 45,
+      "region": "Middle East"
     },
     {
       "source": "Times of Israel",
@@ -176,12 +168,28 @@
       "region": "North America"
     },
     {
+      "source": "Telegraph",
+      "positive": 34,
+      "neutral": 4,
+      "negative": 0,
+      "count": 38,
+      "region": "Europe"
+    },
+    {
       "source": "New York Times",
       "positive": 9,
       "neutral": 5,
       "negative": 21,
       "count": 35,
       "region": "North America"
+    },
+    {
+      "source": "Mashable",
+      "positive": 24,
+      "neutral": 3,
+      "negative": 8,
+      "count": 35,
+      "region": "Global"
     },
     {
       "source": "NBC News",
@@ -192,28 +200,20 @@
       "region": "North America"
     },
     {
-      "source": "CNBC",
-      "positive": 23,
+      "source": "Deutsche Welle",
+      "positive": 11,
       "neutral": 2,
-      "negative": 9,
+      "negative": 21,
       "count": 34,
       "region": "North America"
     },
     {
-      "source": "Mashable",
-      "positive": 23,
-      "neutral": 3,
-      "negative": 8,
-      "count": 34,
-      "region": "Global"
-    },
-    {
-      "source": "Deutsche Welle",
-      "positive": 11,
+      "source": "CNBC",
+      "positive": 22,
       "neutral": 2,
-      "negative": 20,
+      "negative": 9,
       "count": 33,
-      "region": "Europe"
+      "region": "North America"
     },
     {
       "source": "MarketWatch",
@@ -226,17 +226,17 @@
     {
       "source": "ABC News",
       "positive": 6,
-      "neutral": 5,
-      "negative": 16,
-      "count": 27,
+      "neutral": 4,
+      "negative": 18,
+      "count": 28,
       "region": "North America"
     },
     {
       "source": "Straits Times",
-      "positive": 7,
+      "positive": 8,
       "neutral": 5,
       "negative": 13,
-      "count": 25,
+      "count": 26,
       "region": "Asia-Pacific"
     },
     {
@@ -267,17 +267,17 @@
       "source": "RT News",
       "positive": 1,
       "neutral": 2,
-      "negative": 11,
-      "count": 14,
-      "region": "Middle East"
+      "negative": 12,
+      "count": 15,
+      "region": "North America"
     },
     {
       "source": "Sky News",
       "positive": 1,
       "neutral": 1,
-      "negative": 11,
-      "count": 13,
-      "region": "Middle East"
+      "negative": 12,
+      "count": 14,
+      "region": "Europe"
     },
     {
       "source": "Washington Post",
@@ -339,38 +339,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 343,
-      "neutral": 99,
-      "negative": 455,
-      "count": 897
+      "positive": 342,
+      "neutral": 98,
+      "negative": 456,
+      "count": 896
     },
     {
       "region": "Europe",
-      "positive": 257,
-      "neutral": 106,
+      "positive": 256,
+      "neutral": 108,
       "negative": 305,
-      "count": 668
+      "count": 669
     },
     {
       "region": "Asia-Pacific",
-      "positive": 199,
-      "neutral": 103,
+      "positive": 197,
+      "neutral": 104,
       "negative": 256,
-      "count": 558
+      "count": 557
     },
     {
       "region": "Middle East",
-      "positive": 44,
+      "positive": 43,
       "neutral": 21,
       "negative": 172,
-      "count": 237
+      "count": 236
     },
     {
       "region": "Global",
       "positive": 76,
-      "neutral": 31,
-      "negative": 54,
-      "count": 161
+      "neutral": 32,
+      "negative": 51,
+      "count": 159
     },
     {
       "region": "Africa",
@@ -390,65 +390,65 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 232,
+      "positive": 236,
       "neutral": 81,
-      "negative": 328,
-      "count": 641
+      "negative": 327,
+      "count": 644
     },
     {
       "topic": "Other",
-      "positive": 163,
-      "neutral": 112,
-      "negative": 200,
+      "positive": 161,
+      "neutral": 113,
+      "negative": 201,
       "count": 475
     },
     {
       "topic": "Politics",
-      "positive": 148,
+      "positive": 147,
       "neutral": 64,
-      "negative": 239,
-      "count": 451
+      "negative": 235,
+      "count": 446
     },
     {
       "topic": "World",
-      "positive": 82,
+      "positive": 81,
       "neutral": 27,
-      "negative": 230,
-      "count": 339
+      "negative": 229,
+      "count": 337
     },
     {
       "topic": "Sports",
-      "positive": 113,
-      "neutral": 36,
-      "negative": 65,
-      "count": 214
+      "positive": 112,
+      "neutral": 38,
+      "negative": 66,
+      "count": 216
     },
     {
       "topic": "Business",
-      "positive": 81,
-      "neutral": 14,
+      "positive": 78,
+      "neutral": 15,
       "negative": 43,
-      "count": 138
+      "count": 136
     },
     {
       "topic": "Entertainment",
-      "positive": 52,
+      "positive": 51,
       "neutral": 13,
       "negative": 48,
-      "count": 113
+      "count": 112
     },
     {
       "topic": "Health",
       "positive": 29,
       "neutral": 4,
-      "negative": 54,
-      "count": 87
+      "negative": 55,
+      "count": 88
     },
     {
       "topic": "Regional",
       "positive": 19,
-      "neutral": 8,
-      "negative": 37,
+      "neutral": 7,
+      "negative": 38,
       "count": 64
     },
     {
@@ -468,6 +468,22 @@
   ],
   "sample_headlines": [
     {
+      "title": "WRAPUP 1-Arsenal thrash Villa 4-1 while Chelsea and Man Utd both held",
+      "url": "https://www.channelnewsasia.com/sport/wrapup-1-arsenal-thrash-villa-4-1-while-chelsea-and-man-utd-both-held-5770641",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2025-12-31T07:16:48+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "The scalp care boom in Singapore: Why salons are now focusing on hair health from the root up",
+      "url": "https://www.channelnewsasia.com/style-beauty/scalp-care-salon-hair-health-treatments-5471256",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-12-31T07:16:27+08:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Chelsea pay the price for losing control again",
       "url": "https://www.channelnewsasia.com/sport/chelsea-pay-price-losing-control-again-5770631",
       "source": "Channel News Asia",
@@ -478,6 +494,14 @@
     {
       "title": "South Korea Dec headline inflation at 2.3%, as expected",
       "url": "https://www.channelnewsasia.com/business/south-korea-dec-headline-inflation-23-expected-5770616",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2025-12-31T07:07:43+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "South Korea 2025 consumer inflation roughly in line with central bank target",
+      "url": "https://www.channelnewsasia.com/business/south-korea-2025-consumer-inflation-roughly-in-line-central-bank-target-5770616",
       "source": "Channel News Asia",
       "region": "Asia-Pacific",
       "published": "2025-12-31T07:07:43+08:00",
@@ -618,6 +642,22 @@
       "region": "North America",
       "published": "2025-12-31T05:00:00+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Claim your government vouchers, credits before they expire",
+      "url": "https://www.straitstimes.com/singapore/government-schemes-which-ones-expire-soon-which-ones-dont",
+      "source": "Straits Times",
+      "region": "North America",
+      "published": "2025-12-31T05:00:00+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "'Was radicalising youths': Assam Police busts terror cell linked to Bangladesh; 11 arrested",
+      "url": "https://timesofindia.indiatimes.com/india/radicalised-and-recruited-youths-assam-police-busts-terror-cell-linked-to-bangladesh-11-arrested/articleshow/126261637.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-12-31T04:42:01+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Two loco trains collide in Uttarakhand\u2019s Vishnugad-Pipalkoti hydroelectric project tunnel, 60 injured",
@@ -857,6 +897,14 @@
       "source": "Channel News Asia",
       "region": "Middle East",
       "published": "2025-12-31T01:10:25+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Bengal SIR: Ailing poet Joy Goswami among 'unmapped' voters; get Jan 2 hearing call",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/unmapped-poet-joy-goswami-get-jan-2-hearing-call/articleshow/126255379.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2025-12-31T01:06:00+05:30",
       "sentiment": "positive"
     },
     {
@@ -1100,6 +1148,14 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Match of the Day: Premier League highlights - leaders Arsenal in action",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "region": "Europe",
+      "published": "2025-12-30T23:46:30+00:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Watch Sportscene highlights",
       "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
@@ -1140,6 +1196,22 @@
       "sentiment": "negative"
     },
     {
+      "title": "We asked a humanoid robot if there is an AI bubble. Here's what it said",
+      "url": "https://www.cnbc.com/2025/12/30/we-asked-a-humanoid-robot-if-theres-an-ai-bubble-heres-what-it-said.html",
+      "source": "CNBC",
+      "region": "North America",
+      "published": "2025-12-30T23:40:03+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Tatiana Schlossberg, granddaughter of JFK, dies aged 35",
+      "url": "https://www.dw.com/en/tatiana-schlossberg-granddaughter-of-jfk-dies-aged-35/a-75346596?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "region": "North America",
+      "published": "2025-12-30T23:37:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Durian lovers in Singapore shell out for Musang King fruits after prices plunge up north",
       "url": "https://www.straitstimes.com/singapore/durian-lovers-in-singapore-shell-out-for-musang-king-fruits-after-prices-plunge-up-north",
       "source": "Straits Times",
@@ -1172,99 +1244,27 @@
       "sentiment": "positive"
     },
     {
-      "title": "Chelsea fans turn on Enzo Maresca after Bournemouth draw",
-      "url": "https://www.telegraph.co.uk/football/2025/12/30/premier-league-live-730-kickoffs-chelsea-newcastle-west-ham/",
-      "source": "Telegraph",
-      "region": "Europe",
-      "published": "2025-12-30T23:15:19+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "SkillsFuture looking into system issue affecting online portal access ahead of Dec 31 credit expiry",
-      "url": "https://www.straitstimes.com/singapore/skillsfuture-looking-into-system-issue-affecting-online-portal-access-ahead-of-dec-31-credit-expiry",
-      "source": "Straits Times",
-      "region": "Asia-Pacific",
-      "published": "2025-12-30T23:11:41+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Former Obama adviser David Axelrod says the GOP should be on edge over Trump\u2019s \u2018Marie Antoinette thing\u2019",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/david-axelrod-trump-marie-antoinette-b2892442.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-12-30T23:11:18+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Isiah Whitlock Jr, actor known as The Wire\u2019s Clay Davis, dies aged 71",
-      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/isiah-whitlock-jr-the-wire-death-b2892452.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2025-12-30T23:10:30+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "3 stories our photographers witnessed in 2025",
-      "url": "https://www.washingtonpost.com/world/2025/12/30/post-photographers-2025/",
-      "source": "Washington Post",
-      "region": "North America",
-      "published": "2025-12-30T23:10:11+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "West Bank: Israeli settler raid Palestinian community near Jericho",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-settler-raid-palestinian-community-near-jericho",
-      "source": "Middle East Eye",
+      "title": "Syria arrests suspects in Latakia after sectarian violence, curfew imposed",
+      "url": "https://www.france24.com/en/middle-east/20251230-syria-arrests-latakia-sectarian-violence-curfew-imposed",
+      "source": "France 24",
       "region": "Middle East",
-      "published": "2025-12-30T23:09:34+00:00",
+      "published": "2025-12-30T23:27:03+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Tamil Nadu govt. is weighing its options on Chennai University Amendment Bill, says Higher Education Minister",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-govt-is-weighing-its-options-on-madras-university-amendment-bill-says-higher-education-minister/article70453369.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-30T23:09:29+05:30",
+      "title": "US cuts Minnesota child care funds amid massive fraud probe",
+      "url": "https://www.rt.com/news/630268-minnesota-fraud-child-care-payments/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "source": "RT News",
+      "region": "North America",
+      "published": "2025-12-30T23:23:40+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Arsenal were outstanding in second half - Arteta",
-      "url": "https://www.bbc.com/sport/football/videos/c5yq1l526v3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "region": "Europe",
-      "published": "2025-12-30T23:09:14+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Willy Caballero defends Cole Palmer withdrawal as Enzo Maresca comes under fire",
-      "url": "https://www.independent.co.uk/sport/football/willy-caballero-enzo-maresca-cole-palmer-bournemouth-stamford-bridge-b2892454.html",
+      "title": "Luke Humphries keen for improvement despite easing into World Darts Championship quarter-finals",
+      "url": "https://www.independent.co.uk/sport/darts/luke-humphries-world-championship-anderson-van-gerwen-b2892450.html",
       "source": "Independent",
       "region": "Europe",
-      "published": "2025-12-30T23:09:09+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Bengaluru police haven't arrested a single \u2018producer\u2019 of narcotics in two years",
-      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-police-havent-arrested-a-single-producer-of-narcotics-in-two-years/article70452768.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-30T23:08:59+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Trump\u2019s effusive praise for PM part of strategy to keep disagreements private \u2014 sources",
-      "url": "https://www.timesofisrael.com/trumps-effusive-praise-for-pm-part-of-strategy-to-keep-disagreements-private-sources/",
-      "source": "Times of Israel",
-      "region": "North America",
-      "published": "2025-12-30T23:07:55+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Not Semenyo's 'last game', says Iraola as Man City close in",
-      "url": "https://www.bbc.com/sport/football/articles/cp9jr5evy3xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "Europe",
-      "published": "2025-12-30T23:07:37+00:00",
+      "published": "2025-12-30T23:18:37+00:00",
       "sentiment": "positive"
     }
   ]
