@@ -1,18 +1,18 @@
 {
-  "generated_at": "2025-12-31T21:20:21.708178+00:00",
+  "generated_at": "2025-12-31T21:42:09.416768+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 996,
-    "neutral": 316,
-    "negative": 1067
+    "positive": 1001,
+    "neutral": 320,
+    "negative": 1061
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 162,
-      "neutral": 79,
-      "negative": 190,
-      "count": 431,
+      "positive": 165,
+      "neutral": 80,
+      "negative": 184,
+      "count": 429,
       "region": "North America"
     },
     {
@@ -25,27 +25,35 @@
     },
     {
       "source": "Times of India",
-      "positive": 78,
+      "positive": 80,
       "neutral": 10,
       "negative": 60,
-      "count": 148,
+      "count": 150,
       "region": "Asia-Pacific"
     },
     {
       "source": "Fox News",
-      "positive": 36,
-      "neutral": 12,
-      "negative": 80,
-      "count": 128,
-      "region": "North America"
+      "positive": 37,
+      "neutral": 13,
+      "negative": 81,
+      "count": 131,
+      "region": "Middle East"
     },
     {
       "source": "CBS News",
-      "positive": 33,
+      "positive": 35,
       "neutral": 12,
-      "negative": 48,
-      "count": 93,
+      "negative": 47,
+      "count": 94,
       "region": "North America"
+    },
+    {
+      "source": "Channel News Asia",
+      "positive": 36,
+      "neutral": 24,
+      "negative": 30,
+      "count": 90,
+      "region": "Global"
     },
     {
       "source": "AllAfrica",
@@ -54,14 +62,6 @@
       "negative": 38,
       "count": 90,
       "region": "North America"
-    },
-    {
-      "source": "Channel News Asia",
-      "positive": 34,
-      "neutral": 23,
-      "negative": 30,
-      "count": 87,
-      "region": "Europe"
     },
     {
       "source": "BBC News",
@@ -81,35 +81,35 @@
     },
     {
       "source": "South China Morning Post",
-      "positive": 39,
+      "positive": 37,
       "neutral": 1,
-      "negative": 39,
-      "count": 79,
-      "region": "North America"
+      "negative": 40,
+      "count": 78,
+      "region": "Europe"
     },
     {
       "source": "Bloomberg",
       "positive": 51,
       "neutral": 5,
-      "negative": 21,
-      "count": 77,
+      "negative": 22,
+      "count": 78,
       "region": "North America"
+    },
+    {
+      "source": "Australian Broadcasting Corporation",
+      "positive": 30,
+      "neutral": 3,
+      "negative": 41,
+      "count": 74,
+      "region": "Asia-Pacific"
     },
     {
       "source": "The Guardian",
       "positive": 33,
       "neutral": 1,
-      "negative": 41,
-      "count": 75,
+      "negative": 40,
+      "count": 74,
       "region": "North America"
-    },
-    {
-      "source": "Australian Broadcasting Corporation",
-      "positive": 29,
-      "neutral": 3,
-      "negative": 38,
-      "count": 70,
-      "region": "Asia-Pacific"
     },
     {
       "source": "Al Jazeera English",
@@ -123,16 +123,16 @@
       "source": "France 24",
       "positive": 23,
       "neutral": 4,
-      "negative": 36,
-      "count": 63,
+      "negative": 35,
+      "count": 62,
       "region": "North America"
     },
     {
       "source": "Euronews",
       "positive": 26,
       "neutral": 4,
-      "negative": 19,
-      "count": 49,
+      "negative": 18,
+      "count": 48,
       "region": "Middle East"
     },
     {
@@ -145,19 +145,11 @@
     },
     {
       "source": "Times of Israel",
-      "positive": 14,
+      "positive": 15,
       "neutral": 2,
-      "negative": 28,
-      "count": 44,
+      "negative": 29,
+      "count": 46,
       "region": "Middle East"
-    },
-    {
-      "source": "Sky Sports",
-      "positive": 30,
-      "neutral": 6,
-      "negative": 8,
-      "count": 44,
-      "region": "North America"
     },
     {
       "source": "Mashable",
@@ -173,6 +165,14 @@
       "neutral": 7,
       "negative": 14,
       "count": 39,
+      "region": "North America"
+    },
+    {
+      "source": "Sky Sports",
+      "positive": 25,
+      "neutral": 5,
+      "negative": 7,
+      "count": 37,
       "region": "North America"
     },
     {
@@ -193,10 +193,18 @@
     },
     {
       "source": "MarketWatch",
-      "positive": 22,
+      "positive": 23,
       "neutral": 4,
       "negative": 5,
-      "count": 31,
+      "count": 32,
+      "region": "Global"
+    },
+    {
+      "source": "ABC News",
+      "positive": 7,
+      "neutral": 8,
+      "negative": 9,
+      "count": 24,
       "region": "North America"
     },
     {
@@ -216,20 +224,12 @@
       "region": "North America"
     },
     {
-      "source": "ABC News",
-      "positive": 6,
-      "neutral": 7,
-      "negative": 9,
-      "count": 22,
-      "region": "North America"
-    },
-    {
       "source": "Financial Times",
       "positive": 9,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 10,
-      "count": 19,
-      "region": "Middle East"
+      "count": 20,
+      "region": "North America"
     },
     {
       "source": "Straits Times",
@@ -251,8 +251,8 @@
       "source": "NPR",
       "positive": 7,
       "neutral": 2,
-      "negative": 8,
-      "count": 17,
+      "negative": 7,
+      "count": 16,
       "region": "North America"
     },
     {
@@ -280,20 +280,20 @@
       "region": "Middle East"
     },
     {
-      "source": "Washington Post",
-      "positive": 1,
-      "neutral": 2,
-      "negative": 7,
-      "count": 10,
-      "region": "Europe"
-    },
-    {
       "source": "Telegraph",
       "positive": 2,
       "neutral": 4,
       "negative": 3,
       "count": 9,
       "region": "Asia-Pacific"
+    },
+    {
+      "source": "Washington Post",
+      "positive": 1,
+      "neutral": 2,
+      "negative": 6,
+      "count": 9,
+      "region": "Europe"
     },
     {
       "source": "Wired",
@@ -313,18 +313,18 @@
     },
     {
       "source": "Ars Technica",
-      "positive": 3,
+      "positive": 2,
       "neutral": 0,
       "negative": 1,
-      "count": 4,
+      "count": 3,
       "region": "Global"
     },
     {
       "source": "Buenos Aires Herald",
-      "positive": 3,
+      "positive": 2,
       "neutral": 0,
       "negative": 1,
-      "count": 4,
+      "count": 3,
       "region": "North America"
     },
     {
@@ -339,124 +339,124 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 369,
-      "neutral": 98,
-      "negative": 408,
-      "count": 875
+      "positive": 376,
+      "neutral": 101,
+      "negative": 406,
+      "count": 883
     },
     {
       "region": "Europe",
-      "positive": 251,
+      "positive": 247,
       "neutral": 87,
-      "negative": 249,
-      "count": 587
+      "negative": 242,
+      "count": 576
     },
     {
       "region": "Asia-Pacific",
-      "positive": 230,
+      "positive": 231,
       "neutral": 77,
-      "negative": 192,
-      "count": 499
+      "negative": 195,
+      "count": 503
     },
     {
       "region": "Middle East",
-      "positive": 27,
+      "positive": 28,
       "neutral": 10,
       "negative": 134,
-      "count": 171
+      "count": 172
     },
     {
       "region": "Global",
-      "positive": 80,
-      "neutral": 33,
-      "negative": 43,
-      "count": 156
+      "positive": 81,
+      "neutral": 34,
+      "negative": 44,
+      "count": 159
     },
     {
       "region": "Africa",
       "positive": 31,
       "neutral": 7,
-      "negative": 33,
-      "count": 71
+      "negative": 32,
+      "count": 70
     },
     {
       "region": "South America",
-      "positive": 8,
+      "positive": 7,
       "neutral": 4,
       "negative": 8,
-      "count": 20
+      "count": 19
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 244,
+      "positive": 241,
       "neutral": 69,
-      "negative": 296,
-      "count": 609
+      "negative": 293,
+      "count": 603
     },
     {
       "topic": "Other",
-      "positive": 171,
-      "neutral": 92,
-      "negative": 166,
-      "count": 429
+      "positive": 174,
+      "neutral": 93,
+      "negative": 165,
+      "count": 432
     },
     {
       "topic": "Politics",
       "positive": 144,
-      "neutral": 53,
-      "negative": 188,
-      "count": 385
+      "neutral": 54,
+      "negative": 186,
+      "count": 384
     },
     {
       "topic": "World",
       "positive": 74,
-      "neutral": 12,
-      "negative": 196,
-      "count": 282
+      "neutral": 13,
+      "negative": 198,
+      "count": 285
     },
     {
       "topic": "Sports",
       "positive": 132,
-      "neutral": 25,
-      "negative": 44,
-      "count": 201
+      "neutral": 24,
+      "negative": 43,
+      "count": 199
     },
     {
       "topic": "Business",
-      "positive": 111,
+      "positive": 114,
       "neutral": 24,
       "negative": 40,
-      "count": 175
+      "count": 178
     },
     {
       "topic": "Entertainment",
-      "positive": 34,
-      "neutral": 12,
+      "positive": 35,
+      "neutral": 13,
       "negative": 34,
-      "count": 80
+      "count": 82
     },
     {
       "topic": "Health",
       "positive": 38,
       "neutral": 4,
-      "negative": 37,
-      "count": 79
+      "negative": 38,
+      "count": 80
     },
     {
       "topic": "Regional",
-      "positive": 15,
+      "positive": 16,
       "neutral": 11,
-      "negative": 31,
-      "count": 57
+      "negative": 28,
+      "count": 55
     },
     {
       "topic": "Local",
       "positive": 15,
-      "neutral": 10,
-      "negative": 24,
-      "count": 49
+      "neutral": 11,
+      "negative": 25,
+      "count": 51
     },
     {
       "topic": "Science",
@@ -467,6 +467,22 @@
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Kofane stunner earns Cameroon victory over Mozambique",
+      "url": "https://www.channelnewsasia.com/sport/kofane-stunner-earns-cameroon-victory-over-mozambique-5771876",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2026-01-01T05:13:16+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Ivory Coast beat Gabon 3-2, face Burkina Faso in last-16",
+      "url": "https://www.channelnewsasia.com/sport/ivory-coast-beat-gabon-3-2-face-burkina-faso-in-last-16-5771881",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2026-01-01T05:10:18+08:00",
+      "sentiment": "neutral"
+    },
     {
       "title": "2026 outlook: What\u2019s next for healthcare \u2013 and the top stories of 2025",
       "url": "https://www.straitstimes.com/singapore/health/2026-outlook-whats-next-for-health-and-the-top-stories-of-2025",
@@ -524,6 +540,14 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Ex-Bengal unit chief Dilip Ghosh back in BJP spotlight",
+      "url": "https://timesofindia.indiatimes.com/india/ex-bengal-party-chief-ghosh-back-in-bjp-spotlight/articleshow/126278824.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2026-01-01T02:53:43+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "'Want 22 of 28 seats from in and around Kolkata': Amit Shah sets target for BJP cadres",
       "url": "https://timesofindia.indiatimes.com/india/want-22-of-28-seats-from-in-and-around-kolkata-amit-shah-sets-target-for-bjp-cadres/articleshow/126278801.cms",
       "source": "Times of India",
@@ -574,6 +598,14 @@
     {
       "title": "US stocks languid, precious metals retreat as markets turn the page on a stellar year",
       "url": "https://www.channelnewsasia.com/business/us-stocks-languid-precious-metals-retreat-markets-turn-page-stellar-year-5770956",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2026-01-01T01:48:33+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "US stocks clinch double-digit annual gains, capping a stellar year",
+      "url": "https://www.channelnewsasia.com/business/us-stocks-clinch-double-digit-annual-gains-capping-stellar-year-5770956",
       "source": "Channel News Asia",
       "region": "North America",
       "published": "2026-01-01T01:48:33+08:00",
@@ -650,6 +682,14 @@
       "region": "North America",
       "published": "2026-01-01T00:36:28+05:30",
       "sentiment": "negative"
+    },
+    {
+      "title": "'Spirit' first look: Prabhas, Triptii Dimri as Sandeep Reddy Vanga recreates 'Animal' buzz",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/sandeep-reddy-vanga-recreates-animal-frenzy-as-spirit-first-look-featuring-prabhas-and-triptii-dimri-drops-as-new-year-surprise/articleshow/126278417.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2026-01-01T00:32:56+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "J&amp;K court acquits 3 accused held for possessing AK-47, grenades",
@@ -988,6 +1028,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Witchcraft suspicion: Assam couple killed as mob torches home; probe launched",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/tragic-witchcraft-suspicion-couple-killed-as-mob-torches-home-in-karbi-anglong-investigation-launched-amidst-ongoing-superstitions/articleshow/126275812.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2025-12-31T22:27:20+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Operation Sindoor reflected India\u2019s commitment to righteous conduct in war, says Rajnath Singh",
       "url": "https://www.thehindu.com/news/national/operation-sindoor-reflected-indias-commitment-to-righteous-conduct-in-war-says-rajnath-singh/article70457721.ece",
       "source": "The Hindu",
@@ -1156,6 +1204,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Here are 5 key charts that defined a wild year for global financial markets",
+      "url": "https://www.marketwatch.com/story/these-5-charts-define-the-wild-year-in-global-financial-markets-in-2025-780fdd5a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "region": "Global",
+      "published": "2025-12-31T21:36:00+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Indore water contamination: Official dismissed, two others suspended as death toll rises to 10; probe panel formed",
       "url": "https://www.thehindu.com/news/national/madhya-pradesh/indore-water-contamination-official-dismissed-two-others-suspended-as-death-toll-rises-to-10-probe-panel-formed/article70457661.ece",
       "source": "The Hindu",
@@ -1172,6 +1228,14 @@
       "sentiment": "neutral"
     },
     {
+      "title": "US sanctions four traders it says are shipping Venezuelan oil",
+      "url": "https://www.ft.com/content/ddcdb2af-48a5-457f-a306-0dae538e9c74",
+      "source": "Financial Times",
+      "region": "North America",
+      "published": "2025-12-31T21:32:03+00:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Army trains villagers in upper Doda as anti-terror preparedness intensifies",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/army-trains-villagers-in-upper-doda-as-anti-terror-preparedness-intensifies/article70457891.ece",
       "source": "The Hindu",
@@ -1180,92 +1244,28 @@
       "sentiment": "positive"
     },
     {
+      "title": "Sky Vegas welcome offer: 50 no deposit free spins, plus stake \u00a310 get 200 free spins",
+      "url": "https://www.independent.co.uk/games/sky-vegas-welcome-offer-uk-b2841683.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2025-12-31T21:31:19+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Is Hainan the next Hong Kong? That\u2019s the wrong question to ask",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3338100/hainan-next-hong-kong-thats-wrong-question-ask?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Europe",
+      "published": "2025-12-31T21:30:10+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Centre bans oral formulations of nimesulide above 100mg",
       "url": "https://www.thehindu.com/sci-tech/health/centre-bans-oral-formulations-of-nimesulide-above-100mg/article70457620.ece",
       "source": "The Hindu",
       "region": "North America",
       "published": "2025-12-31T21:30:05+05:30",
       "sentiment": "neutral"
-    },
-    {
-      "title": "Collector orders installation of fire hydrants in all key locations in Ernakulam",
-      "url": "https://www.thehindu.com/news/national/kerala/collector-orders-installation-of-fire-hydrants-in-all-key-locations-in-ernakulam/article70457531.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-31T21:29:45+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "26/11 hero Sadanand Date appointed as new DGP of Maharashtra; to take charge on January 3",
-      "url": "https://www.thehindu.com/news/national/maharashtra/2611-hero-sadanand-date-appointed-as-new-dgp-of-maharashtra-to-take-charge-on-january-3/article70457703.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2025-12-31T21:26:46+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Police seize 150 kg explosives in Rajasthan\u2019s Tonk on New Year\u2019s eve",
-      "url": "https://www.thehindu.com/news/national/rajasthan/police-seize-150-kg-explosives-in-rajasthans-tonk-on-new-years-eve/article70457632.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-12-31T21:25:52+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "150 kg of explosives seized in Rajasthan on New Year\u2019s eve",
-      "url": "https://www.thehindu.com/news/national/rajasthan/police-seize-150-kg-explosives-in-rajasthans-tonk-on-new-years-eve/article70457632.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-12-31T21:25:52+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "NCB busts international drug trafficking syndicate, seizes 160 kg worth \u20b98 crore",
-      "url": "https://www.thehindu.com/news/national/karnataka/ncb-busts-international-drug-trafficking-syndicate-seizes-160-kg-worth-8-crore/article70457336.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2025-12-31T21:25:31+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Bengal polls 2026: Shah sets ground rules for BJP cadre; pushes grassroots drive",
-      "url": "https://timesofindia.indiatimes.com/india/bengal-polls-2026-amit-shah-sets-ground-rules-for-bjp-cadre-ahead-of-elections-pushes-grassroots-drive/articleshow/126274968.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2025-12-31T21:23:29+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Set to be NYC mayor: Zohran Mamdani to assume office on New Year\u2019s Da",
-      "url": "https://timesofindia.indiatimes.com/world/us/zohran-mamdani-to-assume-office-nyc-to-get-new-mayor-attorney-general-letitia-james-to-administer-midnight-oath/articleshow/126274987.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2025-12-31T21:22:48+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Lynn's fireworks get Strikers over the line in NYE clash for first time since 2018",
-      "url": "https://www.abc.net.au/news/2026-01-01/chris-lynn-adelaide-strikers-beat-brisbane-heat-in-bbl/106191468",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2025-12-31T21:18:01+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Photos of New Year\u2019s celebrations across the globe as the world welcomes 2026",
-      "url": "https://www.independent.co.uk/news/world/americas/new-years-eve-celebrations-dubai-sydney-bangkok-taiwan-b2892798.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2025-12-31T21:16:09+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "2025 The Year in Review",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20251231-2025-the-year-in-review",
-      "source": "France 24",
-      "region": "North America",
-      "published": "2025-12-31T21:14:53+00:00",
-      "sentiment": "negative"
     }
   ]
 }
