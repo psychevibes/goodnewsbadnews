@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-01-01T19:18:38.214946+00:00",
+  "generated_at": "2026-01-01T19:40:32.264296+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 752,
+    "positive": 754,
     "neutral": 268,
-    "negative": 884
+    "negative": 889
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 148,
+      "positive": 144,
       "neutral": 61,
-      "negative": 128,
-      "count": 337,
+      "negative": 127,
+      "count": 332,
       "region": "North America"
     },
     {
       "source": "The Hindu",
       "positive": 91,
       "neutral": 61,
-      "negative": 83,
-      "count": 235,
+      "negative": 84,
+      "count": 236,
       "region": "Asia-Pacific"
     },
     {
@@ -51,8 +51,8 @@
       "source": "Australian Broadcasting Corporation",
       "positive": 25,
       "neutral": 5,
-      "negative": 51,
-      "count": 81,
+      "negative": 53,
+      "count": 83,
       "region": "Asia-Pacific"
     },
     {
@@ -72,20 +72,20 @@
       "region": "Middle East"
     },
     {
+      "source": "The Guardian",
+      "positive": 23,
+      "neutral": 0,
+      "negative": 42,
+      "count": 65,
+      "region": "North America"
+    },
+    {
       "source": "Al Jazeera English",
       "positive": 11,
       "neutral": 8,
       "negative": 44,
       "count": 63,
       "region": "Middle East"
-    },
-    {
-      "source": "The Guardian",
-      "positive": 21,
-      "neutral": 0,
-      "negative": 41,
-      "count": 62,
-      "region": "North America"
     },
     {
       "source": "France 24",
@@ -98,26 +98,34 @@
     {
       "source": "Middle East Eye",
       "positive": 10,
-      "neutral": 4,
+      "neutral": 3,
       "negative": 37,
-      "count": 51,
-      "region": "Middle East"
-    },
-    {
-      "source": "Channel News Asia",
-      "positive": 17,
-      "neutral": 8,
-      "negative": 18,
-      "count": 43,
+      "count": 50,
       "region": "Middle East"
     },
     {
       "source": "Sky Sports",
-      "positive": 18,
+      "positive": 22,
       "neutral": 21,
       "negative": 3,
-      "count": 42,
+      "count": 46,
       "region": "Europe"
+    },
+    {
+      "source": "Times of Israel",
+      "positive": 12,
+      "neutral": 3,
+      "negative": 29,
+      "count": 44,
+      "region": "Middle East"
+    },
+    {
+      "source": "Channel News Asia",
+      "positive": 15,
+      "neutral": 8,
+      "negative": 18,
+      "count": 41,
+      "region": "Middle East"
     },
     {
       "source": "Euronews",
@@ -128,27 +136,19 @@
       "region": "Asia-Pacific"
     },
     {
-      "source": "Times of Israel",
-      "positive": 12,
-      "neutral": 2,
-      "negative": 26,
-      "count": 40,
-      "region": "North America"
-    },
-    {
       "source": "NBC News",
-      "positive": 11,
+      "positive": 10,
       "neutral": 7,
-      "negative": 21,
+      "negative": 22,
       "count": 39,
       "region": "North America"
     },
     {
       "source": "ESPN",
-      "positive": 23,
-      "neutral": 2,
+      "positive": 24,
+      "neutral": 3,
       "negative": 11,
-      "count": 36,
+      "count": 38,
       "region": "North America"
     },
     {
@@ -160,6 +160,14 @@
       "region": "Africa"
     },
     {
+      "source": "BBC Sport",
+      "positive": 12,
+      "neutral": 6,
+      "negative": 9,
+      "count": 27,
+      "region": "Europe"
+    },
+    {
       "source": "ABC News",
       "positive": 8,
       "neutral": 7,
@@ -168,18 +176,10 @@
       "region": "North America"
     },
     {
-      "source": "BBC Sport",
-      "positive": 10,
-      "neutral": 6,
-      "negative": 9,
-      "count": 25,
-      "region": "North America"
-    },
-    {
       "source": "New York Times",
       "positive": 6,
-      "neutral": 2,
-      "negative": 15,
+      "neutral": 3,
+      "negative": 14,
       "count": 23,
       "region": "North America"
     },
@@ -203,16 +203,16 @@
       "source": "Bloomberg",
       "positive": 12,
       "neutral": 5,
-      "negative": 5,
-      "count": 22,
+      "negative": 4,
+      "count": 21,
       "region": "North America"
     },
     {
       "source": "Mashable",
       "positive": 10,
-      "neutral": 7,
+      "neutral": 6,
       "negative": 3,
-      "count": 20,
+      "count": 19,
       "region": "Global"
     },
     {
@@ -226,9 +226,9 @@
     {
       "source": "NPR",
       "positive": 5,
-      "neutral": 4,
+      "neutral": 3,
       "negative": 6,
-      "count": 15,
+      "count": 14,
       "region": "North America"
     },
     {
@@ -331,44 +331,44 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 290,
-      "neutral": 65,
+      "positive": 288,
+      "neutral": 64,
       "negative": 337,
-      "count": 692
+      "count": 689
     },
     {
       "region": "Europe",
-      "positive": 199,
+      "positive": 204,
       "neutral": 90,
-      "negative": 195,
-      "count": 484
+      "negative": 196,
+      "count": 490
     },
     {
       "region": "Asia-Pacific",
-      "positive": 164,
+      "positive": 165,
       "neutral": 77,
-      "negative": 166,
-      "count": 407
+      "negative": 169,
+      "count": 411
     },
     {
       "region": "Middle East",
-      "positive": 33,
+      "positive": 32,
       "neutral": 12,
-      "negative": 113,
-      "count": 158
+      "negative": 116,
+      "count": 160
     },
     {
       "region": "Global",
-      "positive": 42,
-      "neutral": 20,
-      "negative": 47,
-      "count": 109
+      "positive": 40,
+      "neutral": 21,
+      "negative": 46,
+      "count": 107
     },
     {
       "region": "Africa",
-      "positive": 18,
+      "positive": 19,
       "neutral": 3,
-      "negative": 22,
+      "negative": 21,
       "count": 43
     },
     {
@@ -382,51 +382,51 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 163,
-      "neutral": 39,
-      "negative": 222,
-      "count": 424
+      "positive": 167,
+      "neutral": 38,
+      "negative": 224,
+      "count": 429
     },
     {
       "topic": "Other",
-      "positive": 152,
+      "positive": 150,
       "neutral": 88,
-      "negative": 176,
+      "negative": 178,
       "count": 416
     },
     {
       "topic": "Politics",
-      "positive": 137,
-      "neutral": 30,
-      "negative": 122,
+      "positive": 135,
+      "neutral": 29,
+      "negative": 125,
       "count": 289
     },
     {
       "topic": "World",
-      "positive": 75,
+      "positive": 76,
       "neutral": 17,
-      "negative": 125,
-      "count": 217
+      "negative": 126,
+      "count": 219
     },
     {
       "topic": "Sports",
-      "positive": 69,
-      "neutral": 34,
+      "positive": 71,
+      "neutral": 35,
       "negative": 39,
-      "count": 142
+      "count": 145
     },
     {
       "topic": "Health",
-      "positive": 35,
+      "positive": 34,
       "neutral": 4,
-      "negative": 66,
-      "count": 105
+      "negative": 63,
+      "count": 101
     },
     {
       "topic": "Business",
-      "positive": 37,
+      "positive": 36,
       "neutral": 14,
-      "negative": 42,
+      "negative": 43,
       "count": 93
     },
     {
@@ -438,9 +438,9 @@
     },
     {
       "topic": "Regional",
-      "positive": 24,
+      "positive": 25,
       "neutral": 14,
-      "negative": 27,
+      "negative": 26,
       "count": 65
     },
     {
@@ -453,9 +453,9 @@
     {
       "topic": "Science",
       "positive": 6,
-      "neutral": 3,
+      "neutral": 4,
       "negative": 6,
-      "count": 15
+      "count": 16
     }
   ],
   "sample_headlines": [
@@ -474,6 +474,30 @@
       "region": "Europe",
       "published": "2026-01-02T00:59:33+08:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "Telangana Prisons Department stall inaugurated at Numaish",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-prisons-department-stall-inaugurated-at-numaish/article70461414.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-02T00:55:52+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "KCR wrote 28 letters for enhanced Krishna water share: Harish Rao",
+      "url": "https://www.thehindu.com/news/national/telangana/kcr-wrote-28-letters-for-enhanced-krishna-water-share-harish-rao/article70461394.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-02T00:53:44+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "PE-VC firms invested $3,513 million across 61 deals in Tamil Nadu-based companies in 2025",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/pe-vc-firms-invested-3513-million-across-61-deals-in-tamil-nadu-based-companies-in-2025/article70461004.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-02T00:46:51+05:30",
+      "sentiment": "neutral"
     },
     {
       "title": "N. Ram calls on CM, presents\u00a0The Hindu Year Book 2026",
@@ -1234,30 +1258,6 @@
       "region": "Asia-Pacific",
       "published": "2026-01-01T20:25:44+05:30",
       "sentiment": "negative"
-    },
-    {
-      "title": "One dead, 14 hospitalised after suspected food poisoning at New Year party in Hyderabad",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/one-dead-14-hospitalised-after-suspected-food-poisoning-at-new-year-party-in-hyderabad/article70460416.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-01-01T20:24:36+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "BJP Kisan Morcha to hold roundtable on natural farming on January 3",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/bjp-kisan-morcha-to-hold-roundtable-on-natural-farming-on-january-3/article70460365.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-01T20:23:54+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Chelsea part ways with manager Maresca",
-      "url": "https://www.channelnewsasia.com/sport/chelsea-sacks-manager-enzo-maresca-5772386",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2026-01-01T20:23:00+08:00",
-      "sentiment": "neutral"
     }
   ]
 }
