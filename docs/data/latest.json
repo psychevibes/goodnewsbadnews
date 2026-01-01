@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-01-01T09:27:16.211160+00:00",
+  "generated_at": "2026-01-01T09:47:35.318131+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 933,
+    "positive": 927,
     "neutral": 305,
-    "negative": 959
+    "negative": 954
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 162,
-      "neutral": 72,
+      "positive": 165,
+      "neutral": 73,
       "negative": 157,
-      "count": 391,
-      "region": "North America"
+      "count": 395,
+      "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 93,
+      "positive": 91,
       "neutral": 67,
-      "negative": 82,
-      "count": 242,
+      "negative": 79,
+      "count": 237,
       "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
-      "positive": 69,
+      "positive": 65,
       "neutral": 11,
-      "negative": 53,
-      "count": 133,
+      "negative": 56,
+      "count": 132,
       "region": "Europe"
     },
     {
@@ -49,17 +49,17 @@
     },
     {
       "source": "South China Morning Post",
-      "positive": 46,
+      "positive": 45,
       "neutral": 1,
-      "negative": 43,
-      "count": 90,
+      "negative": 42,
+      "count": 88,
       "region": "Asia-Pacific"
     },
     {
       "source": "BBC News",
-      "positive": 38,
+      "positive": 37,
       "neutral": 9,
-      "negative": 34,
+      "negative": 35,
       "count": 81,
       "region": "Europe"
     },
@@ -67,17 +67,25 @@
       "source": "Australian Broadcasting Corporation",
       "positive": 29,
       "neutral": 5,
-      "negative": 46,
-      "count": 80,
+      "negative": 47,
+      "count": 81,
       "region": "Asia-Pacific"
     },
     {
       "source": "The Guardian",
-      "positive": 22,
+      "positive": 21,
       "neutral": 0,
-      "negative": 48,
+      "negative": 49,
       "count": 70,
-      "region": "North America"
+      "region": "Europe"
+    },
+    {
+      "source": "France 24",
+      "positive": 28,
+      "neutral": 3,
+      "negative": 34,
+      "count": 65,
+      "region": "Europe"
     },
     {
       "source": "AllAfrica",
@@ -90,26 +98,18 @@
     {
       "source": "Al Jazeera English",
       "positive": 13,
-      "neutral": 10,
-      "negative": 41,
-      "count": 64,
+      "neutral": 9,
+      "negative": 40,
+      "count": 62,
       "region": "Middle East"
     },
     {
       "source": "Channel News Asia",
-      "positive": 28,
+      "positive": 26,
       "neutral": 16,
       "negative": 19,
-      "count": 63,
+      "count": 61,
       "region": "Global"
-    },
-    {
-      "source": "France 24",
-      "positive": 24,
-      "neutral": 3,
-      "negative": 33,
-      "count": 60,
-      "region": "Europe"
     },
     {
       "source": "BBC Sport",
@@ -123,24 +123,24 @@
       "source": "Middle East Eye",
       "positive": 8,
       "neutral": 3,
-      "negative": 39,
-      "count": 50,
+      "negative": 37,
+      "count": 48,
       "region": "Middle East"
     },
     {
       "source": "Times of Israel",
       "positive": 15,
       "neutral": 2,
-      "negative": 31,
-      "count": 48,
+      "negative": 30,
+      "count": 47,
       "region": "Middle East"
     },
     {
       "source": "Euronews",
       "positive": 21,
       "neutral": 2,
-      "negative": 19,
-      "count": 42,
+      "negative": 18,
+      "count": 41,
       "region": "Europe"
     },
     {
@@ -153,10 +153,10 @@
     },
     {
       "source": "ESPN",
-      "positive": 21,
+      "positive": 20,
       "neutral": 4,
       "negative": 16,
-      "count": 41,
+      "count": 40,
       "region": "North America"
     },
     {
@@ -192,6 +192,14 @@
       "region": "Global"
     },
     {
+      "source": "Financial Times",
+      "positive": 8,
+      "neutral": 1,
+      "negative": 15,
+      "count": 24,
+      "region": "Global"
+    },
+    {
       "source": "New York Times",
       "positive": 4,
       "neutral": 1,
@@ -200,27 +208,11 @@
       "region": "Europe"
     },
     {
-      "source": "Financial Times",
-      "positive": 8,
-      "neutral": 1,
-      "negative": 14,
-      "count": 23,
-      "region": "Global"
-    },
-    {
       "source": "CNBC",
       "positive": 14,
       "neutral": 1,
-      "negative": 8,
-      "count": 23,
-      "region": "North America"
-    },
-    {
-      "source": "NPR",
-      "positive": 9,
-      "neutral": 3,
-      "negative": 8,
-      "count": 20,
+      "negative": 7,
+      "count": 22,
       "region": "North America"
     },
     {
@@ -232,12 +224,12 @@
       "region": "North America"
     },
     {
-      "source": "Deutsche Welle",
-      "positive": 6,
-      "neutral": 2,
-      "negative": 10,
-      "count": 18,
-      "region": "Europe"
+      "source": "NPR",
+      "positive": 9,
+      "neutral": 3,
+      "negative": 7,
+      "count": 19,
+      "region": "North America"
     },
     {
       "source": "Irish Times",
@@ -245,6 +237,14 @@
       "neutral": 4,
       "negative": 9,
       "count": 17,
+      "region": "Global"
+    },
+    {
+      "source": "Deutsche Welle",
+      "positive": 3,
+      "neutral": 2,
+      "negative": 10,
+      "count": 15,
       "region": "Global"
     },
     {
@@ -257,18 +257,18 @@
     },
     {
       "source": "Straits Times",
-      "positive": 7,
+      "positive": 8,
       "neutral": 5,
       "negative": 1,
-      "count": 13,
+      "count": 14,
       "region": "Asia-Pacific"
     },
     {
       "source": "Wired",
-      "positive": 8,
+      "positive": 9,
       "neutral": 0,
       "negative": 3,
-      "count": 11,
+      "count": 12,
       "region": "North America"
     },
     {
@@ -291,8 +291,8 @@
       "source": "Sky News",
       "positive": 0,
       "neutral": 0,
-      "negative": 8,
-      "count": 8,
+      "negative": 6,
+      "count": 6,
       "region": "Africa"
     },
     {
@@ -339,37 +339,37 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 363,
-      "neutral": 100,
-      "negative": 370,
-      "count": 833
+      "positive": 366,
+      "neutral": 99,
+      "negative": 364,
+      "count": 829
     },
     {
       "region": "Europe",
-      "positive": 219,
-      "neutral": 74,
-      "negative": 209,
-      "count": 502
+      "positive": 220,
+      "neutral": 76,
+      "negative": 213,
+      "count": 509
     },
     {
       "region": "Asia-Pacific",
-      "positive": 209,
+      "positive": 201,
       "neutral": 85,
-      "negative": 173,
-      "count": 467
+      "negative": 171,
+      "count": 457
     },
     {
       "region": "Middle East",
       "positive": 28,
-      "neutral": 12,
-      "negative": 125,
-      "count": 165
+      "neutral": 11,
+      "negative": 122,
+      "count": 161
     },
     {
       "region": "Global",
-      "positive": 76,
+      "positive": 74,
       "neutral": 30,
-      "negative": 44,
+      "negative": 46,
       "count": 150
     },
     {
@@ -390,85 +390,93 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 207,
+      "positive": 202,
       "neutral": 60,
-      "negative": 249,
-      "count": 516
+      "negative": 244,
+      "count": 506
     },
     {
       "topic": "Other",
-      "positive": 178,
-      "neutral": 94,
-      "negative": 151,
-      "count": 423
+      "positive": 185,
+      "neutral": 95,
+      "negative": 152,
+      "count": 432
     },
     {
       "topic": "Politics",
-      "positive": 158,
+      "positive": 156,
       "neutral": 49,
-      "negative": 163,
-      "count": 370
+      "negative": 160,
+      "count": 365
     },
     {
       "topic": "World",
-      "positive": 77,
+      "positive": 78,
       "neutral": 13,
-      "negative": 165,
-      "count": 255
+      "negative": 166,
+      "count": 257
     },
     {
       "topic": "Sports",
-      "positive": 92,
+      "positive": 90,
       "neutral": 22,
       "negative": 49,
-      "count": 163
+      "count": 161
     },
     {
       "topic": "Business",
-      "positive": 90,
+      "positive": 88,
       "neutral": 19,
-      "negative": 40,
-      "count": 149
+      "negative": 41,
+      "count": 148
     },
     {
       "topic": "Health",
-      "positive": 34,
+      "positive": 33,
       "neutral": 2,
       "negative": 51,
-      "count": 87
+      "count": 86
     },
     {
       "topic": "Entertainment",
-      "positive": 44,
+      "positive": 43,
       "neutral": 12,
       "negative": 28,
-      "count": 84
+      "count": 83
     },
     {
       "topic": "Local",
       "positive": 20,
       "neutral": 17,
-      "negative": 31,
-      "count": 68
+      "negative": 32,
+      "count": 69
     },
     {
       "topic": "Regional",
       "positive": 19,
-      "neutral": 13,
-      "negative": 23,
-      "count": 55
+      "neutral": 12,
+      "negative": 22,
+      "count": 53
     },
     {
       "topic": "Science",
-      "positive": 14,
+      "positive": 13,
       "neutral": 4,
       "negative": 9,
-      "count": 27
+      "count": 26
     }
   ],
   "sample_headlines": [
     {
       "title": "Galloping into the New Year: Singapore Mint Lunar Fair opens at Chinatown Point Atrium",
+      "url": "https://www.straitstimes.com/singapore/galloping-into-the-new-year-singapore-mint-lunar-fair-opens-at-chinatown-point-atrium",
+      "source": "Straits Times",
+      "region": "Asia-Pacific",
+      "published": "2026-01-01T17:00:00+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Galloping into the new year: Singapore Mint Lunar Fair opens at Chinatown Point Atrium",
       "url": "https://www.straitstimes.com/singapore/galloping-into-the-new-year-singapore-mint-lunar-fair-opens-at-chinatown-point-atrium",
       "source": "Straits Times",
       "region": "Asia-Pacific",
@@ -508,6 +516,38 @@
       "sentiment": "negative"
     },
     {
+      "title": "Make new year a mass movement to protect rights of vulnerable: Kharge",
+      "url": "https://www.thehindu.com/news/national/make-new-year-a-mass-movement-to-protect-rights-of-vulnerable-kharge/article70459981.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-01T15:13:31+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Four test positive in drug screening at Hyderabad\u2019s pubs and resorts on New Year\u2019s eve; one during vehicle check",
+      "url": "https://www.thehindu.com/news/national/telangana/four-positive-in-drug-screening-at-hyderabads-pubs-and-resorts-on-new-years-eve-one-during-vehicle-check/article70459932.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-01T15:07:04+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "India, Pakistan exchange list of nuclear installations",
+      "url": "https://www.thehindu.com/news/national/india-pakistan-exchange-list-of-nuclear-installations/article70459958.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-01T15:02:53+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Ahead of Pongal, T.N. government announces bonuses, gifts for employees",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ahead-of-pongal-tn-government-announces-bonuses-gifts-for-employees/article70459742.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2026-01-01T14:52:54+05:30",
+      "sentiment": "positive"
+    },
+    {
       "title": "Mamdani's inauguration: New York, new year, new mayor",
       "url": "https://www.channelnewsasia.com/world/zohran-mamdani-new-york-mayor-inauguration-5771386",
       "source": "Channel News Asia",
@@ -524,12 +564,28 @@
       "sentiment": "negative"
     },
     {
+      "title": "Drone attack on Crimea hotel? At least 24 killed; Russia blames Ukraine",
+      "url": "https://timesofindia.indiatimes.com/world/europe/another-drone-strike-kremlin-accuses-ukraine-of-striking-crimea-hotel-24-killed-comes-days-after-putin-residence-targeted/articleshow/126285534.cms",
+      "source": "Times of India",
+      "region": "Europe",
+      "published": "2026-01-01T14:48:00+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Identity, development will be focus of Assam polls: CM Himanta",
       "url": "https://www.thehindu.com/news/national/assam/identity-development-will-be-focus-of-assam-polls-cm-himanta/article70459922.ece",
       "source": "The Hindu",
       "region": "North America",
       "published": "2026-01-01T14:43:31+05:30",
       "sentiment": "positive"
+    },
+    {
+      "title": "'Dhurandhar' box office collection vs 'Tu Meri Main Tera Main Tera Tu Meri'",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-28-vs-tu-meri-main-tera-main-tera-tu-meri-day-8-live-ranveer-singh-led-espionage-thriller-set-to-cross-rs-730-crore-while-kartik-aaryan-and-ananya-panday-will-pass-the-rs-30-crore-mark/articleshow/126285453.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2026-01-01T14:37:24+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "PM Modi to launch Kolkata-Guwahati Vande Bharat sleeper train soon",
@@ -553,6 +609,14 @@
       "source": "The Hindu",
       "region": "North America",
       "published": "2026-01-01T14:28:41+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Virat Kohli adds special emoji, posts picture with Anushka Sharma - See pic",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-adds-special-emoji-posts-picture-with-anushka-sharma-see-pic/articleshow/126285189.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2026-01-01T14:20:25+05:30",
       "sentiment": "positive"
     },
     {
@@ -1068,6 +1132,86 @@
       "sentiment": "positive"
     },
     {
+      "title": "Hyperoptic promo codes for January 2026",
+      "url": "https://www.independent.co.uk/deals/hyperoptic-voucher-code-b2703743.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2026-01-01T09:45:42+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "New Year\u2019s Day supermarket opening and closing hours for Tesco, Asda, Sainsbury\u2019s, Aldi, Lidl and more",
+      "url": "https://www.independent.co.uk/news/uk/home-news/supermarkets-opening-times-new-year-tesco-lidl-asda-b2893022.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2026-01-01T09:44:26+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Kwik Fit discount codes for January 2026",
+      "url": "https://www.independent.co.uk/deals/kwik-fit-voucher-codes-b2703684.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2026-01-01T09:43:13+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Switzerland explosion latest: \u2018Several dozen\u2019 dead as fire rips through Crans Montana ski resort bar",
+      "url": "https://www.independent.co.uk/news/world/europe/switzerland-explosion-live-crans-montana-ski-resort-bar-new-years-b2893021.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2026-01-01T09:42:15+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Parkdean discount codes for January 2026",
+      "url": "https://www.independent.co.uk/deals/parkdean-resorts-discount-code-b2696123.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2026-01-01T09:40:43+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Putin, Xi Jinping ring in New Year",
+      "url": "https://www.france24.com/en/video/20260101-putin-xi-jinping-ring-in-new-year",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-01-01T09:40:30+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "National Trust discount codes for January 2026",
+      "url": "https://www.independent.co.uk/deals/national-trust-discount-code-b2687863.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2026-01-01T09:39:21+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Aspinal of London discount codes for January 2026",
+      "url": "https://www.independent.co.uk/deals/aspinal-of-london-discount-code-b2705990.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2026-01-01T09:37:51+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Dozens feared dead in Crans-Montana explosion as fire rips through Swiss ski resort bar",
+      "url": "https://www.independent.co.uk/bulletin/news/crans-montana-explosion-deats-switzerland-b2893049.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2026-01-01T09:37:37+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "World welcomes 2026, from Australia to New Zealand",
+      "url": "https://www.france24.com/en/video/20260101-world-welcomes-2026-from-australia-to-new-zealand",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-01-01T09:37:26+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Several people killed following reports of an explosion at a Swiss ski resort bar",
       "url": "http://www.euronews.com/2026/01/01/several-people-killed-following-reports-of-an-explosion-at-a-swiss-ski-resort-bar",
       "source": "Euronews",
@@ -1084,187 +1228,43 @@
       "sentiment": "negative"
     },
     {
-      "title": "Wanted Maoist killed in encounter with security forces in Bihar",
-      "url": "https://www.thehindu.com/news/national/bihar/wanted-maoist-killed-in-encounter-with-security-forces-in-bihar/article70459364.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-01T09:25:26+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "85% of injured Hong Kong fire victims discharged; others in stable condition",
-      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3338406/85-injured-hong-kong-fire-victims-discharged-others-stable-condition?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2026-01-01T09:22:50+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Two friends killed: Ex-boxing champion Anthony Joshua survives fatal car crash - Watch",
-      "url": "https://timesofindia.indiatimes.com/sports/boxing/heavy-heart-ex-boxing-champion-anthony-joshua-survives-fatal-car-crash-that-killed-two-close-friends/articleshow/126282040.cms",
-      "source": "Times of India",
-      "region": "Africa",
-      "published": "2026-01-01T09:21:26+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Nobody\u2019s Child discount code for January 2026",
-      "url": "https://www.independent.co.uk/deals/nobodys-child-discount-code-b2704909.html",
+      "title": "Emirates discount codes for January 2026",
+      "url": "https://www.independent.co.uk/deals/emirates-discount-code-b2708797.html",
       "source": "Independent",
-      "region": "North America",
-      "published": "2026-01-01T09:19:50+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Tui discount codes for January 2026",
-      "url": "https://www.independent.co.uk/deals/tui-discount-code-b2687092.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2026-01-01T09:19:07+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Stock market today: Nifty50 opens above 26,150; BSE Sensex up over 100 points",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-january-01-2026-dalal-street-indian-equities-global-markets-new-year/articleshow/126282056.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2026-01-01T09:18:47+05:30",
+      "region": "Europe",
+      "published": "2026-01-01T09:36:54+00:00",
       "sentiment": "neutral"
     },
     {
-      "title": "Bank holidays in 2026: When will banks remain closed in January? Check list",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holidays-in-2026-when-will-banks-remain-closed-in-january-2026-check-state-wise-list/articleshow/126281257.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2026-01-01T09:18:42+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Three men arrested for sexual assault of teenage girls at busy shopping centre",
-      "url": "https://www.independent.co.uk/news/uk/crime/leeds-seacroft-green-sexual-assault-b2893045.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2026-01-01T09:18:30+00:00",
+      "title": "\u2018Several dozen\u2019 killed in Swiss ski resort fire",
+      "url": "https://www.ft.com/content/b2cd91db-1b7b-422f-9d8c-5908a5a1a44b",
+      "source": "Financial Times",
+      "region": "Global",
+      "published": "2026-01-01T09:35:49+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Ukraine-Russia peace deal is 90% done, says Zelensky in New Year address",
-      "url": "https://www.independent.co.uk/bulletin/news/ukraine-russia-peace-deal-zelensky-b2893044.html",
+      "title": "Dyson discount codes for January 2026",
+      "url": "https://www.independent.co.uk/deals/dyson-discount-code-b2700880.html",
       "source": "Independent",
       "region": "Europe",
-      "published": "2026-01-01T09:18:12+00:00",
+      "published": "2026-01-01T09:34:55+00:00",
       "sentiment": "positive"
     },
     {
-      "title": "Australia \u2018disappointed\u2019 with China\u2019s 55% beef tariffs, as US$667 million in trade at risk",
-      "url": "https://www.scmp.com/news/asia/australasia/article/3338405/australia-disappointed-chinas-55-beef-tariffs-us667-million-trade-risk?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "North America",
-      "published": "2026-01-01T09:17:53+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Nigeria: 2025 Review - Nigerian Stocks Pull Off Strongest Performance in 18 Years, Yielding 51 Percent",
-      "url": "https://allafrica.com/stories/202601010022.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2026-01-01T09:17:24+00:00",
+      "title": "Tom Hiddleston welcomes second baby with partner Zawe Ashton",
+      "url": "https://www.independent.co.uk/life-style/tom-hiddleston-zawe-ashton-baby-b2893046.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2026-01-01T09:32:55+00:00",
       "sentiment": "positive"
     },
     {
-      "title": "Kenya: Ruto Promises 'Watershed Year' As He Outlines Gains in New Year Address",
-      "url": "https://allafrica.com/stories/202601010021.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2026-01-01T09:16:57+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Jet2holidays discount codes for January 2026",
-      "url": "https://www.independent.co.uk/deals/jet2-holidays-discount-code-deal-b2688339.html",
-      "source": "Independent",
+      "title": "French president Macron outlines roadmap for 2026",
+      "url": "https://www.france24.com/en/video/20260101-french-president-macron-outlines-roadmap-for-2026",
+      "source": "France 24",
       "region": "Europe",
-      "published": "2026-01-01T09:16:50+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Billionaire philanthropist Morris Kahn, who led Israeli moonshot, dies at 95",
-      "url": "https://www.timesofisrael.com/billionaire-philanthropist-morris-kahn-who-led-israeli-moonshot-dies-at-95/",
-      "source": "Times of Israel",
-      "region": "Middle East",
-      "published": "2026-01-01T09:16:13+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Man, 34, charged with 66 offences after police hunt in Latrobe Valley",
-      "url": "https://www.abc.net.au/news/2026-01-01/man-charged-following-alleged-crime-spree-in-latrobe-valley/106193160",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2026-01-01T09:15:46+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Spend less, eat healthier, declutter: Simple New Year\u2019s resolutions that are also kind to the planet",
-      "url": "http://www.euronews.com/green/2026/01/01/spend-less-eat-healthier-declutter-simple-new-years-resolutions-that-are-also-kind-to-the-",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2026-01-01T09:15:32+01:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Expedia discount codes for January 2026",
-      "url": "https://www.independent.co.uk/deals/expedia-deal-discount-code-flights-b2688285.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2026-01-01T09:15:17+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "easyJet holidays discount codes for January 2026",
-      "url": "https://www.independent.co.uk/deals/easyjet-discount-code-b2689372.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2026-01-01T09:14:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Stranger Things ends with divisive finale \u2013 as \u2018disappointed\u2019 fans bemoan \u2018stupidest\u2019 plot decision",
-      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/stranger-things-season-5-finale-explained-b2893031.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2026-01-01T09:13:57+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Switzerland resort explosion latest news: many feared dead after blast at ski town of Crans-Montana",
-      "url": "https://www.theguardian.com/world/live/2026/jan/01/switzerland-resort-explosion-dead-blast-ski-town-crans-montana-latest-news-live",
-      "source": "The Guardian",
-      "region": "North America",
-      "published": "2026-01-01T09:12:55+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "The rail, road and flight disruption to expect as the New Year begins",
-      "url": "https://www.independent.co.uk/travel/news-and-advice/new-year-travel-train-traffic-flight-ferry-delays-b2893042.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2026-01-01T09:12:49+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "\u2018Many dead and injured\u2019 in blast at bar in Swiss ski resort of Crans-Montana",
-      "url": "https://www.theguardian.com/world/2026/jan/01/several-dead-and-injured-in-explosion-swiss-ski-resort-town-crans-montana-police-say",
-      "source": "The Guardian",
-      "region": "Europe",
-      "published": "2026-01-01T09:12:46+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "New on Netflix in January 2026, including all 25 films from beloved movie franchise",
-      "url": "https://www.independent.co.uk/arts-entertainment/films/news/new-on-netflix-january-james-bond-bridgerton-season-4-b2893041.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2026-01-01T09:11:09+00:00",
+      "published": "2026-01-01T09:32:35+00:00",
       "sentiment": "positive"
     }
   ]
