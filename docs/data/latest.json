@@ -1,34 +1,42 @@
 {
-  "generated_at": "2026-01-02T05:27:48.681937+00:00",
+  "generated_at": "2026-01-02T05:50:59.657979+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 784,
+    "positive": 793,
     "neutral": 296,
-    "negative": 921
+    "negative": 929
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 134,
+      "positive": 133,
       "neutral": 65,
       "negative": 129,
-      "count": 328,
-      "region": "North America"
+      "count": 327,
+      "region": "Africa"
     },
     {
       "source": "The Hindu",
-      "positive": 97,
+      "positive": 96,
       "neutral": 63,
-      "negative": 91,
+      "negative": 92,
       "count": 251,
       "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
-      "positive": 51,
+      "positive": 54,
       "neutral": 6,
       "negative": 68,
-      "count": 125,
+      "count": 128,
+      "region": "North America"
+    },
+    {
+      "source": "Australian Broadcasting Corporation",
+      "positive": 34,
+      "neutral": 4,
+      "negative": 44,
+      "count": 82,
       "region": "Asia-Pacific"
     },
     {
@@ -41,19 +49,11 @@
     },
     {
       "source": "South China Morning Post",
-      "positive": 32,
+      "positive": 33,
       "neutral": 1,
       "negative": 46,
-      "count": 79,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "Australian Broadcasting Corporation",
-      "positive": 34,
-      "neutral": 4,
-      "negative": 39,
-      "count": 77,
-      "region": "Asia-Pacific"
+      "count": 80,
+      "region": "Middle East"
     },
     {
       "source": "Fox News",
@@ -80,27 +80,27 @@
       "region": "North America"
     },
     {
-      "source": "BBC News",
-      "positive": 26,
-      "neutral": 12,
+      "source": "Channel News Asia",
+      "positive": 24,
+      "neutral": 16,
       "negative": 27,
-      "count": 65,
-      "region": "Europe"
+      "count": 67,
+      "region": "Asia-Pacific"
     },
     {
-      "source": "Channel News Asia",
-      "positive": 23,
-      "neutral": 16,
-      "negative": 25,
-      "count": 64,
-      "region": "Asia-Pacific"
+      "source": "BBC News",
+      "positive": 24,
+      "neutral": 12,
+      "negative": 27,
+      "count": 63,
+      "region": "Europe"
     },
     {
       "source": "Al Jazeera English",
       "positive": 9,
-      "neutral": 9,
+      "neutral": 7,
       "negative": 45,
-      "count": 63,
+      "count": 61,
       "region": "Middle East"
     },
     {
@@ -114,18 +114,26 @@
     {
       "source": "ESPN",
       "positive": 29,
-      "neutral": 13,
+      "neutral": 14,
       "negative": 11,
-      "count": 53,
+      "count": 54,
       "region": "Global"
     },
     {
       "source": "Middle East Eye",
       "positive": 10,
       "neutral": 3,
-      "negative": 39,
-      "count": 52,
+      "negative": 38,
+      "count": 51,
       "region": "Middle East"
+    },
+    {
+      "source": "AllAfrica",
+      "positive": 26,
+      "neutral": 3,
+      "negative": 20,
+      "count": 49,
+      "region": "Africa"
     },
     {
       "source": "France 24",
@@ -136,6 +144,14 @@
       "region": "Asia-Pacific"
     },
     {
+      "source": "Euronews",
+      "positive": 16,
+      "neutral": 1,
+      "negative": 26,
+      "count": 43,
+      "region": "Europe"
+    },
+    {
       "source": "Times of Israel",
       "positive": 11,
       "neutral": 2,
@@ -144,35 +160,19 @@
       "region": "Middle East"
     },
     {
-      "source": "Euronews",
-      "positive": 16,
-      "neutral": 0,
-      "negative": 26,
-      "count": 42,
-      "region": "Europe"
-    },
-    {
-      "source": "AllAfrica",
-      "positive": 20,
-      "neutral": 2,
-      "negative": 18,
-      "count": 40,
-      "region": "North America"
-    },
-    {
       "source": "Bloomberg",
-      "positive": 22,
+      "positive": 23,
       "neutral": 4,
-      "negative": 10,
+      "negative": 9,
       "count": 36,
       "region": "Asia-Pacific"
     },
     {
       "source": "NBC News",
       "positive": 4,
-      "neutral": 9,
+      "neutral": 8,
       "negative": 17,
-      "count": 30,
+      "count": 29,
       "region": "North America"
     },
     {
@@ -200,19 +200,19 @@
       "region": "North America"
     },
     {
-      "source": "Financial Times",
-      "positive": 6,
+      "source": "Straits Times",
+      "positive": 9,
       "neutral": 3,
-      "negative": 12,
+      "negative": 9,
       "count": 21,
       "region": "North America"
     },
     {
-      "source": "Straits Times",
-      "positive": 8,
+      "source": "Financial Times",
+      "positive": 6,
       "neutral": 3,
-      "negative": 8,
-      "count": 19,
+      "negative": 11,
+      "count": 20,
       "region": "North America"
     },
     {
@@ -331,45 +331,45 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 266,
-      "neutral": 70,
-      "negative": 331,
-      "count": 667
+      "positive": 271,
+      "neutral": 67,
+      "negative": 334,
+      "count": 672
     },
     {
       "region": "Europe",
-      "positive": 216,
-      "neutral": 99,
+      "positive": 214,
+      "neutral": 100,
       "negative": 219,
-      "count": 534
+      "count": 533
     },
     {
       "region": "Asia-Pacific",
-      "positive": 199,
+      "positive": 201,
       "neutral": 80,
-      "negative": 172,
-      "count": 451
+      "negative": 178,
+      "count": 459
     },
     {
       "region": "Middle East",
-      "positive": 32,
+      "positive": 33,
       "neutral": 10,
-      "negative": 132,
-      "count": 174
+      "negative": 130,
+      "count": 173
     },
     {
       "region": "Global",
       "positive": 48,
-      "neutral": 31,
-      "negative": 47,
+      "neutral": 32,
+      "negative": 46,
       "count": 126
     },
     {
       "region": "Africa",
-      "positive": 17,
-      "neutral": 3,
-      "negative": 14,
-      "count": 34
+      "positive": 20,
+      "neutral": 4,
+      "negative": 16,
+      "count": 40
     },
     {
       "region": "South America",
@@ -382,31 +382,31 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 177,
+      "positive": 179,
       "neutral": 45,
-      "negative": 240,
-      "count": 462
+      "negative": 243,
+      "count": 467
     },
     {
       "topic": "Other",
-      "positive": 131,
-      "neutral": 91,
-      "negative": 184,
-      "count": 406
+      "positive": 130,
+      "neutral": 92,
+      "negative": 187,
+      "count": 409
     },
     {
       "topic": "Politics",
-      "positive": 121,
-      "neutral": 25,
-      "negative": 136,
-      "count": 282
+      "positive": 126,
+      "neutral": 26,
+      "negative": 138,
+      "count": 290
     },
     {
       "topic": "World",
       "positive": 79,
       "neutral": 15,
-      "negative": 125,
-      "count": 219
+      "negative": 124,
+      "count": 218
     },
     {
       "topic": "Sports",
@@ -417,38 +417,38 @@
     },
     {
       "topic": "Business",
-      "positive": 46,
+      "positive": 48,
       "neutral": 16,
-      "negative": 40,
-      "count": 102
+      "negative": 39,
+      "count": 103
     },
     {
       "topic": "Health",
-      "positive": 41,
+      "positive": 40,
       "neutral": 6,
-      "negative": 47,
+      "negative": 48,
       "count": 94
     },
     {
       "topic": "Local",
       "positive": 27,
-      "neutral": 19,
+      "neutral": 17,
       "negative": 39,
-      "count": 85
+      "count": 83
     },
     {
       "topic": "Entertainment",
-      "positive": 35,
+      "positive": 36,
       "neutral": 9,
       "negative": 29,
-      "count": 73
+      "count": 74
     },
     {
       "topic": "Regional",
-      "positive": 22,
+      "positive": 23,
       "neutral": 18,
-      "negative": 27,
-      "count": 67
+      "negative": 28,
+      "count": 69
     },
     {
       "topic": "Science",
@@ -459,6 +459,38 @@
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Teachers, software developers among most in-demand jobs as Singapore\u2019s AI push gathers pace",
+      "url": "https://www.channelnewsasia.com/singapore/teachers-software-developers-top-jobs-singapore-ai-push-5772806",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2026-01-02T13:34:01+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Supermarket chains announce promotions to help people stretch their CDC vouchers",
+      "url": "https://www.straitstimes.com/singapore/community/supermarket-chains-announce-promotions-to-help-people-stretch-their-cdc-vouchers",
+      "source": "Straits Times",
+      "region": "North America",
+      "published": "2026-01-02T13:30:00+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Ex-Cortina Watch employee admits to cheating customers of almost S$500,000 to finance debt",
+      "url": "https://www.channelnewsasia.com/singapore/ex-cortina-watch-employee-admits-cheating-customers-almost-s500000-finance-debt-5780491",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2026-01-02T13:27:40+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "China military drills near Taiwan 'unnecessarily' raise tensions: US",
+      "url": "https://www.channelnewsasia.com/east-asia/china-military-drills-taiwan-tensions-us-5780501",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2026-01-02T13:27:00+08:00",
+      "sentiment": "negative"
+    },
     {
       "title": "Shares are higher in Asia in an upbeat start to the new year",
       "url": "https://www.channelnewsasia.com/asia/shares-are-higher-in-asia-in-upbeat-start-new-year-5780486",
@@ -477,6 +509,14 @@
     },
     {
       "title": "Van driver arrested over multiple offences following police chase in Choa Chu Kang",
+      "url": "https://www.straitstimes.com/singapore/man-arrested-over-multiple-offences-following-police-chase-in-choa-chu-kang",
+      "source": "Straits Times",
+      "region": "North America",
+      "published": "2026-01-02T12:53:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Van driver arrested for multiple offences following police chase in Choa Chu Kang",
       "url": "https://www.straitstimes.com/singapore/man-arrested-over-multiple-offences-following-police-chase-in-choa-chu-kang",
       "source": "Straits Times",
       "region": "North America",
@@ -588,6 +628,22 @@
       "sentiment": "negative"
     },
     {
+      "title": "\u2018Reality check\u2019: BJP cites Karnataka govt survey to slam Rahul; ridicules \u2018vote chori\u2019 charge",
+      "url": "https://timesofindia.indiatimes.com/india/reality-check-bjp-cites-karnataka-govt-survey-to-slam-rahul-gandhi-ridicules-vote-chori-charge/articleshow/126299272.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2026-01-02T11:12:11+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Carcass of pregnant leopard found in outskirts of Bengaluru",
+      "url": "https://www.thehindu.com/news/national/karnataka/carcass-of-pregnant-leopard-found-in-outskirts-of-bengaluru/article70461392.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-02T10:58:43+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Tsitsipas eyes fresh start in 2026 after injury-hit season",
       "url": "https://www.channelnewsasia.com/sport/tsitsipas-eyes-fresh-start-in-2026-after-injury-hit-season-5772931",
       "source": "Channel News Asia",
@@ -610,6 +666,22 @@
       "region": "Asia-Pacific",
       "published": "2026-01-02T10:54:21+05:30",
       "sentiment": "negative"
+    },
+    {
+      "title": "AI 'regrets' after pilot found drunk on Vancouver\u2013Delhi flight; initiates probe",
+      "url": "https://timesofindia.indiatimes.com/india/regret-incident-air-india-issues-statement-after-pilot-found-drunk-on-vancouverdelhi-flight-initiates-probe/articleshow/126298726.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2026-01-02T10:53:30+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Virat-Anushka are all smiles as they pose with hotel staff- Pics",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-and-anushka-sharma-are-all-smiles-as-they-pose-with-hotel-staff-in-dubai/articleshow/126298378.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2026-01-02T10:33:21+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "Woodlands Health renamed as Woodlands Hospital",
@@ -988,6 +1060,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "\u2018No way out\u2019: Telangana student dies in Germany after jumping from burning apartment on New Year\u2019s Eve",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/t-student-dies-after-jumping-from-burning-apartment-in-germany/articleshow/126293603.cms",
+      "source": "Times of India",
+      "region": "Europe",
+      "published": "2026-01-02T06:57:00+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Pep rues missed chances as Man City come up short against Sunderland",
       "url": "https://www.channelnewsasia.com/sport/pep-rues-missed-chances-man-city-come-up-short-against-sunderland-5772746",
       "source": "Channel News Asia",
@@ -1018,6 +1098,14 @@
       "region": "North America",
       "published": "2026-01-02T06:39:04+05:30",
       "sentiment": "negative"
+    },
+    {
+      "title": "Maduro suggests Venezuela is open to talks on drug trafficking with the US despite military strikes",
+      "url": "http://www.euronews.com/2026/01/02/maduro-suggests-venezuela-is-open-to-talks-on-drug-trafficking-with-the-us-despite-militar",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2026-01-02T06:28:18+01:00",
+      "sentiment": "neutral"
     },
     {
       "title": "'Pushed Bangladesh towards darkness': Sheikh Hasina takes aim at Muhammad Yunus",
@@ -1132,131 +1220,43 @@
       "sentiment": "positive"
     },
     {
-      "title": "'Mandir-masjid' issues do not sway elections: Dilip Ghosh",
-      "url": "https://timesofindia.indiatimes.com/india/mandir-masjid-issues-do-not-sway-elections-dilip-ghosh/articleshow/126296307.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2026-01-02T05:33:17+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "How Animal Aid Association in Madras became Blue Cross of India",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/how-animal-aid-association-in-madras-became-blue-cross-of-india/article70459968.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-01-02T05:30:00+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "An idol found near\u00a0Gangaikonda\u00a0 Cholapuram\u00a0confirms the \u2018Thiruvarasu\u2019 of\u00a0Nathamunigal",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/an-idol-found-neargangaikonda-cholapuramconfirms-the-thiruvarasu-ofnathamunigal/article70459955.ece",
-      "source": "The Hindu",
-      "region": "South America",
-      "published": "2026-01-02T05:30:00+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Tamil Nadu\u2019s link to a key amendment to the Constitution on freedom of press, expression",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadus-link-to-a-key-amendment-to-the-constitution-on-freedom-of-press-expression/article70460354.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-02T05:30:00+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Australia's Khawaja to retire after fifth Ashes test",
-      "url": "https://www.channelnewsasia.com/sport/australias-khawaja-retire-after-fifth-ashes-test-5772696",
-      "source": "Channel News Asia",
-      "region": "North America",
-      "published": "2026-01-02T05:29:00+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Khawaja hopes to inspire the 'different' after calling time on test career",
-      "url": "https://www.channelnewsasia.com/sport/khawaja-hopes-inspire-different-after-calling-time-test-career-5772696",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2026-01-02T05:29:00+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Trump says exercising is 'boring' as his physician confirms he takes aspirin 'daily'",
-      "url": "https://timesofindia.indiatimes.com/world/us/donald-trump-says-exercising-is-boring-as-his-physician-confirms-he-takes-325-milligrams-of-aspirin-daily/articleshow/126296233.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2026-01-02T05:22:17+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Kim Jong Un\u2019s daughter and likely successor Kim Ju Ae makes first public visit to state mausoleum",
-      "url": "https://www.independent.co.uk/asia/east-asia/north-korea-kim-jong-un-daughter-kumsusan-mausoleum-b2893348.html",
+      "title": "Anthony Joshua latest: Police launch hunt for man linked to Nigeria car crash after boxer discharged from hospital",
+      "url": "https://www.independent.co.uk/sport/boxing/anthony-joshua-nigeria-car-crash-hospital-sina-latz-live-updates-b2893009.html",
       "source": "Independent",
+      "region": "Africa",
+      "published": "2026-01-02T05:47:33+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Family watches Boddington heritage property burn in Christmas Day fire",
+      "url": "https://www.abc.net.au/news/2026-01-02/boddington-fire-heritage-family-house-burnt-christmas-day/106185508",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2026-01-02T05:43:21+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Nigeria: Return Govt's N30bn With Interest Since You Didn't Spend It, Fayose Tells Makinde",
+      "url": "https://allafrica.com/stories/202601020088.html",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "published": "2026-01-02T05:38:36+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Nigeria: U.S. Lawmaker Warns of Rising ISIS Threat in Nigeria",
+      "url": "https://allafrica.com/stories/202601020087.html",
+      "source": "AllAfrica",
+      "region": "Africa",
+      "published": "2026-01-02T05:38:35+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Nigeria: Keyamo Distributes Over 4,000 Bags of Rice, Cows to Deltans for Yuletide",
+      "url": "https://allafrica.com/stories/202601020086.html",
+      "source": "AllAfrica",
       "region": "North America",
-      "published": "2026-01-02T05:21:18+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Nigeria: 2026 - Abiodun Reaffirms Inclusive Growth Agenda, Grants Clemency to 71 Inmates",
-      "url": "https://allafrica.com/stories/202601020077.html",
-      "source": "AllAfrica",
-      "region": "North America",
-      "published": "2026-01-02T05:20:29+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Somalia: Somalia Assumes UN Security Council Presidency for January",
-      "url": "https://allafrica.com/stories/202601020076.html",
-      "source": "AllAfrica",
-      "region": "Global",
-      "published": "2026-01-02T05:20:26+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Nigeria: Labour Party Reacts to Peter Obi's Defection to ADC",
-      "url": "https://allafrica.com/stories/202601020074.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2026-01-02T05:20:25+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Nigeria: NJC Denies Media Reports On 'Integrity' Screening of Judicial Nominees",
-      "url": "https://allafrica.com/stories/202601020075.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2026-01-02T05:20:25+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Somalia: Somali Army Says 29 Al-Shabaab Fighters Killed in Overnight Raids",
-      "url": "https://allafrica.com/stories/202601020073.html",
-      "source": "AllAfrica",
-      "region": "Global",
-      "published": "2026-01-02T05:20:24+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Nigeria: Jigawa Primary Healthcare Agency, WHO Destroy Expired Noodles",
-      "url": "https://allafrica.com/stories/202601020071.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2026-01-02T05:19:09+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Nigeria: Plateau Governor Mutfwang Formally Resigns From PDP, Two Weeks After 'Joining' APC",
-      "url": "https://allafrica.com/stories/202601020072.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2026-01-02T05:19:09+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "South Africa: 520 Backpacks Bring Joy and Hope to Gauteng Kids",
-      "url": "https://allafrica.com/stories/202601020069.html",
-      "source": "AllAfrica",
-      "region": "Africa",
-      "published": "2026-01-02T05:19:08+00:00",
+      "published": "2026-01-02T05:38:34+00:00",
       "sentiment": "positive"
     }
   ]
