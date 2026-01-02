@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-01-02T19:15:52.227410+00:00",
+  "generated_at": "2026-01-02T19:40:10.693841+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 1028,
+    "positive": 1020,
     "neutral": 371,
     "negative": 1116
   },
@@ -10,33 +10,33 @@
     {
       "source": "Independent",
       "positive": 155,
-      "neutral": 95,
-      "negative": 192,
-      "count": 442,
+      "neutral": 96,
+      "negative": 193,
+      "count": 444,
       "region": "North America"
     },
     {
       "source": "The Hindu",
-      "positive": 95,
-      "neutral": 88,
-      "negative": 111,
-      "count": 294,
+      "positive": 94,
+      "neutral": 85,
+      "negative": 110,
+      "count": 289,
       "region": "North America"
     },
     {
       "source": "CBS News",
       "positive": 80,
       "neutral": 21,
-      "negative": 63,
-      "count": 164,
+      "negative": 66,
+      "count": 167,
       "region": "North America"
     },
     {
       "source": "Times of India",
-      "positive": 65,
+      "positive": 63,
       "neutral": 4,
       "negative": 76,
-      "count": 145,
+      "count": 143,
       "region": "Asia-Pacific"
     },
     {
@@ -53,7 +53,7 @@
       "neutral": 21,
       "negative": 34,
       "count": 91,
-      "region": "Global"
+      "region": "Middle East"
     },
     {
       "source": "Bloomberg",
@@ -65,35 +65,27 @@
     },
     {
       "source": "The Guardian",
-      "positive": 29,
+      "positive": 28,
       "neutral": 2,
-      "negative": 50,
-      "count": 81,
-      "region": "Europe"
+      "negative": 52,
+      "count": 82,
+      "region": "North America"
     },
     {
       "source": "Fox News",
       "positive": 23,
-      "neutral": 5,
-      "negative": 50,
-      "count": 78,
-      "region": "North America"
-    },
-    {
-      "source": "Australian Broadcasting Corporation",
-      "positive": 30,
       "neutral": 6,
-      "negative": 41,
-      "count": 77,
-      "region": "Asia-Pacific"
+      "negative": 51,
+      "count": 80,
+      "region": "Middle East"
     },
     {
-      "source": "BBC Sport",
-      "positive": 49,
-      "neutral": 12,
-      "negative": 15,
+      "source": "South China Morning Post",
+      "positive": 43,
+      "neutral": 3,
+      "negative": 30,
       "count": 76,
-      "region": "North America"
+      "region": "Asia-Pacific"
     },
     {
       "source": "AllAfrica",
@@ -104,28 +96,28 @@
       "region": "Africa"
     },
     {
-      "source": "South China Morning Post",
-      "positive": 41,
-      "neutral": 3,
-      "negative": 30,
+      "source": "Australian Broadcasting Corporation",
+      "positive": 30,
+      "neutral": 8,
+      "negative": 36,
       "count": 74,
       "region": "Asia-Pacific"
     },
     {
-      "source": "Sky Sports",
-      "positive": 31,
-      "neutral": 19,
-      "negative": 11,
-      "count": 61,
-      "region": "Europe"
+      "source": "BBC Sport",
+      "positive": 47,
+      "neutral": 12,
+      "negative": 15,
+      "count": 74,
+      "region": "North America"
     },
     {
-      "source": "ESPN",
-      "positive": 33,
-      "neutral": 13,
-      "negative": 11,
-      "count": 57,
-      "region": "North America"
+      "source": "Sky Sports",
+      "positive": 27,
+      "neutral": 19,
+      "negative": 10,
+      "count": 56,
+      "region": "Europe"
     },
     {
       "source": "France 24",
@@ -136,34 +128,34 @@
       "region": "Europe"
     },
     {
+      "source": "ESPN",
+      "positive": 31,
+      "neutral": 12,
+      "negative": 10,
+      "count": 53,
+      "region": "North America"
+    },
+    {
       "source": "Al Jazeera English",
       "positive": 9,
       "neutral": 4,
-      "negative": 37,
-      "count": 50,
-      "region": "Middle East"
+      "negative": 38,
+      "count": 51,
+      "region": "North America"
     },
     {
       "source": "Euronews",
       "positive": 19,
       "neutral": 2,
-      "negative": 23,
-      "count": 44,
-      "region": "Africa"
+      "negative": 24,
+      "count": 45,
+      "region": "Europe"
     },
     {
       "source": "Middle East Eye",
       "positive": 5,
       "neutral": 0,
       "negative": 35,
-      "count": 40,
-      "region": "Middle East"
-    },
-    {
-      "source": "Times of Israel",
-      "positive": 10,
-      "neutral": 4,
-      "negative": 26,
       "count": 40,
       "region": "Middle East"
     },
@@ -176,11 +168,27 @@
       "region": "North America"
     },
     {
+      "source": "Times of Israel",
+      "positive": 11,
+      "neutral": 3,
+      "negative": 22,
+      "count": 36,
+      "region": "Middle East"
+    },
+    {
       "source": "New York Times",
       "positive": 11,
       "neutral": 1,
       "negative": 24,
       "count": 36,
+      "region": "North America"
+    },
+    {
+      "source": "NBC News",
+      "positive": 3,
+      "neutral": 9,
+      "negative": 20,
+      "count": 32,
       "region": "North America"
     },
     {
@@ -200,44 +208,36 @@
       "region": "Global"
     },
     {
-      "source": "NBC News",
-      "positive": 3,
-      "neutral": 9,
-      "negative": 18,
-      "count": 30,
-      "region": "North America"
-    },
-    {
       "source": "Irish Times",
       "positive": 7,
       "neutral": 4,
-      "negative": 14,
-      "count": 25,
-      "region": "Global"
+      "negative": 15,
+      "count": 26,
+      "region": "North America"
     },
     {
       "source": "Financial Times",
       "positive": 8,
-      "neutral": 7,
+      "neutral": 8,
       "negative": 10,
-      "count": 25,
+      "count": 26,
       "region": "North America"
     },
     {
       "source": "Deutsche Welle",
       "positive": 7,
       "neutral": 0,
-      "negative": 16,
-      "count": 23,
+      "negative": 15,
+      "count": 22,
       "region": "Europe"
     },
     {
       "source": "Engadget",
-      "positive": 16,
+      "positive": 17,
       "neutral": 0,
       "negative": 4,
-      "count": 20,
-      "region": "North America"
+      "count": 21,
+      "region": "Asia-Pacific"
     },
     {
       "source": "NPR",
@@ -248,20 +248,20 @@
       "region": "North America"
     },
     {
+      "source": "ABC News",
+      "positive": 4,
+      "neutral": 3,
+      "negative": 12,
+      "count": 19,
+      "region": "Africa"
+    },
+    {
       "source": "MarketWatch",
       "positive": 10,
       "neutral": 0,
       "negative": 8,
       "count": 18,
       "region": "Asia-Pacific"
-    },
-    {
-      "source": "ABC News",
-      "positive": 4,
-      "neutral": 3,
-      "negative": 11,
-      "count": 18,
-      "region": "North America"
     },
     {
       "source": "Telegraph",
@@ -339,45 +339,45 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 399,
-      "neutral": 111,
-      "negative": 440,
-      "count": 950
+      "positive": 396,
+      "neutral": 113,
+      "negative": 447,
+      "count": 956
     },
     {
       "region": "Europe",
-      "positive": 259,
-      "neutral": 111,
-      "negative": 233,
-      "count": 603
+      "positive": 252,
+      "neutral": 112,
+      "negative": 235,
+      "count": 599
     },
     {
       "region": "Asia-Pacific",
-      "positive": 225,
+      "positive": 226,
       "neutral": 100,
-      "negative": 204,
-      "count": 529
+      "negative": 198,
+      "count": 524
     },
     {
       "region": "Middle East",
-      "positive": 33,
-      "neutral": 9,
-      "negative": 139,
-      "count": 181
+      "positive": 34,
+      "neutral": 8,
+      "negative": 136,
+      "count": 178
     },
     {
       "region": "Global",
       "positive": 79,
-      "neutral": 29,
-      "negative": 49,
-      "count": 157
+      "neutral": 27,
+      "negative": 48,
+      "count": 154
     },
     {
       "region": "Africa",
       "positive": 29,
       "neutral": 4,
-      "negative": 45,
-      "count": 78
+      "negative": 46,
+      "count": 79
     },
     {
       "region": "South America",
@@ -390,59 +390,59 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 249,
-      "neutral": 85,
-      "negative": 297,
+      "positive": 247,
+      "neutral": 88,
+      "negative": 296,
       "count": 631
     },
     {
       "topic": "Other",
-      "positive": 173,
+      "positive": 172,
       "neutral": 104,
-      "negative": 231,
+      "negative": 232,
       "count": 508
     },
     {
       "topic": "Politics",
-      "positive": 167,
-      "neutral": 52,
-      "negative": 213,
-      "count": 432
+      "positive": 168,
+      "neutral": 53,
+      "negative": 216,
+      "count": 437
     },
     {
       "topic": "World",
-      "positive": 92,
-      "neutral": 21,
+      "positive": 89,
+      "neutral": 22,
       "negative": 145,
-      "count": 258
+      "count": 256
     },
     {
       "topic": "Sports",
-      "positive": 121,
-      "neutral": 49,
-      "negative": 52,
-      "count": 222
+      "positive": 115,
+      "neutral": 46,
+      "negative": 49,
+      "count": 210
     },
     {
       "topic": "Business",
       "positive": 93,
-      "neutral": 18,
+      "neutral": 17,
       "negative": 38,
-      "count": 149
+      "count": 148
+    },
+    {
+      "topic": "Entertainment",
+      "positive": 35,
+      "neutral": 8,
+      "negative": 40,
+      "count": 83
     },
     {
       "topic": "Health",
       "positive": 34,
       "neutral": 9,
-      "negative": 40,
-      "count": 83
-    },
-    {
-      "topic": "Entertainment",
-      "positive": 32,
-      "neutral": 8,
-      "negative": 40,
-      "count": 80
+      "negative": 39,
+      "count": 82
     },
     {
       "topic": "Local",
@@ -455,18 +455,26 @@
       "topic": "Regional",
       "positive": 23,
       "neutral": 11,
-      "negative": 20,
-      "count": 54
+      "negative": 21,
+      "count": 55
     },
     {
       "topic": "Science",
       "positive": 17,
-      "neutral": 7,
+      "neutral": 6,
       "negative": 14,
-      "count": 38
+      "count": 37
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Angelina Jolie visits Egyptian side of Gaza's Rafah crossing",
+      "url": "https://www.channelnewsasia.com/world/angelina-jolie-visits-egyptian-side-gazas-rafah-crossing-5787161",
+      "source": "Channel News Asia",
+      "region": "Middle East",
+      "published": "2026-01-03T03:36:23+08:00",
+      "sentiment": "neutral"
+    },
     {
       "title": "Swiss send dozens injured in bar fire abroad for treatment",
       "url": "https://www.channelnewsasia.com/world/swiss-send-dozens-injured-in-bar-fire-abroad-treatment-5786951",
@@ -593,6 +601,22 @@
       "source": "Times of India",
       "region": "North America",
       "published": "2026-01-03T00:10:27+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Pulwama cricketer wears helmet with Palestinian flag sticker; cops start probe",
+      "url": "https://timesofindia.indiatimes.com/india/pulwama-cricketer-wears-helmet-with-palestinian-flag-sticker-cops-start-probe/articleshow/126311917.cms",
+      "source": "Times of India",
+      "region": "Middle East",
+      "published": "2026-01-03T00:10:03+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Stranger Things has a hidden Google Easter egg: Here\u2019s how to activate",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/stranger-things-has-a-hidden-google-easter-egg-heres-how-to-activate-the-upside-down-screen-effect-on-any-device/articleshow/126310307.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2026-01-03T00:10:00+05:30",
       "sentiment": "positive"
     },
     {
@@ -1241,30 +1265,6 @@
       "source": "Channel News Asia",
       "region": "Global",
       "published": "2026-01-02T21:11:00+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "BRS boycott is pre-planned to evade discussion and get exposed: Jupally",
-      "url": "https://www.thehindu.com/news/national/telangana/brs-boycott-is-pre-planned-to-evade-discussion-and-get-exposed-jupally/article70464792.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-01-02T21:10:48+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Protest against alleged damage to stadium ground",
-      "url": "https://www.thehindu.com/news/national/kerala/protest-against-alleged-damage-to-stadium-ground/article70464746.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-02T21:10:42+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Country has a poor record in retrieving stolen antiques",
-      "url": "https://www.thehindu.com/news/national/kerala/country-has-a-poor-record-in-retrieving-stolen-antiques/article70464665.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-02T21:08:57+05:30",
       "sentiment": "negative"
     }
   ]
