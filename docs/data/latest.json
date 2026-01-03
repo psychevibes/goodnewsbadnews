@@ -1,59 +1,67 @@
 {
-  "generated_at": "2026-01-03T07:21:16.136554+00:00",
+  "generated_at": "2026-01-03T07:41:29.719746+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 973,
-    "neutral": 346,
-    "negative": 1097
+    "positive": 961,
+    "neutral": 352,
+    "negative": 1091
   },
   "by_publication": [
     {
       "source": "Independent",
       "positive": 150,
       "neutral": 99,
-      "negative": 181,
-      "count": 430,
+      "negative": 176,
+      "count": 425,
       "region": "North America"
     },
     {
       "source": "The Hindu",
       "positive": 97,
-      "neutral": 84,
-      "negative": 108,
-      "count": 289,
-      "region": "Asia-Pacific"
+      "neutral": 88,
+      "negative": 109,
+      "count": 294,
+      "region": "Europe"
     },
     {
       "source": "CBS News",
       "positive": 78,
-      "neutral": 13,
+      "neutral": 14,
       "negative": 64,
-      "count": 155,
-      "region": "North America"
+      "count": 156,
+      "region": "South America"
     },
     {
       "source": "Times of India",
       "positive": 56,
       "neutral": 8,
-      "negative": 73,
-      "count": 137,
+      "negative": 75,
+      "count": 139,
       "region": "South America"
     },
     {
       "source": "Fox News",
       "positive": 35,
-      "neutral": 9,
+      "neutral": 10,
       "negative": 67,
-      "count": 111,
-      "region": "North America"
+      "count": 112,
+      "region": "South America"
     },
     {
       "source": "BBC News",
-      "positive": 31,
+      "positive": 30,
       "neutral": 5,
-      "negative": 49,
+      "negative": 50,
       "count": 85,
       "region": "Europe"
+    },
+    {
+      "source": "The Guardian",
+      "positive": 17,
+      "neutral": 1,
+      "negative": 61,
+      "count": 79,
+      "region": "South America"
     },
     {
       "source": "Australian Broadcasting Corporation",
@@ -64,27 +72,19 @@
       "region": "Asia-Pacific"
     },
     {
-      "source": "The Guardian",
-      "positive": 17,
-      "neutral": 1,
-      "negative": 60,
-      "count": 78,
-      "region": "Europe"
-    },
-    {
       "source": "South China Morning Post",
       "positive": 39,
       "neutral": 4,
-      "negative": 34,
-      "count": 77,
+      "negative": 33,
+      "count": 76,
       "region": "Asia-Pacific"
     },
     {
       "source": "Sky Sports",
-      "positive": 40,
+      "positive": 41,
       "neutral": 16,
       "negative": 12,
-      "count": 68,
+      "count": 69,
       "region": "North America"
     },
     {
@@ -97,27 +97,11 @@
     },
     {
       "source": "BBC Sport",
-      "positive": 41,
+      "positive": 40,
       "neutral": 7,
       "negative": 13,
-      "count": 61,
+      "count": 60,
       "region": "Europe"
-    },
-    {
-      "source": "ESPN",
-      "positive": 34,
-      "neutral": 8,
-      "negative": 11,
-      "count": 53,
-      "region": "Global"
-    },
-    {
-      "source": "Bloomberg",
-      "positive": 37,
-      "neutral": 9,
-      "negative": 5,
-      "count": 51,
-      "region": "South America"
     },
     {
       "source": "France 24",
@@ -128,20 +112,28 @@
       "region": "South America"
     },
     {
-      "source": "AllAfrica",
-      "positive": 27,
-      "neutral": 3,
-      "negative": 19,
-      "count": 49,
-      "region": "North America"
+      "source": "Bloomberg",
+      "positive": 34,
+      "neutral": 9,
+      "negative": 5,
+      "count": 48,
+      "region": "South America"
     },
     {
       "source": "Al Jazeera English",
       "positive": 7,
       "neutral": 2,
-      "negative": 37,
-      "count": 46,
+      "negative": 38,
+      "count": 47,
       "region": "South America"
+    },
+    {
+      "source": "ESPN",
+      "positive": 29,
+      "neutral": 8,
+      "negative": 9,
+      "count": 46,
+      "region": "Global"
     },
     {
       "source": "NBC News",
@@ -152,11 +144,19 @@
       "region": "North America"
     },
     {
+      "source": "AllAfrica",
+      "positive": 24,
+      "neutral": 2,
+      "negative": 16,
+      "count": 42,
+      "region": "North America"
+    },
+    {
       "source": "Euronews",
       "positive": 16,
       "neutral": 2,
-      "negative": 22,
-      "count": 40,
+      "negative": 23,
+      "count": 41,
       "region": "Europe"
     },
     {
@@ -171,25 +171,17 @@
       "source": "Middle East Eye",
       "positive": 4,
       "neutral": 0,
-      "negative": 32,
-      "count": 36,
+      "negative": 31,
+      "count": 35,
       "region": "Middle East"
     },
     {
       "source": "CNBC",
-      "positive": 25,
+      "positive": 24,
       "neutral": 5,
       "negative": 5,
-      "count": 35,
-      "region": "North America"
-    },
-    {
-      "source": "Times of Israel",
-      "positive": 10,
-      "neutral": 2,
-      "negative": 22,
       "count": 34,
-      "region": "Middle East"
+      "region": "North America"
     },
     {
       "source": "New York Times",
@@ -198,6 +190,14 @@
       "negative": 18,
       "count": 32,
       "region": "North America"
+    },
+    {
+      "source": "Times of Israel",
+      "positive": 9,
+      "neutral": 1,
+      "negative": 22,
+      "count": 32,
+      "region": "Middle East"
     },
     {
       "source": "ABC News",
@@ -258,10 +258,10 @@
     {
       "source": "RT News",
       "positive": 2,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 15,
-      "count": 17,
-      "region": "Asia-Pacific"
+      "count": 18,
+      "region": "South America"
     },
     {
       "source": "NPR",
@@ -281,25 +281,25 @@
     },
     {
       "source": "Wired",
-      "positive": 10,
+      "positive": 11,
       "neutral": 0,
       "negative": 4,
-      "count": 14,
+      "count": 15,
       "region": "North America"
     },
     {
       "source": "Sky News",
-      "positive": 2,
+      "positive": 3,
       "neutral": 1,
       "negative": 9,
-      "count": 12,
+      "count": 13,
       "region": "North America"
     },
     {
       "source": "Washington Post",
       "positive": 2,
-      "neutral": 1,
-      "negative": 8,
+      "neutral": 2,
+      "negative": 7,
       "count": 11,
       "region": "North America"
     },
@@ -339,75 +339,75 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 391,
-      "neutral": 98,
-      "negative": 471,
-      "count": 960
+      "positive": 390,
+      "neutral": 99,
+      "negative": 468,
+      "count": 957
     },
     {
       "region": "Europe",
-      "positive": 259,
-      "neutral": 103,
-      "negative": 214,
-      "count": 576
+      "positive": 258,
+      "neutral": 104,
+      "negative": 213,
+      "count": 575
     },
     {
       "region": "Asia-Pacific",
-      "positive": 174,
-      "neutral": 95,
+      "positive": 170,
+      "neutral": 98,
       "negative": 186,
-      "count": 455
-    },
-    {
-      "region": "Middle East",
-      "positive": 31,
-      "neutral": 8,
-      "negative": 131,
-      "count": 170
+      "count": 454
     },
     {
       "region": "Global",
-      "positive": 93,
+      "positive": 91,
       "neutral": 27,
       "negative": 49,
-      "count": 169
+      "count": 167
+    },
+    {
+      "region": "Middle East",
+      "positive": 29,
+      "neutral": 7,
+      "negative": 129,
+      "count": 165
     },
     {
       "region": "Africa",
-      "positive": 20,
-      "neutral": 3,
-      "negative": 40,
-      "count": 63
+      "positive": 18,
+      "neutral": 2,
+      "negative": 38,
+      "count": 58
     },
     {
       "region": "South America",
       "positive": 5,
-      "neutral": 12,
-      "negative": 6,
-      "count": 23
+      "neutral": 15,
+      "negative": 8,
+      "count": 28
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 218,
-      "neutral": 84,
-      "negative": 303,
-      "count": 605
+      "positive": 215,
+      "neutral": 87,
+      "negative": 300,
+      "count": 602
     },
     {
       "topic": "Other",
       "positive": 188,
-      "neutral": 98,
+      "neutral": 100,
       "negative": 249,
-      "count": 535
+      "count": 537
     },
     {
       "topic": "Politics",
-      "positive": 156,
-      "neutral": 55,
-      "negative": 199,
-      "count": 410
+      "positive": 155,
+      "neutral": 56,
+      "negative": 197,
+      "count": 408
     },
     {
       "topic": "World",
@@ -418,37 +418,37 @@
     },
     {
       "topic": "Sports",
-      "positive": 124,
+      "positive": 118,
       "neutral": 42,
-      "negative": 45,
-      "count": 211
+      "negative": 44,
+      "count": 204
     },
     {
       "topic": "Business",
-      "positive": 80,
+      "positive": 79,
       "neutral": 11,
       "negative": 25,
-      "count": 116
+      "count": 115
     },
     {
       "topic": "Health",
       "positive": 31,
       "neutral": 7,
-      "negative": 39,
-      "count": 77
+      "negative": 40,
+      "count": 78
     },
     {
       "topic": "Entertainment",
       "positive": 31,
       "neutral": 7,
-      "negative": 29,
-      "count": 67
+      "negative": 27,
+      "count": 65
     },
     {
       "topic": "Local",
-      "positive": 26,
+      "positive": 25,
       "neutral": 5,
-      "negative": 25,
+      "negative": 26,
       "count": 56
     },
     {
@@ -500,6 +500,54 @@
       "sentiment": "positive"
     },
     {
+      "title": "Tribute | The singularity of author Vinod Kumar Shukla",
+      "url": "https://www.thehindu.com/books/tribute-author-vinod-kumar-shukla-hindi-literature-everyday-stories-poetry/article70463403.ece",
+      "source": "The Hindu",
+      "region": "Europe",
+      "published": "2026-01-03T13:05:00+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "NOC not mandatory to open the Mahakalipadpu RuB as claimed by Mangaluru Smart City, says Railways",
+      "url": "https://www.thehindu.com/news/cities/Mangalore/noc-not-mandatory-to-open-the-mahakalipadpu-rub-as-claimed-by-mangaluru-smart-city-says-railways/article70466747.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-03T13:00:48+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Photos | Thick fog envelops Hyderabad on third consecutive day in 2026",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/photos-thick-fog-envelops-hyderabad-on-third-consecutive-day-in-2026/article70466803.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-03T12:51:08+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "PM Modi inaugurates exhibition of Sacred Piprahwa Relics in Delhi",
+      "url": "https://www.thehindu.com/news/national/pm-modi-inaugurates-exhibition-of-sacred-piprahwa-relics-in-delhi/article70466806.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-03T12:47:46+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Kerala temporarily suspends new K-TET guidelines amid teacher protests",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-temporarily-suspends-new-k-tet-guidelines-amid-teacher-protests/article70466795.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2026-01-03T12:47:16+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Bihar Government announces healthcare facilities for elderly at doorsteps",
+      "url": "https://www.thehindu.com/news/national/bihar/bihar-government-announces-healthcare-facilities-for-elderly-at-doorsteps/article70466750.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-03T12:45:43+05:30",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Military-backed party in Myanmar takes lead in first phase of polls",
       "url": "https://www.channelnewsasia.com/asia/myanmar-elections-military-backed-union-solidarity-development-party-leads-polls-5787486",
       "source": "Channel News Asia",
@@ -548,12 +596,28 @@
       "sentiment": "positive"
     },
     {
+      "title": "'Lost confidence': Meta's most famous employee reveals truth behind his exit",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/metas-most-famous-employee-yann-lecun-breaks-silence-on-why-he-left-mark-zuckerbergs-company/articleshow/126318042.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2026-01-03T12:09:52+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Workers\u2019 Party to form disciplinary panel on Pritam Singh after conviction for lying to parliament committee",
       "url": "https://www.channelnewsasia.com/singapore/pritam-singh-workers-party-disciplinary-panel-special-meeting-5787521",
       "source": "Channel News Asia",
       "region": "Global",
       "published": "2026-01-03T12:08:00+08:00",
       "sentiment": "neutral"
+    },
+    {
+      "title": "Delhi Police bust \u20b9180 crore cyber crime network operating via shell companies; two arrested",
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-bust-cyber-crime-network-under-operation-cyhawk/article70466708.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2026-01-03T12:07:49+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "'Victory of Hindus': SRK told to drop Bangladeshi player from KKR; BJP hails move",
@@ -908,6 +972,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "At least two people killed and scores injured in Russian strike on Ukraine's Kharkiv",
+      "url": "http://www.euronews.com/2026/01/03/at-least-two-people-killed-and-scores-injured-in-russian-strike-on-ukraines-kharkiv",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2026-01-03T08:38:31+01:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Nick Jonas' lead single Gut Punch from his album Sunday Best explores self-doubt and self-criticism",
       "url": "https://www.channelnewsasia.com/entertainment/nick-jonas-gut-punch-sunday-best-new-single-5787401",
       "source": "Channel News Asia",
@@ -1028,6 +1100,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "New Year stabbings rock Delhi; tailor, teen, rickshaw driver killed in separate attacks",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/i-begged-them-to-spare-my-son-new-year-stabbings-rock-delhi-tailor-teen-e-rickshaw-driver-killed-in-separate-attacks/articleshow/126316086.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2026-01-03T07:53:24+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "At least seven explosions and low-flying aircraft heard in Venezuelan capital Caracas",
       "url": "http://www.euronews.com/2026/01/03/at-least-seven-explosions-and-low-flying-aircraft-heard-in-venezuelan-capital-caracas",
       "source": "Euronews",
@@ -1060,6 +1140,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "Multiple explosions heard in Venezuelan capital (VIDEO)",
+      "url": "https://www.rt.com/news/630362-explosions-venezuela-us-military/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "source": "RT News",
+      "region": "South America",
+      "published": "2026-01-03T07:34:17+00:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "First community radio station along LoC comes up in J&K's Rajouri",
       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/first-community-radio-station-along-loc-comes-up-in-jks-rajouri/article70465482.ece",
       "source": "The Hindu",
@@ -1084,12 +1172,52 @@
       "sentiment": "positive"
     },
     {
+      "title": "A resident of the Chuao neighborhood in Caracas, close to La Carlota air base, said she...",
+      "url": "https://www.washingtonpost.com",
+      "source": "Washington Post",
+      "region": "North America",
+      "published": "2026-01-03T07:30:56+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "1Password Coupon: Score a Free Trial in January",
+      "url": "https://www.wired.com/story/1password-coupon/",
+      "source": "Wired",
+      "region": "North America",
+      "published": "2026-01-03T07:30:00+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Most patients at Hong Kong A&E departments unaware of evening clinics as alternative",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3338606/most-patients-hong-kong-ae-departments-unaware-evening-clinics-alternative?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Asia-Pacific",
+      "published": "2026-01-03T07:28:48+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Live: Loud noises heard in Venezuela\u2019s capital amid US tensions",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/1/3/live-loud-noises-heard-in-venezuelas-capital-amid-us-tensions?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "region": "South America",
+      "published": "2026-01-03T07:27:28+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Daughter Kim's heir? Visit to mausoleum sparks buzz",
       "url": "https://timesofindia.indiatimes.com/world/rest-of-world/daughter-kims-heir-visit-to-mausoleum-sparks-buzz/articleshow/126315880.cms",
       "source": "Times of India",
       "region": "North America",
       "published": "2026-01-03T07:23:03+05:30",
       "sentiment": "neutral"
+    },
+    {
+      "title": "Two die and third person missing after coastal search",
+      "url": "https://www.bbc.com/news/articles/ce3ewqew4weo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "Europe",
+      "published": "2026-01-03T07:23:03+00:00",
+      "sentiment": "negative"
     },
     {
       "title": "What is 'functional freeze'? Psychologists unpack social media\u2019s new stress label",
@@ -1138,134 +1266,6 @@
       "region": "North America",
       "published": "2026-01-03T07:13:05+00:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "Littler 'getting better' as he aims to join greats",
-      "url": "https://www.bbc.com/sport/darts/articles/ckgjnrz72y1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "region": "Europe",
-      "published": "2026-01-03T07:12:26+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Operation Santa Claus: victory for rising Hong Kong tennis as players ace charity efforts",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3338604/operation-santa-claus-victory-rising-hong-kong-tennis-players-ace-charity-efforts?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2026-01-03T07:11:46+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "\u2018Thackeray no longer a brand\u2019: Fadnavis says Mumbai mayor will be Marathi Hindu",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/thackeray-no-longer-a-brand-cm-devendra-fadnavis-says-bjp-unfazed-by-uddhavraj-coming-together-claims-mumbai-mayor-will-be-marathi-and-hindu/articleshow/126315819.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2026-01-03T07:11:43+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Explosions heard over Venezuelan capital Caracas amid US tensions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/explosions-heard-over-venezuelan-capital-caracas-amid-us-tensions-2?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "region": "South America",
-      "published": "2026-01-03T07:10:18+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "'Ikkis' BO collection day 2: Agastya, Dharmendra\u2019s war drama mints over Rs 12 crore worldwide",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ikkis-box-office-collection-day-2-agastya-nanda-and-dharmendras-war-drama-mints-over-rs-12-crore-worldwide-beats-kartik-aaryans-tu-meri-main-tera-main-tera-tu-meri-while-dhurandhar-continues-to-shine/articleshow/126315806.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2026-01-03T07:10:05+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "30% VistaPrint Coupon & Promo Codes | January 2026",
-      "url": "https://www.wired.com/story/vistaprint-coupon-code/",
-      "source": "Wired",
-      "region": "North America",
-      "published": "2026-01-03T07:10:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Nomad Goods Promo Codes: 25% Off | January 2026",
-      "url": "https://www.wired.com/story/nomad-discount-code/",
-      "source": "Wired",
-      "region": "Global",
-      "published": "2026-01-03T07:09:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Mapping U.S. strikes in the Caribbean and eastern Pacific",
-      "url": "https://www.washingtonpost.com",
-      "source": "Washington Post",
-      "region": "North America",
-      "published": "2026-01-03T07:07:19+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Live updates: Explosions and aircraft heard over Venezuelan capital",
-      "url": "https://www.washingtonpost.com/world/2026/01/03/us-venezuela-strikes-trump-maduro/",
-      "source": "Washington Post",
-      "region": "South America",
-      "published": "2026-01-03T07:07:19+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "The U.S. in recent weeks has moved military hardware to the region \u2014 including warships, fighter...",
-      "url": "https://www.washingtonpost.com",
-      "source": "Washington Post",
-      "region": "North America",
-      "published": "2026-01-03T07:07:02+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Who is he to question? BJP on New York Mayor Zohran Mamdani\u2019s Umar Khalid note",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/who-is-he-to-question-bjp-on-new-york-mayor-zohran-mamdanis-umar-khalid-note/articleshow/126315743.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2026-01-03T07:02:12+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Here\u2019s the latest.",
-      "url": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela/heres-the-latest",
-      "source": "New York Times",
-      "region": "North America",
-      "published": "2026-01-03T07:02:11+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Conflict with China won\u2019t benefit South Korea, Lee Jae-myung says ahead of state visit",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3338605/conflict-china-wont-benefit-south-korea-lee-jae-myung-says-ahead-state-visit?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "Asia-Pacific",
-      "published": "2026-01-03T07:01:34+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "The Reel Schmooze: \u2018Marty Supreme\u2019 and the art of chutzpa",
-      "url": "https://www.timesofisrael.com/the-reel-schmooze-marty-supreme-and-the-art-of-chutzpa/",
-      "source": "Times of Israel",
-      "region": "Middle East",
-      "published": "2026-01-03T07:01:19+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Latest news bulletin | January 3rd, 2026 \u2013 Morning",
-      "url": "http://www.euronews.com/video/2026/01/03/latest-news-bulletin-january-3rd-2026-morning",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2026-01-03T07:00:33+01:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Reddit overtakes TikTok in UK thanks to search algorithms and gen z",
-      "url": "https://www.theguardian.com/technology/2026/jan/03/reddit-overtakes-tiktok-uk-search-algorithms-gen-z",
-      "source": "The Guardian",
-      "region": "Europe",
-      "published": "2026-01-03T07:00:33+00:00",
-      "sentiment": "positive"
     }
   ]
 }
