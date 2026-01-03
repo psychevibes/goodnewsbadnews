@@ -1,59 +1,51 @@
 {
-  "generated_at": "2026-01-03T11:18:55.201415+00:00",
+  "generated_at": "2026-01-03T11:40:17.469742+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 876,
-    "neutral": 332,
-    "negative": 1064
+    "positive": 854,
+    "neutral": 324,
+    "negative": 1052
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 131,
-      "neutral": 71,
+      "positive": 122,
+      "neutral": 69,
       "negative": 156,
-      "count": 358,
+      "count": 347,
       "region": "South America"
     },
     {
       "source": "The Hindu",
-      "positive": 96,
-      "neutral": 81,
-      "negative": 107,
-      "count": 284,
+      "positive": 94,
+      "neutral": 78,
+      "negative": 106,
+      "count": 278,
       "region": "Asia-Pacific"
     },
     {
       "source": "CBS News",
-      "positive": 78,
+      "positive": 80,
       "neutral": 14,
       "negative": 66,
-      "count": 158,
-      "region": "South America"
+      "count": 160,
+      "region": "North America"
     },
     {
       "source": "Times of India",
-      "positive": 62,
+      "positive": 61,
       "neutral": 10,
-      "negative": 78,
-      "count": 150,
+      "negative": 77,
+      "count": 148,
       "region": "North America"
     },
     {
       "source": "Fox News",
-      "positive": 35,
+      "positive": 36,
       "neutral": 10,
       "negative": 66,
-      "count": 111,
+      "count": 112,
       "region": "North America"
-    },
-    {
-      "source": "BBC News",
-      "positive": 25,
-      "neutral": 6,
-      "negative": 48,
-      "count": 79,
-      "region": "Europe"
     },
     {
       "source": "Australian Broadcasting Corporation",
@@ -64,12 +56,12 @@
       "region": "Asia-Pacific"
     },
     {
-      "source": "South China Morning Post",
-      "positive": 38,
-      "neutral": 2,
-      "negative": 35,
+      "source": "BBC News",
+      "positive": 25,
+      "neutral": 5,
+      "negative": 45,
       "count": 75,
-      "region": "North America"
+      "region": "Europe"
     },
     {
       "source": "The Guardian",
@@ -80,36 +72,36 @@
       "region": "South America"
     },
     {
+      "source": "South China Morning Post",
+      "positive": 37,
+      "neutral": 2,
+      "negative": 34,
+      "count": 73,
+      "region": "North America"
+    },
+    {
       "source": "Sky Sports",
       "positive": 40,
       "neutral": 12,
       "negative": 13,
       "count": 65,
-      "region": "Europe"
+      "region": "North America"
     },
     {
       "source": "Channel News Asia",
       "positive": 23,
       "neutral": 16,
-      "negative": 22,
-      "count": 61,
+      "negative": 21,
+      "count": 60,
       "region": "Global"
     },
     {
       "source": "Al Jazeera English",
-      "positive": 5,
+      "positive": 4,
       "neutral": 6,
-      "negative": 44,
+      "negative": 45,
       "count": 55,
-      "region": "Middle East"
-    },
-    {
-      "source": "BBC Sport",
-      "positive": 34,
-      "neutral": 7,
-      "negative": 12,
-      "count": 53,
-      "region": "Asia-Pacific"
+      "region": "North America"
     },
     {
       "source": "France 24",
@@ -120,28 +112,20 @@
       "region": "North America"
     },
     {
+      "source": "BBC Sport",
+      "positive": 32,
+      "neutral": 7,
+      "negative": 12,
+      "count": 51,
+      "region": "Asia-Pacific"
+    },
+    {
       "source": "NBC News",
       "positive": 9,
       "neutral": 6,
       "negative": 29,
       "count": 44,
       "region": "South America"
-    },
-    {
-      "source": "Euronews",
-      "positive": 13,
-      "neutral": 3,
-      "negative": 19,
-      "count": 35,
-      "region": "Europe"
-    },
-    {
-      "source": "Bloomberg",
-      "positive": 25,
-      "neutral": 7,
-      "negative": 3,
-      "count": 35,
-      "region": "Africa"
     },
     {
       "source": "Middle East Eye",
@@ -161,43 +145,35 @@
     },
     {
       "source": "Times of Israel",
-      "positive": 8,
+      "positive": 7,
       "neutral": 1,
       "negative": 25,
-      "count": 34,
+      "count": 33,
       "region": "Middle East"
     },
     {
+      "source": "Euronews",
+      "positive": 13,
+      "neutral": 3,
+      "negative": 15,
+      "count": 31,
+      "region": "Europe"
+    },
+    {
+      "source": "Bloomberg",
+      "positive": 21,
+      "neutral": 7,
+      "negative": 2,
+      "count": 30,
+      "region": "Africa"
+    },
+    {
       "source": "Mashable",
-      "positive": 17,
+      "positive": 16,
       "neutral": 7,
       "negative": 7,
-      "count": 31,
-      "region": "North America"
-    },
-    {
-      "source": "ESPN",
-      "positive": 18,
-      "neutral": 5,
-      "negative": 8,
-      "count": 31,
-      "region": "Global"
-    },
-    {
-      "source": "New York Times",
-      "positive": 13,
-      "neutral": 1,
-      "negative": 16,
       "count": 30,
       "region": "North America"
-    },
-    {
-      "source": "ABC News",
-      "positive": 5,
-      "neutral": 4,
-      "negative": 21,
-      "count": 30,
-      "region": "South America"
     },
     {
       "source": "AllAfrica",
@@ -209,11 +185,35 @@
     },
     {
       "source": "CNBC",
-      "positive": 21,
+      "positive": 20,
       "neutral": 5,
-      "negative": 3,
+      "negative": 4,
       "count": 29,
       "region": "South America"
+    },
+    {
+      "source": "New York Times",
+      "positive": 13,
+      "neutral": 1,
+      "negative": 15,
+      "count": 29,
+      "region": "North America"
+    },
+    {
+      "source": "ABC News",
+      "positive": 3,
+      "neutral": 4,
+      "negative": 22,
+      "count": 29,
+      "region": "South America"
+    },
+    {
+      "source": "ESPN",
+      "positive": 18,
+      "neutral": 3,
+      "negative": 8,
+      "count": 29,
+      "region": "Global"
     },
     {
       "source": "RT News",
@@ -224,20 +224,20 @@
       "region": "Europe"
     },
     {
-      "source": "Deutsche Welle",
-      "positive": 11,
-      "neutral": 1,
-      "negative": 12,
-      "count": 24,
-      "region": "Europe"
-    },
-    {
       "source": "Irish Times",
       "positive": 6,
       "neutral": 4,
       "negative": 14,
       "count": 24,
       "region": "Global"
+    },
+    {
+      "source": "Deutsche Welle",
+      "positive": 11,
+      "neutral": 1,
+      "negative": 11,
+      "count": 23,
+      "region": "Europe"
     },
     {
       "source": "Straits Times",
@@ -259,24 +259,32 @@
       "source": "Financial Times",
       "positive": 9,
       "neutral": 6,
-      "negative": 4,
-      "count": 19,
+      "negative": 5,
+      "count": 20,
       "region": "South America"
     },
     {
       "source": "MarketWatch",
-      "positive": 13,
+      "positive": 14,
       "neutral": 1,
       "negative": 5,
-      "count": 19,
-      "region": "Global"
+      "count": 20,
+      "region": "South America"
     },
     {
       "source": "Wired",
-      "positive": 11,
+      "positive": 10,
       "neutral": 2,
-      "negative": 3,
-      "count": 16,
+      "negative": 1,
+      "count": 13,
+      "region": "North America"
+    },
+    {
+      "source": "NPR",
+      "positive": 7,
+      "neutral": 1,
+      "negative": 5,
+      "count": 13,
       "region": "North America"
     },
     {
@@ -284,14 +292,6 @@
       "positive": 3,
       "neutral": 1,
       "negative": 8,
-      "count": 12,
-      "region": "North America"
-    },
-    {
-      "source": "NPR",
-      "positive": 6,
-      "neutral": 1,
-      "negative": 5,
       "count": 12,
       "region": "North America"
     },
@@ -313,10 +313,10 @@
     },
     {
       "source": "Telegraph",
-      "positive": 5,
+      "positive": 4,
       "neutral": 0,
       "negative": 0,
-      "count": 5,
+      "count": 4,
       "region": "North America"
     },
     {
@@ -339,103 +339,103 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 345,
-      "neutral": 98,
-      "negative": 464,
-      "count": 907
+      "positive": 337,
+      "neutral": 96,
+      "negative": 460,
+      "count": 893
     },
     {
       "region": "Europe",
-      "positive": 227,
-      "neutral": 76,
-      "negative": 182,
-      "count": 485
+      "positive": 218,
+      "neutral": 74,
+      "negative": 176,
+      "count": 468
     },
     {
       "region": "Asia-Pacific",
-      "positive": 173,
-      "neutral": 94,
-      "negative": 172,
-      "count": 439
-    },
-    {
-      "region": "Global",
-      "positive": 80,
-      "neutral": 22,
-      "negative": 42,
-      "count": 144
+      "positive": 170,
+      "neutral": 93,
+      "negative": 170,
+      "count": 433
     },
     {
       "region": "Middle East",
-      "positive": 24,
-      "neutral": 7,
-      "negative": 113,
-      "count": 144
+      "positive": 23,
+      "neutral": 6,
+      "negative": 111,
+      "count": 140
+    },
+    {
+      "region": "Global",
+      "positive": 78,
+      "neutral": 20,
+      "negative": 40,
+      "count": 138
     },
     {
       "region": "South America",
-      "positive": 20,
+      "positive": 21,
       "neutral": 31,
-      "negative": 57,
-      "count": 108
+      "negative": 62,
+      "count": 114
     },
     {
       "region": "Africa",
       "positive": 7,
       "neutral": 4,
-      "negative": 34,
-      "count": 45
+      "negative": 33,
+      "count": 44
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 200,
-      "neutral": 85,
+      "positive": 194,
+      "neutral": 86,
       "negative": 283,
-      "count": 568
+      "count": 563
     },
     {
       "topic": "Other",
-      "positive": 177,
-      "neutral": 89,
-      "negative": 234,
-      "count": 500
+      "positive": 174,
+      "neutral": 84,
+      "negative": 235,
+      "count": 493
     },
     {
       "topic": "Politics",
-      "positive": 142,
-      "neutral": 59,
-      "negative": 215,
-      "count": 416
+      "positive": 144,
+      "neutral": 57,
+      "negative": 212,
+      "count": 413
     },
     {
       "topic": "World",
-      "positive": 73,
-      "neutral": 22,
-      "negative": 140,
-      "count": 235
+      "positive": 69,
+      "neutral": 21,
+      "negative": 134,
+      "count": 224
     },
     {
       "topic": "Sports",
-      "positive": 113,
-      "neutral": 34,
+      "positive": 109,
+      "neutral": 33,
       "negative": 46,
-      "count": 193
+      "count": 188
     },
     {
       "topic": "Business",
-      "positive": 64,
+      "positive": 60,
       "neutral": 9,
       "negative": 18,
-      "count": 91
+      "count": 87
     },
     {
       "topic": "Health",
       "positive": 27,
       "neutral": 5,
-      "negative": 37,
-      "count": 69
+      "negative": 35,
+      "count": 67
     },
     {
       "topic": "Local",
@@ -446,24 +446,24 @@
     },
     {
       "topic": "Entertainment",
-      "positive": 26,
+      "positive": 24,
       "neutral": 7,
       "negative": 26,
-      "count": 59
+      "count": 57
     },
     {
       "topic": "Regional",
-      "positive": 19,
+      "positive": 18,
       "neutral": 7,
       "negative": 19,
-      "count": 45
+      "count": 44
     },
     {
       "topic": "Science",
       "positive": 12,
       "neutral": 6,
-      "negative": 12,
-      "count": 30
+      "negative": 10,
+      "count": 28
     }
   ],
   "sample_headlines": [
@@ -497,6 +497,30 @@
       "source": "Channel News Asia",
       "region": "Asia-Pacific",
       "published": "2026-01-03T17:17:23+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Scrap VB-G RAM G Act, bring back MGNREGA for rural job rights: Siddaramaiah to Centre",
+      "url": "https://www.thehindu.com/news/national/scrap-vb-g-ram-g-act-bring-back-mgnrega-for-rural-job-rights-siddaramaiah-to-centre/article70467295.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-03T16:51:44+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Congress to launch nationwide 'MGNREGA Bachao Sangram' against G RAM G Act from Jan 10-Feb 25",
+      "url": "https://www.thehindu.com/news/national/congress-to-launch-nationwide-mgnrega-bachao-sangram-against-g-ram-g-act-from-jan-10-feb-25/article70467285.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-03T16:49:27+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Madurai Bench of Madras HC appoints water conservationist Rajendra Singh to study Thamirabarani river pollution",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/madurai-bench-of-madras-hc-appoints-water-conservationist-rajendra-singh-to-study-thamirabarani-river-pollution/article70466924.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-03T16:47:19+05:30",
       "sentiment": "neutral"
     },
     {
@@ -1242,30 +1266,6 @@
       "region": "North America",
       "published": "2026-01-03T12:07:49+05:30",
       "sentiment": "negative"
-    },
-    {
-      "title": "'Victory of Hindus': SRK told to drop Bangladeshi player from KKR; BJP hails move",
-      "url": "https://timesofindia.indiatimes.com/india/victory-of-hindus-bjp-hails-bcci-move-after-srk-flak-kkr-to-remove-bangladeshi-player-mustafizur-rehman/articleshow/126317990.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2026-01-03T12:06:17+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "WP to form disciplinary panel to determine if Pritam Singh breached party constitution",
-      "url": "https://www.straitstimes.com/singapore/politics/wp-to-form-disciplinary-panel-to-determine-if-pritam-singh-breached-party-constitution",
-      "source": "Straits Times",
-      "region": "Global",
-      "published": "2026-01-03T12:05:40+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "WP to form disciplinary panel to determine if Pritam Singh breached party Constitution",
-      "url": "https://www.straitstimes.com/singapore/politics/wp-to-form-disciplinary-panel-to-determine-if-pritam-singh-breached-party-constitution",
-      "source": "Straits Times",
-      "region": "Global",
-      "published": "2026-01-03T12:05:40+08:00",
-      "sentiment": "positive"
     }
   ]
 }
