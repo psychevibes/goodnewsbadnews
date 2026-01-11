@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-01-11T16:27:00.894175+00:00",
+  "generated_at": "2026-01-11T16:50:21.767007+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 707,
-    "neutral": 191,
-    "negative": 818
+    "positive": 700,
+    "neutral": 192,
+    "negative": 816
   },
   "by_publication": [
     {
       "source": "Independent",
       "positive": 92,
-      "neutral": 26,
-      "negative": 126,
-      "count": 244,
+      "neutral": 27,
+      "negative": 127,
+      "count": 246,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 91,
+      "positive": 92,
       "neutral": 54,
-      "negative": 88,
+      "negative": 87,
       "count": 233,
       "region": "Asia-Pacific"
     },
@@ -27,24 +27,16 @@
       "source": "Times of India",
       "positive": 52,
       "neutral": 14,
-      "negative": 74,
-      "count": 140,
+      "negative": 71,
+      "count": 137,
       "region": "Asia-Pacific"
     },
     {
       "source": "Fox News",
-      "positive": 43,
+      "positive": 42,
       "neutral": 6,
-      "negative": 54,
-      "count": 103,
-      "region": "North America"
-    },
-    {
-      "source": "BBC News",
-      "positive": 26,
-      "neutral": 6,
-      "negative": 39,
-      "count": 71,
+      "negative": 56,
+      "count": 104,
       "region": "North America"
     },
     {
@@ -56,18 +48,26 @@
       "region": "Asia-Pacific"
     },
     {
+      "source": "BBC News",
+      "positive": 25,
+      "neutral": 6,
+      "negative": 38,
+      "count": 69,
+      "region": "Europe"
+    },
+    {
       "source": "BBC Sport",
       "positive": 48,
       "neutral": 4,
-      "negative": 15,
-      "count": 67,
+      "negative": 14,
+      "count": 66,
       "region": "Asia-Pacific"
     },
     {
       "source": "Channel News Asia",
       "positive": 29,
-      "neutral": 13,
-      "negative": 19,
+      "neutral": 14,
+      "negative": 18,
       "count": 61,
       "region": "Global"
     },
@@ -75,24 +75,32 @@
       "source": "South China Morning Post",
       "positive": 23,
       "neutral": 2,
-      "negative": 34,
-      "count": 59,
+      "negative": 33,
+      "count": 58,
       "region": "Asia-Pacific"
     },
     {
+      "source": "CBS News",
+      "positive": 15,
+      "neutral": 3,
+      "negative": 39,
+      "count": 57,
+      "region": "Middle East"
+    },
+    {
       "source": "Sky Sports",
-      "positive": 32,
+      "positive": 30,
       "neutral": 14,
       "negative": 11,
-      "count": 57,
+      "count": 55,
       "region": "Europe"
     },
     {
-      "source": "CBS News",
-      "positive": 16,
-      "neutral": 3,
-      "negative": 36,
-      "count": 55,
+      "source": "The Guardian",
+      "positive": 17,
+      "neutral": 1,
+      "negative": 34,
+      "count": 52,
       "region": "Europe"
     },
     {
@@ -104,19 +112,11 @@
       "region": "Europe"
     },
     {
-      "source": "The Guardian",
-      "positive": 17,
-      "neutral": 0,
-      "negative": 34,
-      "count": 51,
-      "region": "North America"
-    },
-    {
       "source": "ESPN",
-      "positive": 19,
-      "neutral": 8,
-      "negative": 18,
-      "count": 45,
+      "positive": 18,
+      "neutral": 7,
+      "negative": 17,
+      "count": 42,
       "region": "Global"
     },
     {
@@ -128,6 +128,14 @@
       "region": "Middle East"
     },
     {
+      "source": "France 24",
+      "positive": 16,
+      "neutral": 1,
+      "negative": 16,
+      "count": 33,
+      "region": "Europe"
+    },
+    {
       "source": "AllAfrica",
       "positive": 21,
       "neutral": 0,
@@ -136,19 +144,11 @@
       "region": "Africa"
     },
     {
-      "source": "France 24",
-      "positive": 16,
-      "neutral": 0,
-      "negative": 16,
-      "count": 32,
-      "region": "North America"
-    },
-    {
       "source": "NBC News",
       "positive": 6,
-      "neutral": 2,
+      "neutral": 1,
       "negative": 20,
-      "count": 28,
+      "count": 27,
       "region": "Middle East"
     },
     {
@@ -162,26 +162,42 @@
     {
       "source": "RT News",
       "positive": 5,
-      "neutral": 2,
-      "negative": 16,
+      "neutral": 3,
+      "negative": 15,
       "count": 23,
-      "region": "Africa"
+      "region": "Europe"
     },
     {
       "source": "Deutsche Welle",
       "positive": 6,
       "neutral": 0,
-      "negative": 16,
-      "count": 22,
+      "negative": 17,
+      "count": 23,
       "region": "North America"
+    },
+    {
+      "source": "Euronews",
+      "positive": 8,
+      "neutral": 2,
+      "negative": 9,
+      "count": 19,
+      "region": "Europe"
     },
     {
       "source": "New York Times",
       "positive": 3,
       "neutral": 2,
-      "negative": 13,
-      "count": 18,
+      "negative": 14,
+      "count": 19,
       "region": "North America"
+    },
+    {
+      "source": "Financial Times",
+      "positive": 7,
+      "neutral": 3,
+      "negative": 8,
+      "count": 18,
+      "region": "Europe"
     },
     {
       "source": "Bloomberg",
@@ -190,38 +206,6 @@
       "negative": 9,
       "count": 18,
       "region": "Middle East"
-    },
-    {
-      "source": "Euronews",
-      "positive": 8,
-      "neutral": 2,
-      "negative": 8,
-      "count": 18,
-      "region": "Middle East"
-    },
-    {
-      "source": "Financial Times",
-      "positive": 6,
-      "neutral": 3,
-      "negative": 8,
-      "count": 17,
-      "region": "Middle East"
-    },
-    {
-      "source": "Irish Times",
-      "positive": 8,
-      "neutral": 1,
-      "negative": 5,
-      "count": 14,
-      "region": "North America"
-    },
-    {
-      "source": "Daily News Egypt",
-      "positive": 12,
-      "neutral": 2,
-      "negative": 0,
-      "count": 14,
-      "region": "Africa"
     },
     {
       "source": "CNBC",
@@ -240,11 +224,27 @@
       "region": "Global"
     },
     {
+      "source": "Irish Times",
+      "positive": 7,
+      "neutral": 1,
+      "negative": 4,
+      "count": 12,
+      "region": "North America"
+    },
+    {
+      "source": "Daily News Egypt",
+      "positive": 10,
+      "neutral": 1,
+      "negative": 0,
+      "count": 11,
+      "region": "Africa"
+    },
+    {
       "source": "NPR",
       "positive": 4,
-      "neutral": 2,
+      "neutral": 1,
       "negative": 6,
-      "count": 12,
+      "count": 11,
       "region": "North America"
     },
     {
@@ -339,45 +339,45 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 259,
-      "neutral": 57,
+      "positive": 258,
+      "neutral": 56,
       "negative": 327,
-      "count": 643
+      "count": 641
     },
     {
       "region": "Asia-Pacific",
-      "positive": 154,
+      "positive": 155,
       "neutral": 63,
-      "negative": 154,
-      "count": 371
+      "negative": 150,
+      "count": 368
     },
     {
       "region": "Europe",
-      "positive": 159,
-      "neutral": 39,
-      "negative": 144,
-      "count": 342
+      "positive": 156,
+      "neutral": 42,
+      "negative": 147,
+      "count": 345
     },
     {
       "region": "Middle East",
-      "positive": 37,
+      "positive": 36,
       "neutral": 10,
       "negative": 147,
-      "count": 194
+      "count": 193
     },
     {
       "region": "Global",
-      "positive": 48,
+      "positive": 47,
       "neutral": 16,
-      "negative": 25,
-      "count": 89
+      "negative": 24,
+      "count": 87
     },
     {
       "region": "Africa",
-      "positive": 36,
-      "neutral": 3,
+      "positive": 34,
+      "neutral": 2,
       "negative": 10,
-      "count": 49
+      "count": 46
     },
     {
       "region": "South America",
@@ -390,72 +390,72 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 185,
+      "positive": 183,
       "neutral": 34,
-      "negative": 213,
-      "count": 432
+      "negative": 210,
+      "count": 427
     },
     {
       "topic": "Other",
       "positive": 112,
-      "neutral": 60,
-      "negative": 140,
-      "count": 312
+      "neutral": 59,
+      "negative": 142,
+      "count": 313
     },
     {
       "topic": "Politics",
       "positive": 107,
-      "neutral": 24,
-      "negative": 175,
-      "count": 306
+      "neutral": 26,
+      "negative": 180,
+      "count": 313
     },
     {
       "topic": "Sports",
-      "positive": 125,
-      "neutral": 26,
-      "negative": 55,
-      "count": 206
-    },
-    {
-      "topic": "World",
-      "positive": 70,
-      "neutral": 16,
-      "negative": 115,
+      "positive": 122,
+      "neutral": 27,
+      "negative": 52,
       "count": 201
     },
     {
+      "topic": "World",
+      "positive": 69,
+      "neutral": 16,
+      "negative": 114,
+      "count": 199
+    },
+    {
       "topic": "Entertainment",
-      "positive": 42,
+      "positive": 41,
       "neutral": 6,
       "negative": 17,
-      "count": 65
+      "count": 64
     },
     {
       "topic": "Health",
       "positive": 18,
       "neutral": 6,
-      "negative": 37,
-      "count": 61
+      "negative": 36,
+      "count": 60
     },
     {
       "topic": "Local",
-      "positive": 11,
+      "positive": 10,
       "neutral": 7,
-      "negative": 28,
-      "count": 46
+      "negative": 26,
+      "count": 43
     },
     {
       "topic": "Regional",
-      "positive": 9,
+      "positive": 10,
       "neutral": 8,
       "negative": 21,
-      "count": 38
+      "count": 39
     },
     {
       "topic": "Business",
       "positive": 21,
-      "neutral": 3,
-      "negative": 12,
+      "neutral": 2,
+      "negative": 13,
       "count": 36
     },
     {
@@ -467,6 +467,14 @@
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Milan salvage draw at Fiorentina with late Nkunku goal",
+      "url": "https://www.channelnewsasia.com/sport/milan-salvage-draw-fiorentina-late-nkunku-goal-5851621",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2026-01-12T00:22:10+08:00",
+      "sentiment": "neutral"
+    },
     {
       "title": "Martinelli hat-trick sends Arsenal past Portsmouth in FA Cup",
       "url": "https://www.channelnewsasia.com/sport/martinelli-hat-trick-sends-arsenal-past-portsmouth-in-fa-cup-5851616",
@@ -508,11 +516,43 @@
       "sentiment": "positive"
     },
     {
+      "title": "Former IPS officer\u2019s wife duped of \u20b92.58 crore in investment fraud",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/former-ips-officers-wife-duped-of-258-crore-in-investment-fraud/article70498509.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-11T22:10:57+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Alpine skiing-France's Rassat leaves Norwegians in shade to win Adelboden slalom",
       "url": "https://www.channelnewsasia.com/sport/alpine-skiing-frances-rassat-leaves-norwegians-in-shade-win-adelboden-slalom-5851501",
       "source": "Channel News Asia",
       "region": "Europe",
       "published": "2026-01-11T22:03:37+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Bhairav Battalions to make Army Day Parade debut in Jaipur on January 15",
+      "url": "https://www.thehindu.com/news/national/bhairav-battalions-to-make-army-day-parade-debut-in-jaipur-on-january-15/article70498454.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-11T21:59:59+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Indian Army officer from Bengaluru wins UN Secretary General\u2019s Award 2025",
+      "url": "https://www.thehindu.com/news/national/karnataka/indian-army-officer-from-bengaluru-wins-un-secretary-generals-award-2025/article70498486.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-11T21:59:49+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Symbiosis Law School, Pune, wins National Moot Court Competition",
+      "url": "https://www.thehindu.com/news/national/kerala/symbiosis-law-school-pune-wins-national-moot-court-competition/article70498466.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-11T21:59:20+05:30",
       "sentiment": "positive"
     },
     {
@@ -1225,46 +1265,6 @@
       "source": "The Hindu",
       "region": "Asia-Pacific",
       "published": "2026-01-11T19:21:35+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Telangana govt. to resume SLBC tunnel works with advanced technology",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-govt-to-resume-slbc-tunnel-works-with-advanced-technology/article70497631.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-11T19:19:45+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Stalin flags \u2018grave risks\u2019 posed to the Tamils by the ongoing constitutional reforms in Sri Lanka",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-flags-grave-risks-posed-to-the-tamils-by-the-ongoing-constitutional-reforms-in-sri-lanka/article70497483.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-11T19:19:25+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Telangana sets sights on becoming India\u2019s first thalassemia-free State by 2035",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-sets-sights-on-becoming-indias-first-thalassemia-free-state-by-2035/article70497487.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-11T19:16:33+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Vadde Obanna\u2019s birth anniversary celebrated in Anantapur",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/vadde-obannas-birth-anniversary-celebrated-in-anantapur/article70497895.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-11T19:16:16+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Local bodies race against time to complete 2025-26 development projects",
-      "url": "https://www.thehindu.com/news/national/kerala/local-bodies-race-against-time-to-complete-2025-26-development-projects/article70497557.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-01-11T19:15:48+05:30",
       "sentiment": "neutral"
     }
   ]
