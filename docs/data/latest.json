@@ -1,58 +1,58 @@
 {
-  "generated_at": "2026-01-17T07:21:10.623391+00:00",
+  "generated_at": "2026-01-17T07:41:34.647936+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 1167,
-    "neutral": 391,
-    "negative": 1176
+    "positive": 1144,
+    "neutral": 384,
+    "negative": 1163
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 192,
-      "neutral": 84,
-      "negative": 235,
-      "count": 511,
+      "positive": 190,
+      "neutral": 82,
+      "negative": 231,
+      "count": 503,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 118,
+      "positive": 119,
       "neutral": 79,
-      "negative": 92,
-      "count": 289,
+      "negative": 93,
+      "count": 291,
       "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
-      "positive": 78,
+      "positive": 77,
       "neutral": 12,
       "negative": 54,
-      "count": 144,
+      "count": 143,
       "region": "Asia-Pacific"
     },
     {
       "source": "Fox News",
       "positive": 43,
       "neutral": 9,
-      "negative": 84,
-      "count": 136,
+      "negative": 83,
+      "count": 135,
       "region": "North America"
     },
     {
       "source": "Bloomberg",
-      "positive": 63,
-      "neutral": 22,
-      "negative": 41,
-      "count": 126,
+      "positive": 60,
+      "neutral": 18,
+      "negative": 40,
+      "count": 118,
       "region": "North America"
     },
     {
       "source": "Channel News Asia",
-      "positive": 45,
+      "positive": 46,
       "neutral": 33,
-      "negative": 35,
-      "count": 113,
+      "negative": 36,
+      "count": 115,
       "region": "North America"
     },
     {
@@ -73,18 +73,18 @@
     },
     {
       "source": "BBC News",
-      "positive": 31,
+      "positive": 29,
       "neutral": 11,
-      "negative": 49,
-      "count": 91,
+      "negative": 46,
+      "count": 86,
       "region": "North America"
     },
     {
       "source": "BBC Sport",
-      "positive": 59,
+      "positive": 57,
       "neutral": 11,
-      "negative": 18,
-      "count": 88,
+      "negative": 17,
+      "count": 85,
       "region": "North America"
     },
     {
@@ -98,17 +98,17 @@
     {
       "source": "Al Jazeera English",
       "positive": 24,
-      "neutral": 9,
-      "negative": 42,
-      "count": 75,
+      "neutral": 8,
+      "negative": 44,
+      "count": 76,
       "region": "North America"
     },
     {
       "source": "South China Morning Post",
       "positive": 36,
       "neutral": 3,
-      "negative": 33,
-      "count": 72,
+      "negative": 34,
+      "count": 73,
       "region": "Asia-Pacific"
     },
     {
@@ -120,28 +120,12 @@
       "region": "Asia-Pacific"
     },
     {
-      "source": "ESPN",
-      "positive": 27,
-      "neutral": 13,
-      "negative": 17,
-      "count": 57,
-      "region": "Europe"
-    },
-    {
-      "source": "AllAfrica",
-      "positive": 13,
-      "neutral": 2,
-      "negative": 33,
-      "count": 48,
-      "region": "North America"
-    },
-    {
       "source": "France 24",
       "positive": 20,
       "neutral": 2,
       "negative": 25,
       "count": 47,
-      "region": "Middle East"
+      "region": "North America"
     },
     {
       "source": "NBC News",
@@ -152,20 +136,36 @@
       "region": "North America"
     },
     {
+      "source": "ESPN",
+      "positive": 19,
+      "neutral": 11,
+      "negative": 15,
+      "count": 45,
+      "region": "Europe"
+    },
+    {
       "source": "Euronews",
-      "positive": 25,
+      "positive": 23,
       "neutral": 4,
       "negative": 17,
-      "count": 46,
+      "count": 44,
       "region": "Europe"
     },
     {
       "source": "Sky Sports",
-      "positive": 25,
-      "neutral": 10,
+      "positive": 24,
+      "neutral": 11,
       "negative": 7,
       "count": 42,
       "region": "Europe"
+    },
+    {
+      "source": "AllAfrica",
+      "positive": 11,
+      "neutral": 2,
+      "negative": 26,
+      "count": 39,
+      "region": "North America"
     },
     {
       "source": "Deutsche Welle",
@@ -202,18 +202,10 @@
     {
       "source": "Straits Times",
       "positive": 8,
-      "neutral": 7,
-      "negative": 14,
-      "count": 29,
+      "neutral": 8,
+      "negative": 15,
+      "count": 31,
       "region": "North America"
-    },
-    {
-      "source": "Times of Israel",
-      "positive": 9,
-      "neutral": 1,
-      "negative": 19,
-      "count": 29,
-      "region": "Middle East"
     },
     {
       "source": "Engadget",
@@ -222,6 +214,14 @@
       "negative": 8,
       "count": 29,
       "region": "North America"
+    },
+    {
+      "source": "Times of Israel",
+      "positive": 7,
+      "neutral": 1,
+      "negative": 19,
+      "count": 27,
+      "region": "Middle East"
     },
     {
       "source": "Financial Times",
@@ -339,45 +339,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 468,
+      "positive": 466,
       "neutral": 134,
-      "negative": 503,
-      "count": 1105
+      "negative": 502,
+      "count": 1102
     },
     {
       "region": "Europe",
-      "positive": 285,
-      "neutral": 94,
-      "negative": 245,
-      "count": 624
+      "positive": 279,
+      "neutral": 87,
+      "negative": 240,
+      "count": 606
     },
     {
       "region": "Asia-Pacific",
-      "positive": 230,
+      "positive": 225,
       "neutral": 89,
-      "negative": 185,
-      "count": 504
-    },
-    {
-      "region": "Global",
-      "positive": 94,
-      "neutral": 38,
-      "negative": 70,
-      "count": 202
+      "negative": 187,
+      "count": 501
     },
     {
       "region": "Middle East",
-      "positive": 58,
+      "positive": 55,
       "neutral": 19,
-      "negative": 125,
-      "count": 202
+      "negative": 124,
+      "count": 198
     },
     {
-      "region": "Africa",
-      "positive": 17,
-      "neutral": 5,
-      "negative": 30,
-      "count": 52
+      "region": "Global",
+      "positive": 89,
+      "neutral": 37,
+      "negative": 69,
+      "count": 195
     },
     {
       "region": "South America",
@@ -385,71 +378,78 @@
       "neutral": 12,
       "negative": 18,
       "count": 45
+    },
+    {
+      "region": "Africa",
+      "positive": 15,
+      "neutral": 6,
+      "negative": 23,
+      "count": 44
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 295,
-      "neutral": 91,
-      "negative": 291,
-      "count": 677
+      "positive": 294,
+      "neutral": 90,
+      "negative": 287,
+      "count": 671
     },
     {
       "topic": "Politics",
-      "positive": 235,
+      "positive": 232,
       "neutral": 59,
-      "negative": 277,
+      "negative": 280,
       "count": 571
     },
     {
       "topic": "Other",
-      "positive": 172,
+      "positive": 167,
       "neutral": 97,
-      "negative": 164,
-      "count": 433
+      "negative": 161,
+      "count": 425
     },
     {
       "topic": "World",
-      "positive": 104,
-      "neutral": 35,
-      "negative": 156,
-      "count": 295
+      "positive": 98,
+      "neutral": 30,
+      "negative": 152,
+      "count": 280
     },
     {
       "topic": "Sports",
-      "positive": 128,
-      "neutral": 44,
-      "negative": 75,
-      "count": 247
+      "positive": 121,
+      "neutral": 43,
+      "negative": 72,
+      "count": 236
     },
     {
       "topic": "Business",
-      "positive": 99,
+      "positive": 98,
       "neutral": 20,
-      "negative": 56,
-      "count": 175
+      "negative": 55,
+      "count": 173
     },
     {
       "topic": "Entertainment",
       "positive": 44,
       "neutral": 15,
-      "negative": 46,
-      "count": 105
+      "negative": 45,
+      "count": 104
     },
     {
       "topic": "Health",
-      "positive": 23,
+      "positive": 22,
       "neutral": 13,
       "negative": 37,
-      "count": 73
+      "count": 72
     },
     {
       "topic": "Regional",
-      "positive": 23,
+      "positive": 24,
       "neutral": 7,
       "negative": 30,
-      "count": 60
+      "count": 61
     },
     {
       "topic": "Local",
@@ -467,6 +467,30 @@
     }
   ],
   "sample_headlines": [
+    {
+      "title": "6 arrested for suspected involvement in conducting unlawful gambling operations",
+      "url": "https://www.straitstimes.com/singapore/6-arrested-for-suspected-involvement-in-conducting-unlawful-gambling-operations",
+      "source": "Straits Times",
+      "region": "North America",
+      "published": "2026-01-17T15:30:39+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Musk seeks up to $134 billion from OpenAI, Microsoft in 'wrongful gains'",
+      "url": "https://www.channelnewsasia.com/business/musk-seeks-up-134-billion-openai-microsoft-in-wrongful-gains-5865441",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2026-01-17T15:29:51+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Why Thailand's deadly construction accidents are sparking outrage and scrutiny",
+      "url": "https://www.channelnewsasia.com/asia/thailand-crane-collapse-train-accident-italthai-5864556",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2026-01-17T15:20:11+08:00",
+      "sentiment": "negative"
+    },
     {
       "title": "Six people arrested during police raids against illegal remote gambling",
       "url": "https://www.channelnewsasia.com/singapore/illegal-gambling-police-raids-six-arrested-5865426",
@@ -553,6 +577,38 @@
       "source": "Channel News Asia",
       "region": "Global",
       "published": "2026-01-17T13:10:00+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Bheemanna Khandre: Life of a legend of Kalyana Karnataka in pictures",
+      "url": "https://www.thehindu.com/news/national/karnataka/bheemanna-khandre-life-of-a-legend-of-kalyana-karnataka-in-pictures/article70517894.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-17T12:57:13+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Rahul meets patients, families of Indore water contamination victims",
+      "url": "https://www.thehindu.com/news/national/rahul-meets-patients-families-of-indore-water-contamination-victims/article70517870.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-17T12:55:22+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Tribals hit streets to enforce Jharkhand bandh in protest against killing of village head",
+      "url": "https://www.thehindu.com/news/national/jharkhand/tribals-hit-streets-to-enforce-jharkhand-bandh-in-protest-against-killing-of-village-head/article70517892.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-17T12:49:57+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "No area of the Constitution should be immune from judicial review, says former CJI D.Y. Chandrachud",
+      "url": "https://www.thehindu.com/lit-for-life/no-area-of-the-constitution-should-be-immune-from-judicial-review-says-former-cji-dy-chandrachud/article70481697.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2026-01-17T12:46:13+05:30",
       "sentiment": "positive"
     },
     {
@@ -781,6 +837,14 @@
     },
     {
       "title": "Union urges public against shaming individuals after incident between passenger, SBS Transit bus captain",
+      "url": "https://www.straitstimes.com/singapore/union-urges-public-from-shaming-individuals-after-incident-between-passenger-sbs-transit-bus-captain",
+      "source": "Straits Times",
+      "region": "North America",
+      "published": "2026-01-17T11:05:00+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Union urges public against shaming individuals after incident between passenger, SBS bus captain",
       "url": "https://www.straitstimes.com/singapore/union-urges-public-from-shaming-individuals-after-incident-between-passenger-sbs-transit-bus-captain",
       "source": "Straits Times",
       "region": "North America",
@@ -1164,6 +1228,22 @@
       "sentiment": "positive"
     },
     {
+      "title": "Thai ruling party courts voters by vowing to end Cambodia conflict, close scam hubs",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3340252/thai-ruling-party-courts-voters-vowing-end-cambodia-conflict-close-scam-hubs?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Asia-Pacific",
+      "published": "2026-01-17T07:30:10+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Drama in Hong Kong\u2019s first international marathon in 1969 \u2013 from the SCMP archive",
+      "url": "https://www.scmp.com/sport/hong-kong/article/3339688/drama-hong-kongs-first-international-marathon-1969-scmp-archive?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Asia-Pacific",
+      "published": "2026-01-17T07:30:08+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "'Very poor' AQI: Thick smog engulfs Delhi; Stage-III GRAP restrictions return",
       "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-air-pollution-thick-smog-engulfs-city-stage-iii-grap-restrictions-return/articleshow/126599120.cms",
       "source": "Times of India",
@@ -1172,99 +1252,19 @@
       "sentiment": "negative"
     },
     {
-      "title": "Allen up against it & more drama in Chicago - NFL play-off predictions",
-      "url": "https://www.bbc.com/sport/american-football/articles/cj9rwz0p83po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "region": "North America",
-      "published": "2026-01-17T07:16:55+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Sailing-Goodchild swaps solo solitude for record run on Argo",
-      "url": "https://www.channelnewsasia.com/sport/sailing-goodchild-swaps-solo-solitude-record-run-argo-5865116",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2026-01-17T07:15:03+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Israeli researcher finds that by eavesdropping, \u2018genius\u2019 dogs learn words like toddlers",
-      "url": "https://www.timesofisrael.com/israeli-researcher-finds-that-by-eavesdropping-genius-dogs-learn-words-like-toddlers/",
-      "source": "Times of Israel",
-      "region": "Middle East",
-      "published": "2026-01-17T07:13:18+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Ukraine-Russia war latest: US reportedly considering expanding the Trump-led Gaza \u2018Board of Peace\u2019 to Ukraine",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-zelensky-putin-peace-talks-b2901635.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2026-01-17T07:10:49+00:00",
+      "title": "Hong Kong contractors rated poorly by homeowners face removal after Tai Po fire",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3340251/hong-kong-contractors-rated-poorly-homeowners-face-removal-after-tai-po-fire?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Asia-Pacific",
+      "published": "2026-01-17T07:25:35+00:00",
       "sentiment": "negative"
     },
     {
-      "title": "Trump names Blair, Rubio to Gaza 'board of peace'",
-      "url": "https://www.channelnewsasia.com/world/gaza-board-peace-tony-blair-rubio-5865106",
-      "source": "Channel News Asia",
-      "region": "Middle East",
-      "published": "2026-01-17T07:04:33+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "NASA rolls out Artemis II rocket for historic Moon mission",
-      "url": "http://www.euronews.com/next/2026/01/17/nasa-rolls-out-artemis-ii-rocket-for-historic-moon-mission",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2026-01-17T07:01:08+01:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "\u2018Historic\u2019 High Seas Treaty comes into force. But is it enough to save our oceans?",
-      "url": "http://www.euronews.com/green/2026/01/17/historic-high-seas-treaty-comes-into-force-but-is-it-enough-to-save-our-oceans",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2026-01-17T07:00:42+01:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "As stablecoins rise, how are governments responding worldwide?",
-      "url": "http://www.euronews.com/business/2026/01/17/stablecoins-are-growing-but-how-are-governments-responding",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2026-01-17T07:00:37+01:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Latest news bulletin | January 17th, 2026 \u2013 Morning",
-      "url": "http://www.euronews.com/video/2026/01/17/latest-news-bulletin-january-17th-2026-morning",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2026-01-17T07:00:33+01:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Betfair urged to hand tens of thousands to victim of gambling fraudster",
-      "url": "https://www.theguardian.com/society/2026/jan/17/betfair-gambling-betting-exchange-vip-customer",
-      "source": "The Guardian",
+      "title": "Ugandan army denies seizing opposition leader Bobi Wine amid vote count",
+      "url": "https://www.france24.com/en/africa/20260117-ugandan-army-denies-seizing-opposition-leader-bobi-wine-amid-vote-count",
+      "source": "France 24",
       "region": "North America",
-      "published": "2026-01-17T07:00:20+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "HMRC taking more than a year to pay out tax rebates",
-      "url": "https://www.theguardian.com/money/2026/jan/17/tax-ni-hmrc-pay-refunds-claims",
-      "source": "The Guardian",
-      "region": "North America",
-      "published": "2026-01-17T07:00:19+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Guterres warns of \u2018powerful forces\u2019 undermining \u2018global cooperation\u2019",
-      "url": "https://www.theguardian.com/world/2026/jan/17/antonio-guterres-warns-forces-undermining-global-cooperation-un-80th-anniversary-secretary-general-multilateralism-international-law",
-      "source": "The Guardian",
-      "region": "North America",
-      "published": "2026-01-17T07:00:19+00:00",
+      "published": "2026-01-17T07:21:57+00:00",
       "sentiment": "negative"
     }
   ]
