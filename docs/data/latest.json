@@ -1,50 +1,42 @@
 {
-  "generated_at": "2026-01-24T05:23:20.178869+00:00",
+  "generated_at": "2026-01-24T05:46:28.078070+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 1232,
-    "neutral": 426,
-    "negative": 1433
+    "positive": 1224,
+    "neutral": 423,
+    "negative": 1435
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 224,
+      "positive": 222,
       "neutral": 117,
       "negative": 299,
-      "count": 640,
+      "count": 638,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
       "positive": 98,
-      "neutral": 72,
-      "negative": 93,
-      "count": 263,
+      "neutral": 70,
+      "negative": 92,
+      "count": 260,
       "region": "Asia-Pacific"
     },
     {
       "source": "Bloomberg",
-      "positive": 90,
+      "positive": 87,
       "neutral": 15,
       "negative": 62,
-      "count": 167,
-      "region": "Global"
+      "count": 164,
+      "region": "Europe"
     },
     {
       "source": "Times of India",
-      "positive": 64,
+      "positive": 60,
       "neutral": 11,
-      "negative": 71,
-      "count": 146,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "Fox News",
-      "positive": 41,
-      "neutral": 10,
-      "negative": 81,
-      "count": 132,
+      "negative": 72,
+      "count": 143,
       "region": "Asia-Pacific"
     },
     {
@@ -54,6 +46,14 @@
       "negative": 76,
       "count": 132,
       "region": "North America"
+    },
+    {
+      "source": "Fox News",
+      "positive": 41,
+      "neutral": 10,
+      "negative": 80,
+      "count": 131,
+      "region": "Asia-Pacific"
     },
     {
       "source": "The Guardian",
@@ -67,25 +67,25 @@
       "source": "Channel News Asia",
       "positive": 41,
       "neutral": 28,
-      "negative": 48,
-      "count": 117,
-      "region": "Asia-Pacific"
+      "negative": 49,
+      "count": 118,
+      "region": "Global"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 36,
-      "neutral": 10,
-      "negative": 62,
-      "count": 108,
+      "positive": 35,
+      "neutral": 8,
+      "negative": 63,
+      "count": 106,
       "region": "Asia-Pacific"
     },
     {
       "source": "BBC News",
-      "positive": 34,
+      "positive": 35,
       "neutral": 7,
       "negative": 62,
-      "count": 103,
-      "region": "Asia-Pacific"
+      "count": 104,
+      "region": "North America"
     },
     {
       "source": "AllAfrica",
@@ -99,8 +99,8 @@
       "source": "South China Morning Post",
       "positive": 40,
       "neutral": 3,
-      "negative": 42,
-      "count": 85,
+      "negative": 43,
+      "count": 86,
       "region": "Asia-Pacific"
     },
     {
@@ -112,20 +112,20 @@
       "region": "North America"
     },
     {
-      "source": "Al Jazeera English",
-      "positive": 18,
-      "neutral": 6,
-      "negative": 41,
-      "count": 65,
-      "region": "Asia-Pacific"
-    },
-    {
       "source": "France 24",
       "positive": 24,
       "neutral": 5,
       "negative": 36,
       "count": 65,
       "region": "Europe"
+    },
+    {
+      "source": "Al Jazeera English",
+      "positive": 18,
+      "neutral": 6,
+      "negative": 40,
+      "count": 64,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Mashable",
@@ -202,9 +202,17 @@
     {
       "source": "RT News",
       "positive": 13,
-      "neutral": 12,
+      "neutral": 13,
       "negative": 10,
-      "count": 35,
+      "count": 36,
+      "region": "North America"
+    },
+    {
+      "source": "ABC News",
+      "positive": 9,
+      "neutral": 4,
+      "negative": 23,
+      "count": 36,
       "region": "North America"
     },
     {
@@ -212,14 +220,6 @@
       "positive": 7,
       "neutral": 10,
       "negative": 17,
-      "count": 34,
-      "region": "North America"
-    },
-    {
-      "source": "ABC News",
-      "positive": 7,
-      "neutral": 4,
-      "negative": 23,
       "count": 34,
       "region": "North America"
     },
@@ -233,10 +233,10 @@
     },
     {
       "source": "New York Times",
-      "positive": 11,
+      "positive": 10,
       "neutral": 2,
       "negative": 15,
-      "count": 28,
+      "count": 27,
       "region": "North America"
     },
     {
@@ -299,8 +299,8 @@
       "source": "Sky News",
       "positive": 2,
       "neutral": 1,
-      "negative": 9,
-      "count": 12,
+      "negative": 10,
+      "count": 13,
       "region": "Middle East"
     },
     {
@@ -331,31 +331,31 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 474,
-      "neutral": 141,
-      "negative": 634,
-      "count": 1249
+      "positive": 472,
+      "neutral": 140,
+      "negative": 631,
+      "count": 1243
     },
     {
       "region": "Europe",
-      "positive": 337,
-      "neutral": 133,
-      "negative": 335,
-      "count": 805
+      "positive": 336,
+      "neutral": 134,
+      "negative": 337,
+      "count": 807
     },
     {
       "region": "Asia-Pacific",
-      "positive": 227,
-      "neutral": 96,
-      "negative": 248,
-      "count": 571
+      "positive": 222,
+      "neutral": 93,
+      "negative": 250,
+      "count": 565
     },
     {
       "region": "Global",
       "positive": 131,
       "neutral": 39,
-      "negative": 98,
-      "count": 268
+      "negative": 99,
+      "count": 269
     },
     {
       "region": "Middle East",
@@ -382,52 +382,52 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 289,
-      "neutral": 115,
-      "negative": 362,
-      "count": 766
+      "positive": 285,
+      "neutral": 113,
+      "negative": 363,
+      "count": 761
     },
     {
       "topic": "Politics",
-      "positive": 214,
-      "neutral": 65,
-      "negative": 297,
-      "count": 576
+      "positive": 215,
+      "neutral": 63,
+      "negative": 296,
+      "count": 574
     },
     {
       "topic": "Other",
       "positive": 193,
       "neutral": 103,
-      "negative": 226,
-      "count": 522
+      "negative": 228,
+      "count": 524
     },
     {
       "topic": "World",
-      "positive": 155,
-      "neutral": 36,
-      "negative": 217,
-      "count": 408
+      "positive": 154,
+      "neutral": 37,
+      "negative": 218,
+      "count": 409
     },
     {
       "topic": "Sports",
-      "positive": 124,
+      "positive": 125,
       "neutral": 30,
-      "negative": 92,
-      "count": 246
+      "negative": 93,
+      "count": 248
     },
     {
       "topic": "Business",
-      "positive": 125,
+      "positive": 123,
       "neutral": 24,
       "negative": 67,
-      "count": 216
+      "count": 214
     },
     {
       "topic": "Entertainment",
-      "positive": 51,
+      "positive": 50,
       "neutral": 21,
       "negative": 40,
-      "count": 112
+      "count": 111
     },
     {
       "topic": "Regional",
@@ -447,18 +447,34 @@
       "topic": "Local",
       "positive": 17,
       "neutral": 6,
-      "negative": 29,
-      "count": 52
+      "negative": 28,
+      "count": 51
     },
     {
       "topic": "Science",
-      "positive": 27,
+      "positive": 25,
       "neutral": 9,
-      "negative": 16,
-      "count": 52
+      "negative": 15,
+      "count": 49
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Survivor Sinner battles cramp, heat to reach fourth round",
+      "url": "https://www.channelnewsasia.com/sport/survivor-sinner-battles-cramp-heat-reach-fourth-round-5880441",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2026-01-24T13:21:28+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Australian boy dies after shark attack in Sydney Harbour",
+      "url": "https://www.channelnewsasia.com/world/australian-boy-bitten-shark-dies-beach-5880416",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2026-01-24T13:21:00+08:00",
+      "sentiment": "negative"
+    },
     {
       "title": "Saving face: He has had four major operations since he was 1\u00bd to make him look \u2018normal\u2019",
       "url": "https://www.straitstimes.com/singapore/health/saving-face-he-went-through-four-major-surgeries-since-age-11-2-to-make-him-look-normal",
@@ -481,6 +497,22 @@
       "source": "Channel News Asia",
       "region": "Asia-Pacific",
       "published": "2026-01-24T11:16:39+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "We will come back to power, CM Stalin declares in Tamil Nadu Assembly",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assembly-cm-stalin-dmk-govt-election-2026/article70545380.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-01-24T10:51:42+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Wedding horror in Pakistan: 7 killed, 25 injured after suicide bomber targets marriage ceremony",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/wedding-horror-in-pakistan-7-killed-25-injured-after-suicide-bomber-targets-marriage-ceremony/articleshow/127364816.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2026-01-24T10:44:32+05:30",
       "sentiment": "negative"
     },
     {
@@ -541,6 +573,14 @@
     },
     {
       "title": "'Surgical, kinetic ... ': Iran warns US of \u2018all-out war\u2019 over \u2018military build-up\u2019 in Middle East",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-reacts-to-military-build-up-in-middle-east-warns-us-of-all-out-war/articleshow/127361021.cms",
+      "source": "Times of India",
+      "region": "Middle East",
+      "published": "2026-01-24T09:43:37+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "'Surgical, kinetic ... ': Iran warns US of 'all-out war' over 'military build-up' in Middle East",
       "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-reacts-to-military-build-up-in-middle-east-warns-us-of-all-out-war/articleshow/127361021.cms",
       "source": "Times of India",
       "region": "Middle East",
@@ -900,6 +940,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "Indonesian actress exposes \u2018fake\u2019 marriage and grooming in viral memoir",
+      "url": "https://www.scmp.com/week-asia/people/article/3341036/indonesian-actress-exposes-fake-marriage-and-grooming-viral-memoir?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Asia-Pacific",
+      "published": "2026-01-24T05:30:10+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "School students taken on flight to Coimbatore",
       "url": "https://www.thehindu.com/news/cities/chennai/school-students-taken-on-flight-to-coimbatore/article70539560.ece",
       "source": "The Hindu",
@@ -916,11 +964,35 @@
       "sentiment": "positive"
     },
     {
+      "title": "Court records raise doubts that ICE is detaining the \u2018worst of the worst\u2019 in Maine",
+      "url": "https://www.independent.co.uk/news/maine-court-records-massachusetts-portland-sudan-b2906867.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2026-01-24T05:26:44+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Hong Kong lawmaker ready to face legal consequences after \u2018rash\u2019 driving decision",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3341092/hong-kong-lawmaker-ready-face-legal-consequences-after-rash-driving-decision?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "Asia-Pacific",
+      "published": "2026-01-24T05:26:25+00:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "BIE organises PTM across 430 junior colleges",
       "url": "https://www.thehindu.com/news/national/telangana/bie-organises-ptm-across-430-junior-colleges/article70543621.ece",
       "source": "The Hindu",
       "region": "Asia-Pacific",
       "published": "2026-01-24T05:22:58+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Pentagon says it will offer 'more limited' support to US allies",
+      "url": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "North America",
+      "published": "2026-01-24T05:21:06+00:00",
       "sentiment": "positive"
     },
     {
@@ -949,6 +1021,14 @@
     },
     {
       "title": "AO organisers forced to deal with scorching heat at Melbourne Park",
+      "url": "https://www.abc.net.au/news/2026-01-24/australian-open-tennis-extreme-heat-play-suspended-melbourne/106265530",
+      "source": "Australian Broadcasting Corporation",
+      "region": "Asia-Pacific",
+      "published": "2026-01-24T05:16:28+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Aus Open organisers forced to suspend matches amid extreme heat",
       "url": "https://www.abc.net.au/news/2026-01-24/australian-open-tennis-extreme-heat-play-suspended-melbourne/106265530",
       "source": "Australian Broadcasting Corporation",
       "region": "Asia-Pacific",
@@ -1041,6 +1121,14 @@
       "source": "Al Jazeera English",
       "region": "Asia-Pacific",
       "published": "2026-01-24T05:02:22+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Kyiv Under Massive Drone, Missile Attack as UAE Talks Continue",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-24/kyiv-under-massive-drone-missile-attack-as-uae-talks-continue",
+      "source": "Bloomberg",
+      "region": "Europe",
+      "published": "2026-01-24T05:01:17+00:00",
       "sentiment": "negative"
     },
     {
@@ -1170,94 +1258,6 @@
       "region": "Middle East",
       "published": "2026-01-24T04:38:42+00:00",
       "sentiment": "positive"
-    },
-    {
-      "title": "Police arrest protesters at airport as Minnesota gears up for anti-immigration enforcement protest",
-      "url": "https://www.channelnewsasia.com/world/police-minnesota-minneapolis-airport-ice-immigration-protests-good-trump-crackdown-5879941",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2026-01-24T04:37:44+08:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "US antisemitism envoy feuds with prominent European rabbi, drawing praise from Elon Musk",
-      "url": "https://www.timesofisrael.com/us-antisemitism-envoy-feuds-with-prominent-european-rabbi-drawing-praise-from-elon-musk/",
-      "source": "Times of Israel",
-      "region": "Europe",
-      "published": "2026-01-24T04:36:18+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Queensland police charge fourth person over alleged murder and torture of Andrew Burow",
-      "url": "https://www.abc.net.au/news/2026-01-24/queensland-police-charge-fourth-person-andrew-burow/106265276",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2026-01-24T04:32:01+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Queensland police charge fourth person over alleged murder and torture of Andrew Burow",
-      "url": "https://www.abc.net.au/news/2026-01-24/queensland-police-charge-fourth-person-andrew-burow-murder/106265276",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2026-01-24T04:32:01+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "\u2018Unfathomable\u2019: Australian veterans disgusted by Trump\u2019s claim allied troops \u2018stayed a little back\u2019 from frontline",
-      "url": "https://www.theguardian.com/us-news/2026/jan/24/unfathomable-australian-veterans-disgusted-by-trumps-claim-allied-troops-stayed-a-little-back-from-frontline",
-      "source": "The Guardian",
-      "region": "Asia-Pacific",
-      "published": "2026-01-24T04:29:02+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Blue room, broken wall: Clues from 10-year-old help nab rape accused",
-      "url": "https://timesofindia.indiatimes.com/india/blue-room-broken-wall-clues-from-10-year-old-help-nab-rape-accused/articleshow/127340969.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2026-01-24T04:21:56+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Pentagon to reduce its role in deterrence of North Korea",
-      "url": "https://www.theguardian.com/world/2026/jan/24/north-korea-pentagon-to-reduce-role-deterrence",
-      "source": "The Guardian",
-      "region": "Asia-Pacific",
-      "published": "2026-01-24T04:17:47+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Half of US braces for huge winter storm",
-      "url": "https://www.dw.com/en/half-of-us-braces-for-huge-winter-storm/a-75621241?maca=en-rss-en-all-1573-xml-mrss",
-      "source": "Deutsche Welle",
-      "region": "North America",
-      "published": "2026-01-24T04:14:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Poll bodies of 42 nations to work together on key issues",
-      "url": "https://www.thehindu.com/news/national/poll-bodies-of-42-nations-to-work-together-on-key-issues/article70542765.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-24T04:13:33+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "US teen inspired by Isis pleads guilty to attempted murder of police officer",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3341088/us-teen-inspired-isis-pleads-guilty-attempted-murder-police-officer?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "North America",
-      "published": "2026-01-24T04:12:32+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Veteran printer\u2019s mission to keep movable type tradition alive in Hong Kong",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3341087/veteran-printers-mission-keep-movable-type-tradition-alive-hong-kong?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "region": "North America",
-      "published": "2026-01-24T04:01:38+00:00",
-      "sentiment": "neutral"
     }
   ]
 }
