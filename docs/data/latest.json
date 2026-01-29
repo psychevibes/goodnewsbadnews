@@ -1,35 +1,43 @@
 {
-  "generated_at": "2026-01-29T23:30:23.759486+00:00",
+  "generated_at": "2026-01-29T23:53:08.348123+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 1433,
-    "neutral": 487,
-    "negative": 1501
+    "positive": 1436,
+    "neutral": 489,
+    "negative": 1498
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 208,
+      "positive": 207,
       "neutral": 112,
-      "negative": 280,
-      "count": 600,
-      "region": "North America"
+      "negative": 277,
+      "count": 596,
+      "region": "Europe"
     },
     {
       "source": "The Hindu",
       "positive": 163,
       "neutral": 76,
-      "negative": 99,
-      "count": 338,
-      "region": "Asia-Pacific"
+      "negative": 100,
+      "count": 339,
+      "region": "North America"
     },
     {
       "source": "Bloomberg",
-      "positive": 163,
+      "positive": 160,
       "neutral": 20,
       "negative": 72,
-      "count": 255,
-      "region": "Europe"
+      "count": 252,
+      "region": "Middle East"
+    },
+    {
+      "source": "Channel News Asia",
+      "positive": 76,
+      "neutral": 46,
+      "negative": 50,
+      "count": 172,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Fox News",
@@ -40,43 +48,35 @@
       "region": "North America"
     },
     {
-      "source": "Channel News Asia",
-      "positive": 72,
-      "neutral": 46,
-      "negative": 51,
-      "count": 169,
-      "region": "Asia-Pacific"
-    },
-    {
       "source": "Times of India",
-      "positive": 78,
+      "positive": 77,
       "neutral": 9,
-      "negative": 67,
+      "negative": 68,
       "count": 154,
-      "region": "Asia-Pacific"
+      "region": "Middle East"
     },
     {
       "source": "CBS News",
-      "positive": 40,
+      "positive": 37,
       "neutral": 24,
-      "negative": 72,
-      "count": 136,
+      "negative": 71,
+      "count": 132,
       "region": "North America"
     },
     {
       "source": "The Guardian",
-      "positive": 39,
+      "positive": 43,
       "neutral": 3,
-      "negative": 78,
-      "count": 120,
+      "negative": 80,
+      "count": 126,
       "region": "North America"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 46,
+      "positive": 44,
       "neutral": 13,
-      "negative": 53,
-      "count": 112,
+      "negative": 52,
+      "count": 109,
       "region": "Asia-Pacific"
     },
     {
@@ -89,42 +89,42 @@
     },
     {
       "source": "South China Morning Post",
-      "positive": 50,
+      "positive": 51,
       "neutral": 4,
       "negative": 44,
-      "count": 98,
-      "region": "South America"
+      "count": 99,
+      "region": "North America"
     },
     {
       "source": "Al Jazeera English",
-      "positive": 22,
-      "neutral": 9,
-      "negative": 54,
-      "count": 85,
-      "region": "Europe"
+      "positive": 23,
+      "neutral": 10,
+      "negative": 55,
+      "count": 88,
+      "region": "North America"
+    },
+    {
+      "source": "France 24",
+      "positive": 24,
+      "neutral": 1,
+      "negative": 58,
+      "count": 83,
+      "region": "Middle East"
     },
     {
       "source": "BBC Sport",
       "positive": 57,
       "neutral": 11,
-      "negative": 13,
-      "count": 81,
-      "region": "Europe"
-    },
-    {
-      "source": "France 24",
-      "positive": 22,
-      "neutral": 1,
-      "negative": 58,
-      "count": 81,
+      "negative": 12,
+      "count": 80,
       "region": "Europe"
     },
     {
       "source": "CNBC",
-      "positive": 40,
+      "positive": 38,
       "neutral": 7,
-      "negative": 30,
-      "count": 77,
+      "negative": 28,
+      "count": 73,
       "region": "North America"
     },
     {
@@ -137,11 +137,19 @@
     },
     {
       "source": "Sky Sports",
-      "positive": 29,
-      "neutral": 22,
-      "negative": 17,
-      "count": 68,
+      "positive": 30,
+      "neutral": 23,
+      "negative": 18,
+      "count": 71,
       "region": "Europe"
+    },
+    {
+      "source": "Mashable",
+      "positive": 36,
+      "neutral": 10,
+      "negative": 10,
+      "count": 56,
+      "region": "North America"
     },
     {
       "source": "ESPN",
@@ -153,25 +161,9 @@
     },
     {
       "source": "MarketWatch",
-      "positive": 29,
+      "positive": 28,
       "neutral": 7,
       "negative": 17,
-      "count": 53,
-      "region": "North America"
-    },
-    {
-      "source": "NBC News",
-      "positive": 17,
-      "neutral": 13,
-      "negative": 23,
-      "count": 53,
-      "region": "North America"
-    },
-    {
-      "source": "Mashable",
-      "positive": 34,
-      "neutral": 9,
-      "negative": 9,
       "count": 52,
       "region": "North America"
     },
@@ -182,6 +174,14 @@
       "negative": 30,
       "count": 52,
       "region": "Africa"
+    },
+    {
+      "source": "NBC News",
+      "positive": 17,
+      "neutral": 13,
+      "negative": 19,
+      "count": 49,
+      "region": "North America"
     },
     {
       "source": "Financial Times",
@@ -235,8 +235,8 @@
       "source": "RT News",
       "positive": 7,
       "neutral": 9,
-      "negative": 16,
-      "count": 32,
+      "negative": 15,
+      "count": 31,
       "region": "Global"
     },
     {
@@ -259,17 +259,17 @@
       "source": "New York Times",
       "positive": 6,
       "neutral": 1,
-      "negative": 13,
-      "count": 20,
+      "negative": 14,
+      "count": 21,
       "region": "North America"
     },
     {
-      "source": "Telegraph",
-      "positive": 12,
-      "neutral": 4,
-      "negative": 4,
-      "count": 20,
-      "region": "Europe"
+      "source": "Wired",
+      "positive": 13,
+      "neutral": 1,
+      "negative": 5,
+      "count": 19,
+      "region": "Global"
     },
     {
       "source": "NPR",
@@ -280,11 +280,19 @@
       "region": "North America"
     },
     {
-      "source": "Wired",
-      "positive": 13,
-      "neutral": 1,
-      "negative": 4,
-      "count": 18,
+      "source": "Telegraph",
+      "positive": 11,
+      "neutral": 3,
+      "negative": 3,
+      "count": 17,
+      "region": "Europe"
+    },
+    {
+      "source": "Ars Technica",
+      "positive": 6,
+      "neutral": 2,
+      "negative": 8,
+      "count": 16,
       "region": "Global"
     },
     {
@@ -296,20 +304,12 @@
       "region": "Middle East"
     },
     {
-      "source": "Ars Technica",
-      "positive": 5,
-      "neutral": 2,
-      "negative": 5,
-      "count": 12,
-      "region": "Global"
-    },
-    {
       "source": "Sky News",
-      "positive": 1,
+      "positive": 2,
       "neutral": 0,
       "negative": 6,
-      "count": 7,
-      "region": "Africa"
+      "count": 8,
+      "region": "North America"
     },
     {
       "source": "Washington Post",
@@ -331,38 +331,38 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 527,
+      "positive": 528,
       "neutral": 170,
-      "negative": 674,
+      "negative": 673,
       "count": 1371
     },
     {
       "region": "Europe",
-      "positive": 337,
-      "neutral": 135,
-      "negative": 317,
-      "count": 789
+      "positive": 340,
+      "neutral": 136,
+      "negative": 316,
+      "count": 792
     },
     {
       "region": "Asia-Pacific",
-      "positive": 336,
-      "neutral": 111,
-      "negative": 247,
+      "positive": 337,
+      "neutral": 112,
+      "negative": 245,
       "count": 694
     },
     {
       "region": "Global",
-      "positive": 168,
+      "positive": 166,
       "neutral": 53,
-      "negative": 96,
-      "count": 317
+      "negative": 97,
+      "count": 316
     },
     {
       "region": "Middle East",
       "positive": 36,
       "neutral": 10,
-      "negative": 115,
-      "count": 161
+      "negative": 116,
+      "count": 162
     },
     {
       "region": "Africa",
@@ -375,31 +375,31 @@
       "region": "South America",
       "positive": 8,
       "neutral": 4,
-      "negative": 21,
-      "count": 33
+      "negative": 20,
+      "count": 32
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 368,
-      "neutral": 100,
+      "positive": 365,
+      "neutral": 101,
       "negative": 352,
-      "count": 820
+      "count": 818
     },
     {
       "topic": "Politics",
-      "positive": 254,
+      "positive": 259,
       "neutral": 104,
-      "negative": 352,
-      "count": 710
+      "negative": 351,
+      "count": 714
     },
     {
       "topic": "Other",
-      "positive": 193,
-      "neutral": 107,
-      "negative": 233,
-      "count": 533
+      "positive": 194,
+      "neutral": 106,
+      "negative": 232,
+      "count": 532
     },
     {
       "topic": "World",
@@ -410,38 +410,38 @@
     },
     {
       "topic": "Business",
-      "positive": 197,
-      "neutral": 37,
+      "positive": 194,
+      "neutral": 38,
       "negative": 84,
-      "count": 318
+      "count": 316
     },
     {
       "topic": "Sports",
-      "positive": 166,
-      "neutral": 38,
-      "negative": 86,
-      "count": 290
+      "positive": 168,
+      "neutral": 39,
+      "negative": 85,
+      "count": 292
     },
     {
       "topic": "Entertainment",
-      "positive": 55,
+      "positive": 56,
       "neutral": 22,
-      "negative": 56,
+      "negative": 55,
       "count": 133
     },
     {
       "topic": "Health",
       "positive": 23,
       "neutral": 18,
-      "negative": 44,
-      "count": 85
+      "negative": 46,
+      "count": 87
     },
     {
       "topic": "Regional",
       "positive": 31,
       "neutral": 18,
-      "negative": 26,
-      "count": 75
+      "negative": 25,
+      "count": 74
     },
     {
       "topic": "Local",
@@ -459,6 +459,22 @@
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Core inflation in Japan's capital slows in January",
+      "url": "https://www.channelnewsasia.com/business/core-inflation-in-japans-capital-slows-in-january-5895251",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2026-01-30T07:43:37+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Why indie fine jewellery is on the rise in Singapore \u2013 plus 4 local brands to know",
+      "url": "https://www.channelnewsasia.com/style-beauty/indie-fine-jewellery-brands-singapore-5582676",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2026-01-30T07:34:12+08:00",
+      "sentiment": "positive"
+    },
     {
       "title": "'I'm selling memories': How one Singaporean turned childhood bus dreams into a transport-themed shop",
       "url": "https://www.channelnewsasia.com/living/tapspace-singapore-bus-mrt-merchandise-5875521",
@@ -556,6 +572,30 @@
       "sentiment": "positive"
     },
     {
+      "title": "What does British PM Keir Starmer\u2019s China trip say about Western hedging in a Trump era?",
+      "url": "https://www.channelnewsasia.com/east-asia/china-uk-starmer-visit-western-leaders-hedge-trump-world-order-5894121",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2026-01-30T06:00:00+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "What\u2019s the potential cost of India\u2019s US$100 billion bet on AI data centres?",
+      "url": "https://www.channelnewsasia.com/asia/india-ai-data-centre-water-power-environment-5894041",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2026-01-30T06:00:00+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Commentary: 'Spending within one\u2019s means' is advice worth repeating amid rising credit card debt",
+      "url": "https://www.channelnewsasia.com/commentary/singapore-credit-card-rollover-balance-10-year-high-consumers-overspending-5887796",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2026-01-30T06:00:00+08:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Commentary: A breakthrough law won\u2019t kill Korea\u2019s AI revolution",
       "url": "https://www.channelnewsasia.com/commentary/south-korea-ai-law-chatgpt-big-tech-5893521",
       "source": "Channel News Asia",
@@ -618,6 +658,30 @@
       "region": "North America",
       "published": "2026-01-30T05:18:56+08:00",
       "sentiment": "neutral"
+    },
+    {
+      "title": "\u2018He means business\u2019: Pete Hegseth warns Iran on nukes, signals Trump has military options ready",
+      "url": "https://timesofindia.indiatimes.com/world/us/he-means-business-pete-hegseth-warns-iran-on-nukes-signals-trump-has-military-options-ready/articleshow/127788296.cms",
+      "source": "Times of India",
+      "region": "Middle East",
+      "published": "2026-01-30T05:04:11+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Democrats, White House close in on spending deal \u2014 will US government avert a shutdown?",
+      "url": "https://timesofindia.indiatimes.com/world/us/democrats-white-house-close-in-on-spending-deal-will-us-government-avert-a-shutdown/articleshow/127788270.cms",
+      "source": "Times of India",
+      "region": "North America",
+      "published": "2026-01-30T05:02:18+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Suvendu Adhikari visits fire affected warehouse, says many are still missing",
+      "url": "https://www.thehindu.com/news/national/west-bengal/suvendu-adhikari-visits-fire-affected-warehouse-says-many-are-still-missing/article70566800.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2026-01-30T05:01:33+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Amazon in talks to invest up to $50 billion in OpenAI, WSJ reports",
@@ -769,6 +833,14 @@
       "source": "Times of India",
       "region": "Asia-Pacific",
       "published": "2026-01-30T02:04:36+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Delhi Police SWAT commando was pregnant when killed by husband; cops add dowry harassment charge",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/swat-commando-was-pregnant-when-killed/articleshow/127783969.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2026-01-30T02:02:00+05:30",
       "sentiment": "negative"
     },
     {
@@ -1132,11 +1204,35 @@
       "sentiment": "neutral"
     },
     {
+      "title": "bMichael Beck, 65, Dies; First to Report Symptoms of \u2018Havana Syndrome\u2019",
+      "url": "https://www.nytimes.com/2026/01/29/us/michael-beck-dead.html",
+      "source": "New York Times",
+      "region": "North America",
+      "published": "2026-01-29T23:45:11+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Van Veen survives Masters scare: 'I made it difficult for myself!'",
+      "url": "https://www.skysports.com/darts/live-blog/12040/13500752/winmau-world-masters-darts-live-latest-updates-scores-highlights-as-luke-littler-luke-humphries-michael-van-gerwen-feature",
+      "source": "Sky Sports",
+      "region": "Europe",
+      "published": "2026-01-29T23:45:00+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Kerala Budget 2026-27: Outlay for scheme assisting women filmmakers sees an increase",
       "url": "https://www.thehindu.com/news/national/kerala/kerala-budget-2026-27-outlay-for-scheme-assisting-women-filmmakers-sees-an-increase/article70566755.ece",
       "source": "The Hindu",
       "region": "Asia-Pacific",
       "published": "2026-01-29T23:42:50+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Apple just reported its best-ever quarter for iPhone sales",
+      "url": "https://www.engadget.com/mobile/smartphones/apple-just-reported-its-best-ever-quarter-for-iphone-sales-234135513.html?src=rss",
+      "source": "Engadget",
+      "region": "North America",
+      "published": "2026-01-29T23:41:35+00:00",
       "sentiment": "positive"
     },
     {
@@ -1148,116 +1244,20 @@
       "sentiment": "positive"
     },
     {
-      "title": "Understanding 'Carpet area' as per the RERA Act and what it covers",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/understanding-carpet-area-as-per-the-rera-act-and-what-it-covers/articleshow/127783713.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2026-01-29T23:38:34+05:30",
+      "title": "Van Gerwen dumped out of Masters as Van Veen, Price progress",
+      "url": "https://www.skysports.com/darts/news/12040/13500858/winmau-world-masters-darts-michael-van-gerwen-makes-shock-exit-as-gian-van-veen-gerwyn-price-make-winning-starts",
+      "source": "Sky Sports",
+      "region": "Europe",
+      "published": "2026-01-29T23:40:00+00:00",
       "sentiment": "positive"
     },
     {
-      "title": "Myles Garrett\u2019s Instagram post reveals frustration over Jim Schwartz move",
-      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/myles-garrett-drops-instagram-story-revealing-hidden-frustration-over-jim-schwartz-passing-on-browns-role/articleshow/127783633.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2026-01-29T23:38:20+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Kerala\u2019s Gender Budget outlay up by \u20b9746.87 crore",
-      "url": "https://www.thehindu.com/news/national/kerala/gender-budget-outlay-up-by-74687-crore/article70566699.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-29T23:37:49+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Despite Sreedharan\u2019s intervention, Centre refused to give nod for high-speed rail, says CM",
-      "url": "https://www.thehindu.com/news/national/kerala/despite-sreedharans-intervention-centre-refused-to-give-nod-for-high-speed-rail-says-cm/article70567444.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-01-29T23:37:27+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Kerala Budget 2026-27: New scheme to provide safe lodging for women employees of IT parks",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-budget-2026-27-new-scheme-to-provide-safe-lodging-for-women-employees-of-it-parks/article70566871.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-29T23:37:03+05:30",
+      "title": "Boss Unai Emery cheered by Aston Villa\u2019s comeback Europa League victory",
+      "url": "https://www.independent.co.uk/sport/football/unai-emery-premier-league-harvey-elliott-aston-villa-europa-league-b2910584.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2026-01-29T23:39:46+00:00",
       "sentiment": "positive"
-    },
-    {
-      "title": "A.P. Fishermen Cooperative Societies Federation office-bearers take oath",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-fishermen-cooperative-societies-federation-office-bearers-take-oath/article70566113.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-29T23:36:17+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Figure skating-Cizeron aims for another gold with new dance partner in Milano Cortina",
-      "url": "https://www.channelnewsasia.com/sport/figure-skating-cizeron-aims-another-gold-new-dance-partner-in-milano-cortina-5894521",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2026-01-29T23:35:54+08:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Trump says US will reopen commercial airspace over Venezuela",
-      "url": "https://timesofindia.indiatimes.com/world/us/trump-says-us-will-reopen-commercial-airspace-over-venezuela/articleshow/127783673.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2026-01-29T23:35:36+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "\u2018Paying too much interest\u2019: Trump to announce Fed chair nominee next week, replacing Jerome Powell",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/paying-too-much-interest-trump-to-announce-next-fed-chair-nominee-next-week-replacing-jerome-powell/articleshow/127783476.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2026-01-29T23:33:49+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Download hall tickets for APPSC written exams for four posts",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/download-hall-tickets-for-appsc-written-exams-for-four-posts/article70566759.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-29T23:30:49+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "TPCC names ministers as screening panel chiefs for civic polls",
-      "url": "https://www.thehindu.com/news/national/telangana/tpcc-names-ministers-as-screening-panel-chiefs-for-civic-polls/article70567335.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-29T23:28:25+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Trump backs Senate government funding deal that includes DHS extension",
-      "url": "https://www.cnbc.com/2026/01/29/trump-congress-government-shutdown.html",
-      "source": "CNBC",
-      "region": "North America",
-      "published": "2026-01-29T23:27:39+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Kanaka Durga temple to commemorate philanthropist C.V. Reddy\u2019s death anniversary",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kanaka-durga-temple-to-commemorate-philanthropist-cv-reddys-death-anniversary/article70565808.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-29T23:25:52+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Michael Beck, 65, Dies; First to Report Symptoms of \u2018Havana Syndrome\u2019",
-      "url": "https://www.nytimes.com/2026/01/29/us/michael-beck-dead.html",
-      "source": "New York Times",
-      "region": "North America",
-      "published": "2026-01-29T23:22:39+00:00",
-      "sentiment": "negative"
     }
   ]
 }
