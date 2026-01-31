@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-01-31T21:23:10.160783+00:00",
+  "generated_at": "2026-01-31T21:47:09.864739+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 746,
-    "neutral": 255,
-    "negative": 935
+    "positive": 739,
+    "neutral": 254,
+    "negative": 928
   },
   "by_publication": [
     {
@@ -17,10 +17,10 @@
     },
     {
       "source": "Independent",
-      "positive": 96,
-      "neutral": 42,
-      "negative": 133,
-      "count": 271,
+      "positive": 93,
+      "neutral": 43,
+      "negative": 132,
+      "count": 268,
       "region": "Europe"
     },
     {
@@ -35,16 +35,8 @@
       "source": "Fox News",
       "positive": 31,
       "neutral": 5,
-      "negative": 78,
-      "count": 114,
-      "region": "North America"
-    },
-    {
-      "source": "CBS News",
-      "positive": 28,
-      "neutral": 9,
-      "negative": 44,
-      "count": 81,
+      "negative": 77,
+      "count": 113,
       "region": "North America"
     },
     {
@@ -56,18 +48,26 @@
       "region": "Global"
     },
     {
+      "source": "CBS News",
+      "positive": 28,
+      "neutral": 9,
+      "negative": 42,
+      "count": 79,
+      "region": "North America"
+    },
+    {
       "source": "Australian Broadcasting Corporation",
-      "positive": 22,
+      "positive": 24,
       "neutral": 3,
-      "negative": 50,
+      "negative": 48,
       "count": 75,
       "region": "Asia-Pacific"
     },
     {
       "source": "Sky Sports",
-      "positive": 30,
+      "positive": 31,
       "neutral": 24,
-      "negative": 21,
+      "negative": 20,
       "count": 75,
       "region": "Europe"
     },
@@ -83,8 +83,8 @@
       "source": "South China Morning Post",
       "positive": 31,
       "neutral": 3,
-      "negative": 33,
-      "count": 67,
+      "negative": 32,
+      "count": 66,
       "region": "Europe"
     },
     {
@@ -93,38 +93,38 @@
       "neutral": 6,
       "negative": 44,
       "count": 60,
-      "region": "North America"
+      "region": "Middle East"
     },
     {
       "source": "BBC News",
-      "positive": 23,
+      "positive": 22,
       "neutral": 4,
-      "negative": 33,
-      "count": 60,
+      "negative": 32,
+      "count": 58,
       "region": "Europe"
     },
     {
       "source": "BBC Sport",
-      "positive": 35,
+      "positive": 36,
       "neutral": 3,
       "negative": 10,
-      "count": 48,
-      "region": "Europe"
-    },
-    {
-      "source": "Bloomberg",
-      "positive": 10,
-      "neutral": 8,
-      "negative": 23,
-      "count": 41,
+      "count": 49,
       "region": "North America"
     },
     {
+      "source": "Bloomberg",
+      "positive": 8,
+      "neutral": 7,
+      "negative": 23,
+      "count": 38,
+      "region": "Europe"
+    },
+    {
       "source": "France 24",
-      "positive": 4,
+      "positive": 3,
       "neutral": 1,
       "negative": 33,
-      "count": 38,
+      "count": 37,
       "region": "Europe"
     },
     {
@@ -133,14 +133,14 @@
       "neutral": 1,
       "negative": 26,
       "count": 35,
-      "region": "Europe"
+      "region": "Middle East"
     },
     {
       "source": "NBC News",
       "positive": 13,
       "neutral": 8,
-      "negative": 13,
-      "count": 34,
+      "negative": 12,
+      "count": 33,
       "region": "North America"
     },
     {
@@ -171,8 +171,8 @@
       "source": "Euronews",
       "positive": 9,
       "neutral": 3,
-      "negative": 11,
-      "count": 23,
+      "negative": 12,
+      "count": 24,
       "region": "Europe"
     },
     {
@@ -185,17 +185,9 @@
     },
     {
       "source": "Deutsche Welle",
-      "positive": 6,
+      "positive": 5,
       "neutral": 0,
       "negative": 15,
-      "count": 21,
-      "region": "North America"
-    },
-    {
-      "source": "MarketWatch",
-      "positive": 14,
-      "neutral": 2,
-      "negative": 4,
       "count": 20,
       "region": "North America"
     },
@@ -216,10 +208,18 @@
       "region": "North America"
     },
     {
+      "source": "MarketWatch",
+      "positive": 12,
+      "neutral": 1,
+      "negative": 4,
+      "count": 17,
+      "region": "North America"
+    },
+    {
       "source": "NPR",
-      "positive": 6,
+      "positive": 5,
       "neutral": 0,
-      "negative": 11,
+      "negative": 12,
       "count": 17,
       "region": "North America"
     },
@@ -264,20 +264,20 @@
       "region": "Africa"
     },
     {
+      "source": "RT News",
+      "positive": 5,
+      "neutral": 1,
+      "negative": 6,
+      "count": 12,
+      "region": "North America"
+    },
+    {
       "source": "Middle East Eye",
       "positive": 5,
       "neutral": 0,
       "negative": 7,
       "count": 12,
       "region": "Middle East"
-    },
-    {
-      "source": "RT News",
-      "positive": 5,
-      "neutral": 1,
-      "negative": 5,
-      "count": 11,
-      "region": "North America"
     },
     {
       "source": "The Verge",
@@ -331,45 +331,45 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 274,
+      "positive": 265,
       "neutral": 87,
-      "negative": 410,
-      "count": 771
+      "negative": 409,
+      "count": 761
     },
     {
       "region": "Asia-Pacific",
-      "positive": 202,
+      "positive": 204,
       "neutral": 73,
-      "negative": 181,
-      "count": 456
+      "negative": 178,
+      "count": 455
     },
     {
       "region": "Europe",
       "positive": 163,
-      "neutral": 58,
-      "negative": 153,
-      "count": 374
+      "neutral": 59,
+      "negative": 151,
+      "count": 373
     },
     {
       "region": "Middle East",
-      "positive": 30,
+      "positive": 32,
       "neutral": 12,
-      "negative": 130,
-      "count": 172
+      "negative": 129,
+      "count": 173
     },
     {
       "region": "Global",
-      "positive": 59,
-      "neutral": 22,
+      "positive": 58,
+      "neutral": 20,
       "negative": 46,
-      "count": 127
+      "count": 124
     },
     {
       "region": "Africa",
-      "positive": 15,
+      "positive": 14,
       "neutral": 0,
       "negative": 6,
-      "count": 21
+      "count": 20
     },
     {
       "region": "South America",
@@ -382,52 +382,52 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 187,
-      "neutral": 51,
-      "negative": 252,
-      "count": 490
+      "positive": 185,
+      "neutral": 49,
+      "negative": 250,
+      "count": 484
     },
     {
       "topic": "Politics",
-      "positive": 151,
+      "positive": 149,
       "neutral": 41,
-      "negative": 165,
-      "count": 357
+      "negative": 164,
+      "count": 354
     },
     {
       "topic": "Other",
-      "positive": 113,
-      "neutral": 94,
-      "negative": 138,
+      "positive": 115,
+      "neutral": 95,
+      "negative": 135,
       "count": 345
     },
     {
       "topic": "World",
-      "positive": 66,
+      "positive": 63,
       "neutral": 14,
-      "negative": 142,
-      "count": 222
+      "negative": 143,
+      "count": 220
     },
     {
       "topic": "Sports",
-      "positive": 102,
+      "positive": 104,
       "neutral": 16,
-      "negative": 63,
-      "count": 181
+      "negative": 62,
+      "count": 182
     },
     {
       "topic": "Entertainment",
       "positive": 49,
       "neutral": 8,
-      "negative": 48,
-      "count": 105
+      "negative": 47,
+      "count": 104
     },
     {
       "topic": "Business",
-      "positive": 33,
+      "positive": 30,
       "neutral": 12,
       "negative": 38,
-      "count": 83
+      "count": 80
     },
     {
       "topic": "Health",
@@ -438,10 +438,10 @@
     },
     {
       "topic": "Regional",
-      "positive": 11,
+      "positive": 10,
       "neutral": 5,
       "negative": 28,
-      "count": 44
+      "count": 43
     },
     {
       "topic": "Local",
@@ -556,6 +556,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "Substitutes step up as Chelsea snatch 3-2 comeback win over West Ham",
+      "url": "https://www.channelnewsasia.com/sport/substitutes-step-up-chelsea-snatch-3-2-comeback-win-over-west-ham-5898576",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2026-02-01T03:44:17+08:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Waymo seeking about $16 billion near $110 billion valuation, Bloomberg News reports",
       "url": "https://www.channelnewsasia.com/business/waymo-seeking-about-16-billion-near-110-billion-valuation-bloomberg-news-reports-5898566",
       "source": "Channel News Asia",
@@ -602,6 +610,14 @@
       "region": "Global",
       "published": "2026-02-01T02:02:48+08:00",
       "sentiment": "neutral"
+    },
+    {
+      "title": "Bitcoin falls below $80,000, continuing decline as liquidity worries mount",
+      "url": "https://www.channelnewsasia.com/business/bitcoin-falls-below-80000-continuing-decline-liquidity-worries-mount-5898521",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2026-02-01T02:02:48+08:00",
+      "sentiment": "negative"
     },
     {
       "title": "'My team lead is Indian': US engineer slams MAGA supporter for calling Indian workers 'incompetent'",
@@ -1242,22 +1258,6 @@
       "region": "Europe",
       "published": "2026-01-31T21:47:39+01:00",
       "sentiment": "negative"
-    },
-    {
-      "title": "CM launches \u2018Fair Share, Stronger Federalism\u2019 campaign",
-      "url": "https://www.thehindu.com/news/national/karnataka/cm-launches-fair-share-stronger-federalism-campaign/article70575177.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-01-31T21:47:10+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "'Victory for sport': When Chennai stood up for Pakistan after India lost Test match",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/victory-for-sport-when-chennai-applauded-pakistan-as-india-lost-test-after-a-sachin-tendulkar-masterclass/articleshow/127823227.cms",
-      "source": "Times of India",
-      "region": "North America",
-      "published": "2026-01-31T21:46:05+05:30",
-      "sentiment": "positive"
     }
   ]
 }
