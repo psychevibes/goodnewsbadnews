@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-02-01T15:50:16.413852+00:00",
+  "generated_at": "2026-02-01T16:32:05.793024+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 867,
-    "neutral": 274,
-    "negative": 752
+    "positive": 875,
+    "neutral": 267,
+    "negative": 747
   },
   "by_publication": [
     {
       "source": "The Hindu",
-      "positive": 148,
+      "positive": 146,
       "neutral": 74,
-      "negative": 103,
-      "count": 325,
-      "region": "Asia-Pacific"
+      "negative": 99,
+      "count": 319,
+      "region": "North America"
     },
     {
       "source": "Independent",
       "positive": 126,
       "neutral": 28,
-      "negative": 103,
-      "count": 257,
-      "region": "Europe"
+      "negative": 100,
+      "count": 254,
+      "region": "North America"
     },
     {
       "source": "Times of India",
-      "positive": 65,
-      "neutral": 18,
+      "positive": 66,
+      "neutral": 17,
       "negative": 39,
       "count": 122,
       "region": "Asia-Pacific"
     },
     {
       "source": "Fox News",
-      "positive": 39,
+      "positive": 38,
       "neutral": 6,
-      "negative": 53,
-      "count": 98,
+      "negative": 55,
+      "count": 99,
       "region": "North America"
     },
     {
@@ -49,26 +49,34 @@
     },
     {
       "source": "Channel News Asia",
-      "positive": 33,
+      "positive": 34,
       "neutral": 16,
-      "negative": 31,
-      "count": 80,
-      "region": "Europe"
+      "negative": 34,
+      "count": 84,
+      "region": "Global"
     },
     {
       "source": "BBC Sport",
-      "positive": 53,
+      "positive": 57,
       "neutral": 7,
-      "negative": 17,
-      "count": 77,
-      "region": "Asia-Pacific"
+      "negative": 19,
+      "count": 83,
+      "region": "Europe"
     },
     {
       "source": "Sky Sports",
-      "positive": 40,
-      "neutral": 17,
-      "negative": 16,
-      "count": 73,
+      "positive": 43,
+      "neutral": 13,
+      "negative": 13,
+      "count": 69,
+      "region": "Europe"
+    },
+    {
+      "source": "The Guardian",
+      "positive": 29,
+      "neutral": 2,
+      "negative": 33,
+      "count": 64,
       "region": "Europe"
     },
     {
@@ -80,67 +88,51 @@
       "region": "Africa"
     },
     {
-      "source": "BBC News",
-      "positive": 24,
-      "neutral": 11,
-      "negative": 28,
+      "source": "CBS News",
+      "positive": 28,
+      "neutral": 6,
+      "negative": 29,
       "count": 63,
-      "region": "Europe"
+      "region": "South America"
     },
     {
       "source": "Al Jazeera English",
-      "positive": 16,
-      "neutral": 13,
+      "positive": 17,
+      "neutral": 12,
       "negative": 33,
       "count": 62,
-      "region": "Asia-Pacific"
+      "region": "Europe"
     },
     {
-      "source": "CBS News",
-      "positive": 26,
-      "neutral": 6,
+      "source": "BBC News",
+      "positive": 22,
+      "neutral": 10,
       "negative": 29,
       "count": 61,
-      "region": "North America"
-    },
-    {
-      "source": "The Guardian",
-      "positive": 24,
-      "neutral": 2,
-      "negative": 33,
-      "count": 59,
-      "region": "North America"
+      "region": "Europe"
     },
     {
       "source": "France 24",
-      "positive": 9,
+      "positive": 8,
       "neutral": 5,
-      "negative": 33,
-      "count": 47,
+      "negative": 30,
+      "count": 43,
       "region": "Europe"
     },
     {
       "source": "ESPN",
       "positive": 26,
-      "neutral": 10,
+      "neutral": 11,
       "negative": 2,
-      "count": 38,
+      "count": 39,
       "region": "Global"
     },
     {
-      "source": "Times of Israel",
-      "positive": 6,
-      "neutral": 4,
-      "negative": 24,
-      "count": 34,
-      "region": "Middle East"
-    },
-    {
       "source": "NBC News",
-      "positive": 17,
-      "neutral": 5,
-      "negative": 11,
-      "count": 33,
+      "positive": 19,
+      "neutral": 6,
+      "negative": 12,
+      "count": 37,
       "region": "North America"
     },
     {
@@ -150,6 +142,14 @@
       "negative": 12,
       "count": 33,
       "region": "Middle East"
+    },
+    {
+      "source": "Times of Israel",
+      "positive": 6,
+      "neutral": 4,
+      "negative": 22,
+      "count": 32,
+      "region": "Europe"
     },
     {
       "source": "Straits Times",
@@ -187,9 +187,9 @@
       "source": "NPR",
       "positive": 7,
       "neutral": 1,
-      "negative": 9,
-      "count": 17,
-      "region": "Asia-Pacific"
+      "negative": 10,
+      "count": 18,
+      "region": "North America"
     },
     {
       "source": "Wired",
@@ -200,6 +200,14 @@
       "region": "Global"
     },
     {
+      "source": "RT News",
+      "positive": 3,
+      "neutral": 2,
+      "negative": 10,
+      "count": 15,
+      "region": "North America"
+    },
+    {
       "source": "Financial Times",
       "positive": 3,
       "neutral": 4,
@@ -208,20 +216,12 @@
       "region": "Middle East"
     },
     {
-      "source": "Daily News Egypt",
-      "positive": 12,
-      "neutral": 1,
-      "negative": 2,
-      "count": 15,
-      "region": "North America"
-    },
-    {
-      "source": "RT News",
-      "positive": 3,
-      "neutral": 2,
-      "negative": 9,
+      "source": "CNBC",
+      "positive": 6,
+      "neutral": 4,
+      "negative": 4,
       "count": 14,
-      "region": "Europe"
+      "region": "North America"
     },
     {
       "source": "Sky News",
@@ -240,36 +240,36 @@
       "region": "North America"
     },
     {
-      "source": "CNBC",
-      "positive": 5,
-      "neutral": 4,
-      "negative": 4,
+      "source": "Daily News Egypt",
+      "positive": 11,
+      "neutral": 0,
+      "negative": 2,
       "count": 13,
       "region": "North America"
     },
     {
       "source": "ABC News",
-      "positive": 6,
+      "positive": 5,
       "neutral": 1,
-      "negative": 6,
-      "count": 13,
+      "negative": 5,
+      "count": 11,
       "region": "North America"
     },
     {
-      "source": "Irish Times",
-      "positive": 3,
-      "neutral": 1,
-      "negative": 6,
-      "count": 10,
-      "region": "Global"
-    },
-    {
       "source": "Telegraph",
-      "positive": 6,
+      "positive": 5,
       "neutral": 3,
       "negative": 1,
-      "count": 10,
+      "count": 9,
       "region": "Europe"
+    },
+    {
+      "source": "Irish Times",
+      "positive": 2,
+      "neutral": 0,
+      "negative": 6,
+      "count": 8,
+      "region": "Global"
     },
     {
       "source": "Middle East Eye",
@@ -296,14 +296,6 @@
       "region": "North America"
     },
     {
-      "source": "Washington Post",
-      "positive": 2,
-      "neutral": 0,
-      "negative": 3,
-      "count": 5,
-      "region": "Middle East"
-    },
-    {
       "source": "MarketWatch",
       "positive": 2,
       "neutral": 0,
@@ -326,129 +318,137 @@
       "negative": 1,
       "count": 3,
       "region": "Global"
+    },
+    {
+      "source": "Washington Post",
+      "positive": 0,
+      "neutral": 0,
+      "negative": 3,
+      "count": 3,
+      "region": "Middle East"
     }
   ],
   "by_region": [
     {
       "region": "North America",
-      "positive": 320,
-      "neutral": 79,
-      "negative": 313,
-      "count": 712
+      "positive": 324,
+      "neutral": 80,
+      "negative": 314,
+      "count": 718
     },
     {
       "region": "Asia-Pacific",
-      "positive": 248,
-      "neutral": 89,
-      "negative": 168,
-      "count": 505
+      "positive": 242,
+      "neutral": 86,
+      "negative": 169,
+      "count": 497
     },
     {
       "region": "Europe",
-      "positive": 189,
-      "neutral": 64,
+      "positive": 199,
+      "neutral": 59,
       "negative": 137,
-      "count": 390
+      "count": 395
     },
     {
       "region": "Middle East",
       "positive": 35,
       "neutral": 16,
-      "negative": 91,
-      "count": 142
+      "negative": 83,
+      "count": 134
     },
     {
       "region": "Global",
       "positive": 58,
       "neutral": 23,
-      "negative": 36,
-      "count": 117
+      "negative": 37,
+      "count": 118
     },
     {
       "region": "Africa",
-      "positive": 14,
+      "positive": 12,
       "neutral": 0,
       "negative": 5,
-      "count": 19
+      "count": 17
     },
     {
       "region": "South America",
-      "positive": 3,
+      "positive": 5,
       "neutral": 3,
       "negative": 2,
-      "count": 8
+      "count": 10
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 223,
+      "positive": 224,
       "neutral": 58,
-      "negative": 181,
-      "count": 462
+      "negative": 177,
+      "count": 459
     },
     {
       "topic": "Politics",
-      "positive": 157,
-      "neutral": 46,
+      "positive": 161,
+      "neutral": 45,
       "negative": 156,
-      "count": 359
+      "count": 362
     },
     {
       "topic": "Other",
-      "positive": 140,
-      "neutral": 81,
-      "negative": 126,
-      "count": 347
-    },
-    {
-      "topic": "World",
-      "positive": 63,
-      "neutral": 20,
-      "negative": 109,
-      "count": 192
+      "positive": 141,
+      "neutral": 77,
+      "negative": 125,
+      "count": 343
     },
     {
       "topic": "Sports",
-      "positive": 114,
+      "positive": 115,
       "neutral": 23,
-      "negative": 45,
-      "count": 182
+      "negative": 48,
+      "count": 186
+    },
+    {
+      "topic": "World",
+      "positive": 61,
+      "neutral": 19,
+      "negative": 106,
+      "count": 186
     },
     {
       "topic": "Entertainment",
       "positive": 59,
-      "neutral": 12,
-      "negative": 36,
+      "neutral": 11,
+      "negative": 37,
       "count": 107
     },
     {
       "topic": "Business",
-      "positive": 54,
+      "positive": 56,
       "neutral": 13,
-      "negative": 18,
-      "count": 85
+      "negative": 19,
+      "count": 88
     },
     {
       "topic": "Health",
-      "positive": 19,
-      "neutral": 9,
-      "negative": 23,
-      "count": 51
+      "positive": 20,
+      "neutral": 8,
+      "negative": 24,
+      "count": 52
     },
     {
       "topic": "Regional",
       "positive": 15,
       "neutral": 4,
-      "negative": 31,
-      "count": 50
+      "negative": 30,
+      "count": 49
     },
     {
       "topic": "Local",
       "positive": 12,
-      "neutral": 4,
-      "negative": 22,
-      "count": 38
+      "neutral": 5,
+      "negative": 20,
+      "count": 37
     },
     {
       "topic": "Science",
@@ -460,11 +460,51 @@
   ],
   "sample_headlines": [
     {
+      "title": "Aston Villa slump to 1-0 defeat by 10-man Brentford",
+      "url": "https://www.channelnewsasia.com/sport/aston-villa-slump-1-0-defeat-10-man-brentford-5899516",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2026-02-02T00:19:43+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Man Utd continue winning run under Carrick after late 3-2 win over Fulham",
+      "url": "https://www.channelnewsasia.com/sport/man-utd-continue-winning-run-under-carrick-after-late-3-2-win-over-fulham-5899501",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2026-02-02T00:16:46+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "IOC confident Milano-Cortina Games will be ready despite last-gasp push",
+      "url": "https://www.channelnewsasia.com/sport/ioc-confident-milano-cortina-games-will-be-ready-despite-last-gasp-push-5899491",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2026-02-02T00:13:00+08:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Mbappe's late penalty edges Real Madrid past Rayo Vallecano",
       "url": "https://www.channelnewsasia.com/sport/mbappes-late-penalty-edges-real-madrid-past-rayo-vallecano-5899446",
       "source": "Channel News Asia",
       "region": "Europe",
       "published": "2026-02-01T23:22:51+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Mbappe's late penalty edges Real Madrid past nine-man Rayo Vallecano",
+      "url": "https://www.channelnewsasia.com/sport/mbappes-late-penalty-edges-real-madrid-past-nine-man-rayo-vallecano-5899446",
+      "source": "Channel News Asia",
+      "region": "Europe",
+      "published": "2026-02-01T23:22:51+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Pakistan to boycott T20 World Cup match against India",
+      "url": "https://www.channelnewsasia.com/sport/pakistan-boycott-t20-world-cup-match-against-india-5899451",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2026-02-01T23:22:09+08:00",
       "sentiment": "negative"
     },
     {
@@ -508,12 +548,100 @@
       "sentiment": "negative"
     },
     {
+      "title": "Union Budget 2026 does little to reduce out-of-pocket expenses, medical inflation: experts",
+      "url": "https://www.thehindu.com/business/budget/union-budget-2026-does-little-to-reduce-out-of-pocket-expenses-medical-inflation-experts/article70578874.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2026-02-01T21:47:24+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Union Budget 2026: A budget for difficult times",
+      "url": "https://www.thehindu.com/business/budget/union-budget-2026-a-budget-for-difficult-times/article70579302.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2026-02-01T21:45:45+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Textile industry welcomes integrated package announced in the Budget",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/textile-industry-welcomes-integrated-package-announced-in-the-budget/article70579884.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2026-02-01T21:44:15+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "TDP keeping ghee issue alive despite clean SIT report, says Chevireddy",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-keeping-ghee-issue-alive-despite-clean-sit-report-says-chevireddy/article70579668.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-02-01T21:42:13+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "VACB seizes unaccounted money from Bevco staff in Ernakulam",
+      "url": "https://www.thehindu.com/news/national/kerala/vacb-seizes-unaccounted-money-from-bevco-staff-in-ernakulam/article70579587.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-02-01T21:36:52+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Karnataka is set to lose about \u20b910,000 to \u20b915,000 crore due to 16th FC\u2019s recommendation, says Siddaramaiah",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-is-set-to-lose-about-10000-to-15000-crore-due-to-16th-fcs-recommendation-says-siddaramaiah/article70579266.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-02-01T21:36:00+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Ukraine war talks delayed to Wednesday, Zelenskyy says",
       "url": "https://www.channelnewsasia.com/world/ukraine-war-talks-delayed-wednesday-zelenskyy-says-5899346",
       "source": "Channel News Asia",
       "region": "Europe",
       "published": "2026-02-01T21:30:45+08:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "Budget draws mixed reactions from common people",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/budget-draws-mixed-reactions-from-common-people/article70579590.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2026-02-01T21:24:05+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "BRS cadre stage protests across Telangana against SIT examination of KCR",
+      "url": "https://www.thehindu.com/news/national/telangana/brs-cadre-stage-protests-across-telangana-against-sit-examination-of-kcr/article70579670.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2026-02-01T21:23:03+05:30",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Budget 2026: Govt. plans employment boost through tourism sector with upskilling of guides, Buddhist circuit in Northeast",
+      "url": "https://www.thehindu.com/business/budget/budget-2026-govt-plans-employment-boost-through-tourism-sector-with-upskilling-of-guides-buddhist-circuit-in-northeast/article70578430.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-02-01T21:20:57+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "A big disappointment for Karnataka says Minister",
+      "url": "https://www.thehindu.com/news/national/karnataka/a-big-disappointment-for-karnataka-says-minister/article70579140.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-02-01T21:20:49+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "'Alternative govt': Tharoor on his vision of Cong's role; dismisses rift rumours",
+      "url": "https://timesofindia.indiatimes.com/india/were-on-same-page-shashi-tharoor-dismisses-rift-with-congress-ahead-of-kerala-polls/articleshow/127844077.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2026-02-01T21:17:11+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "Tadoba\u2019s tiger swims two rivers, kills three cattle in A.P.",
@@ -545,6 +673,14 @@
       "source": "The Hindu",
       "region": "Asia-Pacific",
       "published": "2026-02-01T21:13:24+05:30",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Gold, silver prices in free fall! 'Overspeeding leads to crash'",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-prices-in-free-fall-silver-hits-lower-circuit-at-rs-2-65-lakh-in-futures-trade-overspeeding-leads-to-a-crash/articleshow/127844056.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2026-02-01T21:10:58+05:30",
       "sentiment": "positive"
     },
     {
@@ -1121,142 +1257,6 @@
       "source": "The Hindu",
       "region": "Asia-Pacific",
       "published": "2026-02-01T19:41:41+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "People-centric Budget with focus on MSMEs, infra, says Pawan Kalyan",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/people-centric-budget-with-focus-on-msmes-infra-says-pawan-kalyan/article70578313.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-02-01T19:40:16+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Muslim panel seeks suo motu action against Assam CM",
-      "url": "https://www.thehindu.com/news/national/telangana/muslim-panel-seeks-suo-motu-action-against-assam-cm/article70579133.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-02-01T19:38:48+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Kuppam model becomes Andhra Pradesh blueprint, says Chandrababu Naidu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kuppam-model-becomes-andhra-pradesh-blueprint-says-chandrababu-naidu/article70578563.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-02-01T19:38:43+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Kerala for All conclave: A different viewpoint on travel",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-for-all-conclave-a-different-viewpoint-on-travel/article70579049.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-02-01T19:37:25+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Union Budget is stable and balanced, says KKCCI",
-      "url": "https://www.thehindu.com/news/national/karnataka/union-budget-is-stable-and-balanced-says-kkcci/article70578324.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-02-01T19:37:05+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "CM Naidu hails Union Budget as forward-looking, balanced and a growth catalyst for Andhra Pradesh",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-hails-union-budget-as-forward-looking-balanced-and-a-growth-catalyst-for-ap/article70578201.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-02-01T19:36:19+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Yet another disappointing year for Telangana in Union Budget",
-      "url": "https://www.thehindu.com/news/national/telangana/yet-another-disappointing-year-for-telangana-in-union-budget/article70578461.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-02-01T19:36:06+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Budget gives strategic push to manufacturing sector",
-      "url": "https://www.thehindu.com/business/budget/the-hindu-viewpoint-on-union-budget-2026-by-puneet-dalmia-manufacturing-push/article70578630.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-02-01T19:35:04+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "CREDAI Hyderabad welcomes infrastructure push in Union Budget 2026-27, flags gaps in affordable housing support",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/credai-hyderabad-welcomes-infrastructure-push-in-union-budget-2026-27-flags-gaps-in-affordable-housing-support/article70578945.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-02-01T19:32:48+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Budget 2026-27 laid a roadmap for long-term economic growth: CII-A.P. and A.P. Chambers",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/budget-2026-27-laid-a-roadmap-for-long-term-economic-growth-cii-ap-and-ap-chambers/article70578724.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-02-01T19:31:23+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Union Budget: Turtle trails to be developed along Karnataka coast",
-      "url": "https://www.thehindu.com/news/national/karnataka/union-budget-turtle-trails-to-be-developed-along-karnataka-coast/article70577950.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-02-01T19:30:27+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Phone\u2011tapping probe stalled for two years, alleges Kishan Reddy",
-      "url": "https://www.thehindu.com/news/national/telangana/phone%E2%80%90tapping-probe-stalled-for-two-years-alleges-kishan-reddy/article70578766.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-02-01T19:28:07+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Union Budget 2026-27: Telangana doctors welcome pharma push; flag neglect of prevention and affordability",
-      "url": "https://www.thehindu.com/news/national/telangana/union-budget-2026-27-telangana-doctors-welcome-pharma-push-flag-neglect-of-prevention-and-affordability/article70578249.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-02-01T19:27:15+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "MP criticises Union Budget, claims it ignores key issues of Karnataka, Hassan",
-      "url": "https://www.thehindu.com/news/national/karnataka/mp-criticises-union-budget-claims-it-ignores-key-issues-of-karnataka-hassan/article70578963.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-02-01T19:26:39+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Union Budget 2026: VB-G RAM G gets \u20b995,692.31 crore; experts warn it falls far short of allocation needed to guarantee 125 workdays",
-      "url": "https://www.thehindu.com/business/budget/union-budget-viksit-bharat-guarantee-for-rozgar-and-ajeevika-mission/article70578073.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-02-01T19:25:53+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Three arrested as excise officials target ganja and illegal liquor trade in Hyderabad",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/three-arrested-as-excise-officials-target-ganja-and-illegal-liquor-trade-in-hyderabad/article70578734.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-02-01T19:25:39+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Stevenson outpoints Lopez to become a four-division world champion",
-      "url": "https://www.channelnewsasia.com/sport/stevenson-outpoints-lopez-become-four-division-world-champion-5899216",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2026-02-01T19:24:55+08:00",
       "sentiment": "positive"
     }
   ]
