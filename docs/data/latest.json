@@ -1,91 +1,83 @@
 {
-  "generated_at": "2026-02-07T22:57:03.825638+00:00",
+  "generated_at": "2026-02-07T23:31:22.287978+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 914,
-    "neutral": 270,
-    "negative": 814
+    "positive": 893,
+    "neutral": 273,
+    "negative": 811
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 123,
-      "neutral": 48,
-      "negative": 124,
-      "count": 295,
+      "positive": 120,
+      "neutral": 52,
+      "negative": 122,
+      "count": 294,
       "region": "Europe"
     },
     {
       "source": "The Hindu",
       "positive": 93,
-      "neutral": 72,
-      "negative": 90,
+      "neutral": 70,
+      "negative": 92,
       "count": 255,
-      "region": "Asia-Pacific"
+      "region": "North America"
     },
     {
       "source": "Times of India",
-      "positive": 88,
+      "positive": 85,
       "neutral": 9,
-      "negative": 56,
-      "count": 153,
+      "negative": 54,
+      "count": 148,
       "region": "Asia-Pacific"
     },
     {
       "source": "Channel News Asia",
-      "positive": 53,
-      "neutral": 26,
-      "negative": 33,
-      "count": 112,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "Fox News",
-      "positive": 37,
-      "neutral": 7,
-      "negative": 50,
-      "count": 94,
+      "positive": 56,
+      "neutral": 27,
+      "negative": 35,
+      "count": 118,
       "region": "North America"
     },
     {
       "source": "Australian Broadcasting Corporation",
       "positive": 38,
-      "neutral": 8,
-      "negative": 44,
-      "count": 90,
+      "neutral": 9,
+      "negative": 45,
+      "count": 92,
       "region": "Asia-Pacific"
+    },
+    {
+      "source": "Fox News",
+      "positive": 35,
+      "neutral": 6,
+      "negative": 48,
+      "count": 89,
+      "region": "North America"
     },
     {
       "source": "BBC Sport",
-      "positive": 55,
+      "positive": 53,
       "neutral": 5,
-      "negative": 25,
+      "negative": 27,
       "count": 85,
       "region": "Europe"
-    },
-    {
-      "source": "CBS News",
-      "positive": 44,
-      "neutral": 4,
-      "negative": 29,
-      "count": 77,
-      "region": "Asia-Pacific"
     },
     {
       "source": "Sky Sports",
       "positive": 32,
       "neutral": 16,
-      "negative": 23,
-      "count": 71,
+      "negative": 24,
+      "count": 72,
       "region": "Europe"
     },
     {
-      "source": "BBC News",
-      "positive": 26,
-      "neutral": 8,
-      "negative": 31,
-      "count": 65,
-      "region": "North America"
+      "source": "CBS News",
+      "positive": 38,
+      "neutral": 3,
+      "negative": 28,
+      "count": 69,
+      "region": "Asia-Pacific"
     },
     {
       "source": "The Guardian",
@@ -96,44 +88,36 @@
       "region": "North America"
     },
     {
-      "source": "Al Jazeera English",
+      "source": "BBC News",
       "positive": 23,
-      "neutral": 9,
+      "neutral": 8,
+      "negative": 31,
+      "count": 62,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "Al Jazeera English",
+      "positive": 21,
+      "neutral": 8,
       "negative": 28,
-      "count": 60,
-      "region": "Africa"
+      "count": 57,
+      "region": "North America"
     },
     {
       "source": "South China Morning Post",
       "positive": 29,
       "neutral": 1,
-      "negative": 25,
-      "count": 55,
+      "negative": 24,
+      "count": 54,
       "region": "Asia-Pacific"
     },
     {
       "source": "ESPN",
-      "positive": 27,
-      "neutral": 5,
-      "negative": 11,
-      "count": 43,
+      "positive": 29,
+      "neutral": 4,
+      "negative": 9,
+      "count": 42,
       "region": "Global"
-    },
-    {
-      "source": "Mashable",
-      "positive": 31,
-      "neutral": 5,
-      "negative": 5,
-      "count": 41,
-      "region": "North America"
-    },
-    {
-      "source": "Bloomberg",
-      "positive": 20,
-      "neutral": 2,
-      "negative": 17,
-      "count": 39,
-      "region": "North America"
     },
     {
       "source": "France 24",
@@ -144,11 +128,35 @@
       "region": "North America"
     },
     {
-      "source": "Times of Israel",
-      "positive": 16,
+      "source": "Mashable",
+      "positive": 29,
       "neutral": 4,
-      "negative": 15,
-      "count": 35,
+      "negative": 5,
+      "count": 38,
+      "region": "North America"
+    },
+    {
+      "source": "NBC News",
+      "positive": 16,
+      "neutral": 6,
+      "negative": 11,
+      "count": 33,
+      "region": "North America"
+    },
+    {
+      "source": "Bloomberg",
+      "positive": 15,
+      "neutral": 2,
+      "negative": 16,
+      "count": 33,
+      "region": "North America"
+    },
+    {
+      "source": "Times of Israel",
+      "positive": 15,
+      "neutral": 3,
+      "negative": 14,
+      "count": 32,
       "region": "Middle East"
     },
     {
@@ -168,14 +176,6 @@
       "region": "Middle East"
     },
     {
-      "source": "NBC News",
-      "positive": 11,
-      "neutral": 1,
-      "negative": 11,
-      "count": 23,
-      "region": "North America"
-    },
-    {
       "source": "CNBC",
       "positive": 12,
       "neutral": 4,
@@ -184,20 +184,20 @@
       "region": "North America"
     },
     {
-      "source": "New York Times",
-      "positive": 10,
-      "neutral": 3,
-      "negative": 8,
-      "count": 21,
-      "region": "North America"
-    },
-    {
       "source": "Deutsche Welle",
       "positive": 3,
       "neutral": 0,
       "negative": 18,
       "count": 21,
-      "region": "Middle East"
+      "region": "North America"
+    },
+    {
+      "source": "New York Times",
+      "positive": 9,
+      "neutral": 3,
+      "negative": 8,
+      "count": 20,
+      "region": "North America"
     },
     {
       "source": "Euronews",
@@ -217,10 +217,10 @@
     },
     {
       "source": "Telegraph",
-      "positive": 6,
+      "positive": 5,
       "neutral": 2,
       "negative": 11,
-      "count": 19,
+      "count": 18,
       "region": "Europe"
     },
     {
@@ -248,6 +248,14 @@
       "region": "North America"
     },
     {
+      "source": "NPR",
+      "positive": 3,
+      "neutral": 2,
+      "negative": 7,
+      "count": 12,
+      "region": "North America"
+    },
+    {
       "source": "RT News",
       "positive": 3,
       "neutral": 0,
@@ -256,19 +264,19 @@
       "region": "Europe"
     },
     {
-      "source": "NPR",
-      "positive": 3,
-      "neutral": 2,
-      "negative": 6,
-      "count": 11,
-      "region": "North America"
-    },
-    {
       "source": "ABC News",
       "positive": 5,
       "neutral": 2,
       "negative": 4,
       "count": 11,
+      "region": "North America"
+    },
+    {
+      "source": "Financial Times",
+      "positive": 3,
+      "neutral": 2,
+      "negative": 5,
+      "count": 10,
       "region": "North America"
     },
     {
@@ -280,20 +288,20 @@
       "region": "North America"
     },
     {
-      "source": "Financial Times",
-      "positive": 4,
-      "neutral": 2,
-      "negative": 4,
-      "count": 10,
-      "region": "Asia-Pacific"
-    },
-    {
       "source": "Wired",
       "positive": 7,
       "neutral": 0,
       "negative": 2,
       "count": 9,
       "region": "Global"
+    },
+    {
+      "source": "Middle East Eye",
+      "positive": 4,
+      "neutral": 0,
+      "negative": 3,
+      "count": 7,
+      "region": "Middle East"
     },
     {
       "source": "The Verge",
@@ -304,14 +312,6 @@
       "region": "North America"
     },
     {
-      "source": "Middle East Eye",
-      "positive": 3,
-      "neutral": 0,
-      "negative": 3,
-      "count": 6,
-      "region": "Middle East"
-    },
-    {
       "source": "Washington Post",
       "positive": 2,
       "neutral": 0,
@@ -320,57 +320,57 @@
       "region": "Europe"
     },
     {
-      "source": "Ars Technica",
-      "positive": 1,
-      "neutral": 0,
-      "negative": 2,
-      "count": 3,
-      "region": "Global"
-    },
-    {
       "source": "Buenos Aires Herald",
       "positive": 1,
       "neutral": 0,
       "negative": 1,
       "count": 2,
       "region": "South America"
+    },
+    {
+      "source": "Ars Technica",
+      "positive": 1,
+      "neutral": 0,
+      "negative": 1,
+      "count": 2,
+      "region": "Global"
     }
   ],
   "by_region": [
     {
       "region": "North America",
-      "positive": 345,
-      "neutral": 75,
-      "negative": 339,
-      "count": 759
+      "positive": 329,
+      "neutral": 80,
+      "negative": 338,
+      "count": 747
     },
     {
       "region": "Europe",
-      "positive": 234,
+      "positive": 232,
       "neutral": 73,
-      "negative": 210,
-      "count": 517
+      "negative": 213,
+      "count": 518
     },
     {
       "region": "Asia-Pacific",
       "positive": 182,
       "neutral": 87,
-      "negative": 174,
-      "count": 443
+      "negative": 172,
+      "count": 441
     },
     {
       "region": "Global",
-      "positive": 96,
-      "neutral": 21,
-      "negative": 50,
-      "count": 167
+      "positive": 95,
+      "neutral": 20,
+      "negative": 48,
+      "count": 163
     },
     {
       "region": "Middle East",
-      "positive": 47,
-      "neutral": 13,
-      "negative": 34,
-      "count": 94
+      "positive": 46,
+      "neutral": 12,
+      "negative": 33,
+      "count": 91
     },
     {
       "region": "Africa",
@@ -381,92 +381,124 @@
     },
     {
       "region": "South America",
-      "positive": 5,
+      "positive": 4,
       "neutral": 0,
       "negative": 3,
-      "count": 8
+      "count": 7
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 199,
-      "neutral": 59,
-      "negative": 204,
-      "count": 462
+      "positive": 193,
+      "neutral": 58,
+      "negative": 200,
+      "count": 451
     },
     {
       "topic": "Politics",
-      "positive": 143,
-      "neutral": 53,
-      "negative": 177,
-      "count": 373
+      "positive": 141,
+      "neutral": 49,
+      "negative": 171,
+      "count": 361
     },
     {
       "topic": "Other",
-      "positive": 131,
-      "neutral": 71,
-      "negative": 127,
-      "count": 329
+      "positive": 128,
+      "neutral": 73,
+      "negative": 131,
+      "count": 332
     },
     {
       "topic": "Sports",
       "positive": 216,
-      "neutral": 41,
-      "negative": 65,
-      "count": 322
+      "neutral": 44,
+      "negative": 66,
+      "count": 326
     },
     {
       "topic": "World",
-      "positive": 61,
+      "positive": 60,
       "neutral": 18,
-      "negative": 97,
-      "count": 176
+      "negative": 95,
+      "count": 173
     },
     {
       "topic": "Business",
-      "positive": 71,
-      "neutral": 5,
-      "negative": 37,
-      "count": 113
+      "positive": 65,
+      "neutral": 7,
+      "negative": 39,
+      "count": 111
     },
     {
       "topic": "Health",
-      "positive": 20,
+      "positive": 21,
       "neutral": 3,
       "negative": 49,
-      "count": 72
+      "count": 73
     },
     {
       "topic": "Entertainment",
-      "positive": 40,
+      "positive": 39,
       "neutral": 9,
-      "negative": 19,
+      "negative": 20,
       "count": 68
     },
     {
       "topic": "Regional",
       "positive": 14,
       "neutral": 4,
-      "negative": 21,
-      "count": 39
+      "negative": 19,
+      "count": 37
     },
     {
       "topic": "Local",
-      "positive": 11,
-      "neutral": 3,
-      "negative": 10,
+      "positive": 8,
+      "neutral": 4,
+      "negative": 12,
       "count": 24
     },
     {
       "topic": "Science",
       "positive": 8,
       "neutral": 4,
-      "negative": 8,
-      "count": 20
+      "negative": 9,
+      "count": 21
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Ice hockey-Spooner savours first score for Canada after injury recovery",
+      "url": "https://www.channelnewsasia.com/sport/ice-hockey-spooner-savours-first-score-canada-after-injury-recovery-5915366",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2026-02-08T07:27:54+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Takaichi tipped for big win as Japan votes",
+      "url": "https://www.channelnewsasia.com/east-asia/japan-elections-sanae-takaichi-polls-open-5915326",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2026-02-08T07:03:00+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Figure-skating-Once a child prodigy, Canada's Gogolev makes memorable Games debut",
+      "url": "https://www.channelnewsasia.com/sport/figure-skating-once-child-prodigy-canadas-gogolev-makes-memorable-games-debut-5915336",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2026-02-08T06:56:01+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Dorsey\u2019s Block cutting up to 10% of staff, Bloomberg News reports",
+      "url": "https://www.channelnewsasia.com/business/dorseys-block-cutting-up-10-staff-bloomberg-news-reports-5915301",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2026-02-08T06:19:23+08:00",
+      "sentiment": "negative"
+    },
     {
       "title": "Figure Skating-Japan's Kagiyama channels rivalry with Malinin to grab Olympic spotlight",
       "url": "https://www.channelnewsasia.com/sport/figure-skating-japans-kagiyama-channels-rivalry-malinin-grab-olympic-spotlight-5915296",
@@ -524,10 +556,26 @@
       "sentiment": "positive"
     },
     {
+      "title": "Thailand Election 2026: What to watch out for on polling day and beyond?",
+      "url": "https://www.channelnewsasia.com/asia/thailand-election-bhumjaithai-pheu-thai-people-party-what-know-shinawatra-5912341",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2026-02-08T06:00:00+08:00",
+      "sentiment": "positive"
+    },
+    {
       "title": "Figure Skating\u2013Grassl confident that Italians can push for bronze in team event",
       "url": "https://www.channelnewsasia.com/sport/figure-skating-grassl-confident-italians-can-push-bronze-in-team-event-5915261",
       "source": "Channel News Asia",
       "region": "North America",
+      "published": "2026-02-08T05:51:10+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Figure Skating\u2013Italy confident about medal prospect in team event",
+      "url": "https://www.channelnewsasia.com/sport/figure-skating-italy-confident-about-medal-prospect-in-team-event-5915261",
+      "source": "Channel News Asia",
+      "region": "Europe",
       "published": "2026-02-08T05:51:10+08:00",
       "sentiment": "positive"
     },
@@ -660,6 +708,14 @@
       "sentiment": "neutral"
     },
     {
+      "title": "\u2018Humiliating\u2019: Allahabad High Court sets aside placard punishment handed to Noida varsity student",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/humiliating-allahabad-high-court-sets-aside-placard-punishment-handed-to-noida-varsity-student/article70605445.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2026-02-08T03:51:10+05:30",
+      "sentiment": "negative"
+    },
+    {
       "title": "Ski Jumping-Stroem soars to Olympic glory in Predazzo thriller over Prevc",
       "url": "https://www.channelnewsasia.com/sport/ski-jumping-stroem-soars-olympic-glory-in-predazzo-thriller-over-prevc-5915176",
       "source": "Channel News Asia",
@@ -674,6 +730,14 @@
       "region": "Europe",
       "published": "2026-02-08T03:43:50+08:00",
       "sentiment": "positive"
+    },
+    {
+      "title": "Mysterious gas leak causes panic in Jammu; probe launched to identify nature of substance",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/gas-leak-causes-panic-in-jammu-probe-launched/article70605441.ece",
+      "source": "The Hindu",
+      "region": "North America",
+      "published": "2026-02-08T03:42:32+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Trade deal: US whiskey, wine unlikely to give headache to Indian cos",
@@ -1202,70 +1266,6 @@
       "region": "North America",
       "published": "2026-02-08T00:03:28+08:00",
       "sentiment": "neutral"
-    },
-    {
-      "title": "Forgetting Hindu sentiments led to Partition: RSS chief Mohan Bhagwat",
-      "url": "https://www.thehindu.com/news/national/forgetting-hindu-sentiments-led-to-partition-rss-chief-mohan-bhagwat/article70605105.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-02-07T23:49:20+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Budget allocates \u20b930 crore for SMA treatment",
-      "url": "https://www.thehindu.com/news/national/kerala/budget-allocates-30-crore-for-sma-treatment/article70604916.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-02-07T23:44:40+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Two killed, five injured in car crash on ORR near Pocharam",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/two-killed-five-injured-in-car-crash-on-orr-near-pocharam/article70605226.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-02-07T23:35:00+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Alpine skiing-'King of Bormio' Paris finally clinches Olympic dream as Italy claim two downhill medals",
-      "url": "https://www.channelnewsasia.com/sport/alpine-skiing-king-bormio-paris-finally-clinches-olympic-dream-italy-claim-two-downhill-medals-5914901",
-      "source": "Channel News Asia",
-      "region": "Europe",
-      "published": "2026-02-07T23:30:45+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Information has been weaponised: K.R. Meera",
-      "url": "https://www.thehindu.com/news/national/kerala/information-has-been-weaponised-kr-meera/article70605055.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-02-07T23:29:56+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Watch: Sportscene Scottish Cup highlights",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "region": "Europe",
-      "published": "2026-02-07T23:27:20+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "International symposium on Parkinson\u2019s disease in Thiruvananthapuram",
-      "url": "https://www.thehindu.com/news/national/kerala/international-symposium-on-parkinsons-disease-in-thiruvananthapuram/article70604984.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-02-07T23:24:45+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Sabari rail: govt. steps rekindle hopes among people along proposed corridor",
-      "url": "https://www.thehindu.com/news/national/kerala/sabari-rail-govt-steps-rekindle-hopes-among-people-along-proposed-corridor/article70604969.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-02-07T23:24:41+05:30",
-      "sentiment": "positive"
     }
   ]
 }
