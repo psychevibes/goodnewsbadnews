@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-02-15T21:26:53.006177+00:00",
+  "generated_at": "2026-02-15T21:50:02.754625+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 880,
-    "neutral": 256,
-    "negative": 658
+    "positive": 881,
+    "neutral": 255,
+    "negative": 652
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 127,
-      "neutral": 34,
-      "negative": 95,
-      "count": 256,
+      "positive": 126,
+      "neutral": 33,
+      "negative": 96,
+      "count": 255,
       "region": "North America"
     },
     {
@@ -27,8 +27,8 @@
       "source": "Times of India",
       "positive": 62,
       "neutral": 15,
-      "negative": 54,
-      "count": 131,
+      "negative": 53,
+      "count": 130,
       "region": "North America"
     },
     {
@@ -37,62 +37,62 @@
       "neutral": 39,
       "negative": 16,
       "count": 110,
-      "region": "North America"
+      "region": "Europe"
     },
     {
       "source": "Australian Broadcasting Corporation",
       "positive": 35,
       "neutral": 14,
-      "negative": 46,
-      "count": 95,
+      "negative": 45,
+      "count": 94,
       "region": "Asia-Pacific"
     },
     {
       "source": "BBC Sport",
       "positive": 68,
       "neutral": 7,
-      "negative": 12,
-      "count": 87,
+      "negative": 11,
+      "count": 86,
       "region": "Europe"
     },
     {
       "source": "Fox News",
-      "positive": 38,
+      "positive": 37,
       "neutral": 9,
       "negative": 36,
-      "count": 83,
+      "count": 82,
       "region": "North America"
     },
     {
       "source": "BBC News",
-      "positive": 49,
+      "positive": 50,
       "neutral": 7,
-      "negative": 25,
-      "count": 81,
+      "negative": 23,
+      "count": 80,
       "region": "Europe"
     },
     {
       "source": "The Guardian",
-      "positive": 37,
+      "positive": 36,
       "neutral": 2,
       "negative": 35,
-      "count": 74,
+      "count": 73,
       "region": "North America"
     },
     {
       "source": "CBS News",
-      "positive": 29,
+      "positive": 28,
       "neutral": 15,
       "negative": 19,
-      "count": 63,
+      "count": 62,
       "region": "North America"
     },
     {
       "source": "Sky Sports",
-      "positive": 36,
+      "positive": 37,
       "neutral": 13,
       "negative": 8,
-      "count": 57,
+      "count": 58,
       "region": "Europe"
     },
     {
@@ -101,7 +101,7 @@
       "neutral": 2,
       "negative": 24,
       "count": 54,
-      "region": "North America"
+      "region": "Asia-Pacific"
     },
     {
       "source": "Al Jazeera English",
@@ -113,11 +113,19 @@
     },
     {
       "source": "France 24",
-      "positive": 12,
+      "positive": 13,
       "neutral": 3,
-      "negative": 23,
+      "negative": 22,
       "count": 38,
-      "region": "Middle East"
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "ESPN",
+      "positive": 22,
+      "neutral": 6,
+      "negative": 9,
+      "count": 37,
+      "region": "North America"
     },
     {
       "source": "Times of Israel",
@@ -126,14 +134,6 @@
       "negative": 22,
       "count": 36,
       "region": "Middle East"
-    },
-    {
-      "source": "ESPN",
-      "positive": 21,
-      "neutral": 6,
-      "negative": 9,
-      "count": 36,
-      "region": "Global"
     },
     {
       "source": "Daily News Egypt",
@@ -145,9 +145,9 @@
     },
     {
       "source": "Euronews",
-      "positive": 15,
+      "positive": 16,
       "neutral": 4,
-      "negative": 8,
+      "negative": 7,
       "count": 27,
       "region": "Europe"
     },
@@ -176,20 +176,20 @@
       "region": "Asia-Pacific"
     },
     {
+      "source": "RT News",
+      "positive": 5,
+      "neutral": 2,
+      "negative": 11,
+      "count": 18,
+      "region": "Middle East"
+    },
+    {
       "source": "NBC News",
       "positive": 6,
       "neutral": 1,
       "negative": 11,
       "count": 18,
       "region": "North America"
-    },
-    {
-      "source": "RT News",
-      "positive": 4,
-      "neutral": 2,
-      "negative": 11,
-      "count": 17,
-      "region": "Europe"
     },
     {
       "source": "Deutsche Welle",
@@ -248,6 +248,14 @@
       "region": "North America"
     },
     {
+      "source": "NPR",
+      "positive": 5,
+      "neutral": 3,
+      "negative": 4,
+      "count": 12,
+      "region": "North America"
+    },
+    {
       "source": "Telegraph",
       "positive": 6,
       "neutral": 3,
@@ -264,14 +272,6 @@
       "region": "North America"
     },
     {
-      "source": "NPR",
-      "positive": 4,
-      "neutral": 3,
-      "negative": 4,
-      "count": 11,
-      "region": "North America"
-    },
-    {
       "source": "The Verge",
       "positive": 7,
       "neutral": 1,
@@ -280,20 +280,20 @@
       "region": "North America"
     },
     {
-      "source": "Middle East Eye",
-      "positive": 3,
-      "neutral": 0,
-      "negative": 5,
-      "count": 8,
-      "region": "Middle East"
-    },
-    {
       "source": "Engadget",
       "positive": 6,
       "neutral": 0,
       "negative": 0,
       "count": 6,
       "region": "North America"
+    },
+    {
+      "source": "Middle East Eye",
+      "positive": 1,
+      "neutral": 0,
+      "negative": 5,
+      "count": 6,
+      "region": "Middle East"
     },
     {
       "source": "Wired",
@@ -331,31 +331,31 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 294,
+      "positive": 296,
       "neutral": 78,
       "negative": 226,
-      "count": 598
+      "count": 600
     },
     {
       "region": "Europe",
-      "positive": 277,
-      "neutral": 57,
-      "negative": 150,
-      "count": 484
+      "positive": 276,
+      "neutral": 56,
+      "negative": 146,
+      "count": 478
     },
     {
       "region": "Asia-Pacific",
-      "positive": 177,
+      "positive": 178,
       "neutral": 89,
       "negative": 164,
-      "count": 430
+      "count": 431
     },
     {
       "region": "Middle East",
-      "positive": 43,
+      "positive": 42,
       "neutral": 6,
-      "negative": 69,
-      "count": 118
+      "negative": 67,
+      "count": 115
     },
     {
       "region": "Global",
@@ -382,66 +382,66 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 180,
-      "neutral": 54,
+      "positive": 183,
+      "neutral": 53,
       "negative": 169,
-      "count": 403
+      "count": 405
     },
     {
       "topic": "Politics",
-      "positive": 144,
+      "positive": 143,
       "neutral": 52,
-      "negative": 130,
-      "count": 326
+      "negative": 129,
+      "count": 324
     },
     {
       "topic": "Sports",
-      "positive": 199,
+      "positive": 198,
       "neutral": 28,
-      "negative": 67,
-      "count": 294
+      "negative": 66,
+      "count": 292
     },
     {
       "topic": "Other",
-      "positive": 125,
+      "positive": 124,
       "neutral": 70,
-      "negative": 85,
-      "count": 280
+      "negative": 84,
+      "count": 278
     },
     {
       "topic": "World",
-      "positive": 93,
+      "positive": 92,
       "neutral": 22,
       "negative": 111,
-      "count": 226
+      "count": 225
     },
     {
       "topic": "Entertainment",
-      "positive": 37,
+      "positive": 38,
       "neutral": 10,
-      "negative": 21,
-      "count": 68
+      "negative": 19,
+      "count": 67
     },
     {
       "topic": "Business",
       "positive": 45,
       "neutral": 3,
-      "negative": 10,
-      "count": 58
+      "negative": 9,
+      "count": 57
     },
     {
       "topic": "Health",
-      "positive": 20,
+      "positive": 21,
       "neutral": 4,
       "negative": 31,
-      "count": 55
+      "count": 56
     },
     {
       "topic": "Regional",
       "positive": 19,
       "neutral": 8,
-      "negative": 13,
-      "count": 40
+      "negative": 14,
+      "count": 41
     },
     {
       "topic": "Local",
@@ -454,11 +454,27 @@
       "topic": "Science",
       "positive": 5,
       "neutral": 4,
-      "negative": 12,
-      "count": 21
+      "negative": 11,
+      "count": 20
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Freestyle-Norway's defending champion Ruud through to big air final",
+      "url": "https://www.channelnewsasia.com/sport/freestyle-norways-defending-champion-ruud-through-big-air-final-5933306",
+      "source": "Channel News Asia",
+      "region": "Europe",
+      "published": "2026-02-16T05:42:31+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Lebanon says 4 dead in strike as Israel says targeted Palestinian group",
+      "url": "https://www.channelnewsasia.com/world/lebanon-says-4-dead-in-strike-israel-says-targeted-palestinian-group-5933301",
+      "source": "Channel News Asia",
+      "region": "Middle East",
+      "published": "2026-02-16T05:31:21+08:00",
+      "sentiment": "negative"
+    },
     {
       "title": "FBI: DNA recovered from glove near Guthrie home that appears to match suspect's glove",
       "url": "https://www.channelnewsasia.com/world/fbi-dna-recovered-glove-near-guthrie-home-appears-match-suspects-glove-5933251",
@@ -1242,22 +1258,6 @@
       "region": "Asia-Pacific",
       "published": "2026-02-15T22:00:00+08:00",
       "sentiment": "neutral"
-    },
-    {
-      "title": "Vallalar\u2019s birth anniversary will be celebrated for three days every year, says M.K. Stalin",
-      "url": "https://www.thehindu.com/news/cities/chennai/vallalars-birth-anniversary-will-be-celebrated-for-three-days-every-year-says-mk-stalin/article70635304.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-02-15T21:58:41+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "21 locations in Maharashtra raided in probe into extremism",
-      "url": "https://www.thehindu.com/news/national/maharashtra/21-locations-in-maharashtra-raided-in-probe-into-extremism/article70635996.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-02-15T21:57:26+05:30",
-      "sentiment": "negative"
     }
   ]
 }
