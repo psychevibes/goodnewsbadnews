@@ -1,20 +1,12 @@
 {
-  "generated_at": "2026-03-01T22:25:59.615897+00:00",
+  "generated_at": "2026-03-01T22:51:33.107618+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 641,
-    "neutral": 240,
-    "negative": 1277
+    "positive": 638,
+    "neutral": 239,
+    "negative": 1276
   },
   "by_publication": [
-    {
-      "source": "Independent",
-      "positive": 75,
-      "neutral": 26,
-      "negative": 126,
-      "count": 227,
-      "region": "Europe"
-    },
     {
       "source": "The Hindu",
       "positive": 65,
@@ -24,10 +16,18 @@
       "region": "Asia-Pacific"
     },
     {
+      "source": "Independent",
+      "positive": 72,
+      "neutral": 26,
+      "negative": 123,
+      "count": 221,
+      "region": "North America"
+    },
+    {
       "source": "Middle East Eye",
-      "positive": 19,
+      "positive": 18,
       "neutral": 3,
-      "negative": 95,
+      "negative": 96,
       "count": 117,
       "region": "Middle East"
     },
@@ -35,105 +35,105 @@
       "source": "Times of India",
       "positive": 37,
       "neutral": 10,
-      "negative": 67,
-      "count": 114,
+      "negative": 68,
+      "count": 115,
       "region": "Asia-Pacific"
     },
     {
       "source": "CBS News",
       "positive": 27,
       "neutral": 13,
-      "negative": 72,
-      "count": 112,
-      "region": "Middle East"
+      "negative": 73,
+      "count": 113,
+      "region": "North America"
     },
     {
       "source": "Australian Broadcasting Corporation",
-      "positive": 34,
-      "neutral": 13,
+      "positive": 33,
+      "neutral": 12,
       "negative": 62,
-      "count": 109,
+      "count": 107,
       "region": "Asia-Pacific"
     },
     {
       "source": "The Guardian",
       "positive": 21,
       "neutral": 3,
-      "negative": 64,
-      "count": 88,
-      "region": "Middle East"
+      "negative": 66,
+      "count": 90,
+      "region": "Asia-Pacific"
     },
     {
       "source": "BBC News",
-      "positive": 26,
+      "positive": 27,
       "neutral": 5,
-      "negative": 56,
-      "count": 87,
-      "region": "Middle East"
+      "negative": 57,
+      "count": 89,
+      "region": "North America"
     },
     {
       "source": "Washington Post",
       "positive": 11,
       "neutral": 19,
-      "negative": 57,
-      "count": 87,
-      "region": "North America"
+      "negative": 54,
+      "count": 84,
+      "region": "Middle East"
     },
     {
       "source": "Al Jazeera English",
       "positive": 17,
       "neutral": 5,
-      "negative": 60,
-      "count": 82,
+      "negative": 59,
+      "count": 81,
       "region": "Middle East"
     },
     {
       "source": "Fox News",
       "positive": 21,
       "neutral": 2,
-      "negative": 59,
-      "count": 82,
+      "negative": 57,
+      "count": 80,
       "region": "Middle East"
     },
     {
       "source": "Sky Sports",
-      "positive": 32,
+      "positive": 33,
       "neutral": 25,
       "negative": 21,
-      "count": 78,
-      "region": "Europe"
-    },
-    {
-      "source": "BBC Sport",
-      "positive": 47,
-      "neutral": 8,
-      "negative": 11,
-      "count": 66,
+      "count": 79,
       "region": "Europe"
     },
     {
       "source": "Channel News Asia",
-      "positive": 25,
+      "positive": 24,
       "neutral": 12,
-      "negative": 28,
+      "negative": 29,
       "count": 65,
-      "region": "Asia-Pacific"
+      "region": "Middle East"
+    },
+    {
+      "source": "BBC Sport",
+      "positive": 46,
+      "neutral": 8,
+      "negative": 11,
+      "count": 65,
+      "region": "North America"
     },
     {
       "source": "South China Morning Post",
-      "positive": 28,
+      "positive": 29,
       "neutral": 1,
-      "negative": 31,
-      "count": 60,
-      "region": "North America"
+      "negative": 32,
+      "count": 62,
+      "region": "South America"
     },
     {
       "source": "Bloomberg",
       "positive": 16,
       "neutral": 2,
-      "negative": 38,
-      "count": 56,
-      "region": "Asia-Pacific"
+      "negative": 41,
+      "count": 59,
+      "region": "Middle East"
     },
     {
       "source": "Times of Israel",
@@ -155,8 +155,8 @@
       "source": "New York Times",
       "positive": 5,
       "neutral": 3,
-      "negative": 43,
-      "count": 51,
+      "negative": 44,
+      "count": 52,
       "region": "Middle East"
     },
     {
@@ -169,11 +169,11 @@
     },
     {
       "source": "ESPN",
-      "positive": 23,
+      "positive": 24,
       "neutral": 6,
       "negative": 6,
-      "count": 35,
-      "region": "North America"
+      "count": 36,
+      "region": "Asia-Pacific"
     },
     {
       "source": "NBC News",
@@ -211,8 +211,8 @@
       "source": "Sky News",
       "positive": 5,
       "neutral": 1,
-      "negative": 16,
-      "count": 22,
+      "negative": 17,
+      "count": 23,
       "region": "Middle East"
     },
     {
@@ -222,14 +222,6 @@
       "negative": 18,
       "count": 19,
       "region": "Global"
-    },
-    {
-      "source": "MarketWatch",
-      "positive": 4,
-      "neutral": 0,
-      "negative": 12,
-      "count": 16,
-      "region": "Middle East"
     },
     {
       "source": "ABC News",
@@ -259,7 +251,15 @@
       "source": "RT News",
       "positive": 1,
       "neutral": 0,
-      "negative": 11,
+      "negative": 12,
+      "count": 13,
+      "region": "North America"
+    },
+    {
+      "source": "MarketWatch",
+      "positive": 4,
+      "neutral": 0,
+      "negative": 8,
       "count": 12,
       "region": "Middle East"
     },
@@ -269,14 +269,6 @@
       "neutral": 0,
       "negative": 6,
       "count": 11,
-      "region": "Middle East"
-    },
-    {
-      "source": "Wired",
-      "positive": 3,
-      "neutral": 0,
-      "negative": 7,
-      "count": 10,
       "region": "Middle East"
     },
     {
@@ -294,6 +286,14 @@
       "negative": 4,
       "count": 9,
       "region": "Global"
+    },
+    {
+      "source": "Wired",
+      "positive": 3,
+      "neutral": 0,
+      "negative": 5,
+      "count": 8,
+      "region": "Middle East"
     },
     {
       "source": "Engadget",
@@ -339,38 +339,38 @@
   "by_region": [
     {
       "region": "Middle East",
-      "positive": 134,
+      "positive": 133,
       "neutral": 35,
-      "negative": 767,
-      "count": 936
+      "negative": 763,
+      "count": 931
     },
     {
       "region": "North America",
       "positive": 171,
       "neutral": 52,
-      "negative": 251,
-      "count": 474
+      "negative": 252,
+      "count": 475
     },
     {
       "region": "Asia-Pacific",
-      "positive": 123,
-      "neutral": 76,
-      "negative": 131,
-      "count": 330
+      "positive": 124,
+      "neutral": 75,
+      "negative": 134,
+      "count": 333
     },
     {
       "region": "Europe",
-      "positive": 137,
+      "positive": 135,
       "neutral": 51,
-      "negative": 103,
-      "count": 291
+      "negative": 102,
+      "count": 288
     },
     {
       "region": "Global",
-      "positive": 56,
+      "positive": 54,
       "neutral": 20,
       "negative": 21,
-      "count": 97
+      "count": 95
     },
     {
       "region": "Africa",
@@ -381,10 +381,10 @@
     },
     {
       "region": "South America",
-      "positive": 2,
+      "positive": 3,
       "neutral": 0,
       "negative": 0,
-      "count": 2
+      "count": 3
     }
   ],
   "by_topic": [
@@ -392,71 +392,71 @@
       "topic": "World",
       "positive": 75,
       "neutral": 16,
-      "negative": 448,
-      "count": 539
+      "negative": 451,
+      "count": 542
     },
     {
       "topic": "Tech",
-      "positive": 139,
+      "positive": 138,
       "neutral": 68,
-      "negative": 290,
-      "count": 497
+      "negative": 287,
+      "count": 493
     },
     {
       "topic": "Politics",
-      "positive": 111,
+      "positive": 112,
       "neutral": 25,
-      "negative": 223,
+      "negative": 222,
       "count": 359
     },
     {
       "topic": "Other",
-      "positive": 102,
+      "positive": 100,
       "neutral": 81,
       "negative": 133,
-      "count": 316
+      "count": 314
     },
     {
       "topic": "Sports",
-      "positive": 117,
+      "positive": 116,
       "neutral": 26,
-      "negative": 44,
+      "negative": 45,
       "count": 187
     },
     {
       "topic": "Business",
-      "positive": 31,
+      "positive": 32,
       "neutral": 3,
-      "negative": 45,
-      "count": 79
+      "negative": 47,
+      "count": 82
     },
     {
       "topic": "Entertainment",
-      "positive": 37,
+      "positive": 36,
       "neutral": 7,
       "negative": 32,
-      "count": 76
+      "count": 75
     },
     {
       "topic": "Health",
       "positive": 10,
       "neutral": 7,
-      "negative": 20,
-      "count": 37
+      "negative": 18,
+      "count": 35
     },
     {
       "topic": "Regional",
-      "positive": 7,
-      "neutral": 3,
-      "negative": 22,
-      "count": 32
+      "positive": 6,
+      "neutral": 2,
+      "negative": 21,
+      "count": 29
     },
     {
       "topic": "Local",
-      "positive": 6,
+      "positive": 7,
       "neutral": 3,
       "negative": 16,
-      "count": 25
+      "count": 26
     },
     {
       "topic": "Science",
@@ -467,6 +467,22 @@
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Trump says war in Iran could last a month, vows to avenge US military deaths",
+      "url": "https://www.channelnewsasia.com/world/iran-war-us-trump-month-tehran-strikes-5962426",
+      "source": "Channel News Asia",
+      "region": "Middle East",
+      "published": "2026-03-02T06:24:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Why Tasmania is producing some of the world\u2019s best single malt whiskies",
+      "url": "https://www.channelnewsasia.com/experiences/tasmanian-whisky-lark-sullivans-cove-5957146",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2026-03-02T06:23:00+08:00",
+      "sentiment": "positive"
+    },
     {
       "title": "How South Korea nudged its birth rate back up \u2013 and what Singapore can learn",
       "url": "https://www.channelnewsasia.com/singapore/fertility-rate-tfr-singapore-historic-low-south-korea-5958376",
@@ -577,6 +593,22 @@
       "source": "Straits Times",
       "region": "Asia-Pacific",
       "published": "2026-03-02T04:00:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "'How much can one person endure?' Kin blames SIR as BLO \u2018under adjudication\u2019 dies in Kolkata",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/blo-under-adjudication-dies-kin-blame-sir-pressure/articleshow/128926070.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2026-03-02T03:58:44+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Ahmedabad: Class 12 boy locked in room by girlfriend\u2019s family dies of suicide",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/ahmedabad-class-12-boy-locked-in-room-by-girlfriends-family-dies-of-suicide/articleshow/128926386.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2026-03-02T03:55:43+05:30",
       "sentiment": "negative"
     },
     {
@@ -988,6 +1020,14 @@
       "sentiment": "positive"
     },
     {
+      "title": "Azerbaijani soldiers are assisting those fleeing the conflict in Iran at the Astara border",
+      "url": "http://www.euronews.com/2026/03/01/azerbaijani-soldiers-are-assisting-those-fleeing-the-conflict-in-iran-at-the-astara-border",
+      "source": "Euronews",
+      "region": "Middle East",
+      "published": "2026-03-01T23:29:07+01:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "'They want to talk, and I agreed': Trump claims Iran seeking dialogue",
       "url": "https://timesofindia.indiatimes.com/world/us/they-want-to-talk-and-i-agreed-trump-claims-iran-seeking-dialogue/articleshow/128923344.cms",
       "source": "Times of India",
@@ -1060,12 +1100,28 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Khamenei killing: America and Israel cross a new line in international politics",
+      "url": "https://www.rt.com/news/633393-khamenei-killing-america-and-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "source": "RT News",
+      "region": "North America",
+      "published": "2026-03-01T22:48:36+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "After Khamenei's killing, who is running Iran now?",
       "url": "https://www.channelnewsasia.com/world/iran-us-israel-war-strikes-khamenei-killed-leader-transition-plans-5962016",
       "source": "Channel News Asia",
       "region": "Middle East",
       "published": "2026-03-01T22:44:28+08:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "Venezuela\u2019s opposition leader Machado \u2018will return to the country in the coming weeks\u2019",
+      "url": "https://www.scmp.com/news/world/americas/article/3345059/venezuelas-opposition-leader-machado-will-return-country-coming-weeks?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "region": "South America",
+      "published": "2026-03-01T22:44:21+00:00",
+      "sentiment": "positive"
     },
     {
       "title": "Opposition parties condemn killing of Iran's leader Khamenei as \u2018immoral, unlawful\u2019",
@@ -1076,11 +1132,75 @@
       "sentiment": "negative"
     },
     {
+      "title": "Maersk halts Suez and Hormuz transits as regional war disrupts shipping",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/maersk-halts-suez-and-hormuz-transits-regional-war-disrupts-shipping",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "published": "2026-03-01T22:43:01+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Iran\u2019s World Cup participation in doubt after US military strikes",
+      "url": "https://www.independent.co.uk/bulletin/sport/iran-world-cup-2026-fifa-us-strikes-b2929844.html",
+      "source": "Independent",
+      "region": "North America",
+      "published": "2026-03-01T22:40:37+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "America First, Diplomacy Last: The Peace President who went to war",
       "url": "https://timesofindia.indiatimes.com/world/us/america-first-diplomacy-last-the-peace-president-who-went-to-war/articleshow/128922262.cms",
       "source": "Times of India",
       "region": "North America",
       "published": "2026-03-01T22:39:38+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Markets Brace For Volatile Open After Iran Attacks",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-03-01/iran-latest",
+      "source": "Bloomberg",
+      "region": "Middle East",
+      "published": "2026-03-01T22:39:35+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Trump Announces First US Fatalities of Iran Operations",
+      "url": "https://www.bloomberg.com/news/videos/2026-03-01/trump-announces-first-us-fatalities-of-iran-strikes-video",
+      "source": "Bloomberg",
+      "region": "North America",
+      "published": "2026-03-01T22:38:20+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Chelsea could rival Newcastle for Nunez - Monday's gossip",
+      "url": "https://www.bbc.com/sport/football/articles/c5yj93y4pk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "region": "North America",
+      "published": "2026-03-01T22:37:27+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Consultation on social media ban for under-16s to begin",
+      "url": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "North America",
+      "published": "2026-03-01T22:35:18+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Ministers consider social media curfew and AI chatbot restrictions to keep children safe online",
+      "url": "https://www.independent.co.uk/news/uk/politics/social-media-curfew-ai-children-online-safety-b2929698.html",
+      "source": "Independent",
+      "region": "Europe",
+      "published": "2026-03-01T22:31:18+00:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Hundreds of UK teenagers to pilot social media bans and restrictions",
+      "url": "https://www.theguardian.com/uk-news/2026/mar/01/uk-teenagers-pilot-social-media-ban-smartphone-restrictions",
+      "source": "The Guardian",
+      "region": "Asia-Pacific",
+      "published": "2026-03-01T22:30:52+00:00",
       "sentiment": "negative"
     },
     {
@@ -1108,11 +1228,27 @@
       "sentiment": "neutral"
     },
     {
+      "title": "US-Israeli strike kills 20 in Tehran, Iranian media reports",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-strike-kills-20-tehran-iranian-media-reports",
+      "source": "Middle East Eye",
+      "region": "Middle East",
+      "published": "2026-03-01T22:25:54+00:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Terrorism probe after gunman in \u2018Property of Allah\u2019 shirt kills two and injures 14 at bar",
       "url": "https://www.independent.co.uk/bulletin/news/ndiaga-diagne-austin-bar-shooting-iranian-flag-sweatshirt-b2929835.html",
       "source": "Independent",
       "region": "Europe",
       "published": "2026-03-01T22:23:35+00:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Where Iran has retaliated across the Middle East, according to satellite images and videos",
+      "url": "https://www.washingtonpost.com/investigations/2026/03/01/where-iran-strikes-middle-east-images-video/",
+      "source": "Washington Post",
+      "region": "Middle East",
+      "published": "2026-03-01T22:23:10+00:00",
       "sentiment": "negative"
     },
     {
@@ -1124,147 +1260,11 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Indian airlines cancel 350 flights to West Asia and beyond",
-      "url": "https://www.thehindu.com/news/national/indian-airlines-cancel-350-flights-to-west-asia-and-beyond/article70692408.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-03-01T22:21:48+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "GOP\u2019s victory in getting to grill Clintons over Epstein will backfire on them with Trump eventually forced to testify, Democrats warn",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/khanna-trump-epstein-clinton-testimony-b2929836.html",
-      "source": "Independent",
-      "region": "Europe",
-      "published": "2026-03-01T22:21:34+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "UK mounts operation to support thousands of Britons in Middle East",
-      "url": "https://www.bbc.com/news/articles/cdjm8pn0ld8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Investors brace for market tumult as Trump vows to keep striking Iran",
+      "url": "https://www.ft.com/content/91cae073-71db-46ea-a950-62b17faf1882",
+      "source": "Financial Times",
       "region": "Middle East",
-      "published": "2026-03-01T22:21:33+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Iran missiles fired towards UK military bases in Cyprus, defence minister claims",
-      "url": "https://www.independent.co.uk/news/uk/politics/iran-missiles-cyprus-defence-secretary-b2929655.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2026-03-01T22:20:17+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Trump warns of more US deaths as Iran strikes could last for four weeks",
-      "url": "https://www.independent.co.uk/bulletin/news/iran-trump-update-us-deaths-strikes-weeks-b2929840.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2026-03-01T22:20:05+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Paul Rudd: \u2018There\u2019s an appreciation for life in Ireland\u2019",
-      "url": "https://www.irishtimes.com/ireland/2026/03/01/paul-rudd-theres-an-appreciation-for-life-in-ireland/",
-      "source": "Irish Times",
-      "region": "Global",
-      "published": "2026-03-01T22:19:40+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Celtic leave it late to draw 2-2 at Rangers in thrilling Old Firm derby",
-      "url": "https://www.channelnewsasia.com/sport/celtic-leave-it-late-draw-2-2-rangers-in-thrilling-old-firm-derby-5962026",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2026-03-01T22:18:28+08:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Delta Goodrem to represent Australia at 2026 Eurovision",
-      "url": "https://www.abc.net.au/news/2026-03-02/delta-goodrem-to-represent-australia-at-2026-eurovision/106403962",
-      "source": "Australian Broadcasting Corporation",
-      "region": "Asia-Pacific",
-      "published": "2026-03-01T22:17:42+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "US-Israel war on Iran live: Trump says attack \u2018will continue until all of our objectives are achieved\u2019",
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports",
-      "source": "The Guardian",
-      "region": "Middle East",
-      "published": "2026-03-01T22:17:02+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Oman says diplomacy still possible despite US-Israel assault on Iran",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-says-diplomacy-still-possible-despite-us-israel-assault-iran",
-      "source": "Middle East Eye",
-      "region": "Middle East",
-      "published": "2026-03-01T22:16:42+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Netanyahu says strikes on Iran 'will only intensify'; thanks US for backing Israel's long-standing goal",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-says-strikes-on-iran-will-only-intensify-thanks-us-for-backing-israels-long-standing-goal/articleshow/128921546.cms",
-      "source": "Times of India",
-      "region": "Middle East",
-      "published": "2026-03-01T22:15:52+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "MTG links \u2018terrorist\u2019 Texas bar shooting to Iran airstrikes and says \u2018everyone needs to start carrying\u2019",
-      "url": "https://www.independent.co.uk/news/world/americas/crime/marjorie-taylor-green-austin-shooting-iran-airstrikes-b2929839.html",
-      "source": "Independent",
-      "region": "North America",
-      "published": "2026-03-01T22:14:39+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Maharashtra-Canada ties poised for dynamic growth: Fadnavis",
-      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-canada-ties-poised-for-dynamic-growth-fadnavis/article70692360.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-03-01T22:14:32+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Video shows drone exploding at U.S. military base",
-      "url": "https://www.washingtonpost.com",
-      "source": "Washington Post",
-      "region": "North America",
-      "published": "2026-03-01T22:14:09+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "CIA tracked Iranian leaders for months ahead of attacks that began with 3 strikes in 60 seconds",
-      "url": "https://www.independent.co.uk/news/world/americas/donald-trump-ayatollah-ali-khamenei-israeli-cia-tom-cotton-b2929841.html",
-      "source": "Independent",
-      "region": "Middle East",
-      "published": "2026-03-01T22:12:52+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Politics live: Australia does not \u2018anticipate participating\u2019 in Iran conflict, Wong says; Marles \u2018concerned but confident\u2019 about defence forces in the region",
-      "url": "https://www.theguardian.com/australia-news/live/2026/mar/02/politics-updates-federal-parliament-anthony-albanese-labor-angus-taylor-coalition-nsw-budget-estimates-iran-war-reactions-ntwnfb",
-      "source": "The Guardian",
-      "region": "Middle East",
-      "published": "2026-03-01T22:11:57+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Temple road-widening project in Varanasi puts livelihoods in peril",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/temple-road-widening-project-puts-livelihoods-in-peril/article70691710.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-03-01T22:09:53+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Five arrested with over 6 kg ganja in separate cases",
-      "url": "https://www.thehindu.com/news/national/telangana/five-arrested-with-over-6-kg-ganja-in-separate-cases/article70692602.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-03-01T22:09:14+05:30",
+      "published": "2026-03-01T22:22:40+00:00",
       "sentiment": "negative"
     }
   ]
