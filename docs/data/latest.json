@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-03-08T22:25:20.160578+00:00",
+  "generated_at": "2026-03-08T22:51:28.428136+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 751,
-    "neutral": 219,
-    "negative": 982
+    "positive": 760,
+    "neutral": 221,
+    "negative": 987
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 107,
-      "neutral": 25,
+      "positive": 109,
+      "neutral": 24,
       "negative": 145,
-      "count": 277,
+      "count": 278,
       "region": "Europe"
     },
     {
@@ -25,18 +25,18 @@
     },
     {
       "source": "Times of India",
-      "positive": 51,
-      "neutral": 15,
-      "negative": 70,
-      "count": 136,
-      "region": "Middle East"
+      "positive": 52,
+      "neutral": 17,
+      "negative": 69,
+      "count": 138,
+      "region": "Asia-Pacific"
     },
     {
       "source": "Australian Broadcasting Corporation",
       "positive": 43,
       "neutral": 9,
-      "negative": 56,
-      "count": 108,
+      "negative": 57,
+      "count": 109,
       "region": "Asia-Pacific"
     },
     {
@@ -48,75 +48,75 @@
       "region": "Middle East"
     },
     {
+      "source": "CBS News",
+      "positive": 37,
+      "neutral": 8,
+      "negative": 34,
+      "count": 79,
+      "region": "Middle East"
+    },
+    {
+      "source": "BBC Sport",
+      "positive": 54,
+      "neutral": 8,
+      "negative": 16,
+      "count": 78,
+      "region": "Europe"
+    },
+    {
       "source": "Fox News",
       "positive": 24,
       "neutral": 4,
-      "negative": 51,
-      "count": 79,
+      "negative": 50,
+      "count": 78,
       "region": "North America"
     },
     {
       "source": "The Guardian",
       "positive": 27,
       "neutral": 2,
-      "negative": 48,
-      "count": 77,
-      "region": "Asia-Pacific"
-    },
-    {
-      "source": "BBC Sport",
-      "positive": 54,
-      "neutral": 7,
-      "negative": 16,
-      "count": 77,
-      "region": "Europe"
-    },
-    {
-      "source": "CBS News",
-      "positive": 34,
-      "neutral": 8,
-      "negative": 34,
+      "negative": 47,
       "count": 76,
-      "region": "North America"
+      "region": "Middle East"
     },
     {
       "source": "Channel News Asia",
-      "positive": 20,
+      "positive": 21,
       "neutral": 21,
-      "negative": 30,
-      "count": 71,
-      "region": "North America"
+      "negative": 33,
+      "count": 75,
+      "region": "Asia-Pacific"
     },
     {
       "source": "South China Morning Post",
       "positive": 34,
       "neutral": 3,
-      "negative": 32,
-      "count": 69,
-      "region": "Middle East"
+      "negative": 33,
+      "count": 70,
+      "region": "Europe"
     },
     {
       "source": "Al Jazeera English",
-      "positive": 15,
+      "positive": 14,
       "neutral": 4,
-      "negative": 50,
-      "count": 69,
+      "negative": 49,
+      "count": 67,
       "region": "Middle East"
     },
     {
       "source": "BBC News",
       "positive": 21,
-      "neutral": 5,
+      "neutral": 6,
       "negative": 32,
-      "count": 58,
+      "count": 59,
       "region": "Europe"
     },
     {
       "source": "Sky Sports",
-      "positive": 35,
+      "positive": 37,
       "neutral": 8,
       "negative": 11,
-      "count": 54,
+      "count": 56,
       "region": "Europe"
     },
     {
@@ -145,10 +145,10 @@
     },
     {
       "source": "Bloomberg",
-      "positive": 14,
+      "positive": 15,
       "neutral": 5,
-      "negative": 21,
-      "count": 40,
+      "negative": 23,
+      "count": 43,
       "region": "Middle East"
     },
     {
@@ -171,8 +171,8 @@
       "source": "Financial Times",
       "positive": 8,
       "neutral": 1,
-      "negative": 18,
-      "count": 27,
+      "negative": 19,
+      "count": 28,
       "region": "Middle East"
     },
     {
@@ -203,8 +203,8 @@
       "source": "NBC News",
       "positive": 8,
       "neutral": 0,
-      "negative": 9,
-      "count": 17,
+      "negative": 10,
+      "count": 18,
       "region": "Middle East"
     },
     {
@@ -232,6 +232,14 @@
       "region": "North America"
     },
     {
+      "source": "Washington Post",
+      "positive": 3,
+      "neutral": 0,
+      "negative": 10,
+      "count": 13,
+      "region": "Middle East"
+    },
+    {
       "source": "RT News",
       "positive": 6,
       "neutral": 0,
@@ -248,28 +256,12 @@
       "region": "North America"
     },
     {
-      "source": "Washington Post",
-      "positive": 2,
-      "neutral": 0,
-      "negative": 10,
-      "count": 12,
-      "region": "Middle East"
-    },
-    {
       "source": "ABC News",
       "positive": 4,
       "neutral": 1,
       "negative": 7,
       "count": 12,
       "region": "North America"
-    },
-    {
-      "source": "Telegraph",
-      "positive": 6,
-      "neutral": 3,
-      "negative": 2,
-      "count": 11,
-      "region": "Asia-Pacific"
     },
     {
       "source": "Irish Times",
@@ -280,11 +272,19 @@
       "region": "Global"
     },
     {
-      "source": "Wired",
+      "source": "Telegraph",
       "positive": 6,
+      "neutral": 2,
+      "negative": 2,
+      "count": 10,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "Wired",
+      "positive": 5,
       "neutral": 1,
       "negative": 1,
-      "count": 8,
+      "count": 7,
       "region": "Global"
     },
     {
@@ -339,38 +339,38 @@
   "by_region": [
     {
       "region": "Middle East",
-      "positive": 94,
+      "positive": 99,
       "neutral": 13,
-      "negative": 435,
-      "count": 542
+      "negative": 439,
+      "count": 551
     },
     {
       "region": "Asia-Pacific",
       "positive": 245,
-      "neutral": 104,
-      "negative": 161,
-      "count": 510
+      "neutral": 106,
+      "negative": 162,
+      "count": 513
     },
     {
       "region": "North America",
       "positive": 206,
-      "neutral": 45,
-      "negative": 227,
-      "count": 478
+      "neutral": 44,
+      "negative": 226,
+      "count": 476
     },
     {
       "region": "Europe",
-      "positive": 150,
-      "neutral": 34,
-      "negative": 123,
-      "count": 307
+      "positive": 153,
+      "neutral": 35,
+      "negative": 124,
+      "count": 312
     },
     {
       "region": "Global",
-      "positive": 43,
+      "positive": 44,
       "neutral": 22,
       "negative": 21,
-      "count": 86
+      "count": 87
     },
     {
       "region": "Africa",
@@ -390,38 +390,38 @@
   "by_topic": [
     {
       "topic": "World",
-      "positive": 82,
+      "positive": 83,
       "neutral": 16,
-      "negative": 346,
-      "count": 444
+      "negative": 355,
+      "count": 454
     },
     {
       "topic": "Tech",
-      "positive": 158,
-      "neutral": 45,
-      "negative": 238,
+      "positive": 161,
+      "neutral": 44,
+      "negative": 236,
       "count": 441
     },
     {
       "topic": "Politics",
       "positive": 128,
-      "neutral": 33,
-      "negative": 146,
+      "neutral": 35,
+      "negative": 144,
       "count": 307
     },
     {
       "topic": "Other",
-      "positive": 133,
+      "positive": 137,
       "neutral": 58,
-      "negative": 83,
-      "count": 274
+      "negative": 84,
+      "count": 279
     },
     {
       "topic": "Sports",
-      "positive": 134,
-      "neutral": 36,
-      "negative": 59,
-      "count": 229
+      "positive": 135,
+      "neutral": 38,
+      "negative": 58,
+      "count": 231
     },
     {
       "topic": "Entertainment",
@@ -434,8 +434,8 @@
       "topic": "Business",
       "positive": 30,
       "neutral": 3,
-      "negative": 26,
-      "count": 59
+      "negative": 27,
+      "count": 60
     },
     {
       "topic": "Health",
@@ -446,8 +446,8 @@
     },
     {
       "topic": "Local",
-      "positive": 10,
-      "neutral": 4,
+      "positive": 11,
+      "neutral": 3,
       "negative": 26,
       "count": 40
     },
@@ -460,13 +460,45 @@
     },
     {
       "topic": "Science",
-      "positive": 9,
+      "positive": 8,
       "neutral": 7,
-      "negative": 3,
-      "count": 19
+      "negative": 2,
+      "count": 17
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Oil soars, shares slide in Asia as Middle East conflict rages",
+      "url": "https://www.channelnewsasia.com/business/oil-soars-shares-slide-in-asia-middle-east-conflict-rages-5980341",
+      "source": "Channel News Asia",
+      "region": "Asia-Pacific",
+      "published": "2026-03-09T06:43:44+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Crude oil prices surpass US$100 a barrel as the Iran war impedes production and shipping",
+      "url": "https://www.channelnewsasia.com/world/iran-war-crude-oil-prices-production-shipping-5980301",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2026-03-09T06:42:00+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "US oil prices jump on supply fears amid expanding US-Israeli war with Iran",
+      "url": "https://www.channelnewsasia.com/business/us-oil-prices-jump-supply-fears-amid-expanding-us-israeli-war-iran-5980331",
+      "source": "Channel News Asia",
+      "region": "Middle East",
+      "published": "2026-03-09T06:39:11+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Mojtaba Khamenei: Son and successor to Iran's supreme leader",
+      "url": "https://www.channelnewsasia.com/world/mojtaba-khamenei-son-successor-supreme-leader-iran-war-5980321",
+      "source": "Channel News Asia",
+      "region": "Middle East",
+      "published": "2026-03-09T06:35:00+08:00",
+      "sentiment": "positive"
+    },
     {
       "title": "The Corvette Stingray C8 proves drama doesn\u2019t have to mean compromise in daily life",
       "url": "https://www.channelnewsasia.com/obsessions/corvette-stingray-c8-supercar-5975581",
@@ -620,6 +652,14 @@
       "sentiment": "negative"
     },
     {
+      "title": "\u2018Arrogance will be shattered\u2019: PM Modi slams TMC on President row",
+      "url": "https://timesofindia.indiatimes.com/india/arrogance-will-be-shattered-pm-modi-slams-tmc-on-president-row/articleshow/129295326.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2026-03-09T04:10:21+05:30",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Figure Skating-Olympic champion Liu withdraws from world championships",
       "url": "https://www.channelnewsasia.com/sport/figure-skating-olympic-champion-liu-withdraws-world-championships-5980211",
       "source": "Channel News Asia",
@@ -634,6 +674,14 @@
       "region": "North America",
       "published": "2026-03-09T03:47:00+08:00",
       "sentiment": "negative"
+    },
+    {
+      "title": "Who is Mojtaba Khamenei, the new Iranian Supreme Leader facing US and Israel",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/who-is-mojtaba-khamenei-the-new-iranian-supreme-leader-facing-us-and-israel/articleshow/129292991.cms",
+      "source": "Times of India",
+      "region": "Middle East",
+      "published": "2026-03-09T03:46:56+05:30",
+      "sentiment": "positive"
     },
     {
       "title": "Mid East tensions: UAE on high alert in Abu Dhabi as defenses respond to missile threat",
@@ -1218,54 +1266,6 @@
       "region": "Asia-Pacific",
       "published": "2026-03-08T22:47:23+05:30",
       "sentiment": "positive"
-    },
-    {
-      "title": "Mamata should resign over protocol breach at President Murmu\u2019s Darjeeling event: BJP",
-      "url": "https://www.thehindu.com/news/national/west-bengal/mamata-should-resign-over-protocol-breach-at-president-murmus-darjeeling-event-bjp/article70719436.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-03-08T22:41:46+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Explainer: Who is Mojtaba Khamenei and how did he succeed his father?",
-      "url": "http://www.euronews.com/2026/03/08/explainer-who-is-mojtaba-khamenei-and-how-did-he-succeed-his-father",
-      "source": "Euronews",
-      "region": "Europe",
-      "published": "2026-03-08T22:38:43+01:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "How Ishan Kishan fought personal grief to rise on the biggest night of his career",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/how-ishan-kishan-fought-personal-grief-to-rise-on-the-biggest-night-of-his-career/articleshow/129280860.cms",
-      "source": "Times of India",
-      "region": "Asia-Pacific",
-      "published": "2026-03-08T22:30:20+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Journalists\u2019 house sites issue to be resolved soon: CM",
-      "url": "https://www.thehindu.com/news/national/telangana/journalists-house-sites-issue-to-be-resolved-soon-cm/article70719853.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-03-08T22:26:20+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "U.S. stock futures sink after oil surges above $100 a barrel as Iran conflict rages",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-sink-after-oil-surges-above-100-a-barrel-as-iran-conflict-rages-3f1fbfe7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "region": "Middle East",
-      "published": "2026-03-08T22:24:00+00:00",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war",
-      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
-      "source": "CNBC",
-      "region": "Middle East",
-      "published": "2026-03-08T22:23:33+00:00",
-      "sentiment": "negative"
     }
   ]
 }
