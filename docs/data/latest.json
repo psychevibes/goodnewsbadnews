@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-03-10T21:31:00.404095+00:00",
+  "generated_at": "2026-03-10T21:55:00.329886+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 1282,
-    "neutral": 408,
-    "negative": 1784
+    "positive": 1291,
+    "neutral": 414,
+    "negative": 1785
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 269,
-      "neutral": 96,
-      "negative": 337,
-      "count": 702,
+      "positive": 268,
+      "neutral": 99,
+      "negative": 336,
+      "count": 703,
       "region": "Europe"
     },
     {
@@ -25,43 +25,51 @@
     },
     {
       "source": "Bloomberg",
-      "positive": 81,
+      "positive": 83,
       "neutral": 22,
       "negative": 147,
-      "count": 250,
-      "region": "Europe"
+      "count": 252,
+      "region": "North America"
     },
     {
       "source": "The Guardian",
-      "positive": 47,
+      "positive": 48,
       "neutral": 2,
-      "negative": 100,
-      "count": 149,
+      "negative": 97,
+      "count": 147,
       "region": "Asia-Pacific"
     },
     {
       "source": "Fox News",
-      "positive": 55,
+      "positive": 54,
       "neutral": 13,
-      "negative": 73,
-      "count": 141,
+      "negative": 72,
+      "count": 139,
       "region": "North America"
     },
     {
       "source": "Times of India",
       "positive": 61,
-      "neutral": 8,
+      "neutral": 7,
       "negative": 67,
-      "count": 136,
+      "count": 135,
       "region": "Asia-Pacific"
     },
     {
       "source": "Channel News Asia",
       "positive": 44,
-      "neutral": 36,
-      "negative": 46,
-      "count": 126,
-      "region": "Global"
+      "neutral": 38,
+      "negative": 48,
+      "count": 130,
+      "region": "Europe"
+    },
+    {
+      "source": "BBC News",
+      "positive": 44,
+      "neutral": 16,
+      "negative": 57,
+      "count": 117,
+      "region": "Europe"
     },
     {
       "source": "CBS News",
@@ -69,54 +77,46 @@
       "neutral": 6,
       "negative": 82,
       "count": 117,
-      "region": "Middle East"
-    },
-    {
-      "source": "BBC News",
-      "positive": 44,
-      "neutral": 15,
-      "negative": 57,
-      "count": 116,
-      "region": "Europe"
+      "region": "North America"
     },
     {
       "source": "Australian Broadcasting Corporation",
       "positive": 43,
-      "neutral": 9,
-      "negative": 59,
-      "count": 111,
+      "neutral": 10,
+      "negative": 60,
+      "count": 113,
       "region": "Asia-Pacific"
     },
     {
       "source": "Middle East Eye",
-      "positive": 12,
+      "positive": 13,
       "neutral": 5,
-      "negative": 82,
-      "count": 99,
+      "negative": 80,
+      "count": 98,
       "region": "Middle East"
     },
     {
       "source": "South China Morning Post",
       "positive": 34,
       "neutral": 2,
-      "negative": 49,
-      "count": 85,
+      "negative": 51,
+      "count": 87,
       "region": "Middle East"
     },
     {
       "source": "Al Jazeera English",
       "positive": 12,
       "neutral": 3,
-      "negative": 65,
-      "count": 80,
-      "region": "Middle East"
+      "negative": 67,
+      "count": 82,
+      "region": "North America"
     },
     {
       "source": "CNBC",
-      "positive": 27,
+      "positive": 29,
       "neutral": 7,
       "negative": 40,
-      "count": 74,
+      "count": 76,
       "region": "North America"
     },
     {
@@ -128,6 +128,14 @@
       "region": "Europe"
     },
     {
+      "source": "ESPN",
+      "positive": 41,
+      "neutral": 18,
+      "negative": 8,
+      "count": 67,
+      "region": "Europe"
+    },
+    {
       "source": "BBC Sport",
       "positive": 42,
       "neutral": 5,
@@ -136,20 +144,20 @@
       "region": "Europe"
     },
     {
-      "source": "ESPN",
-      "positive": 40,
-      "neutral": 18,
-      "negative": 7,
-      "count": 65,
+      "source": "Mashable",
+      "positive": 47,
+      "neutral": 11,
+      "negative": 6,
+      "count": 64,
       "region": "Global"
     },
     {
-      "source": "Mashable",
-      "positive": 44,
-      "neutral": 11,
-      "negative": 6,
-      "count": 61,
-      "region": "Global"
+      "source": "Times of Israel",
+      "positive": 19,
+      "neutral": 0,
+      "negative": 37,
+      "count": 56,
+      "region": "Middle East"
     },
     {
       "source": "France 24",
@@ -160,27 +168,19 @@
       "region": "North America"
     },
     {
-      "source": "Times of Israel",
-      "positive": 18,
-      "neutral": 0,
-      "negative": 38,
-      "count": 56,
-      "region": "Middle East"
-    },
-    {
       "source": "MarketWatch",
-      "positive": 20,
+      "positive": 21,
       "neutral": 8,
-      "negative": 26,
+      "negative": 25,
       "count": 54,
-      "region": "North America"
+      "region": "Global"
     },
     {
       "source": "New York Times",
       "positive": 7,
       "neutral": 3,
-      "negative": 42,
-      "count": 52,
+      "negative": 43,
+      "count": 53,
       "region": "Middle East"
     },
     {
@@ -193,27 +193,27 @@
     },
     {
       "source": "Sky Sports",
-      "positive": 19,
+      "positive": 20,
       "neutral": 7,
       "negative": 14,
-      "count": 40,
-      "region": "North America"
-    },
-    {
-      "source": "Irish Times",
-      "positive": 7,
-      "neutral": 2,
-      "negative": 30,
-      "count": 39,
+      "count": 41,
       "region": "North America"
     },
     {
       "source": "Financial Times",
       "positive": 7,
       "neutral": 6,
-      "negative": 26,
-      "count": 39,
-      "region": "Global"
+      "negative": 28,
+      "count": 41,
+      "region": "Middle East"
+    },
+    {
+      "source": "Irish Times",
+      "positive": 7,
+      "neutral": 2,
+      "negative": 29,
+      "count": 38,
+      "region": "North America"
     },
     {
       "source": "Straits Times",
@@ -225,9 +225,9 @@
     },
     {
       "source": "The Verge",
-      "positive": 29,
+      "positive": 28,
       "neutral": 1,
-      "negative": 4,
+      "negative": 5,
       "count": 34,
       "region": "North America"
     },
@@ -249,19 +249,11 @@
     },
     {
       "source": "Engadget",
-      "positive": 21,
+      "positive": 20,
       "neutral": 0,
       "negative": 5,
-      "count": 26,
-      "region": "North America"
-    },
-    {
-      "source": "NBC News",
-      "positive": 6,
-      "neutral": 1,
-      "negative": 18,
       "count": 25,
-      "region": "Middle East"
+      "region": "North America"
     },
     {
       "source": "RT News",
@@ -270,6 +262,14 @@
       "negative": 18,
       "count": 23,
       "region": "Europe"
+    },
+    {
+      "source": "NBC News",
+      "positive": 6,
+      "neutral": 1,
+      "negative": 16,
+      "count": 23,
+      "region": "Middle East"
     },
     {
       "source": "Wired",
@@ -291,9 +291,9 @@
       "source": "Telegraph",
       "positive": 18,
       "neutral": 1,
-      "negative": 0,
-      "count": 19,
-      "region": "Europe"
+      "negative": 1,
+      "count": 20,
+      "region": "North America"
     },
     {
       "source": "Daily News Egypt",
@@ -333,44 +333,44 @@
       "neutral": 1,
       "negative": 1,
       "count": 4,
-      "region": "North America"
+      "region": "South America"
     }
   ],
   "by_region": [
     {
       "region": "North America",
-      "positive": 481,
+      "positive": 485,
       "neutral": 120,
       "negative": 602,
-      "count": 1203
+      "count": 1207
     },
     {
       "region": "Middle East",
-      "positive": 97,
+      "positive": 98,
       "neutral": 23,
-      "negative": 605,
-      "count": 725
-    },
-    {
-      "region": "Asia-Pacific",
-      "positive": 252,
-      "neutral": 114,
-      "negative": 252,
-      "count": 618
+      "negative": 607,
+      "count": 728
     },
     {
       "region": "Europe",
       "positive": 294,
-      "neutral": 98,
-      "negative": 219,
-      "count": 611
+      "neutral": 101,
+      "negative": 222,
+      "count": 617
+    },
+    {
+      "region": "Asia-Pacific",
+      "positive": 252,
+      "neutral": 115,
+      "negative": 247,
+      "count": 614
     },
     {
       "region": "Global",
-      "positive": 135,
-      "neutral": 51,
-      "negative": 80,
-      "count": 266
+      "positive": 138,
+      "neutral": 53,
+      "negative": 81,
+      "count": 272
     },
     {
       "region": "Africa",
@@ -381,61 +381,61 @@
     },
     {
       "region": "South America",
-      "positive": 8,
+      "positive": 9,
       "neutral": 2,
       "negative": 14,
-      "count": 24
+      "count": 25
     }
   ],
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 332,
+      "positive": 334,
       "neutral": 115,
-      "negative": 353,
-      "count": 800
+      "negative": 361,
+      "count": 810
     },
     {
       "topic": "World",
-      "positive": 122,
+      "positive": 121,
       "neutral": 32,
-      "negative": 566,
-      "count": 720
+      "negative": 563,
+      "count": 716
     },
     {
       "topic": "Politics",
-      "positive": 224,
+      "positive": 226,
       "neutral": 51,
-      "negative": 318,
-      "count": 593
+      "negative": 317,
+      "count": 594
     },
     {
       "topic": "Other",
-      "positive": 192,
-      "neutral": 100,
+      "positive": 191,
+      "neutral": 101,
       "negative": 182,
       "count": 474
     },
     {
       "topic": "Sports",
-      "positive": 155,
-      "neutral": 36,
-      "negative": 84,
-      "count": 275
+      "positive": 157,
+      "neutral": 40,
+      "negative": 82,
+      "count": 279
     },
     {
       "topic": "Business",
-      "positive": 119,
+      "positive": 123,
       "neutral": 32,
       "negative": 119,
-      "count": 270
+      "count": 274
     },
     {
       "topic": "Entertainment",
       "positive": 54,
-      "neutral": 17,
+      "neutral": 18,
       "negative": 37,
-      "count": 108
+      "count": 109
     },
     {
       "topic": "Health",
@@ -443,6 +443,13 @@
       "neutral": 12,
       "negative": 42,
       "count": 82
+    },
+    {
+      "topic": "Local",
+      "positive": 17,
+      "neutral": 1,
+      "negative": 33,
+      "count": 51
     },
     {
       "topic": "Science",
@@ -455,18 +462,35 @@
       "topic": "Regional",
       "positive": 15,
       "neutral": 5,
-      "negative": 31,
-      "count": 51
-    },
-    {
-      "topic": "Local",
-      "positive": 16,
-      "neutral": 1,
-      "negative": 33,
+      "negative": 30,
       "count": 50
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Inside Louis Vuitton\u2019s Louvre mountain: Folklore goes high fashion at Paris Fashion Week",
+      "url": "https://www.channelnewsasia.com/obsessions/louis-vuitton-fall-winter-2026-paris-fashion-week-5984956",
+      "source": "Channel News Asia",
+      "region": "Europe",
+      "published": "2026-03-11T05:46:17+08:00",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Tottenham sub goalkeeper Kinsky in 17th minute after Atletico score three",
+      "url": "https://www.channelnewsasia.com/sport/tottenham-sub-goalkeeper-kinsky-in-17th-minute-after-atletico-score-three-5985161",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2026-03-11T05:40:31+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "US stocks hold steadier as Wall Street waits for the next signal on how long war with Iran may last",
+      "url": "https://www.channelnewsasia.com/world/us-stocks-market-oil-iran-us-israel-war-wall-street-5985116",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2026-03-11T05:38:00+08:00",
+      "sentiment": "negative"
+    },
     {
       "title": "Canadian retailer Loblaw investigates data breach",
       "url": "https://www.channelnewsasia.com/business/canadian-retailer-loblaw-investigates-data-breach-5985141",
@@ -502,6 +526,14 @@
     {
       "title": "Applied Materials and SK Hynix partner for next-gen AI memory development",
       "url": "https://www.channelnewsasia.com/business/applied-materials-and-sk-hynix-partner-next-gen-ai-memory-development-5985036",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2026-03-11T04:08:06+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Applied Materials forges partnerships with Micron and SK Hynix for AI memory chips",
+      "url": "https://www.channelnewsasia.com/business/applied-materials-forges-partnerships-micron-and-sk-hynix-ai-memory-chips-5985036",
       "source": "Channel News Asia",
       "region": "Global",
       "published": "2026-03-11T04:08:06+08:00",
@@ -1234,38 +1266,6 @@
       "region": "North America",
       "published": "2026-03-10T22:21:23+05:30",
       "sentiment": "positive"
-    },
-    {
-      "title": "Two held after 7 workers die at project site in\u00a0Gurugram",
-      "url": "https://www.thehindu.com/news/cities/Delhi/two-held-after-7-workers-die-at-project-site-ingurugram/article70727542.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-03-10T22:18:31+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Mass suspensions, mics switched off: Opposition talking points in debate on resolution to remove Speaker",
-      "url": "https://www.thehindu.com/news/national/mass-suspensions-mics-switched-off-opposition-talking-points-in-debate-on-resolution-to-remove-speaker/article70727944.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-03-10T22:16:57+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Mamata\u00a0ends\u00a0SIR stir, says game is not yet over",
-      "url": "https://www.thehindu.com/news/national/west-bengal/mamataendssir-stir-says-game-is-not-yet-over/article70727642.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-03-10T22:16:04+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Cabinet nod for 23% hike in cost of link road from Noida airport to Delhi-Mumbai Expressway",
-      "url": "https://www.thehindu.com/news/national/cabinet-nod-for-23-hike-in-cost-of-link-road-from-noida-airport-to-delhi-mumbai-expressway/article70727613.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-03-10T22:13:17+05:30",
-      "sentiment": "neutral"
     }
   ]
 }
