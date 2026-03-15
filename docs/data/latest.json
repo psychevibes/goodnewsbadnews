@@ -1,99 +1,91 @@
 {
-  "generated_at": "2026-03-15T20:31:49.987664+00:00",
+  "generated_at": "2026-03-15T20:58:34.375868+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 772,
-    "neutral": 247,
-    "negative": 910
+    "positive": 778,
+    "neutral": 240,
+    "negative": 912
   },
   "by_publication": [
     {
       "source": "Independent",
-      "positive": 96,
-      "neutral": 31,
+      "positive": 98,
+      "neutral": 30,
       "negative": 125,
-      "count": 252,
-      "region": "North America"
+      "count": 253,
+      "region": "Europe"
     },
     {
       "source": "The Hindu",
-      "positive": 86,
+      "positive": 84,
       "neutral": 59,
       "negative": 75,
-      "count": 220,
+      "count": 218,
       "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
-      "positive": 51,
-      "neutral": 21,
+      "positive": 50,
+      "neutral": 20,
       "negative": 56,
-      "count": 128,
+      "count": 126,
       "region": "Asia-Pacific"
     },
     {
       "source": "Australian Broadcasting Corporation",
       "positive": 38,
-      "neutral": 13,
+      "neutral": 12,
       "negative": 57,
-      "count": 108,
-      "region": "Europe"
+      "count": 107,
+      "region": "Asia-Pacific"
     },
     {
       "source": "BBC Sport",
-      "positive": 73,
-      "neutral": 8,
+      "positive": 71,
+      "neutral": 7,
       "negative": 21,
-      "count": 102,
+      "count": 99,
       "region": "Europe"
     },
     {
       "source": "Sky Sports",
-      "positive": 46,
-      "neutral": 20,
+      "positive": 48,
+      "neutral": 19,
       "negative": 14,
-      "count": 80,
+      "count": 81,
       "region": "Europe"
     },
     {
       "source": "Middle East Eye",
       "positive": 16,
-      "neutral": 0,
-      "negative": 63,
-      "count": 79,
+      "neutral": 1,
+      "negative": 61,
+      "count": 78,
       "region": "Middle East"
-    },
-    {
-      "source": "Fox News",
-      "positive": 21,
-      "neutral": 8,
-      "negative": 45,
-      "count": 74,
-      "region": "North America"
-    },
-    {
-      "source": "Channel News Asia",
-      "positive": 36,
-      "neutral": 15,
-      "negative": 21,
-      "count": 72,
-      "region": "North America"
     },
     {
       "source": "BBC News",
-      "positive": 36,
+      "positive": 37,
       "neutral": 3,
-      "negative": 33,
-      "count": 72,
+      "negative": 34,
+      "count": 74,
       "region": "Europe"
     },
     {
-      "source": "Al Jazeera English",
-      "positive": 18,
+      "source": "Fox News",
+      "positive": 22,
       "neutral": 7,
-      "negative": 43,
-      "count": 68,
+      "negative": 44,
+      "count": 73,
       "region": "Middle East"
+    },
+    {
+      "source": "Channel News Asia",
+      "positive": 33,
+      "neutral": 15,
+      "negative": 21,
+      "count": 69,
+      "region": "North America"
     },
     {
       "source": "CBS News",
@@ -101,23 +93,31 @@
       "neutral": 10,
       "negative": 31,
       "count": 68,
-      "region": "North America"
-    },
-    {
-      "source": "South China Morning Post",
-      "positive": 21,
-      "neutral": 4,
-      "negative": 41,
-      "count": 66,
-      "region": "North America"
+      "region": "Middle East"
     },
     {
       "source": "The Guardian",
-      "positive": 21,
+      "positive": 23,
       "neutral": 2,
-      "negative": 40,
-      "count": 63,
+      "negative": 41,
+      "count": 66,
+      "region": "Middle East"
+    },
+    {
+      "source": "South China Morning Post",
+      "positive": 20,
+      "neutral": 4,
+      "negative": 41,
+      "count": 65,
       "region": "North America"
+    },
+    {
+      "source": "Al Jazeera English",
+      "positive": 18,
+      "neutral": 4,
+      "negative": 42,
+      "count": 64,
+      "region": "Middle East"
     },
     {
       "source": "Bloomberg",
@@ -129,26 +129,34 @@
     },
     {
       "source": "ESPN",
-      "positive": 33,
-      "neutral": 3,
+      "positive": 35,
+      "neutral": 4,
       "negative": 9,
-      "count": 45,
+      "count": 48,
       "region": "North America"
     },
     {
       "source": "Times of Israel",
-      "positive": 11,
+      "positive": 12,
       "neutral": 1,
-      "negative": 32,
-      "count": 44,
+      "negative": 34,
+      "count": 47,
       "region": "Middle East"
     },
     {
       "source": "France 24",
-      "positive": 10,
+      "positive": 13,
       "neutral": 2,
       "negative": 24,
-      "count": 36,
+      "count": 39,
+      "region": "Europe"
+    },
+    {
+      "source": "Euronews",
+      "positive": 11,
+      "neutral": 4,
+      "negative": 18,
+      "count": 33,
       "region": "Europe"
     },
     {
@@ -157,14 +165,6 @@
       "neutral": 5,
       "negative": 23,
       "count": 33,
-      "region": "Europe"
-    },
-    {
-      "source": "Euronews",
-      "positive": 11,
-      "neutral": 4,
-      "negative": 17,
-      "count": 32,
       "region": "Europe"
     },
     {
@@ -187,9 +187,17 @@
       "source": "Deutsche Welle",
       "positive": 9,
       "neutral": 0,
-      "negative": 11,
-      "count": 20,
+      "negative": 12,
+      "count": 21,
       "region": "North America"
+    },
+    {
+      "source": "CNBC",
+      "positive": 6,
+      "neutral": 1,
+      "negative": 13,
+      "count": 20,
+      "region": "Middle East"
     },
     {
       "source": "Daily News Egypt",
@@ -198,14 +206,6 @@
       "negative": 4,
       "count": 20,
       "region": "Middle East"
-    },
-    {
-      "source": "CNBC",
-      "positive": 5,
-      "neutral": 1,
-      "negative": 13,
-      "count": 19,
-      "region": "North America"
     },
     {
       "source": "RT News",
@@ -227,8 +227,8 @@
       "source": "Telegraph",
       "positive": 9,
       "neutral": 2,
-      "negative": 4,
-      "count": 15,
+      "negative": 5,
+      "count": 16,
       "region": "Europe"
     },
     {
@@ -248,12 +248,12 @@
       "region": "Global"
     },
     {
-      "source": "NPR",
-      "positive": 1,
-      "neutral": 2,
-      "negative": 7,
+      "source": "The Verge",
+      "positive": 7,
+      "neutral": 0,
+      "negative": 3,
       "count": 10,
-      "region": "North America"
+      "region": "Global"
     },
     {
       "source": "MarketWatch",
@@ -264,19 +264,19 @@
       "region": "Middle East"
     },
     {
-      "source": "The Verge",
-      "positive": 6,
-      "neutral": 0,
-      "negative": 3,
+      "source": "NPR",
+      "positive": 1,
+      "neutral": 2,
+      "negative": 6,
       "count": 9,
-      "region": "Global"
+      "region": "North America"
     },
     {
       "source": "ABC News",
-      "positive": 4,
+      "positive": 3,
       "neutral": 2,
       "negative": 3,
-      "count": 9,
+      "count": 8,
       "region": "North America"
     },
     {
@@ -340,44 +340,44 @@
     {
       "region": "Asia-Pacific",
       "positive": 218,
-      "neutral": 102,
-      "negative": 168,
-      "count": 488
+      "neutral": 98,
+      "negative": 169,
+      "count": 485
     },
     {
       "region": "North America",
-      "positive": 203,
-      "neutral": 54,
-      "negative": 225,
+      "positive": 207,
+      "neutral": 52,
+      "negative": 223,
       "count": 482
     },
     {
       "region": "Middle East",
-      "positive": 81,
-      "neutral": 24,
-      "negative": 362,
-      "count": 467
+      "positive": 83,
+      "neutral": 22,
+      "negative": 363,
+      "count": 468
     },
     {
       "region": "Europe",
-      "positive": 209,
+      "positive": 212,
       "neutral": 51,
-      "negative": 125,
-      "count": 385
+      "negative": 127,
+      "count": 390
     },
     {
       "region": "Global",
-      "positive": 52,
-      "neutral": 15,
+      "positive": 51,
+      "neutral": 16,
       "negative": 22,
       "count": 89
     },
     {
       "region": "Africa",
-      "positive": 8,
+      "positive": 6,
       "neutral": 0,
       "negative": 4,
-      "count": 12
+      "count": 10
     },
     {
       "region": "South America",
@@ -390,45 +390,45 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 161,
+      "positive": 162,
       "neutral": 48,
-      "negative": 207,
-      "count": 416
+      "negative": 208,
+      "count": 418
     },
     {
       "topic": "World",
       "positive": 72,
       "neutral": 21,
-      "negative": 319,
-      "count": 412
+      "negative": 321,
+      "count": 414
     },
     {
       "topic": "Politics",
-      "positive": 136,
-      "neutral": 39,
-      "negative": 126,
-      "count": 301
+      "positive": 137,
+      "neutral": 38,
+      "negative": 125,
+      "count": 300
     },
     {
       "topic": "Other",
       "positive": 105,
-      "neutral": 71,
-      "negative": 95,
-      "count": 271
+      "neutral": 68,
+      "negative": 94,
+      "count": 267
     },
     {
       "topic": "Sports",
-      "positive": 168,
-      "neutral": 35,
+      "positive": 170,
+      "neutral": 31,
       "negative": 59,
-      "count": 262
+      "count": 260
     },
     {
       "topic": "Entertainment",
-      "positive": 65,
-      "neutral": 11,
+      "positive": 66,
+      "neutral": 12,
       "negative": 23,
-      "count": 99
+      "count": 101
     },
     {
       "topic": "Business",
@@ -439,17 +439,17 @@
     },
     {
       "topic": "Regional",
-      "positive": 16,
+      "positive": 17,
       "neutral": 9,
       "negative": 12,
-      "count": 37
+      "count": 38
     },
     {
       "topic": "Health",
       "positive": 9,
       "neutral": 0,
-      "negative": 27,
-      "count": 36
+      "negative": 28,
+      "count": 37
     },
     {
       "topic": "Local",
@@ -467,6 +467,14 @@
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Iran warns countries to keep out of war as drone hits base used by Italy",
+      "url": "https://www.channelnewsasia.com/world/iran-warns-countries-keep-out-war-drone-hits-base-used-italy-5995021",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2026-03-16T04:29:00+08:00",
+      "sentiment": "negative"
+    },
     {
       "title": "Mexico breaks Guinness World Record for largest soccer class ahead of World Cup",
       "url": "https://www.channelnewsasia.com/sport/mexico-breaks-guinness-world-record-largest-soccer-class-ahead-world-cup-5995041",
@@ -530,6 +538,14 @@
       "region": "Middle East",
       "published": "2026-03-16T02:13:00+08:00",
       "sentiment": "neutral"
+    },
+    {
+      "title": "By expanding crude sourcing, India ready to handle disruptions",
+      "url": "https://timesofindia.indiatimes.com/india/by-expanding-crude-sourcing-india-ready-to-handle-disruptions/articleshow/129595627.cms",
+      "source": "Times of India",
+      "region": "Asia-Pacific",
+      "published": "2026-03-16T01:57:13+05:30",
+      "sentiment": "negative"
     },
     {
       "title": "Manchester United sink Aston Villa to boost top-four bid",
@@ -1044,6 +1060,14 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Razzie Awards 2026: Anti-Oscars name \u2018War Of The Worlds\u2019 as Worst Picture",
+      "url": "http://www.euronews.com/culture/2026/03/15/razzie-awards-2026-anti-oscars-name-war-of-the-worlds-as-worst-picture",
+      "source": "Euronews",
+      "region": "Europe",
+      "published": "2026-03-15T21:36:10+01:00",
+      "sentiment": "negative"
+    },
+    {
       "title": "Kerala Assembly polls 2026 | protest builds against Ramya Haridas\u2019 reported candidature in Chirayinkeezhu constituency",
       "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-protest-builds-against-ramya-haridas-reported-candidature-in-chirayinkeezhu-constituency/article70747189.ece",
       "source": "The Hindu",
@@ -1242,30 +1266,6 @@
       "region": "North America",
       "published": "2026-03-15T20:57:37+05:30",
       "sentiment": "neutral"
-    },
-    {
-      "title": "LDF steals a march on UDF by naming candidates within an hour of Kerala poll date announcement",
-      "url": "https://www.thehindu.com/elections/kerala-assembly/ldf-steals-a-march-on-udf-by-naming-candidates-within-an-hour-of-kerala-poll-date-announcement/article70746754.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-03-15T20:57:10+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "As Rahul Gandhi eyes Dalit consolidation through Kanshi Ram in U.P., BSP gets unsettled, political slugfest intensified",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/as-rahul-gandhi-eyes-dalit-consolidation-through-kanshi-ram-in-up-bsp-gets-unsettled-political-slugfest-intensified/article70746998.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-03-15T20:56:45+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Alpine skiing-Shiffrin extends World Cup overall lead with slalom win",
-      "url": "https://www.channelnewsasia.com/sport/alpine-skiing-shiffrin-extends-world-cup-overall-lead-slalom-win-5994746",
-      "source": "Channel News Asia",
-      "region": "Global",
-      "published": "2026-03-15T20:56:39+08:00",
-      "sentiment": "positive"
     }
   ]
 }
