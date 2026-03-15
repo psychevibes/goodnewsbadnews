@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-15T17:29:03.034886+00:00",
+  "generated_at": "2026-03-15T17:56:25.845948+00:00",
   "window_hours": 24,
   "totals": {
-    "positive": 749,
-    "neutral": 241,
+    "positive": 757,
+    "neutral": 240,
     "negative": 892
   },
   "by_publication": [
@@ -13,22 +13,22 @@
       "neutral": 28,
       "negative": 121,
       "count": 251,
-      "region": "Europe"
+      "region": "North America"
     },
     {
       "source": "The Hindu",
-      "positive": 89,
-      "neutral": 60,
-      "negative": 80,
-      "count": 229,
+      "positive": 87,
+      "neutral": 59,
+      "negative": 78,
+      "count": 224,
       "region": "Asia-Pacific"
     },
     {
       "source": "Times of India",
-      "positive": 50,
+      "positive": 49,
       "neutral": 22,
-      "negative": 58,
-      "count": 130,
+      "negative": 57,
+      "count": 128,
       "region": "North America"
     },
     {
@@ -41,19 +41,35 @@
     },
     {
       "source": "BBC Sport",
-      "positive": 63,
-      "neutral": 7,
-      "negative": 19,
-      "count": 89,
+      "positive": 68,
+      "neutral": 6,
+      "negative": 17,
+      "count": 91,
       "region": "Europe"
     },
     {
       "source": "Sky Sports",
       "positive": 47,
       "neutral": 21,
-      "negative": 12,
+      "negative": 13,
+      "count": 81,
+      "region": "Asia-Pacific"
+    },
+    {
+      "source": "Fox News",
+      "positive": 26,
+      "neutral": 8,
+      "negative": 46,
       "count": 80,
-      "region": "Europe"
+      "region": "North America"
+    },
+    {
+      "source": "Channel News Asia",
+      "positive": 43,
+      "neutral": 13,
+      "negative": 23,
+      "count": 79,
+      "region": "Global"
     },
     {
       "source": "Middle East Eye",
@@ -61,30 +77,14 @@
       "neutral": 0,
       "negative": 63,
       "count": 79,
-      "region": "Middle East"
-    },
-    {
-      "source": "Channel News Asia",
-      "positive": 41,
-      "neutral": 13,
-      "negative": 23,
-      "count": 77,
-      "region": "Global"
-    },
-    {
-      "source": "Fox News",
-      "positive": 25,
-      "neutral": 7,
-      "negative": 45,
-      "count": 77,
-      "region": "Middle East"
+      "region": "Europe"
     },
     {
       "source": "Al Jazeera English",
       "positive": 14,
       "neutral": 10,
-      "negative": 48,
-      "count": 72,
+      "negative": 47,
+      "count": 71,
       "region": "Middle East"
     },
     {
@@ -93,31 +93,39 @@
       "neutral": 2,
       "negative": 41,
       "count": 68,
-      "region": "Europe"
+      "region": "Middle East"
     },
     {
       "source": "South China Morning Post",
-      "positive": 20,
+      "positive": 21,
       "neutral": 4,
-      "negative": 39,
+      "negative": 38,
       "count": 63,
-      "region": "Middle East"
+      "region": "Asia-Pacific"
     },
     {
       "source": "BBC News",
       "positive": 33,
-      "neutral": 5,
-      "negative": 25,
+      "neutral": 4,
+      "negative": 26,
       "count": 63,
       "region": "Europe"
     },
     {
       "source": "CBS News",
-      "positive": 25,
+      "positive": 26,
       "neutral": 9,
-      "negative": 26,
-      "count": 60,
+      "negative": 28,
+      "count": 63,
       "region": "North America"
+    },
+    {
+      "source": "Times of Israel",
+      "positive": 13,
+      "neutral": 2,
+      "negative": 31,
+      "count": 46,
+      "region": "Middle East"
     },
     {
       "source": "Bloomberg",
@@ -128,20 +136,12 @@
       "region": "Middle East"
     },
     {
-      "source": "Times of Israel",
-      "positive": 10,
-      "neutral": 1,
-      "negative": 31,
-      "count": 42,
-      "region": "North America"
-    },
-    {
       "source": "ESPN",
-      "positive": 29,
+      "positive": 30,
       "neutral": 4,
       "negative": 8,
-      "count": 41,
-      "region": "Global"
+      "count": 42,
+      "region": "Europe"
     },
     {
       "source": "New York Times",
@@ -192,20 +192,20 @@
       "region": "North America"
     },
     {
+      "source": "CNBC",
+      "positive": 5,
+      "neutral": 1,
+      "negative": 13,
+      "count": 19,
+      "region": "North America"
+    },
+    {
       "source": "Deutsche Welle",
       "positive": 7,
       "neutral": 0,
       "negative": 11,
       "count": 18,
       "region": "North America"
-    },
-    {
-      "source": "CNBC",
-      "positive": 5,
-      "neutral": 1,
-      "negative": 12,
-      "count": 18,
-      "region": "Middle East"
     },
     {
       "source": "RT News",
@@ -217,10 +217,10 @@
     },
     {
       "source": "Telegraph",
-      "positive": 7,
+      "positive": 8,
       "neutral": 2,
       "negative": 6,
-      "count": 15,
+      "count": 16,
       "region": "Europe"
     },
     {
@@ -240,12 +240,12 @@
       "region": "Global"
     },
     {
-      "source": "Daily News Egypt",
-      "positive": 6,
-      "neutral": 0,
-      "negative": 4,
+      "source": "NPR",
+      "positive": 1,
+      "neutral": 2,
+      "negative": 7,
       "count": 10,
-      "region": "Africa"
+      "region": "North America"
     },
     {
       "source": "The Verge",
@@ -257,18 +257,18 @@
     },
     {
       "source": "ABC News",
-      "positive": 5,
+      "positive": 4,
       "neutral": 0,
       "negative": 3,
-      "count": 8,
+      "count": 7,
       "region": "North America"
     },
     {
-      "source": "NPR",
-      "positive": 1,
-      "neutral": 2,
-      "negative": 5,
-      "count": 8,
+      "source": "Daily News Egypt",
+      "positive": 3,
+      "neutral": 0,
+      "negative": 3,
+      "count": 6,
       "region": "Middle East"
     },
     {
@@ -339,45 +339,45 @@
   "by_region": [
     {
       "region": "North America",
-      "positive": 209,
-      "neutral": 54,
+      "positive": 208,
+      "neutral": 57,
       "negative": 221,
-      "count": 484
+      "count": 486
     },
     {
       "region": "Asia-Pacific",
-      "positive": 213,
-      "neutral": 100,
-      "negative": 167,
-      "count": 480
+      "positive": 214,
+      "neutral": 99,
+      "negative": 166,
+      "count": 479
     },
     {
       "region": "Middle East",
-      "positive": 66,
+      "positive": 68,
       "neutral": 23,
-      "negative": 355,
-      "count": 444
+      "negative": 354,
+      "count": 445
     },
     {
       "region": "Europe",
-      "positive": 204,
-      "neutral": 47,
-      "negative": 118,
-      "count": 369
+      "positive": 209,
+      "neutral": 45,
+      "negative": 120,
+      "count": 374
     },
     {
       "region": "Global",
-      "positive": 49,
-      "neutral": 16,
+      "positive": 51,
+      "neutral": 15,
       "negative": 24,
-      "count": 89
+      "count": 90
     },
     {
       "region": "Africa",
-      "positive": 6,
+      "positive": 5,
       "neutral": 0,
       "negative": 4,
-      "count": 10
+      "count": 9
     },
     {
       "region": "South America",
@@ -390,52 +390,52 @@
   "by_topic": [
     {
       "topic": "Tech",
-      "positive": 168,
+      "positive": 164,
       "neutral": 49,
       "negative": 207,
-      "count": 424
+      "count": 420
     },
     {
       "topic": "World",
-      "positive": 71,
-      "neutral": 18,
-      "negative": 303,
-      "count": 392
+      "positive": 72,
+      "neutral": 20,
+      "negative": 302,
+      "count": 394
     },
     {
       "topic": "Politics",
       "positive": 133,
       "neutral": 40,
-      "negative": 129,
-      "count": 302
+      "negative": 132,
+      "count": 305
     },
     {
       "topic": "Other",
-      "positive": 98,
-      "neutral": 70,
-      "negative": 97,
-      "count": 265
+      "positive": 102,
+      "neutral": 68,
+      "negative": 96,
+      "count": 266
     },
     {
       "topic": "Sports",
-      "positive": 156,
-      "neutral": 32,
-      "negative": 52,
-      "count": 240
+      "positive": 163,
+      "neutral": 33,
+      "negative": 51,
+      "count": 247
     },
     {
       "topic": "Entertainment",
-      "positive": 60,
+      "positive": 61,
       "neutral": 9,
-      "negative": 27,
-      "count": 96
+      "negative": 25,
+      "count": 95
     },
     {
       "topic": "Business",
-      "positive": 18,
-      "neutral": 9,
-      "negative": 19,
-      "count": 46
+      "positive": 17,
+      "neutral": 7,
+      "negative": 21,
+      "count": 45
     },
     {
       "topic": "Local",
@@ -467,6 +467,30 @@
     }
   ],
   "sample_headlines": [
+    {
+      "title": "Manchester United sink Aston Villa to boost top-four bid",
+      "url": "https://www.channelnewsasia.com/sport/manchester-united-sink-aston-villa-boost-top-four-bid-5994931",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2026-03-16T01:42:00+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Raphinha hat-trick fires Barcelona past Sevilla to stay top",
+      "url": "https://www.channelnewsasia.com/sport/raphinha-hat-trick-fires-barcelona-past-sevilla-stay-top-5994936",
+      "source": "Channel News Asia",
+      "region": "Global",
+      "published": "2026-03-16T01:37:00+08:00",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Blackened, wrecked Russian tanker nears Malta",
+      "url": "https://www.channelnewsasia.com/world/blackened-wrecked-russian-tanker-nears-malta-5994911",
+      "source": "Channel News Asia",
+      "region": "North America",
+      "published": "2026-03-16T01:28:00+08:00",
+      "sentiment": "neutral"
+    },
     {
       "title": "Electric James steers Chelsea to Women's League Cup final win over Manchester United",
       "url": "https://www.channelnewsasia.com/sport/electric-james-steers-chelsea-womens-league-cup-final-win-over-manchester-united-5994891",
@@ -505,6 +529,22 @@
       "source": "Channel News Asia",
       "region": "North America",
       "published": "2026-03-15T23:20:49+08:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "LPG bookings fall to 77 lakh; Indian crude tanker sails out of UAE\u2019s Fujairah safely",
+      "url": "https://www.thehindu.com/news/national/lpg-bookings-fall-to-77-lakh-indian-crude-tanker-sails-out-of-uaes-fujairah-safely/article70746752.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-03-15T23:06:28+05:30",
+      "sentiment": "negative"
+    },
+    {
+      "title": "24.7 lakh write foundational literacy and numeracy assessment exam across A.P.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/247-lakh-write-foundational-literacy-and-numeracy-assessment-exam-across-ap/article70747385.ece",
+      "source": "The Hindu",
+      "region": "Asia-Pacific",
+      "published": "2026-03-15T22:56:27+05:30",
       "sentiment": "neutral"
     },
     {
@@ -1226,46 +1266,6 @@
       "region": "North America",
       "published": "2026-03-15T19:55:21+05:30",
       "sentiment": "negative"
-    },
-    {
-      "title": "Many parts of Shivamogga district receive rains",
-      "url": "https://www.thehindu.com/news/national/karnataka/many-parts-of-shivamogga-district-receive-rains/article70746811.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-03-15T19:55:20+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Govt. unable to tell its allies their actions are impacting India: Ex-EAM Salman Khurshid on ongoing West Asia conflict",
-      "url": "https://www.thehindu.com/news/national/karnataka/govt-unable-to-tell-its-allies-their-actions-are-impacting-india-ex-eam-salman-khurshid-on-ongoing-west-asia-conflict/article70746484.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-03-15T19:55:17+05:30",
-      "sentiment": "negative"
-    },
-    {
-      "title": "Telangana schools maintain midday meals amid LPG concerns; action plan soon",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-schools-maintain-midday-meals-amid-lpg-concerns-action-plan-soon/article70746471.ece",
-      "source": "The Hindu",
-      "region": "Asia-Pacific",
-      "published": "2026-03-15T19:55:15+05:30",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Narcotics case: Naidu asks MP Putta Mahesh to stay away from party activities",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/narcotics-case-naidu-asks-mp-putta-mahesh-to-stay-away-from-party-activities/article70746749.ece",
-      "source": "The Hindu",
-      "region": "North America",
-      "published": "2026-03-15T19:55:10+05:30",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Maria Sharapova, Luka Doncic photo goes viral after Lakers OT win vs Nuggets",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/fans-react-as-tennis-icon-maria-sharapovas-photo-with-nba-star-luka-doncic-goes-viral-after-lakers-overtime-win-vs-nuggets-legends/articleshow/129590110.cms",
-      "source": "Times of India",
-      "region": "Europe",
-      "published": "2026-03-15T19:53:09+05:30",
-      "sentiment": "positive"
     }
   ]
 }
